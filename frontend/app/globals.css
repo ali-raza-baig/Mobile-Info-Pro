@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+:root {
+  --th-1: #2563EB;
+  --th-2: #1D4ED8;
+  --th-3: #DBEAFE;
+  --th-4: #10B981;
+  --th-5: #059669;
+  --th-6: #F59E0B;
+  --th-7: #D97706;
+  --th-8: #F8FAFC;
+  --th-9: #FFFFFF;
+  --th-10: #E2E8F0;
+  --th-11: #CBD5E1;
+
+}
+
+@theme inline {
+  --color-royal-blue: var(--th-1);
+  --color-dark-blue: var(--th-2);
+  --color-sky-blue: var(--th-3);
+  --color-emerald: var(--th-4);
+  --color-dark-emerald: var(--th-5);
+  --color-orange: var(--th-6);
+  --color-dark-orange: var(--th-7);
+  --color-bg: var(--th-8);
+  --color-white-1: var(--th-9);
+  --color-border: var(--th-10);
+  --color-divider: var(--th-11);
+  --font-poppins: var(--font-poppins);
+  --font-inter: var(--font-inter);
+}
+
+body {
+  background: var(--th-8);
+  font-family: var(--font-poppins), var(--font-inter), sans-serif;
+}
+
+.container-1 {
+  @apply max-w-7xl mx-auto
+}
+
+/* Heading */
+h1,
+h2,
+h3 {
+  font-family: var(--font-poppins), sans-serif;
+  font-weight: 700;
+}
+
+/* Body + Specs Table */
+body,
+td,
+p {
+  font-family: var(--font-inter), sans-serif;
+  font-weight: 400;
+  /* font-size: 22px; */
+}
+
+/* Buttons */
+button {
+  font-family: var(--font-inter), sans-serif;
+  font-weight: 600;
+}

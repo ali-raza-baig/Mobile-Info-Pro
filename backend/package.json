@@ -1,0 +1,17 @@
+{
+  "name": "mobileinfopro",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "ali-raza",
+  "type": "modulejs",
+  "main": "server.js",
+  "dev": "nodemoon server.js",
+  "start": "node app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
