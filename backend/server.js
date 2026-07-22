@@ -1,5 +1,10 @@
 import http from 'http'
-const server = http.createServer()
+import app from './app.js'
+import dotenv from 'dotenv'
+
+dotenv.config()
+
+const server = http.createServer(app)
 
 server.listen(process.env.PORT || 8080, () => {
     console.log(`Server Running on `, process.env.PORT)

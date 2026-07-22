@@ -701,4 +701,22 @@ const brands = [
     }
 ]
 
-export default brands;
+for (let i = 0; i < brands.length; i++) {
+    const { brandName, knownFor, globalStanding } = brands[i];
+
+    try {
+        const res = await fetch('http://localhost:8080/api/brand/create', {
+            method: 'POST',
+            headers: {
+                "Content-type": "application/json",
+            },
+            body: JSON.stringify({ name: brandName, knownFor, globalStanding }),
+        })
+
+        console.log(await res.json())
+
+    } catch (error) {
+        console.log(error)
+    }
+
+}

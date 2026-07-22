@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import { FaArrowUp } from "react-icons/fa";
+import { ProviderContext } from "@/context/Context";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -30,10 +31,12 @@ export default function RootLayout({
       className={`${poppins.className} ${inter.className} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Navbar />
-        {children}
-        <Footer />
-      
+        <ProviderContext>
+          <Navbar />
+          {children}
+          <Footer />
+        </ProviderContext>
+
       </body>
     </html>
   );

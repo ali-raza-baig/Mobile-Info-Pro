@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import FaqsCard from '../global/FaqsCard'
 
 const FaqSection = ({ faqs }: { faqs: { question: string, answer?: string }[] }) => {
-    const [activeIndex, setActiveIndex] = useState<null | number>(0)
+    const [activeIndex, setActiveIndex] = useState<null | number>(null)
 
     const toggleIndex = (index: number) => {
         setActiveIndex(activeIndex === index ? null : index)

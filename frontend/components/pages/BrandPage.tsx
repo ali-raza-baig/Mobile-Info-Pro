@@ -7,16 +7,16 @@ import BlogSection from '../section/HomePage/BlogSection'
 import BrandFaqSection from '../section/BrandPage/BrandFaqSection'
 import CollectionSection from '../section/BrandPage/CollectionSection'
 
-const BrandPage = ({ params }: any) => {
+const BrandPage = ({ details }: any) => {
     return (
         <div>
-            <BrandHero />
-            <BrandAboutSection />
+            <BrandHero brandHero={details.hero} heroImage={details.heroImage} />
+            <BrandAboutSection brandAbout={details.about}/>
             <ExploreSeriesSection />
             <ExploreLatest />
             <CollectionSection />
             <BlogSection />
-            <BrandFaqSection />
+            <BrandFaqSection brandFaq={details.faqs} />
         </div>
     )
 }

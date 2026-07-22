@@ -2,29 +2,26 @@ import React from 'react'
 import { FaCheck } from 'react-icons/fa'
 import { TiBackspace } from 'react-icons/ti'
 
-const BrandHero = () => {
+const BrandHero = ({ brandHero, heroImage }: { brandHero: any, heroImage: string }) => {
     return (
         <section className='relative overflow-hidden bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100'>
-            <div className="flex flex-col-reverse items-center gap-6 px-1 py-6 sm:px-2 md:flex-row md:py-1 md:pb-10 max-w-6xl mx-auto">
+            <div className="flex flex-col-reverse items-center gap-6 px-1 py-6 sm:px-2 md:flex-row md:py-4 md:pb-10 max-w-6xl mx-auto">
 
                 {/* Left Content */}
-                <div className="flex-1">
+                <div className="flex-1  ">
                     <h1 className="text-4xl font-black leading-[1.1] text-slate-900 sm:text-5xl md:text-6xl lg:text-7xl">
-                        Samsung
-                        <span className="mt-2 block bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                            Smartphones
+                        {brandHero.title}
+                        <span className="mt-2 block bg-linear-to-r from-sky-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent">
+                            {brandHero.subtitle}
                         </span>
                     </h1>
 
-                    <p className=" mt-6 max-w-2xl text-slate-600 text-base leading-relaxed md:text-lg">
-                        Discover every Samsung smartphone, from flagship Galaxy S devices
-                        to budget-friendly Galaxy A models. Compare specifications,
-                        explore AI-powered reviews, track prices, and find the perfect
-                        Samsung phone for your needs.
+                    <p className=" mt-6 max-w-2xl text-slate-600 text-base leading-relaxed md:text-lg ">
+                        {brandHero.description}
                     </p>
 
                     {/* Input & buttons */}
-                    <div className='my-4'>
+                    <div className='my-4 '>
                         <input type="text"
                             placeholder='Search Galaxy Phones Futures'
                             className='shadow-lg shadow-gray-300 rounded-3xl bg-white  border-gray-900 w-full md:w-[80%] h-12 py-2 px-4'
@@ -45,7 +42,7 @@ const BrandHero = () => {
 
                         {/* Phone */}
                         <img
-                            src="/images/samsung-test-no.png"
+                            src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${heroImage}`}
                             alt="Samsung Smartphone"
                             className="relative z-10 w-72 md:w-80 lg:w-96 object-contain transition-transform duration-500 hover:-rotate-6 -rotate-12"
                         />
@@ -66,7 +63,7 @@ const BrandHero = () => {
                                         Active Models
                                     </p>
                                     <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                                        45+
+                                        {brandHero.stats.activeModels}+
                                     </h3>
                                 </div>
                             </div>
@@ -83,7 +80,7 @@ const BrandHero = () => {
                                         Average Rating
                                     </p>
                                     <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                                        4.8/5
+                                        {brandHero.stats.averageRating}/5
                                     </h3>
                                 </div>
                             </div>
@@ -109,16 +106,16 @@ const BrandHero = () => {
                 </div>
 
                 {/* Right Image */}
-                <div className="relative hidden md:flex flex-1 items-center justify-center">
+                <div className="relative hidden md:flex  items-center justify-center">
 
                     {/* Glow */}
                     <div className="absolute h-64 w-64 rounded-full bg-blue-600/30 blur-3xl"></div>
 
                     {/* Phone */}
                     <img
-                        src="/images/samsung-test-no.png"
+                        src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${heroImage}`}
                         alt="Samsung Smartphone"
-                        className="relative z-10 w-72 md:w-80 lg:w-96 object-contain transition-transform duration-500 hover:-rotate-6 -rotate-12"
+                        className="relative z-10 w-72 md:w-100 lg:w-126 object-contain transition-transform duration-500 hover:-rotate-6 -rotate-12"
                     />
                 </div>
 
