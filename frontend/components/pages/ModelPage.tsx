@@ -5,8 +5,9 @@ import { samsungGalaxyS24, phoneSpecifications, demoImages } from '@/public/cons
 import SpecificationSection from '../section/SpecificationSection';
 import TrendingPhoneCard from '../global/cards/TrendingPhoneCard';
 import FaqSection from '../shared/FaqSection';
-import { samsungFaqs } from '../section/BrandPage/BrandFaqSection';
 
+
+const samsungFaqs: any[] = []
 const menu = [
     { name: 'Info', value: 'info' },
     { name: 'Price', value: 'price' },
