@@ -140,7 +140,7 @@ DESCRIPTION REQUIREMENTS
 Write exactly ONE paragraph.
 
 Length:
-70–100 words.
+50–70 words.
 
 The paragraph should explain:
 
@@ -270,7 +270,7 @@ DESCRIPTION
 Write ONE paragraph.
 
 Length:
-120–160 words.
+70–110 words.
 
 Include naturally:
 

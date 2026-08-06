@@ -6,16 +6,19 @@ import cors from 'cors';
 import morgan from 'morgan';
 import dbconnect from './config/mongodbConnection.js';
 import initializeRedisClient from './config/redisConnection.js';
-import brandRoutes from './routes/brand.routes.js'
-import { brandsContentGenerate } from './ollama/brand.js';
+import brandRoutes from './routes/brand.routes.js';
+import seriesRoutes from './routes/series.routes.js';
+import modelRoutes from './routes/model.routes.js';
+import { seriesContentGenerate, seriesImageGenerate } from './ollama/series.js';
+import { findModelBySeries, modelsContentGenerate, modelSpecWriter } from './ollama/model.js';
 
-const app = express()
+const app = express();
 
 // Connections
 await dbconnect()
 // await initializeRedisClient()
-// brandsContentGenerate()
-
+// modelSpecWriter()
+// modelsContentGenerate()
 //Middelware
 app.use(express.json());
 app.use(express.urlencoded());
@@ -27,6 +30,8 @@ app.use(cors({
 // Api Endpoint
 app.use('/images', express.static(path.join(process.cwd(), '/public/images')))
 app.use('/api/brand', brandRoutes)
+app.use('/api/series', seriesRoutes)
+app.use('/api/model', modelRoutes)
 
 
 export default app;

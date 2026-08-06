@@ -1,9 +1,13 @@
+'use client';
 import React from 'react'
 import { FaCamera } from 'react-icons/fa'
 import { phoneCategories } from '@/public/constant/constant'
 import TrendingPhoneCard from '@/components/global/cards/TrendingPhoneCard'
+import { useModel } from '@/context/ModelContext';
 
 const TopRatedSection = () => {
+    const { models } = useModel()
+
     return (
         <>
             {/* Top Rated Section */}
@@ -23,20 +27,12 @@ const TopRatedSection = () => {
 
 
                 <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
+                    {models?.popular?.map((p: any, i: any) => (
+                        <div key={i}>
+                            <TrendingPhoneCard image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${p.images[0].img}`} name={p.name} price={`$ ${p?.content?.details.estimatedPrice.usa.min ?? 0}`} spec='' link={`/model/${p.slug}`} />
+                        </div>
 
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-
+                    ))}
 
                 </div>
 

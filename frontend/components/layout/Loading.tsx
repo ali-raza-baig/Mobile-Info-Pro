@@ -1,12 +1,12 @@
 export default function Loading({ message }: { message?: string }) {
     return (
-        <div className="min-h-screen bg-bg flex items-center justify-center">
+        <div className=" bg-bg flex items-center justify-center mb-4">
             <div className="flex flex-col items-center">
 
                 {/* Phone */}
 
                 {/* Logo */}
-                <h2 className="mt-8 text-2xl font-bold text-dark-blue">
+                <h2 className="mt-4 text-2xl font-bold text-dark-blue">
                     MobileInfo<span className="text-emerald">Pro</span>
                 </h2>
 

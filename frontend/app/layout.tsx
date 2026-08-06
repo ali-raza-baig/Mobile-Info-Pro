@@ -5,6 +5,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import { FaArrowUp } from "react-icons/fa";
 import { ProviderContext } from "@/context/Context";
+import { ModelProvider } from "@/context/ModelContext";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -32,9 +33,11 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <ProviderContext>
-          <Navbar />
-          {children}
-          <Footer />
+          <ModelProvider>
+            <Navbar />
+            {children}
+            <Footer />
+          </ModelProvider>
         </ProviderContext>
 
       </body>

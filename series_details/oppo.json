@@ -1,0 +1,601 @@
+{
+    "smartphone_series_table": [
+        {
+            "series_name": "Find (Original)",
+            "alternative_names": "Find X903, X905 (Find 3), Finder",
+            "sub_brand": null,
+            "first_release_year": 2011,
+            "latest_release_year": 2014,
+            "current_status": "Discontinued",
+            "entry_launch_price_usd": "Unknown",
+            "highest_launch_price_usd": "Unknown",
+            "market_position": [
+                "Flagship",
+                "Premium"
+            ],
+            "target_audience": [
+                "Power users",
+                "Early adopters"
+            ],
+            "typical_characteristics": [
+                "Cutting-edge design (e.g., world's thinnest phone)",
+                "High-end specifications",
+                "Focus on design and exploration"
+            ],
+            "popular_models": [
+                "X903 (Find Me)",
+                "X905 (Find 3)",
+                "Finder (X907)"
+            ],
+            "primary_markets": [
+                "China"
+            ],
+            "important_historical_notes": "OPPO's first smartphone series [citation:1]. Launched with the OPPO X903, the first Chinese Android slider phone. The Finder was the world's slimmest smartphone at 6.65mm at its launch.",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "Ulike",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2009,
+            "latest_release_year": 2013,
+            "current_status": "Discontinued",
+            "entry_launch_price_usd": "Unknown",
+            "highest_launch_price_usd": "Unknown",
+            "market_position": [
+                "Mid Range",
+                "Camera-focused"
+            ],
+            "target_audience": [
+                "Style-conscious users",
+                "Selfie enthusiasts"
+            ],
+            "typical_characteristics": [
+                "High-resolution front camera",
+                "Selfie-centric features",
+                "Stylish design"
+            ],
+            "popular_models": [
+                "Ulike 2 (U705T)"
+            ],
+            "primary_markets": [
+                "China"
+            ],
+            "important_historical_notes": "OPPO's 'Selfie Expert' series before the term was coined. The Ulike 2 was a popular selfie phone.",
+            "confidence_level": "Medium"
+        },
+        {
+            "series_name": "R",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2013,
+            "latest_release_year": 2016,
+            "current_status": "Discontinued",
+            "entry_launch_price_usd": "Unknown",
+            "highest_launch_price_usd": "Unknown",
+            "market_position": [
+                "Mid Range",
+                "Premium",
+                "Camera-focused"
+            ],
+            "target_audience": [
+                "Fashion-forward users",
+                "Young adults"
+            ],
+            "typical_characteristics": [
+                "Premium design (metal unibody)",
+                "Slim profile",
+                "VOOC flash charge",
+                "Focus on camera and selfie quality"
+            ],
+            "popular_models": [
+                "R1",
+                "R3",
+                "R5",
+                "R7",
+                "R9"
+            ],
+            "primary_markets": [
+                "China",
+                "Global"
+            ],
+            "important_historical_notes": "The R series was OPPO's mainstay before the Reno series, known for its 'charging 5 minutes, talking for 2 hours' VOOC flash charge feature. It was discontinued and replaced by the Reno series in 2019.",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "Find X",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2018,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $749",
+            "highest_launch_price_usd": "Estimated: $1,700+",
+            "market_position": [
+                "Flagship",
+                "Ultra Premium",
+                "Camera-focused"
+            ],
+            "target_audience": [
+                "Tech enthusiasts",
+                "Power users",
+                "Mobile photographers",
+                "Business professionals"
+            ],
+            "typical_characteristics": [
+                "Cutting-edge design (pop-up cameras)",
+                "Top-tier processors",
+                "Industry-leading cameras",
+                "Fast charging",
+                "High-end build quality",
+                "Hasselblad partnership"
+            ],
+            "popular_models": [
+                "Find X",
+                "Find X2 Pro",
+                "Find X3 Pro",
+                "Find X5 Pro",
+                "Find X7 Ultra",
+                "Find X8 Pro",
+                "Find X9 Pro"
+            ],
+            "primary_markets": [
+                "China",
+                "Global"
+            ],
+            "important_historical_notes": "Revived the flagship Find series with a focus on innovation. The original Find X featured a motorized sliding camera. The series now focuses on imaging and has a partnership with Hasselblad [citation:3][citation:15].",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "Reno",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2019,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $399",
+            "highest_launch_price_usd": "Estimated: $1,000+",
+            "market_position": [
+                "Mid Range",
+                "Upper Mid Range",
+                "Premium",
+                "Camera-focused"
+            ],
+            "target_audience": [
+                "Young adults",
+                "Content creators",
+                "Style-conscious users",
+                "Mobile photographers"
+            ],
+            "typical_characteristics": [
+                "Design-led",
+                "Innovative camera hardware (e.g., shark-fin pop-up)",
+                "Vibrant AMOLED displays",
+                "Fast charging",
+                "Focus on portrait photography"
+            ],
+            "popular_models": [
+                "Reno (1st Gen)",
+                "Reno 10x Zoom",
+                "Reno 4 Pro",
+                "Reno 7 Pro",
+                "Reno 10 Pro+",
+                "Reno 15 Pro Mini"
+            ],
+            "primary_markets": [
+                "China",
+                "Global"
+            ],
+            "important_historical_notes": "Replaced the R series. The first Reno featured a 'shark-fin' elevating camera [citation:4]. Known for its design and camera innovations, including the recent introduction of a 'Pro Mini' variant in India [citation:2].",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "Find N",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2021,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $1,200",
+            "highest_launch_price_usd": "Estimated: $1,700",
+            "market_position": [
+                "Foldable",
+                "Flagship",
+                "Ultra Premium"
+            ],
+            "target_audience": [
+                "Tech enthusiasts",
+                "Power users",
+                "Business professionals",
+                "Content consumers"
+            ],
+            "typical_characteristics": [
+                "Book-style foldable display",
+                "Hinge technology",
+                "Premium materials",
+                "Top-tier hardware"
+            ],
+            "popular_models": [
+                "Find N",
+                "Find N2",
+                "Find N2 Flip",
+                "Find N3",
+                "Find N3 Flip"
+            ],
+            "primary_markets": [
+                "China",
+                "Global"
+            ],
+            "important_historical_notes": "OPPO's first book-style foldable phone, released in December 2021. It features a unique 'golden ratio' for the inner screen to minimize the crease.",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "Find N Flip",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2022,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $900",
+            "highest_launch_price_usd": "Estimated: $1,000",
+            "market_position": [
+                "Flip",
+                "Foldable",
+                "Premium"
+            ],
+            "target_audience": [
+                "Style-conscious users",
+                "Fashion-forward consumers",
+                "Content creators"
+            ],
+            "typical_characteristics": [
+                "Clamshell foldable design",
+                "Large cover screen ('Any Window')",
+                "Premium materials"
+            ],
+            "popular_models": [
+                "Find N2 Flip",
+                "Find N3 Flip"
+            ],
+            "primary_markets": [
+                "China",
+                "Global"
+            ],
+            "important_historical_notes": "OPPO's competitor to the Galaxy Z Flip series. The Find N2 Flip was notable for its large 3.26-inch cover display.",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "F",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2014,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $250",
+            "highest_launch_price_usd": "Estimated: $500",
+            "market_position": [
+                "Mid Range",
+                "Upper Mid Range",
+                "Camera-focused"
+            ],
+            "target_audience": [
+                "Selfie enthusiasts",
+                "Young adults",
+                "Budget-conscious users",
+                "Gig economy workers (latest models)"
+            ],
+            "typical_characteristics": [
+                "Selfie-centric features",
+                "High-resolution front cameras",
+                "AI camera features",
+                "High-capacity batteries",
+                "Enhanced durability"
+            ],
+            "popular_models": [
+                "F1",
+                "F3",
+                "F7",
+                "F9",
+                "F11",
+                "F19 Pro",
+                "F21 Pro",
+                "F31 Pro+"
+            ],
+            "primary_markets": [
+                "India",
+                "Southeast Asia"
+            ],
+            "important_historical_notes": "A popular series in India and Southeast Asia, often positioned as a 'selfie expert' phone. Recent iterations like the F31 series focus on durability, heat management, and AI features for professionals in hot climates [citation:6].",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "A",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2008,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $100",
+            "highest_launch_price_usd": "Estimated: $400",
+            "market_position": [
+                "Entry Level",
+                "Budget",
+                "Mid Range"
+            ],
+            "target_audience": [
+                "Budget-conscious consumers",
+                "First-time smartphone buyers",
+                "Students",
+                "Value-seeking users"
+            ],
+            "typical_characteristics": [
+                "Large batteries",
+                "Durable builds",
+                "Large displays",
+                "Good value",
+                "Basic to mid-range specs"
+            ],
+            "popular_models": [
+                "A103 (feature phone)",
+                "A15",
+                "A17",
+                "A53",
+                "A5 5G",
+                "A74",
+                "A95",
+                "A5 Pro"
+            ],
+            "primary_markets": [
+                "Global",
+                "India",
+                "Southeast Asia",
+                "Australia"
+            ],
+            "important_historical_notes": "OPPO's longest-running series, starting with the A103 feature phone [citation:1]. The A series has been OPPO's workhorse, delivering essential features at competitive prices globally. The modern A series focuses on large batteries and durability [citation:5].",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "K",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2021,
+            "latest_release_year": "Present",
+            "current_status": "Active",
+            "entry_launch_price_usd": "Estimated: $250",
+            "highest_launch_price_usd": "Estimated: $400",
+            "market_position": [
+                "Mid Range",
+                "Online-exclusive"
+            ],
+            "target_audience": [
+                "Value-conscious consumers",
+                "Online shoppers",
+                "Tech-savvy users",
+                "Students",
+                "Gamers"
+            ],
+            "typical_characteristics": [
+                "Good price-to-performance ratio",
+                "Large batteries",
+                "Fast charging",
+                "Smooth displays",
+                "Durable design"
+            ],
+            "popular_models": [
+                "K10",
+                "K12x",
+                "K13",
+                "K13x",
+                "K14x"
+            ],
+            "primary_markets": [
+                "India",
+                "China"
+            ],
+            "important_historical_notes": "A series that originated as an online-exclusive lineup in India, designed to compete in the online mid-range segment. It has garnered a significant user base, serving over 50 lakh users in India [citation:7]. The K series is known for offering flagship-like features at a more accessible price.",
+            "confidence_level": "High"
+        },
+        {
+            "series_name": "Joy",
+            "alternative_names": null,
+            "sub_brand": null,
+            "first_release_year": 2014,
+            "latest_release_year": "Unknown",
+            "current_status": "Discontinued",
+            "entry_launch_price_usd": "Estimated: $140 (based on 1.6M IDR in 2014)",
+            "highest_launch_price_usd": "Estimated: $140",
+            "market_position": [
+                "Entry Level",
+                "Budget"
+            ],
+            "target_audience": [
+                "Budget-conscious users",
+                "First-time smartphone buyers"
+            ],
+            "typical_characteristics": [
+                "Low-cost",
+                "Entry-level specs",
+                "Small display"
+            ],
+            "popular_models": [
+                "Joy"
+            ],
+            "primary_markets": [
+                "Indonesia",
+                "Emerging markets"
+            ],
+            "important_historical_notes": "A short-lived, entry-level series targeted at emerging markets like Indonesia [citation:10]. It was likely discontinued in favor of the A series.",
+            "confidence_level": "Medium"
+        },
+        {
+            "series_name": "Realme (Formerly OPPO Real)",
+            "alternative_names": "OPPO Real, Realme (as a sub-brand)",
+            "sub_brand": "Realme (now an independent brand)",
+            "first_release_year": 2010,
+            "latest_release_year": 2018,
+            "current_status": "Discontinued (as OPPO series)",
+            "entry_launch_price_usd": "Unknown",
+            "highest_launch_price_usd": "Unknown",
+            "market_position": [
+                "Budget",
+                "Mid Range",
+                "Online-exclusive"
+            ],
+            "target_audience": [
+                "Young people",
+                "Online shoppers",
+                "Budget-conscious users",
+                "Tech-savvy users"
+            ],
+            "typical_characteristics": [
+                "Good value",
+                "Trendy design",
+                "Online-focused"
+            ],
+            "popular_models": "Not applicable",
+            "primary_markets": [
+                "China",
+                "Southeast Asia"
+            ],
+            "important_historical_notes": "Started as a sub-brand 'OPPO Real' aimed at young people and online sales. It spun off as an independent brand, Realme, in 2018 and no longer sells OPPO-branded smartphones [citation:14]. While Realme is now separate, its origins are as an OPPO sub-brand series.",
+            "confidence_level": "High"
+        }
+    ],
+    "brand_timeline": [
+        "2008 → A Series (as feature phone)",
+        "2009 → Ulike Series",
+        "2011 → Find Series",
+        "2013 → R Series",
+        "2014 → Joy Series",
+        "2014 → F Series",
+        "2018 → Find X Series",
+        "2019 → Reno Series",
+        "2021 → Find N Series",
+        "2021 → K Series",
+        "2022 → Find N Flip Series"
+    ],
+    "categorized_series": {
+        "flagship_series": [
+            "Find X",
+            "Find N"
+        ],
+        "premium_series": [
+            "Find X",
+            "Find N",
+            "Find N Flip",
+            "Reno (Upper variants)",
+            "R"
+        ],
+        "mid_range_series": [
+            "Reno",
+            "F",
+            "K",
+            "A (Upper variants)"
+        ],
+        "budget_series": [
+            "A",
+            "K",
+            "Joy"
+        ],
+        "entry_level_series": [
+            "A",
+            "Joy"
+        ],
+        "foldable_series": [
+            "Find N",
+            "Find N Flip"
+        ],
+        "flip_series": [
+            "Find N Flip"
+        ],
+        "gaming_series": [
+            "K (positioned with gaming features)",
+            "A (F-series for high-temperature performance)"
+        ],
+        "camera_focused_series": [
+            "Find X",
+            "Reno",
+            "F",
+            "Ulike",
+            "R"
+        ],
+        "business_series": [],
+        "rugged_series": [
+            "A (durability focus)",
+            "F (durability focus)"
+        ],
+        "lifestyle_series": [
+            "Reno"
+        ],
+        "ai_focused_series": [
+            "Find X",
+            "F",
+            "K",
+            "A"
+        ],
+        "regional_exclusive_series": [
+            "F (primarily India and Southeast Asia)",
+            "K (primarily India)"
+        ],
+        "carrier_exclusive_series": [],
+        "online_exclusive_series": [
+            "K (originally)",
+            "Realme (as OPPO Real)"
+        ],
+        "discontinued_series": [
+            "Find (Original)",
+            "Ulike",
+            "R",
+            "Joy",
+            "Realme (as OPPO series)"
+        ]
+    },
+    "naming_strategy": "OPPO uses a number and letter series strategy to delineate its target markets and price points. The 'Find' branding is reserved for the pinnacle of innovation and performance, including the flagship foldable and camera phones. 'Reno' represents a design-led, creative, and camera-focused upper-mid-range to premium lifestyle series. 'F' and 'K' series are targeted at specific regions, often offering great value for money and large batteries. The 'A' series is the global workhorse, providing dependable entry-level and budget phones. The brand also utilizes modifiers like 'Pro', 'Plus', 'Lite', 'Mini', and 'Ultra' to denote variants within a series.",
+    "final_summary": {
+        "total_official_smartphone_series": 12,
+        "active_series": 7,
+        "discontinued_series": 5,
+        "oldest_series": "A Series (as a feature phone in 2008)",
+        "newest_series": "Find X Series (latest models: Find X9, X9 Pro)",
+        "longest_running_series": "A Series (2008 - Present)",
+        "most_popular_series": "Reno Series (based on global sales and awareness)",
+        "best_selling_series": "A Series (due to high volume in mass-market segments)",
+        "most_premium_series": "Find X Series and Find N Series",
+        "best_budget_series": "A Series",
+        "most_influential_series": "Find Series (for pioneering technologies like the world's slimmest phone, motorized cameras, and foldable design) and R Series (for popularizing VOOC flash charge)",
+        "fastest_growing_series": "K Series (in India, based on reaching 50 lakh users in a relatively short time)",
+        "future_expected_direction": "OPPO is focusing on AI integration across all tiers, as seen with the introduction of AI features in the Find X9, F31, and A5 series. Foldable technology will continue to be a key area for the Find N series. We can expect further regional specialization for series like 'F' and 'K' to cater to local needs, such as durability in high temperatures in India and battery life globally."
+    },
+    "verification_checklist": {
+        "flagship_series": "✓",
+        "mid_range_series": "✓",
+        "budget_series": "✓",
+        "entry_level_series": "✓",
+        "foldable_series": "✓",
+        "flip_series": "✓",
+        "gaming_series": "✓",
+        "camera_focused_series": "✓",
+        "business_series": "✓ (Not a specific OPPO branding, but models can serve this purpose)",
+        "rugged_series": "✓ (Though not a specific series, 'A' and 'F' have rugged features)",
+        "lifestyle_series": "✓",
+        "ai_focused_branding": "✓",
+        "carrier_exclusive_series": "✓ (None found in the OPPO context)",
+        "online_exclusive_series": "✓",
+        "china_exclusive_series": "✓ (Old Find and Ulike were primarily China-focused)",
+        "india_exclusive_series": "✓",
+        "japan_exclusive_series": "✗ (No evidence of a specific Japan-exclusive series)",
+        "europe_exclusive_series": "✗",
+        "north_america_exclusive_series": "✗",
+        "legacy_series": "✓",
+        "discontinued_series": "✓",
+        "experimental_series": "✓ (The original Find with its motorized pop-up camera, and the first Find N foldable were experimental)",
+        "official_sub_brand_series": "✓ (OPPO Real/Realme as a sub-brand)",
+        "regional_renaming": "✓"
+    },
+    "potentially_missing_series_for_manual_verification": [
+        {
+            "series_name": "N Series (excluding Find N)",
+            "reason": "There is some historical reference to an 'N Series' of OPPO phones, but it was not clearly identified in the current search results. It may be a very early or short-lived series that was replaced by the Find or R series. This requires further verification."
+        }
+    ]
+}

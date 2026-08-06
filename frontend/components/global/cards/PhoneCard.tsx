@@ -1,67 +1,102 @@
-import React from 'react'
-import { IoHardwareChipOutline } from 'react-icons/io5'
-import { LuMicrochip } from 'react-icons/lu'
-import { MdBatteryCharging20, MdOutlineBattery1Bar } from 'react-icons/md'
+import Link from "next/link";
+import React from "react";
+import { IoHardwareChipOutline } from "react-icons/io5";
+import { LuMicrochip } from "react-icons/lu";
+import { MdOutlineBattery1Bar } from "react-icons/md";
 
 interface IProps {
-    badge?: string
-    image: string,
-    imgAlt?: string
-    name: string
-    price: string
-    compare?: string
+    badge?: string;
+    image: string;
+    imgAlt?: string;
+    name: string;
+    price: string;
+    compare?: string;
+    link?: string
+    chip?: string
+    battery?: string
 }
 
-const PhoneCard = ({ badge, image, imgAlt, name, price, compare }: IProps) => {
+const PhoneCard = ({
+    badge,
+    image,
+    imgAlt,
+    name,
+    price,
+    compare,
+    link,
+    chip,
+    battery
+}: IProps) => {
     return (
-        <div className='relative flex flex-col rounded-md shadow-xs shadow-dark-blue py-2 p-1 transition-all duration-300  hover:-translate-y-1.5 hover:shadow-md w-77'>
+        <Link href={link ? link : ''} className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-shadow duration-200 hover:shadow-md">
             {/* Badge */}
-            {badge && (<div className='absolute top-0 right-0.5 py-1 px-3 rounded-md bg-dark-blue text-white-1'>
-                {badge}
-            </div>)}
-            {/* image */}
-            <img src={image} alt={imgAlt} className='w-full h-50 object-cover' />
-            {/* details */}
-            <div className='p-2'>
-                <div className='flex items-start justify-between gap-4'>
-                    <h4 className=' text-lg font-black leading-tight'>{name}</h4>
-                    <div className='flex items-center'>
-                        <p className='text-xl font-bold!'>${price}{""} </p>
-                        <span> {''}est.</span>
+            {badge && (
+                <span className="absolute right-3 top-3 z-10 rounded-full bg-dark-blue px-3 py-1 text-xs font-semibold text-white">
+                    {badge}
+                </span>
+            )}
+
+            {/* Image */}
+            <div className="flex h-56 items-center justify-center bg-slate-50 p-5">
+                <img
+                    src={image}
+                    alt={imgAlt}
+                    className="max-h-full w-auto object-contain"
+                />
+            </div>
+
+            {/* Content */}
+            <div className="flex flex-1 flex-col p-4">
+                {/* Name + Price */}
+                <div className="flex items-start justify-between gap-3">
+                    <h3 className="line-clamp-2 text-lg font-bold leading-6 text-slate-900">
+                        {name}
+                    </h3>
+
+                    <div className="text-right shrink-0">
+                        <p className="text-xl font-extrabold text-dark-blue">
+                            ${price}
+                        </p>
+                        <span className="text-xs text-slate-500">Estimated</span>
                     </div>
                 </div>
 
-                <div className='grid grid-cols-2 grid-rows-2 gap-2 mt-1 md:mt-3'>
-                    <div className='flex gap-1 items-start'>
-                        {/* icon */}
-                        <LuMicrochip className='text-[1.2em] text-dark-blue shrink-0' />
-                        <span className='text-base'>A17 Pro 48 Main Cam</span>
+                {/* Specs */}
+                <div className="mt-5 grid grid-cols-1 gap-3 text-sm text-slate-600">
+                    <div className="flex items-center gap-2">
+                        <LuMicrochip className="text-lg text-dark-blue" />
+                        <span className="truncate">{chip}</span>
                     </div>
-                    <div className='flex gap-1 items-start'>
-                        {/* icon */}
-                        <IoHardwareChipOutline className=' text-[1.2em] text-dark-blue shrink-0' />
-                        <span>4-128 GB </span>
-                    </div>
-                    <div className='flex gap-1 items-start'>
-                        {/* icon */}
-                        <MdOutlineBattery1Bar className=' text-[1.2em] text-dark-blue shrink-0' />
-                        <span>5000 mAh </span>
+
+                    {/* <div className="flex items-center gap-2">
+                        <IoHardwareChipOutline className="text-lg text-dark-blue" />
+                        <span>8GB / 256GB</span>
+                    </div> */}
+
+                    <div className="flex items-center gap-2">
+                        <MdOutlineBattery1Bar className="text-lg text-dark-blue" />
+                        <span>{battery} mAh</span>
                     </div>
                 </div>
 
+                {/* Buttons */}
+                <div className="mt-6 flex gap-2">
+                    {compare && (
+                        <button className="rounded-xl border border-dark-blue px-4 py-2 font-medium text-dark-blue transition-colors hover:bg-dark-blue hover:text-white">
+                            {compare}
+                        </button>
+                    )}
+
+                    <Link href={link ? link : ''}
+                        className={`rounded-xl bg-dark-emerald px-4 py-2 font-medium text-white transition-colors hover:opacity-95 ${compare ? "flex-1" : "w-full"
+                            }`}
+                    >
+                        View Details
+                    </Link>
+                </div>
             </div>
+        </Link>
+    );
+};
 
-            {/* buttons */}
-            <div className='flex items-center justify-center gap-2 '>
-                {compare && (
-                    <button className='rounded-lg bg-dark-blue text-white py-2 px-4'>{compare} </button>
-                )}
-
-                <button className={` rounded-lg bg-dark-emerald text-white py-2 px-4 ${compare ? '' : 'w-full m-1'}`}>View Details </button>
-
-            </div>
-        </div>
-    )
-}
-
-export default PhoneCard
+export default PhoneCard;

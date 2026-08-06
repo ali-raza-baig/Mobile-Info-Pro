@@ -75,9 +75,9 @@ const BrandsSection = () => {
                     <Loading message='Brands' />
                 )}
 
-                {brands.length === 0 ? <>
+                {brands.length === 0 ? <div className='text-center text-lg my-4'>
                     No Brands Found
-                </> : <>
+                </div> : <>
                     <div className='flex items-center justify-center flex-wrap gap-4 mt-4 md:mt-6'>
                         {visibleBrands.map((b) => (
                             <Link href={`/brand/${b.slug}`}

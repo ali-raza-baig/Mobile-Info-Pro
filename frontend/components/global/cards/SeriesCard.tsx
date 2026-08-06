@@ -37,11 +37,11 @@ const SeriesCard = ({
 
             <div className="relative flex flex-col lg:flex-row gap-4">
                 {/* Image */}
-                <div className="flex h-28 w-28 shrink-0 items-center justify-center rounded-2xl bg-linear-to-br from-sky-50 to-sky-100 p-3 transition duration-300 group-hover:scale-105 group-hover:rotate-3">
+                <div className="flex h-28 w-28 items-center justify-center overflow-hidden rounded-2xl bg-linear-to-br from-sky-50 to-sky-100">
                     <img
                         src={image}
                         alt={name}
-                        className="h-full w-full object-contain"
+                        className="h-[120%] w-[120%] object-contain transition duration-300 group-hover:scale-105"
                     />
                 </div>
 

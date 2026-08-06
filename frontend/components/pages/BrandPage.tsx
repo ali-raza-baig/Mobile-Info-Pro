@@ -12,11 +12,11 @@ const BrandPage = ({ details }: any) => {
         <div>
             <BrandHero brandHero={details.hero} heroImage={details.heroImage} />
             <BrandAboutSection brandAbout={details.about}/>
-            <ExploreSeriesSection />
-            <ExploreLatest />
-            <CollectionSection />
+            <ExploreSeriesSection id={details._id} name={details.name} />
+            <ExploreLatest name={details.name} />
+            <CollectionSection name={details.name}/>
             <BlogSection />
-            <BrandFaqSection brandFaq={details.faqs} />
+            <BrandFaqSection brandFaq={details.faqs} name={details.name}/>
         </div>
     )
 }

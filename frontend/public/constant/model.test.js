@@ -8,44 +8,7 @@ import {
     FaRulerCombined,
 } from "react-icons/fa6";
 
-export const phoneSpecifications = [
-    {
-        id: 1,
-        title: "Camera",
-        value: "50.0 MP Camera",
-        icon: FaCamera,
-    },
-    {
-        id: 2,
-        title: "Battery",
-        value: "5000 mAh Battery",
-        icon: FaBatteryFull,
-    },
-    {
-        id: 3,
-        title: "Display",
-        value: '6.6" Diagonal Screen',
-        icon: FaMobileScreen,
-    },
-    {
-        id: 4,
-        title: "Processor",
-        value: "2000 MHz CPU Clock",
-        icon: FaMicrochip,
-    },
-    {
-        id: 5,
-        title: "Dimensions",
-        value: "00.0 mm × 000.0 mm × 0.0 mm",
-        icon: FaRulerCombined,
-    },
-    {
-        id: 6,
-        title: "Memory",
-        value: "6GB RAM, ROM Storage",
-        icon: FaMemory,
-    },
-];
+
 
 
 export const demoImages = [
@@ -68,265 +31,90 @@ export const samsungGalaxyS24 = {
     launchCountry: "United States",
 
     general: {
-        os: "Android",
-        osVersion: "14",
-        customUI: "One UI 6.1",
+        os: software.os,
+        osVersion: software.osVersion,
+        customUI: software.ui,
         softwareSupport: {
-            osUpdateYears: 7,
-            securityUpdateYears: 7
+            osUpdateYears: software.osUpdateYears,
+            securityUpdateYears: software.securityUpdateYears
         },
-        colors: [
-            "Onyx Black",
-            "Marble Gray",
-            "Cobalt Violet",
-            "Amber Yellow"
-        ],
-        boxContents: [
-            "Samsung Galaxy S24",
-            "USB Type-C Cable",
-            "SIM Ejector Tool",
-            "Quick Start Guide"
-        ]
+        colors: [],
+        boxContents: general.boxContents
     },
 
     design: {
-        dimensions: {
-            height: 147,
-            width: 70.6,
-            thickness: 7.6,
-            unit: "mm"
-        },
-        weight: {
-            value: 167,
-            unit: "g"
-        },
-        buildMaterial: {
-            front: "Gorilla Glass Victus 2",
-            back: "Gorilla Glass Victus 2",
-            frame: "Armor Aluminum"
-        },
-        waterResistance: "IP68",
+        dimensions: { ...design.dimensions },
+        weight: { ...design.weight },
+        buildMaterial: { ...design.buildMaterial },
+        protection: design.protection,
         ruggedness: "Dust and Water Resistant"
     },
 
     display: {
-        type: "Dynamic LTPO AMOLED 2X",
+        type: display.type,
         size: {
-            value: 6.2,
+            value: display.size,
             unit: "inches"
         },
-        resolution: {
-            width: 1080,
-            height: 2340,
-            label: "FHD+"
-        },
+        resolution: { ...display.resolution },
         pixelDensity: {
-            value: 416,
+            value: display.pixelDensity,
             unit: "ppi"
         },
         refreshRate: {
-            value: 120,
+            value: display.refreshRate,
             unit: "Hz"
         },
         brightness: {
-            peak: 2600,
+            peak: display.brightness.peak,
             unit: "nits"
         },
-        protection: "Corning Gorilla Glass Victus 2",
-        features: [
-            "HDR10+",
-            "Always-On Display",
-            "Vision Booster",
-            "Adaptive Refresh Rate",
-            "Eye Comfort Shield"
-        ]
+        protection: display.protection,
+        features: display.features
     },
 
     performance: {
-        chipset: {
-            manufacturer: "Qualcomm",
-            name: "Snapdragon 8 Gen 3 for Galaxy",
-            fabrication: "4nm"
-        },
-        cpu: {
-            cores: 8,
-            architecture: "1x Cortex-X4 + 5x Cortex-A720 + 2x Cortex-A520",
-            clockSpeed: "3.39 GHz"
-        },
-        gpu: "Adreno 750",
-        benchmarks: {
-            antutu: 1800000,
-            geekbench6Single: 2250,
-            geekbench6Multi: 7000
-        }
+        ...performance,
+        benchmarks: benchmarks
     },
 
     memory: {
-        ramOptions: [8],
-        storageOptions: [128, 256, 512],
-        ramType: "LPDDR5X",
-        storageType: "UFS 4.0",
-        expandable: false,
-        expandableUpto: null
+        ...memory
     },
 
     camera: {
-        rear: [
-            {
-                megapixel: 50,
-                lensType: "Wide",
-                aperture: "f/1.8",
-                focalLength: "24mm",
-                sensorSize: '1/1.56"',
-                pixelSize: "1.0µm",
-                opticalZoom: null,
-                features: [
-                    "OIS",
-                    "PDAF",
-                    "Dual Pixel Autofocus"
-                ]
-            },
-            {
-                megapixel: 12,
-                lensType: "Ultra-wide",
-                aperture: "f/2.2",
-                focalLength: "13mm",
-                sensorSize: '1/2.55"',
-                pixelSize: "1.4µm",
-                opticalZoom: null,
-                features: [
-                    "120° Field of View"
-                ]
-            },
-            {
-                megapixel: 10,
-                lensType: "Telephoto",
-                aperture: "f/2.4",
-                focalLength: "67mm",
-                sensorSize: '1/3.94"',
-                pixelSize: "1.0µm",
-                opticalZoom: "3x Optical Zoom",
-                features: [
-                    "OIS",
-                    "PDAF"
-                ]
-            }
-        ],
+        rear: camera.rear,
 
-        front: [
-            {
-                megapixel: 12,
-                lensType: "Wide",
-                aperture: "f/2.2",
-                focalLength: "26mm",
-                sensorSize: '1/3.2"',
-                pixelSize: "1.12µm",
-                opticalZoom: null,
-                features: [
-                    "Dual Pixel Autofocus"
-                ]
-            }
-        ],
+        front: camera.front,
 
-        flash: "LED Flash",
+        flash: camera.flash,
 
-        videoRecording: {
-            rear: [
-                "8K@30fps",
-                "4K@60fps",
-                "1080p@240fps",
-                "720p@960fps"
-            ],
-            front: [
-                "4K@60fps",
-                "1080p@60fps"
-            ],
-            features: [
-                "HDR10+ Recording",
-                "Super Steady Video",
-                "Slow Motion",
-                "Nightography Video"
-            ]
-        }
+        videoRecording: camera.video
     },
 
     battery: {
         capacity: {
-            value: 4000,
+            value: battery.capacity,
             unit: "mAh"
         },
-        batteryType: "Li-Ion",
+        batteryType: battery.type,
 
-        charging: {
-            wired: {
-                supported: true,
-                speed: "25W"
-            },
-            wireless: {
-                supported: true,
-                speed: "15W"
-            },
-            reverseWireless: {
-                supported: true,
-                speed: "4.5W"
-            }
-        }
+        charging: { ...battery.charging }
     },
 
     network: {
         sim: {
-            slots: 2,
-            type: "Nano-SIM + eSIM"
+            slots: design.simCount,
+            type: design.simType
         },
-
-        technology: [
-            "2G",
-            "3G",
-            "4G",
-            "5G"
-        ],
-
-        bands: {
-            "2G": ["GSM 850", "900", "1800", "1900"],
-            "3G": ["HSDPA"],
-            "4G": ["LTE"],
-            "5G": ["Sub-6", "mmWave"]
-        }
+        ...network
     },
 
-    connectivity: {
-        wifi: "Wi-Fi 7",
-        bluetooth: "Bluetooth 5.3",
-        gps: [
-            "GPS",
-            "GLONASS",
-            "GALILEO",
-            "BDS",
-            "QZSS"
-        ],
-        nfc: true,
-        usb: "USB Type-C 3.2"
-    },
+    connectivity: { ...connectivity },
 
-    sensors: [
-        "Ultrasonic Fingerprint",
-        "Accelerometer",
-        "Gyroscope",
-        "Compass",
-        "Barometer",
-        "Proximity Sensor",
-        "Ambient Light Sensor"
-    ],
+    sensors: sensors,
 
-    extraFeatures: [
-        "Samsung DeX",
-        "Samsung Knox",
-        "Galaxy AI",
-        "Circle to Search",
-        "Stereo Speakers",
-        "Dolby Atmos",
-        "UWB"
-    ],
+    extraFeatures: extraFeatures,
 
     variants: [
         {

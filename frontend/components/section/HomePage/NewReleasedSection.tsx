@@ -9,11 +9,12 @@ import type { Swiper as SwiperType } from 'swiper'
 import 'swiper/css';
 import 'swiper/css/autoplay'
 import 'swiper/css/navigation';
-import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
+import { useModel } from '@/context/ModelContext';
 
 
 const NewReleasedSection = () => {
     const swiperRef = useRef<SwiperType>(null)
+    const { models } = useModel()
     return (
         <section className='bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100 overflow-hidden'>
 
@@ -33,7 +34,7 @@ const NewReleasedSection = () => {
 
 
 
-                <div className='flex items-center justify-center gap-0 py-4 md:py-6'>
+                <div className=''>
 
                     <Swiper
                         slidesPerView={1}
@@ -67,25 +68,14 @@ const NewReleasedSection = () => {
                         spaceBetween={30}
                         className='py-6 px-2 flex items-center justify-center'
                     >
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='new' price='5000' />
-                        </SwiperSlide>
+                        {models?.new.map((m: any, i: any) => (
+                            <div key={i}>
+                                <SwiperSlide >
+                                    <PhoneCard image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${m.images[0].img}`} name={m.name} badge='new' price={m?.content?.details.estimatedPrice?.usa?.min} link={`/model/${m.slug}`} chip={m.specifications.performance.chipset.name ?? ''} battery={m.specifications.battery.capacity} />
+                                </SwiperSlide>
 
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='new' price='5000' />
-                        </SwiperSlide>
+                            </div>))}
 
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='new' price='5000' />
-                        </SwiperSlide>
-
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='new' price='5000' />
-                        </SwiperSlide>
-
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='new' price='5000' />
-                        </SwiperSlide>
 
                     </Swiper>
 

@@ -21,48 +21,11 @@ import {
 import TrendingPhoneCard from '../global/cards/TrendingPhoneCard';
 import PhoneCard from '../global/cards/PhoneCard';
 import MobileFinder from '../shared/MobileFinder';
-import brands from '@/public/constant/brands';
 import Link from 'next/link';
 import FaqSection from '../shared/FaqSection';
+import { useMyContext } from '@/context/Context';
 
-export const phoneOverviewInfo = [
-    {
-        id: 1,
-        title: "Introduced",
-        value: "17 January 2025",
-        icon: FaCalendar,
-    },
-    {
-        id: 2,
-        title: "Target Audience",
-        value: "Flagship users, professionals, creators, and power users",
-        icon: FaUsers,
-    },
-    {
-        id: 3,
-        title: "Product Category",
-        value: "Premium Android Smartphone",
-        icon: FaMobileScreen,
-    },
-    {
-        id: 4,
-        title: "Key Innovation",
-        value: "Galaxy AI, Snapdragon 8 Elite, Advanced Camera System",
-        icon: FaLightbulb,
-    },
-    {
-        id: 5,
-        title: "Market Availability",
-        value: "Available in 150+ countries worldwide",
-        icon: FaGlobe,
-    },
-    {
-        id: 6,
-        title: "Premium Position",
-        value: "Samsung's Ultra Flagship Smartphone",
-        icon: FaCrown,
-    },
-];
+
 
 export const samsungFaqs = [
     {
@@ -107,7 +70,46 @@ export const samsungFaqs = [
     }
 ];
 
-const SeriesPage = () => {
+const SeriesPage = ({ details }: { details: any }) => {
+    const phoneOverviewInfo = [
+        {
+            id: 1,
+            title: "Introduced",
+            value: details.about.firstReleased,
+            icon: FaCalendar,
+        },
+        {
+            id: 2,
+            title: "Target Audience",
+            value: details.mix.target_audience.join(', '),
+            icon: FaUsers,
+        },
+        {
+            id: 3,
+            title: "Product Category",
+            value: details.about.seriesCategory,
+            icon: FaMobileScreen,
+        },
+        {
+            id: 4,
+            title: "Key Innovation",
+            value: details.about.performanceFocus,
+            icon: FaLightbulb,
+        },
+        {
+            id: 5,
+            title: "Market Availability",
+            value: "Available worldwide",
+            icon: FaGlobe,
+        },
+        {
+            id: 6,
+            title: "Premium Position",
+            value: details.about.softwareExperience,
+            icon: FaCrown,
+        },
+    ];
+    const { brands } = useMyContext()
     const swiperRef = useRef<SwiperType>(null)
 
     return (
@@ -119,14 +121,14 @@ const SeriesPage = () => {
                     {/* Left Content */}
                     <div className="flex-1">
                         <h1 className="text-4xl font-black leading-[1.1] text-slate-900 sm:text-5xl md:text-6xl lg:text-7xl">
-                            Samsung
-                            <span className="mt-2 block bg-gradient-to-r from-sky-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                                Galaxy S Series
+                            {details.hero.title.replace('Phones','').replace(`${details.brandId.name}`, '')}
+                            <span className="mt-2 block bg-linear-to-r from-sky-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent">
+                                {details.hero.subtitle}
                             </span>
                         </h1>
 
                         <p className=" mt-6 max-w-2xl text-slate-600 text-base leading-relaxed md:text-lg">
-                            Discover every smartphone in the Samsung Galaxy S Series, from the earliest flagship models to the latest Galaxy S Ultra devices. Compare specifications, explore AI-powered reviews, track prices, and find the perfect Galaxy S smartphone for your needs.
+                            {details.hero.description}
                         </p>
 
                         {/* Input & buttons */}
@@ -151,7 +153,7 @@ const SeriesPage = () => {
 
                             {/* Phone */}
                             <img
-                                src="/images/samsung-test-no.png"
+                                src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${details.heroImage}`}
                                 alt="Samsung Smartphone"
                                 className="relative z-10 w-72 md:w-80 lg:w-96 object-contain transition-transform duration-500 hover:-rotate-6 -rotate-12"
                             />
@@ -169,10 +171,10 @@ const SeriesPage = () => {
 
                                     <div>
                                         <p className="text-sm font-medium text-slate-500">
-                                            Flagship Features
+                                            Total Models
                                         </p>
                                         <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                                            72M
+                                            {details.hero.stats.totalModels}
                                         </h3>
                                     </div>
                                 </div>
@@ -189,7 +191,7 @@ const SeriesPage = () => {
                                             Camera Rating
                                         </p>
                                         <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                                            4.8/5
+                                            {details.hero.stats.averageRating}/5
                                         </h3>
                                     </div>
                                 </div>
@@ -203,10 +205,10 @@ const SeriesPage = () => {
 
                                     <div>
                                         <p className="text-sm font-medium text-slate-500">
-                                            Display Rating
+                                            Price Range
                                         </p>
                                         <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                                            10M +
+                                            $  {details.hero.stats.priceRange}
                                         </h3>
                                     </div>
                                 </div>
@@ -222,9 +224,9 @@ const SeriesPage = () => {
 
                         {/* Phone */}
                         <img
-                            src="/images/samsung-test-no.png"
+                            src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${details.heroImage}`}
                             alt="Samsung Smartphone"
-                            className="relative z-10 w-72 md:w-80 lg:w-96 object-contain transition-transform duration-500 hover:-rotate-6 -rotate-12"
+                            className="relative z-10 w-72 md:w-80 lg:w-120 object-fill transition-transform duration-500 hover:-rotate-6 -rotate-12"
                         />
                     </div>
 
@@ -234,18 +236,18 @@ const SeriesPage = () => {
 
             {/* About Section */}
             <div className="container-1 relative z-10 py-12 md:py-20 px-4 sm:px-6">
-                <div className='flex flex-col md:flex-row items-start justify-center gap-4'>
-                    <div>
+                <div className='flex flex-col md:flex-row items-center justify-center gap-4'>
+                    <div className=''>
                         <h1 className="text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                            About Galaxy S Series
+                            {details.about.heading}
                         </h1>
 
                         <p className=" mt-6 max-w-2xl text-slate-600 text-base leading-relaxed md:text-lg">
-                            The Samsung Galaxy S Series represents Samsung's flagship smartphone lineup, delivering cutting-edge innovation, premium materials, advanced cameras, high-performance chipsets, and industry-leading displays. Since its introduction in 2010, the Galaxy S Series has consistently set new standards for Android smartphones worldwide.
+                            {details.about.description}
                         </p>
                     </div>
-                    <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
-                        {phoneOverviewInfo.map((s,i) => (
+                    <div className='grid grid-cols-1 md:grid-cols-2 gap-4 w-full md:w-[60%]'>
+                        {phoneOverviewInfo.map((s, i) => (
                             <div key={i} className="col-span-1 group relative overflow-hidden rounded-2xl border border-sky-200/70 bg-linear-to-br from-white via-sky-50 to-blue-100 p-5 shadow-lg transition-all duration-300 hover:-translate-y-1">
 
                                 <div className="relative z-10 inline-flex items-start gap-4">
@@ -282,7 +284,7 @@ const SeriesPage = () => {
 
                 <div className='container-1 mx-auto py-10 lg:py-18 '>
                     <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                        Latest Galaxy S Models
+                        Latest {details.name} Models
                     </h1>
 
                     <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
@@ -405,7 +407,7 @@ const SeriesPage = () => {
             <div className="container-1 relative z-10 py-12 md:py-20 px-4 sm:px-6">
 
                 <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                    Find Your Perfect Galaxy S Phone
+                    Find Your Perfect {details.name} Phone
                 </h1>
 
                 <div className='my-4 md:my-6'>
@@ -420,11 +422,11 @@ const SeriesPage = () => {
                 <div className='container-1 mx-auto py-10 lg:py-18'>
                     <div className='mb-4 md:mb-6  '>
                         <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                            FAQ's About Galaxy S Series
+                            FAQ's About {details.name} Series
                         </h1>
                     </div>
                     <div>
-                        <FaqSection faqs={samsungFaqs} />
+                        <FaqSection faqs={details.faqs} />
                     </div>
                 </div>
             </section>
@@ -432,7 +434,7 @@ const SeriesPage = () => {
             <div className='container-1 mx-auto py-10 lg:py-18'>
                 <div className='mb-4 md:mb-8  '>
                     <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                        Discover Related Smartphone Series
+                        Discover Related Smartphone Brands
                     </h1>
                 </div>
 
@@ -444,13 +446,12 @@ const SeriesPage = () => {
                                 className='rounded-md bg-white-1 p-2 transition-all duration-200 hover:-translate-y-1.5 flex flex-col items-center justify-center gap-1 shrink-0'
                             >
                                 <img
-                                    src={b.img}
-                                    title={b.metaTitle}
+                                    src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${b.logo}`}
                                     loading='lazy'
-                                    alt={b.alt}
+                                    alt={b.name}
                                     className='w-30 h-30'
                                 />
-                                <span className='text-sm md:text-base font-black'>{b.brandName}</span>
+                                <span className='text-sm md:text-base font-black'>{b.name}</span>
                             </Link>
                         ))}
                     </div>

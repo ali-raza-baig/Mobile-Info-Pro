@@ -201,19 +201,25 @@ const brandSchema = new mongoose.Schema(
             },
         },
 
+
         isActive: {
             type: Boolean,
             default: false
         },
         isCompleted: {
             type: String,
-            enum: ['pending', 'content completed', 'completed'],
+            enum: ['pending', 'completed'],
             default: 'pending'
         },
         isImageCompleted: {
             type: Boolean,
             default: false
-        }
+        },
+        isSeriesCreated: {
+            type: Boolean,
+            default: false
+        },
+        pendingSeries: [String]
     },
     {
         timestamps: true,

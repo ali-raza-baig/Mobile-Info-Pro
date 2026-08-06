@@ -5,7 +5,7 @@ import Link from 'next/link';
 import React from 'react'
 
 
-const BrandFaqSection = ({ brandFaq }: { brandFaq: any }) => {
+const BrandFaqSection = ({ brandFaq, name }: { brandFaq: any, name: string }) => {
     const { brands } = useMyContext()
     if (brandFaq.length === 0) {
         return (
@@ -18,7 +18,7 @@ const BrandFaqSection = ({ brandFaq }: { brandFaq: any }) => {
                 <div className='container-1 mx-auto py-10 lg:py-18'>
                     <div className='mb-4 md:mb-6  '>
                         <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                            FAQ's About Samsung Phones
+                            FAQ's About {name} Phones
                         </h1>
                     </div>
                     <div>

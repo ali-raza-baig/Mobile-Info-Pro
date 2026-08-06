@@ -1,0 +1,113 @@
+{
+    "brand": "Apple",
+    "total_series": 1,
+    "series": [
+        {
+            "name": "iPhone",
+            "slug": "iphone",
+            "alternative_names": [],
+            "sub_brand": null,
+            "first_release_year": 2007,
+            "latest_release_year": "Present",
+            "status": "Active",
+            "launch_price": {
+                "entry_usd": 499,
+                "highest_usd": 1599,
+                "estimated": false
+            },
+            "market_position": [
+                "Flagship",
+                "Premium"
+            ],
+            "target_audience": [
+                "General consumers",
+                "Business professionals",
+                "Content creators",
+                "Mobile photographers",
+                "Power users"
+            ],
+            "characteristics": [
+                "iOS operating system",
+                "Retina / Super Retina XDR displays",
+                "Advanced camera systems",
+                "Face ID / Touch ID biometrics",
+                "Apple A-series / Bionic chips",
+                "High build quality (glass and aluminum/titanium)",
+                "Deep ecosystem integration",
+                "Long-term software support"
+            ],
+            "popular_models": [
+                "iPhone 4",
+                "iPhone 6",
+                "iPhone X",
+                "iPhone 12",
+                "iPhone 15",
+                "iPhone 16",
+                "iPhone 17"
+            ],
+            "primary_markets": [
+                "Global"
+            ],
+            "historical_notes": [
+                "Introduced by Steve Jobs on January 9, 2007, revolutionizing the smartphone industry with its multi-touch interface.",
+                "Originally launched exclusively with AT&T in the US.",
+                "Introduced the App Store in 2008 with iPhone OS 2.0.",
+                "Pioneered the modern smartphone form factor and touchscreen UI.",
+                "Has evolved through numerous design and technology generations, including the introduction of Retina display, 64-bit processors, Face ID, and 5G.",
+                "The iPhone SE and various 'Pro' and 'Plus' models are variants within the single iPhone series, not separate product families."
+            ],
+            "confidence": "High"
+        }
+    ],
+    "timeline": [
+        {
+            "year": 2007,
+            "series": "iPhone"
+        }
+    ],
+    "categories": {
+        "flagship": [
+            "iPhone"
+        ],
+        "premium": [
+            "iPhone"
+        ],
+        "mid_range": [],
+        "budget": [],
+        "entry_level": [],
+        "foldable": [],
+        "flip": [],
+        "gaming": [],
+        "camera_focused": [],
+        "business": [],
+        "rugged": [],
+        "lifestyle": [],
+        "ai_focused": [],
+        "regional_exclusive": [],
+        "carrier_exclusive": [],
+        "online_exclusive": [],
+        "discontinued": []
+    },
+    "naming_strategy": {
+        "uses": [
+            "Number Series"
+        ],
+        "description": "Apple uses a simple numbering scheme for its iPhone series, incrementing the number with each major generational release. Variants within a generation are denoted by suffixes such as 'Pro', 'Pro Max', 'Plus', and 'SE', but these are not separate series; they are models within the single iPhone product family. The naming emphasizes simplicity and brand recognition."
+    },
+    "summary": {
+        "total_series": 1,
+        "active_series": 1,
+        "discontinued_series": 0,
+        "oldest_series": "iPhone",
+        "newest_series": "iPhone",
+        "longest_running_series": "iPhone",
+        "most_popular_series": "iPhone",
+        "best_selling_series": "iPhone",
+        "most_premium_series": "iPhone",
+        "best_budget_series": "Unknown",
+        "most_influential_series": "iPhone",
+        "fastest_growing_series": "iPhone",
+        "future_expected_direction": "Apple is expected to continue the iPhone series with annual updates, potentially introducing new model variants such as 'Air' and 'Ultra' while maintaining the core numbered series. The company may also explore foldable or other form factors within the iPhone family."
+    },
+    "missing_series": []
+}

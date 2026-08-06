@@ -1,4 +1,8 @@
-import ollama from "ollama";
+import dotenv from 'dotenv'
+dotenv.config()
+import fs from 'fs'
+
+import { Ollama } from "ollama";
 import brandModel from "../models/brandModel.js";
 import parseJSON from "../utils/parseJson.js";
 
@@ -8,11 +12,19 @@ import {
     brand_faq_prompt,
     brand_seo_prompt,
 } from "../prompts/brand.js";
+import path from 'path';
 
-const MODEL = "qwen3:8b";
+const MODEL = "gemma4";
 
+const ollama = new Ollama({
+    host: "https://ollama.com",
+    headers: {
+        Authorization: "Bearer " + process.env.OLLAMA_API_KEY,
+    },
+});
 
 export const brandsContentGenerate = async () => {
+
     try {
         console.log("Generating Brand Content...");
 
@@ -137,7 +149,7 @@ export const brandsContentGenerate = async () => {
                     brand._id,
                     generatedContent,
                     {
-                        new: true,
+                        returnDocument: 'after'
                     }
                 );
 
@@ -146,7 +158,7 @@ export const brandsContentGenerate = async () => {
                 console.error(
                     `❌ Failed to generate ${brand.name}`
                 );
-                console.error(err.message);
+                console.error(err);
             }
         }
 
@@ -158,29 +170,31 @@ export const brandsContentGenerate = async () => {
 };
 
 export const brandsImageGenerate = async () => {
+    console.log(`started .....`)
     try {
-        const brands = await brandModel.find({ isCompleted: 'content completed', isImageCompleted: false })
 
-        if (!brands.length) {
-            console.log("No pending brands found.");
-            return;
-        }
-        console.log(`Found ${brands.length} brands.\n`);
+        // const brands = await brandModel.find({ isCompleted: 'content completed', isImageCompleted: false })
 
-        for (let i = 0; i < brands.length; i++) {
-            try {
+        // if (!brands.length) {
+        //     console.log("No pending brands found.");
+        //     return;
+        // }
+        // console.log(`Found ${brands.length} brands.\n`);
 
-            } catch (error) {
-                console.error(
-                    `❌ Failed to generate image for ${brand.name}`
-                );
-                console.error(err.message);
-            }
-        }
+        // for (let i = 0; i < brands.length; i++) {
+        //     try {
+
+        //     } catch (error) {
+        //         console.error(
+        //             `❌ Failed to generate image for ${brand.name}`
+        //         );
+        //         console.error(err.message);
+        //     }
+        // }
 
 
     } catch (error) {
         console.error("Brands Image Generator Error");
-        console.error(err);
+        console.error(error);
     }
 }

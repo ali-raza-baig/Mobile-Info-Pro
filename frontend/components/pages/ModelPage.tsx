@@ -1,10 +1,19 @@
 'use client'
 import Link from 'next/link';
-import React, { useState } from 'react'
-import { samsungGalaxyS24, phoneSpecifications, demoImages } from '@/public/constant/model.test'
+import { useEffect, useState } from 'react'
 import SpecificationSection from '../section/SpecificationSection';
 import TrendingPhoneCard from '../global/cards/TrendingPhoneCard';
 import FaqSection from '../shared/FaqSection';
+import {
+    FaCamera,
+    FaBatteryFull,
+    FaMobileScreen,
+    FaMemory,
+    FaMicrochip,
+    FaRulerCombined,
+} from "react-icons/fa6";
+import { competitorModels } from '@/app/action';
+import Loading from '../layout/Loading';
 
 
 const samsungFaqs: any[] = []
@@ -21,9 +30,63 @@ const menu = [
 
 
 
-const ModelPage = ({ params }: any) => {
+const ModelPage = ({ details }: any) => {
+
+    const phoneSpecifications = [
+        {
+            id: 1,
+            title: "Camera",
+            value: `${details.specifications.camera.rear[0].megapixel.toFixed(1)} MP Camera`,
+            icon: FaCamera,
+        },
+        {
+            id: 2,
+            title: "Battery",
+            value: ` ${details.specifications.battery.capacity} ${details.specifications.battery.type} Battery`,
+            icon: FaBatteryFull,
+        },
+        {
+            id: 3,
+            title: "Display",
+            value: `${details.specifications.display.size} ${details.specifications.display.type}`,
+            icon: FaMobileScreen,
+        },
+        {
+            id: 4,
+            title: "Processor",
+            value: `${details.specifications.performance.chipset.name}`,
+            icon: FaMicrochip,
+        },
+        {
+            id: 5,
+            title: "Dimensions",
+            value: `${details.specifications.design.dimensions.height} mm × ${details.specifications.design.dimensions.width} mm × ${details.specifications.design.dimensions.thickness} mm`,
+            icon: FaRulerCombined,
+        },
+        {
+            id: 6,
+            title: "Memory",
+            value: "6GB RAM, ROM Storage",
+            icon: FaMemory,
+        },
+    ];
+
     const [selectedTab, setSelectedTab] = useState('info')
-    const [selectedImage, setSelectedImage] = useState(demoImages[0]);
+    const [selectedImage, setSelectedImage] = useState(`${process.env.NEXT_PUBLIC_URL_IMAGES}/${details.images[0].img}`);
+    const [competitors, setCompetitors] = useState<any[]>([])
+
+    const fetchCompetitors = async () => {
+        try {
+            const models = await competitorModels({ max: 0, min: 0 })
+            setCompetitors(models)
+        } catch (error) {
+            console.log(`Error in fetching competitors.`, error)
+        }
+    };
+
+    useEffect(() => {
+        fetchCompetitors()
+    }, [])
 
     return (
         <div className="">
@@ -31,7 +94,7 @@ const ModelPage = ({ params }: any) => {
             <div className='bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100'>
                 <div className='container-1 mx-auto px-4 sm:px-6 lg:px-8'>
                     <h2 className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-black leading-tight text-slate-900 py-4 sm:py-6'>
-                        Samsung Galaxy S24 Ultra
+                        {details.brandId.name} {details.name}
                     </h2>
                 </div>
             </div>
@@ -64,17 +127,17 @@ const ModelPage = ({ params }: any) => {
                         <div className='flex flex-col sm:flex-row gap-4'>
                             {/* Thumbnails */}
                             <div className='flex sm:flex-col gap-2 sm:gap-3 order-2 sm:order-1 overflow-x-auto sm:overflow-y-auto sm:max-h-100 scrollbar-none'>
-                                {demoImages.map((i) => (
+                                {details.images.map((i: { img: string, alt: string }) => (
                                     <div
-                                        key={i}
-                                        onClick={() => setSelectedImage(i)}
-                                        className={`shrink-0 w-20 sm:w-24 md:w-28 h-20 sm:h-24 md:h-28 rounded-lg overflow-hidden cursor-pointer border-2 transition-all duration-200 ${selectedImage === i
+                                        key={i.img}
+                                        onClick={() => setSelectedImage(i.img)}
+                                        className={`shrink-0 w-20 sm:w-24 md:w-28 h-20 sm:h-24 md:h-28 rounded-lg overflow-hidden cursor-pointer border-2 transition-all duration-200 ${selectedImage === i.img
                                             ? 'border-blue-600 shadow-md'
                                             : 'border-transparent hover:border-gray-300'
                                             }`}
                                     >
                                         <img
-                                            src={i}
+                                            src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${i.img}`}
                                             className='w-full h-full object-cover'
                                             alt="Phone thumbnail"
                                         />
@@ -86,9 +149,9 @@ const ModelPage = ({ params }: any) => {
                             <div className='flex-1 order-1 sm:order-2'>
                                 <div className='bg-white rounded-xl shadow-sm overflow-hidden aspect-4/3 sm:aspect-auto sm:h-100'>
                                     <img
-                                        src={selectedImage}
-                                        alt="Phone main view"
-                                        className='w-full h-full object-cover'
+                                        src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${details.images[0].img}`}
+                                        alt={details.images[0].alt}
+                                        className='w-full h-full object-cover p-1'
                                     />
                                 </div>
                             </div>
@@ -118,13 +181,13 @@ const ModelPage = ({ params }: any) => {
                                     <div className='flex items-center gap-3'>
                                         <span className='text-sm font-medium text-gray-600'>Price</span>
                                         <span className='text-gray-300'>—</span>
-                                        <span className='text-2xl font-black text-indigo-600'>$300</span>
+                                        <span className='text-2xl font-black text-indigo-600'>{`$ ${details.content.details.estimatedPrice.usa.min ?? 0} - ${details.content.details.estimatedPrice.usa.max} `}</span>
                                     </div>
 
                                     <div className='flex  gap-2'>
-                                        <button className='px-4 py-2 bg-orange-500 text-white rounded-lg font-medium text-sm sm:text-base shadow-sm hover:shadow transition-all duration-200'>
+                                        <Link href={'#price'} className='px-4 py-2 bg-orange-500 text-white rounded-lg font-medium text-sm sm:text-base shadow-sm hover:shadow transition-all duration-200'>
                                             View All Prices
-                                        </button>
+                                        </Link>
                                         <button className='px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium text-sm sm:text-base shadow-sm hover:shadow transition-all duration-200'>
                                             Compare Now
                                         </button>
@@ -198,7 +261,7 @@ const ModelPage = ({ params }: any) => {
             {/* Specification section */}
             <div id='spec'>
 
-                <SpecificationSection />
+                <SpecificationSection spec={details.specifications} name={details.name} />
             </div>
 
 
@@ -206,26 +269,20 @@ const ModelPage = ({ params }: any) => {
 
             <div id='competitors' className='container-1 mx-auto '>
                 <h2 className='text-center text-xl sm:text-xl md:text-xl lg:text-3xl xl:text-4xl font-black leading-tight text-slate-900 py-4 sm:py-6'>
-                    Top Compitators
+                    Top Competitors
                 </h2>
 
 
+                {competitors.length <= 0 && (<div className='flex items-center justify-center'>
+                    <div>    <Loading /></div>
+                </div>)}
                 <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
 
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-                    <div>
-                        <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                    </div>
-
-
+                    {competitors.map((c, i) => (
+                        <div key={i}>
+                            <TrendingPhoneCard image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${c?.images?.[0]?.img}`} name={c?.name} price={`$ ${c?.content?.estimatedPrice?.usa?.min}`} spec='6GB 128GB' link={`/model/${c?.slug}`} />
+                        </div>
+                    ))}
                 </div>
 
 
@@ -233,20 +290,57 @@ const ModelPage = ({ params }: any) => {
             </div>
 
             {/* Review Section */}
-            <div id='reviews' className='container-1 mx-auto px-2'>
-                <h2 className='text-center text-xl sm:text-xl md:text-xl lg:text-3xl xl:text-4xl font-black leading-tight text-slate-900 py-4 sm:py-6'>
-                    Review on Galaxy S24
-                </h2>
-                <p className='text-start leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque nesciunt quaerat qui ad minus illum quo praesentium, odit corrupti quia voluptatibus asperiores impedit libero similique est accusamus vero? Laborum temporibus officia nisi eius quos aspernatur ad, officiis harum tenetur maxime neque iure veniam sit! Sit reprehenderit recusandae vero. Id vel mollitia iusto vero dolores odio! Consequuntur doloribus ipsam, quisquam consectetur porro, similique odit dolores voluptatibus distinctio voluptas sapiente praesentium dignissimos inventore iure aperiam beatae obcaecati officia modi. Aut sed, reprehenderit quia, rerum in necessitatibus voluptatum praesentium fuga voluptate animi, porro temporibus fugiat ipsam perspiciatis aliquid. Cupiditate quo asperiores debitis optio, tempore necessitatibus voluptates iste ipsa quos exercitationem corrupti rem tempora assumenda alias adipisci accusamus ducimus reprehenderit ex. Sed minima ratione adipisci distinctio iusto blanditiis placeat similique, quo maiores repudiandae soluta corrupti obcaecati provident rerum corporis. Dolor rem sint recusandae doloremque incidunt ullam maiores eum repellendus dicta, quam libero distinctio vero voluptatem eveniet qui ipsum optio. Asperiores odio cum magni ex. Dicta repellat incidunt corrupti repudiandae dolore. In, sit repudiandae odio illum enim atque error suscipit aperiam voluptatibus voluptates sint molestias ex nostrum aut deleniti sunt quod, nemo voluptatem dolore debitis? Reprehenderit, pariatur quaerat alias aperiam quo error neque esse eaque.</p>
+            <section
+                id="reviews"
+                className="container-1 mx-auto px-4 py-10 md:py-16"
+            >
+                <div className="max-w-5xl mx-auto">
+                    <div className="border-l-4 border-blue-600 pl-5 mb-8">
+                        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-blue-600">
+                            Expert Review
+                        </p>
+
+                        <h2 className="mt-2 text-3xl md:text-4xl lg:text-5xl font-black text-slate-900 leading-tight">
+                            Review on {details.name}
+                        </h2>
+                    </div>
+
+                    <article className="max-w-4xl">
+                        <p className="text-base md:text-lg leading-8 text-slate-700 whitespace-pre-line">
+                            {details.content.humanReview}
+                        </p>
+                    </article>
+                </div>
+            </section>
+
+            {/* Divider */}
+            <div className="container-1 mx-auto px-4">
+                <div className="max-w-5xl mx-auto border-t border-slate-200" />
             </div>
 
             {/* AI Review Section */}
-            <div id='ai-review' className='container-1 mx-auto px-2'>
-                <h2 className='text-center text-xl sm:text-xl md:text-xl lg:text-3xl xl:text-4xl font-black leading-tight text-slate-900 py-4 sm:py-6'>
-                    Ai  Review on Galaxy S24
-                </h2>
-                <p className='text-start leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque nesciunt quaerat qui ad minus illum quo praesentium, odit corrupti quia voluptatibus asperiores impedit libero similique est accusamus vero? Laborum temporibus officia nisi eius quos aspernatur ad, officiis harum tenetur maxime neque iure veniam sit! Sit reprehenderit recusandae vero. Id vel mollitia iusto vero dolores odio! Consequuntur doloribus ipsam, quisquam consectetur porro, similique odit dolores voluptatibus distinctio voluptas sapiente praesentium dignissimos inventore iure aperiam beatae obcaecati officia modi. Aut sed, reprehenderit quia, rerum in necessitatibus voluptatum praesentium fuga voluptate animi, porro temporibus fugiat ipsam perspiciatis aliquid. Cupiditate quo asperiores debitis optio, tempore necessitatibus voluptates iste ipsa quos exercitationem corrupti rem tempora assumenda alias adipisci accusamus ducimus reprehenderit ex. Sed minima ratione adipisci distinctio iusto blanditiis placeat similique, quo maiores repudiandae soluta corrupti obcaecati provident rerum corporis. Dolor rem sint recusandae doloremque incidunt ullam maiores eum repellendus dicta, quam libero distinctio vero voluptatem eveniet qui ipsum optio. Asperiores odio cum magni ex. Dicta repellat incidunt corrupti repudiandae dolore. In, sit repudiandae odio illum enim atque error suscipit aperiam voluptatibus voluptates sint molestias ex nostrum aut deleniti sunt quod, nemo voluptatem dolore debitis? Reprehenderit, pariatur quaerat alias aperiam quo error neque esse eaque.</p>
-            </div>
+            <section
+                id="ai-review"
+                className="container-1 mx-auto px-4 py-10 md:py-16"
+            >
+                <div className="max-w-5xl mx-auto">
+                    <div className="border-l-4 border-emerald-600 pl-5 mb-8">
+                        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-emerald-600">
+                            AI Analysis
+                        </p>
+
+                        <h2 className="mt-2 text-3xl md:text-4xl lg:text-5xl font-black text-slate-900 leading-tight">
+                            AI Review on {details.name}
+                        </h2>
+                    </div>
+
+                    <article className="max-w-4xl">
+                        <p className="text-base md:text-lg leading-8 text-slate-700 whitespace-pre-line">
+                            {details.content.aiReview}
+                        </p>
+                    </article>
+                </div>
+            </section>
 
             {/* Faqs section */}
 
@@ -254,11 +348,11 @@ const ModelPage = ({ params }: any) => {
                 <div className='container-1 mx-auto py-10 lg:py-18'>
                     <div className='mb-4 md:mb-6  '>
                         <h2 className='text-center text-xl sm:text-xl md:text-xl lg:text-3xl xl:text-4xl font-black leading-tight text-slate-900 py-4 sm:py-6'>
-                            FAQ's About Samsung Phones
+                            FAQ's About {details.name}
                         </h2>
                     </div>
                     <div>
-                        <FaqSection faqs={samsungFaqs} />
+                        <FaqSection faqs={details.content.faqs} />
                     </div>
                 </div>
             </section>

@@ -47,3 +47,133 @@ export const singleBrand = async (slug: string) => {
         throw error;
     }
 }
+
+export const seriesByBrand = async (id: string) => {
+    try {
+        const res = await fetch(`${baseUrl}/series/by-brand/${id}`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch series by brand");
+        }
+
+        return data.series;
+    } catch (error) {
+        console.error("Failed to fetch series by brand:", error);
+        throw error;
+    }
+}
+
+export const singleSeries = async (slug: string) => {
+    try {
+        const res = await fetch(`${baseUrl}/series/single/${slug}`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch series");
+        }
+
+        return data.series;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
+
+export const homePageModels = async () => {
+    try {
+        const res = await fetch(`${baseUrl}/model/home-page`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch series");
+        };
+
+        let allModels = {
+            tranding: data.trandingModel,
+            new: data.newModel,
+            popular: data.popularModel
+        };
+
+        return allModels;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
+
+export const singleModel = async (slug: string) => {
+    try {
+        const res = await fetch(`${baseUrl}/model/single/${slug}`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch Model");
+        }
+
+        return data.model;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
+
+export const competitorModels = async ({ min, max }: { min: number, max: number }) => {
+    try {
+        const res = await fetch(`${baseUrl}/model/competitor`, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ min, max }),
+        });
+
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch Model");
+        }
+
+        return data.models;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
