@@ -1,5 +1,5 @@
 'use client'
-import React, { useRef } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Navigation } from 'swiper/modules';
@@ -24,6 +24,9 @@ import MobileFinder from '../shared/MobileFinder';
 import Link from 'next/link';
 import FaqSection from '../shared/FaqSection';
 import { useMyContext } from '@/context/Context';
+import { modelsBySeries } from '@/app/action';
+import Loading from '@/app/loading';
+import { useModel } from '@/context/ModelContext';
 
 
 
@@ -111,6 +114,27 @@ const SeriesPage = ({ details }: { details: any }) => {
     ];
     const { brands } = useMyContext()
     const swiperRef = useRef<SwiperType>(null)
+    const [search, setSearch] = useState('')
+    const [model, setModels] = useState<any[]>([]);
+    const [error, setError] = useState(false)
+    const [loading, setLoading] = useState(false)
+    const { models } = useModel()
+
+    const fetchModels = async () => {
+        setLoading(true)
+        try {
+            const models = await modelsBySeries(details._id)
+            setModels(models)
+        } catch (err) {
+            setError(true)
+        } finally {
+            setLoading(false)
+        }
+    }
+
+    useEffect(() => {
+        fetchModels()
+    }, [details._id])
 
     return (
         <>
@@ -121,7 +145,7 @@ const SeriesPage = ({ details }: { details: any }) => {
                     {/* Left Content */}
                     <div className="flex-1">
                         <h1 className="text-4xl font-black leading-[1.1] text-slate-900 sm:text-5xl md:text-6xl lg:text-7xl">
-                            {details.hero.title.replace('Phones','').replace(`${details.brandId.name}`, '')}
+                            {details.hero.title.replace('Phones', '').replace(`${details.brandId.name}`, '')}
                             <span className="mt-2 block bg-linear-to-r from-sky-600 via-blue-600 to-indigo-600 bg-clip-text text-transparent">
                                 {details.hero.subtitle}
                             </span>
@@ -134,14 +158,16 @@ const SeriesPage = ({ details }: { details: any }) => {
                         {/* Input & buttons */}
                         <div className='my-4'>
                             <input type="text"
+                                value={search}
+                                onChange={e => setSearch(e.target.value)}
                                 placeholder='Search Galaxy Phones Futures'
                                 className='shadow-lg shadow-gray-300 rounded-3xl bg-white  border-gray-900 w-full md:w-[80%] h-12 py-2 px-4'
                             />
                             <div className='my-2 mt-4 flex items-center gap-2'>
 
-                                <button className='py-2 px-4 rounded-3xl bg-dark-blue text-white hover:bg-dark-blue/90 '>Search Phone</button>
+                                <Link href={`/collection?search=${search}`} className='py-2 px-4 rounded-3xl bg-dark-blue text-white hover:bg-dark-blue/90 '>Search Phone</Link>
 
-                                <button className='py-2 px-4 rounded-3xl border border-dark-blue text-dark-blue  hover:bg-dark-blue hover:text-white '>Compare Phone</button>
+                                {/* <button className='py-2 px-4 rounded-3xl border border-dark-blue text-dark-blue  hover:bg-dark-blue hover:text-white '>Compare Phone</button> */}
                             </div>
                         </div>
 
@@ -208,7 +234,7 @@ const SeriesPage = ({ details }: { details: any }) => {
                                             Price Range
                                         </p>
                                         <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                                            $  {details.hero.stats.priceRange}
+                                            {details.hero.stats.priceRange}
                                         </h3>
                                     </div>
                                 </div>
@@ -287,29 +313,34 @@ const SeriesPage = ({ details }: { details: any }) => {
                         Latest {details.name} Models
                     </h1>
 
-                    <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
-
-                        <div>
-                            <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                        </div>
-                        <div>
-                            <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                        </div>
-                        <div>
-                            <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                        </div>
-                        <div>
-                            <TrendingPhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkizTATpTC79Mh9Wp95u5vkaOINHPI8PYEzvrUcJOItg&s' name='Galaxy S22 Ultra plus' price='$ 30000' spec='6GB 128GB' />
-                        </div>
-
-
+                    <div className='text-center flex items-center justify-center'>
+                        {loading && (<>
+                            <Loading />
+                        </>)}
+                        {error && (<>
+                            <p className='text-center text-lg text-red-600 mt-6'>Error in Loading Models</p>
+                        </>)}
                     </div>
+
+                    {model.length <= 1 ? <>
+                        <div className='text-center text-lg  mt-6'>
+                            No Models found.
+                        </div>
+                    </> : (
+                        <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
+                            {model.map((m) => (
+                                <div>
+                                    <TrendingPhoneCard link={`/model/${m.slug}`} image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${m.images[0].img}`} name={m.name} price={`$ ${m.content.details.estimatedPrice.usa.min}`} />
+                                </div>
+                            ))}
+
+                        </div>
+                    )}
                 </div>
 
             </section >
 
             {/* Popular Models */}
-
             <div className='container-1 mx-auto py-10 lg:py-18 min-w-20 max-w-20'>
                 <div className='max-w-3xl mx-auto text-center'>
                     <h2 className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight'>
@@ -340,7 +371,6 @@ const SeriesPage = ({ details }: { details: any }) => {
 
 
                 </div>
-
 
                 <div>
                     <Swiper
@@ -375,47 +405,16 @@ const SeriesPage = ({ details }: { details: any }) => {
                         spaceBetween={30}
                         className='py-6 px-2'
                     >
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='Tranding' price='5000' />
-                        </SwiperSlide>
+                        {models?.tranding.map((m: any, i: any) => (
+                            <div key={i}>
+                                <SwiperSlide >
+                                    <PhoneCard image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${m.images[0].img}`} name={m.name} badge='new' price={m?.content?.details.estimatedPrice?.usa?.min} link={`/model/${m.slug}`} chip={m.specifications.performance.chipset.name ?? ''} battery={m.specifications.battery.capacity} />
+                                </SwiperSlide>
 
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='Tranding' price='5000' />
-                        </SwiperSlide>
-
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='Tranding' price='5000' />
-                        </SwiperSlide>
-
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='Tranding' price='5000' />
-                        </SwiperSlide>
-
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='Tranding' price='5000' />
-                        </SwiperSlide>
-
-                        <SwiperSlide>
-                            <PhoneCard image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZASmGAKqkOlHPGGNcumEnRI661LmbIizd0V_7qhp5zA&s=10' name='Galaxy S24 Ultra' badge='Tranding' price='5000' />
-                        </SwiperSlide>
+                            </div>))}
                     </Swiper>
                 </div>
             </div >
-
-            {/* Collection Section */}
-
-            <div className="container-1 relative z-10 py-12 md:py-20 px-4 sm:px-6">
-
-                <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                    Find Your Perfect {details.name} Phone
-                </h1>
-
-                <div className='my-4 md:my-6'>
-                    <MobileFinder />
-                </div>
-
-            </div>
-
 
             {/* Faqs Section */}
             <section className='relative overflow-hidden bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100'>
@@ -441,18 +440,20 @@ const SeriesPage = ({ details }: { details: any }) => {
                 <div>
                     <div className='flex items-center justify-center flex-wrap gap-4 mt-4 md:mt-6'>
                         {brands.slice(0, 8).map((b) => (
-                            <Link href={`/brand/${b.slug}`}
-                                key={b.id}
-                                className='rounded-md bg-white-1 p-2 transition-all duration-200 hover:-translate-y-1.5 flex flex-col items-center justify-center gap-1 shrink-0'
-                            >
-                                <img
-                                    src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${b.logo}`}
-                                    loading='lazy'
-                                    alt={b.name}
-                                    className='w-30 h-30'
-                                />
-                                <span className='text-sm md:text-base font-black'>{b.name}</span>
-                            </Link>
+                            <div key={b.slug}>
+                                <Link href={`/brand/${b.slug}`}
+                                    key={b.id}
+                                    className='rounded-md bg-white-1 p-2 transition-all duration-200 hover:-translate-y-1.5 flex flex-col items-center justify-center gap-1 shrink-0'
+                                >
+                                    <img
+                                        src={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${b.logo}`}
+                                        loading='lazy'
+                                        alt={b.name}
+                                        className='w-30 h-30'
+                                    />
+                                    <span className='text-sm md:text-base font-black'>{b.name}</span>
+                                </Link>
+                            </div>
                         ))}
                     </div>
                 </div>

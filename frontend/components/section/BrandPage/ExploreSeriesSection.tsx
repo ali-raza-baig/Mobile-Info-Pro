@@ -25,31 +25,33 @@ const ExploreSeriesSection = ({ id, name }: { id: any, name: string }) => {
     }, [])
 
     return (
-        <div className="container-1 relative z-10 py-6 md:py-10 px-4 sm:px-6">
-            <div>
-                <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
-                    Explore {name} Series
-                </h1>
-            </div>
+        <section className='bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100 overflow-hidden'>
+            <div className="container-1 relative z-10 py-6 md:py-10 px-4 sm:px-6">
+                <div>
+                    <h1 className="text-center text-2xl font-black leading-[1.1] text-slate-900 sm:text-3xl md:text-4xl lg:text-5xl">
+                        Explore {name} Series
+                    </h1>
+                </div>
 
-            {series.length <= 0 && (<>
-                <Loading />
-            </>)}
+                {series.length <= 0 && (<>
+                    <Loading />
+                </>)}
 
-            {series.length >= 2 && (
-                <>
-                    <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
-                        {series?.map((s) => (
-                            <SeriesCard key={s._id} image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${s.heroImage}`} name={s.name} link={s.slug} />
-                        ))}
-                        <div>
+                {series.length >= 2 && (
+                    <>
+                        <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
+                            {series?.map((s) => (
+                                <SeriesCard key={s._id} image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${s.heroImage}`} name={s.name} link={s.slug} />
+                            ))}
+                            <div>
 
+                            </div>
                         </div>
-                    </div>
-                </>
-            )}
+                    </>
+                )}
 
-        </div>
+            </div>
+        </section>
     )
 }
 

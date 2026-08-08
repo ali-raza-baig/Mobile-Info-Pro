@@ -13,9 +13,9 @@ const BrandPage = ({ details }: any) => {
             <BrandHero brandHero={details.hero} heroImage={details.heroImage} />
             <BrandAboutSection brandAbout={details.about}/>
             <ExploreSeriesSection id={details._id} name={details.name} />
-            <ExploreLatest name={details.name} />
-            <CollectionSection name={details.name}/>
-            <BlogSection />
+            <ExploreLatest name={details.name} id={details._id} />
+            {/* <CollectionSection name={details.name}/> */}
+            {/* <BlogSection /> */}
             <BrandFaqSection brandFaq={details.faqs} name={details.name}/>
         </div>
     )

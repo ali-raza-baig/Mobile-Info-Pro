@@ -1,8 +1,11 @@
-import React from 'react'
+'use client'
+import Link from 'next/link'
+import React, { useState } from 'react'
 import { FaCheck } from 'react-icons/fa'
 import { TiBackspace } from 'react-icons/ti'
 
 const BrandHero = ({ brandHero, heroImage }: { brandHero: any, heroImage: string }) => {
+    const [search, setSearch] = useState('')
     return (
         <section className='relative overflow-hidden bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100'>
             <div className="flex flex-col-reverse items-center gap-6 px-1 py-6 sm:px-2 md:flex-row md:py-4 md:pb-10 max-w-6xl mx-auto">
@@ -23,14 +26,16 @@ const BrandHero = ({ brandHero, heroImage }: { brandHero: any, heroImage: string
                     {/* Input & buttons */}
                     <div className='my-4 '>
                         <input type="text"
-                            placeholder='Search Galaxy Phones Futures'
+                            value={search}
+                            onChange={e => setSearch(e.target.value)}
+                            placeholder='Search Phones Futures'
                             className='shadow-lg shadow-gray-300 rounded-3xl bg-white  border-gray-900 w-full md:w-[80%] h-12 py-2 px-4'
                         />
                         <div className='my-2 mt-4 flex items-center gap-2'>
 
-                            <button className='py-2 px-4 rounded-3xl bg-dark-blue text-white hover:bg-dark-blue/90 '>Search Phone</button>
+                            <Link href={`/collection?search=${search}`} className='py-2 px-4 rounded-3xl bg-dark-blue text-white hover:bg-dark-blue/90 ' >Search Phone</Link>
 
-                            <button className='py-2 px-4 rounded-3xl border border-dark-blue text-dark-blue  hover:bg-dark-blue hover:text-white '>Compare Phone</button>
+                            {/* <button className='py-2 px-4 rounded-3xl border border-dark-blue text-dark-blue  hover:bg-dark-blue hover:text-white '>Compare Phone</button> */}
                         </div>
                     </div>
 

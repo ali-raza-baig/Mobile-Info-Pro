@@ -87,12 +87,12 @@ const PhoneCard = ({
                         </button>
                     )}
 
-                    <Link href={link ? link : ''}
+                    <button 
                         className={`rounded-xl bg-dark-emerald px-4 py-2 font-medium text-white transition-colors hover:opacity-95 ${compare ? "flex-1" : "w-full"
                             }`}
                     >
                         View Details
-                    </Link>
+                    </button>
                 </div>
             </div>
         </Link>

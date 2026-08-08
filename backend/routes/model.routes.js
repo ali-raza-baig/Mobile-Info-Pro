@@ -1,5 +1,5 @@
 import express from 'express';
-import { byBrandModelController, bySeriesModelController,  competitorsController,  createModelController, deleteModelController, getAllModelController, homePageModelController, singleModelController, updateModelController } from '../controllers/model.controller.js';
+import { byBrandModelController, bySeriesModelController, competitorsController, createModelController, deleteModelController, getAllModelController, getProductsController, homePageModelController, singleModelController, updateModelController } from '../controllers/model.controller.js';
 
 const routes = express.Router()
 
@@ -12,5 +12,6 @@ routes.patch('/update/:slug', updateModelController)
 routes.delete('/delete', deleteModelController)
 routes.get('/home-page', homePageModelController)
 routes.post('/competitor', competitorsController)
+routes.get('/collection', getProductsController)
 
 export default routes;

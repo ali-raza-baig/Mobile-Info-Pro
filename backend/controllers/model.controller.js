@@ -152,7 +152,7 @@ export const byBrandModelController = async (req, res) => {
     try {
         const { brandid } = req.params;
 
-        const modelByBrand = await phoneModel.find({ brandId: brandid, isActive: true })
+        const modelByBrand = await phoneModel.find({ brandId: brandid, isActive: true }).select('name images _id slug content.details.estimatedPrice.usa').limit(16)
 
         if (!modelByBrand) {
             return res.status(400).send({
@@ -180,7 +180,7 @@ export const bySeriesModelController = async (req, res) => {
     try {
         const { seriesid } = req.params;
 
-        const modelBySeries = await phoneModel.find({ seriesId: seriesid, isActive: true })
+        const modelBySeries = await phoneModel.find({ seriesId: seriesid, isActive: true }).select('name images _id slug content.details.estimatedPrice.usa').limit(16)
 
         if (!modelBySeries) {
             return res.status(400).send({
@@ -258,7 +258,11 @@ export const homePageModelController = async (req, res) => {
 export const competitorsController = async (req, res) => {
     try {
         const { min, max } = req.body;
-        const models = await phoneModel.find({}).select('name content.details.estimatedPrice slug _id images').limit(12).lean();
+        const models = await phoneModel.find({
+            // 'content.details.estimatedPrice.usa.min': { $gte: min },
+            'content.details.estimatedPrice.usa.max': { $lte: max },
+            isActive: true
+        }).select('name content.details.estimatedPrice slug _id images').limit(12).lean();
 
         res.status(200).send({
             message: 'Best compatitors',
@@ -273,3 +277,114 @@ export const competitorsController = async (req, res) => {
         })
     }
 }
+
+export const getProductsController = async (req, res) => {
+    console.log(`Query from frontend`, req.query)
+    try {
+        const {
+            search = "",
+            sort = "title_asc",
+            priceFrom,
+            priceTo,
+            brands,
+            colors,
+            page = 1,
+            limit = 12,
+        } = req.query;
+
+        const currentPage = Math.max(1, Number(page));
+        const perPage = Math.min(100, Math.max(1, Number(limit)));
+        const skip = (currentPage - 1) * perPage;
+
+        const filter = {};
+
+        // Search
+        if (search.trim()) {
+            filter.name = {
+                $regex: search.trim(),
+                $options: "i",
+            };
+        }
+
+        if (priceFrom || priceTo) {
+            if (priceFrom) {
+                filter["content.details.estimatedPrice.usa.max"] = {
+                    $gte: Number(priceFrom)
+                };
+            }
+
+            if (priceTo) {
+                filter["content.details.estimatedPrice.usa.min"] = {
+                    $lte: Number(priceTo)
+                };
+            }
+        }
+
+        // Brands
+        if (brands) {
+            filter.brandId = {
+                $in: brands.split(",").filter(Boolean),
+            };
+        }
+
+        // Colors
+        if (colors) {
+            filter.colors = {
+                $in: colors
+                    .split(",")
+                    .map((c) => c.trim().toLowerCase())
+                    .filter(Boolean),
+            };
+        }
+
+        // Sorting
+        const sortOptions = {
+            title_asc: { _id: 1 },
+            title_desc: { _id: -1 },
+            price_asc: { 'content.details.estimatedPrice.usa.min': 1 },
+            price_desc: {
+                'content.details.estimatedPrice.usa.min': - 1
+            },
+        };
+
+        const [products, total] = await Promise.all([
+            phoneModel.find({ ...filter, contentCompleted: true, specCompleted: true })
+                .populate("brandId", "name _id slug")
+                .sort(sortOptions[sort] || { name: 1 })
+                .skip(skip)
+                .limit(perPage)
+                .lean(),
+
+            phoneModel.countDocuments(filter),
+        ]);
+
+        const formattedProducts = products.map((product) => ({
+            id: product._id,
+            slug: product.slug,
+            name: product.name,
+            brand: product.brand?.name || product.brandId,
+            colors: product.colors || [],
+            price: product.price,
+            images: product.images || [],
+            content: product.content,
+        }));
+
+        return res.status(200).json({
+            success: true,
+            products: formattedProducts,
+            pagination: {
+                total,
+                page: currentPage,
+                limit: perPage,
+                totalPages: Math.ceil(total / perPage),
+            },
+        });
+    } catch (err) {
+        console.error("Product Controller Error:", err);
+
+        return res.status(500).json({
+            success: false,
+            message: "Something went wrong while fetching products.",
+        });
+    }
+};

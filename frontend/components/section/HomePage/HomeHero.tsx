@@ -1,4 +1,5 @@
 'use client'
+import Link from "next/link";
 import React, { useState, useEffect, useRef } from "react";
 import {
     FiSearch,
@@ -85,10 +86,12 @@ const HomeHero = () => {
                                 />
 
                                 {/* Button */}
-                                <button className="m-2 flex h-11 items-center gap-2 rounded-xl bg-gradient-to-r from-sky-600 to-blue-700 px-6 font-medium text-white transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-sky-300 active:scale-95">
+                                <Link href={`/collection?search=${search}`} className="m-2 flex h-11 items-center gap-2 rounded-xl bg-gradient-to-r from-sky-600 to-blue-700 px-6 font-medium text-white transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-sky-300 active:scale-95"
+
+                                >
                                     <FiSearch />
                                     Search
-                                </button>
+                                </Link>
                             </div>
 
                             <div className="md:hidden flex flex-col items-center ">

@@ -15,7 +15,7 @@ const page = () => {
       <TrandingPhoneSection />
       <NewReleasedSection />
       <TopRatedSection />
-      <BlogSection />
+      {/* <BlogSection /> */}
     </div>
   )
 }

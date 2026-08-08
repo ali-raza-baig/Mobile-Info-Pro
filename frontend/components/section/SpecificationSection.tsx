@@ -398,7 +398,7 @@ const SpecificationSection = ({ spec, name }: any) => {
                         <div className="mb-4">
                             <h4 className="text-sm font-semibold text-indigo-700 mb-3">Front Camera</h4>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                                {deviceSpecification?.camera.front.map((cam, idx) => (
+                                {deviceSpecification?.camera.front.map((cam: any, idx: any) => (
                                     <div key={idx} className="bg-indigo-50/50 rounded-xl p-3 border border-indigo-100">
                                         <div className="flex items-center justify-between mb-2">
                                             <span className="text-md font-medium text-indigo-600">{cam.lensType}</span>
@@ -417,7 +417,7 @@ const SpecificationSection = ({ spec, name }: any) => {
                         <div>
                             <h4 className="text-sm font-semibold text-indigo-700 mb-2">Video Recording</h4>
                             <div className="flex flex-wrap gap-2">
-                                {deviceSpecification?.camera.videoRecording.rear.map((res, idx) => (
+                                {deviceSpecification?.camera.videoRecording.rear.map((res: any, idx: any) => (
                                     <span key={idx} className="px-3 py-1 bg-indigo-100 text-indigo-700 text-xs font-medium rounded-full border border-indigo-200">
                                         {res}
                                     </span>
@@ -425,7 +425,7 @@ const SpecificationSection = ({ spec, name }: any) => {
                             </div>
                             <div className="flex flex-wrap gap-2 mt-2">
                                 <span className="text-xs text-gray-500 font-medium">Features:</span>
-                                {deviceSpecification?.camera.videoRecording.features.map((feature, idx) => (
+                                {deviceSpecification?.camera.videoRecording.features.map((feature: any, idx: any) => (
                                     <span key={idx} className="px-2 py-0.5 bg-indigo-50 text-indigo-600 text-xs rounded-full">
                                         {feature}
                                     </span>
@@ -486,7 +486,7 @@ const SpecificationSection = ({ spec, name }: any) => {
                     </div>
                     <div className="p-4 sm:p-6">
                         <div className="flex flex-wrap gap-2">
-                            {deviceSpecification?.sensors.map((sensor, idx) => (
+                            {deviceSpecification?.sensors.map((sensor: any, idx: any) => (
                                 <span key={idx} className="px-3 py-1.5 bg-indigo-50 text-indigo-700 text-sm font-medium rounded-lg border border-indigo-100">
                                     {sensor}
                                 </span>
@@ -507,7 +507,7 @@ const SpecificationSection = ({ spec, name }: any) => {
                     </div>
                     <div className="p-4 sm:p-6">
                         <div className="flex flex-wrap gap-2 sm:gap-3">
-                            {deviceSpecification?.extraFeatures.map((feature, idx) => (
+                            {deviceSpecification?.extraFeatures.map((feature: any, idx: any) => (
                                 <span key={idx} className="px-3 sm:px-4 py-1.5 sm:py-2 bg-indigo-50 text-indigo-700 text-xs sm:text-sm font-medium rounded-lg border border-indigo-100">
                                     {feature}
                                 </span>

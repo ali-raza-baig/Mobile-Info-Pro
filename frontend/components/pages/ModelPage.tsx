@@ -14,6 +14,7 @@ import {
 } from "react-icons/fa6";
 import { competitorModels } from '@/app/action';
 import Loading from '../layout/Loading';
+import EstimatedPriceCard from '../global/cards/EstimatedPriceCard';
 
 
 const samsungFaqs: any[] = []
@@ -31,7 +32,7 @@ const menu = [
 
 
 const ModelPage = ({ details }: any) => {
-
+    const priceObj = details?.content?.details.estimatedPrice
     const phoneSpecifications = [
         {
             id: 1,
@@ -77,7 +78,7 @@ const ModelPage = ({ details }: any) => {
 
     const fetchCompetitors = async () => {
         try {
-            const models = await competitorModels({ max: 0, min: 0 })
+            const models = await competitorModels({ max: priceObj.usa.max, min: priceObj.usa.min })
             setCompetitors(models)
         } catch (error) {
             console.log(`Error in fetching competitors.`, error)
@@ -100,7 +101,7 @@ const ModelPage = ({ details }: any) => {
             </div>
 
             {/* Menu Tabs */}
-            <div className='sticky top-16 z-50 bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100'>
+            <div className='sticky top-18 z-50 bg-linear-to-br from-indigo-100 via-sky-50 to-blue-100'>
                 <div className='container-1 mx-auto px-4 sm:px-6 lg:px-8'>
                     <div className='flex items-center md:justify-center overflow-x-auto gap-1 sm:gap-2 py-2 scrollbar-hide'>
                         {menu.map((m) => (
@@ -188,9 +189,9 @@ const ModelPage = ({ details }: any) => {
                                         <Link href={'#price'} className='px-4 py-2 bg-orange-500 text-white rounded-lg font-medium text-sm sm:text-base shadow-sm hover:shadow transition-all duration-200'>
                                             View All Prices
                                         </Link>
-                                        <button className='px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium text-sm sm:text-base shadow-sm hover:shadow transition-all duration-200'>
+                                        {/* <button className='px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium text-sm sm:text-base shadow-sm hover:shadow transition-all duration-200'>
                                             Compare Now
-                                        </button>
+                                        </button> */}
                                     </div>
                                 </div>
                             </div>
@@ -206,54 +207,42 @@ const ModelPage = ({ details }: any) => {
                     Available Variants & Pricing
                 </h2>
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
-                    <div className='bg-white rounded-xl shadow-sm p-4 sm:p-6'>
-                        <div className='grid grid-cols-2 gap-4 '>
-                            {/* Left Column - Storage, Price, Store */}
-                            <div className='space-y-3'>
-                                {/* Storage */}
-                                <div className='flex-1 flex flex-wrap items-center gap-1 text-sm sm:text-base'>
-                                    <span className='font-medium text-gray-600'>Storage</span>
-                                    <span className='text-gray-300'>—</span>
-                                    <span className='font-semibold text-gray-900'>6GB | 128GB</span>
-                                </div>
+                    {/* Estimated price cards */}
+                    {priceObj.usa && (
+                        <>
 
+                            <EstimatedPriceCard price={`${priceObj.usa.currency} ${priceObj.usa.min} - ${priceObj.usa.max}`}
+                                region='USA'
+                            />
+                        </>
+                    )}
 
-                                {/* Price */}
-                                <div className='flex-1 flex flex-wrap items-center gap-1 text-sm sm:text-base'>
-                                    <span className='font-medium text-gray-600'>Price</span>
-                                    <span className='text-gray-300'>—</span>
-                                    <span className='font-semibold text-indigo-600 text-lg'>$3,000</span>
-                                </div>
+                    {priceObj.uk && (
+                        <>
 
+                            <EstimatedPriceCard price={`${priceObj.uk.currency} ${priceObj.uk.min} - ${priceObj.uk.max}`}
+                                region='UK'
+                            />
+                        </>
+                    )}
 
-                            </div>
+                    {priceObj.canada && (
+                        <>
 
-                            {/* Right Column - Region and Action */}
-                            <div className=''>
-                                {/* Region */}
-                                <div className='flex-1 flex flex-wrap items-center gap-1 text-sm sm:text-base'>
-                                    <span className='font-medium text-gray-600'>Region</span>
-                                    <span className='text-gray-300'>—</span>
-                                    <span className='font-semibold text-gray-900'>UK</span>
-                                </div>
+                            <EstimatedPriceCard price={`${priceObj.canada.currency} ${priceObj.canada.min} - ${priceObj.canada.max}`}
+                                region='Canada'
+                            />
+                        </>
+                    )}
 
-                                {/* Store */}
+                    {priceObj.china && (
+                        <>
 
-                                <div className='flex-1 flex flex-wrap items-center gap-1 text-sm sm:text-base'>
-                                    <span className='font-medium text-gray-600'>Store</span>
-                                    <span className='text-gray-300'>—</span>
-                                    <span className='font-semibold text-gray-900'>Amazon</span>
-                                </div>
-                                {/* Action Button */}
-                                <div className='mt-4 sm:mt-6'>
-                                    <Link href={'/'} className='text-white-1 bg-dark-blue px-4 py-2 rounded-md'>
-                                        <span className=''>Go to Store</span>
-
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                            <EstimatedPriceCard price={`${priceObj.china.currency} ${priceObj.china.min} - ${priceObj.china.max}`}
+                                region='China'
+                            />
+                        </>
+                    )}
 
                 </div>
             </div>
@@ -274,13 +263,15 @@ const ModelPage = ({ details }: any) => {
 
 
                 {competitors.length <= 0 && (<div className='flex items-center justify-center'>
-                    <div>    <Loading /></div>
+                    <div className='text-center text-lg'>
+                        No Compitators found.
+                    </div>
                 </div>)}
                 <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-2 mt-4 md:mt-6'>
 
                     {competitors.map((c, i) => (
                         <div key={i}>
-                            <TrendingPhoneCard image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${c?.images?.[0]?.img}`} name={c?.name} price={`$ ${c?.content?.estimatedPrice?.usa?.min}`} spec='6GB 128GB' link={`/model/${c?.slug}`} />
+                            <TrendingPhoneCard image={`${process.env.NEXT_PUBLIC_URL_IMAGES}/${c?.images?.[0]?.img}`} name={c?.name} price={`$ ${c?.content?.details.estimatedPrice?.usa?.min}`}  link={`/model/${c?.slug}`} />
                         </div>
                     ))}
                 </div>
@@ -307,7 +298,7 @@ const ModelPage = ({ details }: any) => {
 
                     <article className="max-w-4xl">
                         <p className="text-base md:text-lg leading-8 text-slate-700 whitespace-pre-line">
-                            {details.content.humanReview}
+                            {details.content.details.humanReview}
                         </p>
                     </article>
                 </div>
@@ -336,7 +327,7 @@ const ModelPage = ({ details }: any) => {
 
                     <article className="max-w-4xl">
                         <p className="text-base md:text-lg leading-8 text-slate-700 whitespace-pre-line">
-                            {details.content.aiReview}
+                            {details.content.details.aiReview}
                         </p>
                     </article>
                 </div>
@@ -362,3 +353,4 @@ const ModelPage = ({ details }: any) => {
 }
 
 export default ModelPage
+

@@ -177,3 +177,75 @@ export const competitorModels = async ({ min, max }: { min: number, max: number 
         throw error;
     }
 }
+
+export const getProducts = async (query = '') => {
+    try {
+        const res = await fetch(`${baseUrl}/model/collection?${query}`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch Model");
+        }
+
+        return data;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
+
+export const modelsByBrand = async (id: string) => {
+    try {
+        const res = await fetch(`${baseUrl}/model/by-brand/${id}`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch Model");
+        }
+
+        return data.model;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
+
+export const modelsBySeries = async (id: string) => {
+    try {
+        const res = await fetch(`${baseUrl}/model/by-series/${id}`, {
+            method: "GET",
+            redirect: 'follow'
+        });
+
+        if (!res.ok) {
+            throw new Error(`HTTP Error: ${res.status}`);
+        }
+
+        const data = await res.json();
+
+        if (!data.success) {
+            throw new Error(data.message || "Failed to fetch Model");
+        }
+
+        return data.model;
+    } catch (error) {
+        console.error("Failed to fetch series:", error);
+        throw error;
+    }
+}
