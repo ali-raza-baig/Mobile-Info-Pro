@@ -479,6 +479,7 @@ const SpecificationSection = ({ spec, name }: any) => {
                     <div className="bg-gradient-to-r from-indigo-600 to-blue-600 px-4 sm:px-6 py-3 sm:py-4">
                         <h3 className="text-white font-bold text-sm sm:text-base tracking-wide flex items-center gap-2">
                             <svg className="w-4 h-4 sm:w-5 sm:h-5" fill="currentColor" viewBox="0 0 20 20">
+                                {/* test line */}
                                 <path fillRule="evenodd" d="M5 2a1 1 0 011 1v1h8V3a1 1 0 011-1h1a2 2 0 012 2v12a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h1zm0 4h10v10H5V6z" clipRule="evenodd" />
                             </svg>
                             Sensors
