@@ -1,28 +1,28 @@
 {
-  "name": "mobileinfopro",
+  "name": "content-generation",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "ali-raza",
-  "type": "module",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "dev",
     "dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node ./seed/brand.js",
+    "ollama": "node ./ollama/brand.js"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoose": "^9.7.4",
     "morgan": "^1.11.0",
     "multer": "^2.2.0",
     "nodemon": "^3.1.14",
     "ollama": "^0.6.3",
-    "playwright": "^1.62.0",
-    "redis": "^6.1.0",
-    "slugify": "^1.6.9"
-  }
+    "playwright": "^1.62.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
 }

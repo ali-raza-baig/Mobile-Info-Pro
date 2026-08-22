@@ -51,7 +51,7 @@ export const createBrandsController = async (req, res) => {
 
 export const getAllBrandsController = async (req, res) => {
     try {
-        const allBrands = await brandModel.find({ isActive: true }).select('name logo _id slug')
+        const allBrands = await brandModel.find({ isActive: true, isCompleted: 'completed', isImageCompleted: true }).select('name logo _id slug')
 
         res.status(200).send({
             success: true,
@@ -132,6 +132,32 @@ export const singleBrandsController = async (req, res) => {
             success: true,
             message: 'Brand found',
             brand: oneBrand
+        })
+
+    } catch (error) {
+        console.log(error)
+        return res.status(500).send({
+            success: false,
+            message: 'Internal Server error'
+        })
+    }
+}
+export const pendingBrandsController = async (req, res) => {
+    try {
+
+        const pendingBrand = await brandModel.find({ ...req.body })
+
+        if (pendingBrand.length === 0) {
+            return res.status(200).send({
+                success: false,
+                message: `pendingBrand not found`
+            })
+        }
+
+        res.status(200).send({
+            success: true,
+            message: 'Brand found',
+            brand: pendingBrand
         })
 
     } catch (error) {

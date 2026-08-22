@@ -6,7 +6,7 @@ export const createModelController = async (req, res) => {
     try {
         const { name, brandId, seriesId } = req.body;
 
-        if (!name || !brandId || seriesId) {
+        if (!name || !brandId || !seriesId) {
             return res.status(400).send({
                 success: false,
                 message: 'Name, seriesId and brandId are must required'
@@ -30,8 +30,8 @@ export const createModelController = async (req, res) => {
             trim: true,
         })
 
-        const series = await seriesModel({ name, slug, brandId, seriesId }).save()
-        if (!series) {
+        const model = await phoneModel({ name, slug, brandId, seriesId }).save()
+        if (!model) {
             return res.status(400).send({
                 success: false,
                 messsage: 'Error in creating new Model document'
@@ -40,7 +40,8 @@ export const createModelController = async (req, res) => {
 
         res.status(200).send({
             success: true,
-            message: 'New Model created'
+            message: 'New Model created',
+            model: model
         })
 
     } catch (error) {
@@ -106,7 +107,7 @@ export const updateModelController = async (req, res) => {
         res.status(200).send({
             success: true,
             message: `Model updated`,
-            series: update
+            model: update
         })
 
     } catch (error) {
@@ -279,7 +280,7 @@ export const competitorsController = async (req, res) => {
 }
 
 export const getProductsController = async (req, res) => {
-    console.log(`Query from frontend`, req.query)
+
     try {
         const {
             search = "",
@@ -348,7 +349,7 @@ export const getProductsController = async (req, res) => {
         };
 
         const [products, total] = await Promise.all([
-            phoneModel.find({ ...filter, contentCompleted: true, specCompleted: true })
+            phoneModel.find({ ...filter, isActive: true, contentCompleted: true, specCompleted: true })
                 .populate("brandId", "name _id slug")
                 .sort(sortOptions[sort] || { name: 1 })
                 .skip(skip)
@@ -388,3 +389,26 @@ export const getProductsController = async (req, res) => {
         });
     }
 };
+
+export const pendingModelController = async (req, res) => {
+    try {
+        const pendingModels = await phoneModel.find({ ...req.body }).populate([
+            { path: 'brandId', select: "name slug _id" },
+            { path: "seriesId", select: "name slug _id" }
+        ])
+
+        res.status(200).send({
+            success: true,
+            message: 'All pending models',
+            models: pendingModels
+        })
+
+    } catch (error) {
+        console.error("Pending Models Error:", error);
+
+        return res.status(500).json({
+            success: false,
+            message: "Something went wrong while fetching pending models.",
+        });
+    }
+}

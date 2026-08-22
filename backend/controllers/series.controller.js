@@ -15,8 +15,9 @@ export const createSeriesController = async (req, res) => {
 
         const exist = await seriesModel.findOne({ name: name });
         if (exist) {
-            return res.status(400).send({
+            return res.status(200).send({
                 success: false,
+                already: true,
                 message: 'Series name all ready exist'
             })
         };
@@ -38,7 +39,8 @@ export const createSeriesController = async (req, res) => {
 
         res.status(200).send({
             success: true,
-            message: 'New series created'
+            message: 'New series created',
+            series: series
         })
 
     } catch (error) {
@@ -58,6 +60,24 @@ export const getAllSeriesController = async (req, res) => {
             success: true,
             message: 'All Series',
             series: allSeries
+        })
+    } catch (error) {
+        console.log(error)
+        return res.status(500).send({
+            success: false,
+            message: 'Internal Server error'
+        })
+    }
+}
+
+export const pendingSeriesController = async (req, res) => {
+    try {
+        const pendingSeries = await seriesModel.find({ ...req.body }).populate('brandId', 'name slug _id')
+
+        res.status(200).send({
+            success: true,
+            message: 'All Series',
+            series: pendingSeries
         })
     } catch (error) {
         console.log(error)
@@ -88,6 +108,10 @@ export const updateSeriesController = async (req, res) => {
                 updateData[key] = req.body[key];
             }
         })
+
+        if (updateData.mix?.first_release_year === "Unknown") {
+            updateData.mix.first_release_year = null;
+        }
 
         const update = await seriesModel.findOneAndUpdate(
             { slug: slug },

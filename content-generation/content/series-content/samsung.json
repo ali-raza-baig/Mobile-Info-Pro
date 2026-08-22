@@ -1,0 +1,2937 @@
+{
+  "brand": "Samsung",
+  "total_series": 57,
+  "series": [
+    {
+      "name": "Galaxy S",
+      "slug": "galaxy-s",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Premium cameras",
+        "AI features",
+        "Ultra variants"
+      ],
+      "popular_models": [
+        "Galaxy S",
+        "Galaxy S2",
+        "Galaxy S3",
+        "Galaxy S7",
+        "Galaxy S10",
+        "Galaxy S21",
+        "Galaxy S24",
+        "Galaxy S25"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First released in 2010 as Samsung's flagship Android smartphone lineup.",
+        "Introduced major innovations like Super AMOLED displays and curved screens.",
+        "The S series is Samsung's longest-running and most popular smartphone series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Note",
+      "slug": "galaxy-note",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Large AMOLED displays",
+        "S Pen stylus support",
+        "Premium cameras",
+        "Productivity features"
+      ],
+      "popular_models": [
+        "Galaxy Note",
+        "Galaxy Note 2",
+        "Galaxy Note 3",
+        "Galaxy Note 4",
+        "Galaxy Note 7",
+        "Galaxy Note 8",
+        "Galaxy Note 10",
+        "Galaxy Note 20"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Introduced in 2011, popularizing the 'phablet' category.",
+        "Known for the S Pen stylus and large displays.",
+        "Discontinued after 2020 with the Note 20 series, with features merging into the S Ultra series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Z Fold",
+      "slug": "galaxy-z-fold",
+      "alternative_names": [
+        "Galaxy Fold"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Foldable",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Foldable display",
+        "Large screen when unfolded",
+        "Premium cameras",
+        "Multitasking capabilities",
+        "AI features"
+      ],
+      "popular_models": [
+        "Galaxy Fold",
+        "Galaxy Z Fold2",
+        "Galaxy Z Fold3",
+        "Galaxy Z Fold4",
+        "Galaxy Z Fold5",
+        "Galaxy Z Fold6"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First launched in 2019 as Samsung's first foldable smartphone.",
+        "Rebranded to Galaxy Z Fold starting with the second generation.",
+        "Pioneered the foldable smartphone category."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Z Flip",
+      "slug": "galaxy-z-flip",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Flip",
+        "Premium"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Content creators",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Clamshell foldable design",
+        "Compact when folded",
+        "Premium cameras",
+        "AI features"
+      ],
+      "popular_models": [
+        "Galaxy Z Flip",
+        "Galaxy Z Flip 5G",
+        "Galaxy Z Flip3",
+        "Galaxy Z Flip4",
+        "Galaxy Z Flip5",
+        "Galaxy Z Flip6"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2020 as Samsung's clamshell foldable phone.",
+        "Part of the Galaxy Z series, known for its compact, fashionable design."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy A",
+      "slug": "galaxy-a",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Super AMOLED displays",
+        "Good battery life",
+        "Decent cameras",
+        "5G connectivity in newer models"
+      ],
+      "popular_models": [
+        "Galaxy A3",
+        "Galaxy A5",
+        "Galaxy A50",
+        "Galaxy A51",
+        "Galaxy A52",
+        "Galaxy A54",
+        "Galaxy A55",
+        "Galaxy A56"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Introduced in 2014 as a mid-range series with a metal build.",
+        "Expanded to cover a wide range of price points from entry-level to upper mid-range.",
+        "Absorbed the Galaxy J series in 2019."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy M",
+      "slug": "galaxy-m",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Good value for money",
+        "Online-exclusive"
+      ],
+      "popular_models": [
+        "Galaxy M10",
+        "Galaxy M20",
+        "Galaxy M30",
+        "Galaxy M31",
+        "Galaxy M51",
+        "Galaxy M53",
+        "Galaxy M55"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Launched in 2019 as an online-exclusive series.",
+        "Replaced the Galaxy J and On series in some markets.",
+        "Focused on providing high battery capacity and good specs at a low price."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy J",
+      "slug": "galaxy-j",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Decent performance for the price"
+      ],
+      "popular_models": [
+        "Galaxy J1",
+        "Galaxy J2",
+        "Galaxy J3",
+        "Galaxy J5",
+        "Galaxy J7"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2015 as a budget-friendly series.",
+        "Merged into the Galaxy A series in 2019."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy C",
+      "slug": "galaxy-c",
+      "alternative_names": [
+        "Galaxy China"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2024,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Chinese consumers"
+      ],
+      "characteristics": [
+        "Metal build",
+        "Good cameras",
+        "Customized for the Chinese market"
+      ],
+      "popular_models": [
+        "Galaxy C5",
+        "Galaxy C7",
+        "Galaxy C9 Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Launched in 2016 exclusively for the Chinese market.",
+        "Designed to compete with local Chinese brands.",
+        "Discontinued after a short run."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy E",
+      "slug": "galaxy-e",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Good build quality"
+      ],
+      "popular_models": [
+        "Galaxy E5",
+        "Galaxy E7"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Launched in 2015 as an affordable mid-range series.",
+        "Short-lived, replaced by the Galaxy A and J series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy F",
+      "slug": "galaxy-f",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "Good value for money",
+        "Online-exclusive"
+      ],
+      "popular_models": [
+        "Galaxy F41",
+        "Galaxy F62",
+        "Galaxy F23",
+        "Galaxy F54"
+      ],
+      "primary_markets": [
+        "India",
+        "Bangladesh",
+        "China"
+      ],
+      "historical_notes": [
+        "Launched in 2020 as an online-exclusive series for India and other Asian markets.",
+        "Similar to the Galaxy M series but with different marketing."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Grand",
+      "slug": "galaxy-grand",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Dual-SIM support"
+      ],
+      "popular_models": [
+        "Galaxy Grand",
+        "Galaxy Grand 2",
+        "Galaxy Grand Neo",
+        "Galaxy Grand Prime"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2012 as a mid-range phablet.",
+        "Replaced by the Galaxy E and J series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Mega",
+      "slug": "galaxy-mega",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Very large displays",
+        "Good for media consumption"
+      ],
+      "popular_models": [
+        "Galaxy Mega 5.8",
+        "Galaxy Mega 6.3"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2013 with extremely large screens (5.8 and 6.3 inches).",
+        "Short-lived, replaced by the Galaxy Note and A series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy R",
+      "slug": "galaxy-r",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High-end specs",
+        "NVIDIA Tegra processor"
+      ],
+      "popular_models": [
+        "Galaxy R"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2011 as a high-end variant of the Galaxy S II with an NVIDIA Tegra processor.",
+        "Short-lived, only one model released."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy W",
+      "slug": "galaxy-w",
+      "alternative_names": [
+        "Galaxy Wonder"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flip"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Luxury consumers"
+      ],
+      "characteristics": [
+        "Premium clamshell design",
+        "High-end specs",
+        "Exclusive to China"
+      ],
+      "popular_models": [
+        "Galaxy W",
+        "Galaxy W2019",
+        "Galaxy W22 5G",
+        "Galaxy W23 5G",
+        "Galaxy W24 5G",
+        "Galaxy W25 5G"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Originally launched in 2011 as a mid-range device.",
+        "Rebranded as a premium clamshell (flip) phone series exclusively for the Chinese market.",
+        "Known as the 'Heart of the World' series in China."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy XCover",
+      "slug": "galaxy-xcover",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Rugged",
+        "Business"
+      ],
+      "target_audience": [
+        "Outdoor workers",
+        "Businesses",
+        "First responders"
+      ],
+      "characteristics": [
+        "Rugged design",
+        "MIL-STD-810G certification",
+        "IP68 water and dust resistance",
+        "Replaceable batteries (some models)",
+        "Programmable buttons"
+      ],
+      "popular_models": [
+        "Galaxy XCover",
+        "Galaxy XCover 2",
+        "Galaxy XCover 3",
+        "Galaxy XCover 4",
+        "Galaxy XCover 5",
+        "Galaxy XCover 6 Pro",
+        "Galaxy XCover 7"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First rugged smartphone series from Samsung.",
+        "Originally launched in 2011, with the XCover Pro and XCover 6 Pro being notable business-focused models.",
+        "The series is known for its durability and enterprise features."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Pocket",
+      "slug": "galaxy-pocket",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Very small displays",
+        "Low-end specs",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Pocket",
+        "Galaxy Pocket Plus",
+        "Galaxy Pocket Neo",
+        "Galaxy Pocket 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2012 as an entry-level smartphone with a very small screen.",
+        "Replaced by the Galaxy J and A series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Young",
+      "slug": "galaxy-young",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Young users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Small display",
+        "Low-end specs",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Young"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as an entry-level smartphone for young users.",
+        "Short-lived, only one model released."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Star",
+      "slug": "galaxy-star",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Low-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Star",
+        "Galaxy Star Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as one of Samsung's cheapest smartphones.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Ace",
+      "slug": "galaxy-ace",
+      "alternative_names": [
+        "Galaxy Cooper"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Affordable",
+        "Good performance for the price"
+      ],
+      "popular_models": [
+        "Galaxy Ace",
+        "Galaxy Ace Plus",
+        "Galaxy Ace 2",
+        "Galaxy Ace 3",
+        "Galaxy Ace 4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2011 as a popular budget-friendly smartphone.",
+        "Replaced by the Galaxy J and A series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Core",
+      "slug": "galaxy-core",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Dual-SIM support",
+        "Good value for money"
+      ],
+      "popular_models": [
+        "Galaxy Core",
+        "Galaxy Core 2",
+        "Galaxy Core Plus",
+        "Galaxy Core Prime"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as a budget-friendly dual-SIM smartphone.",
+        "Replaced by the Galaxy J and A series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Express",
+      "slug": "galaxy-express",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Super AMOLED display"
+      ],
+      "popular_models": [
+        "Galaxy Express",
+        "Galaxy Express 2"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as a mid-range smartphone with 4G LTE support.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Feel",
+      "slug": "galaxy-feel",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Japanese consumers"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Water and dust resistance",
+        "Good cameras"
+      ],
+      "popular_models": [
+        "Galaxy Feel",
+        "Galaxy Feel 2"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Launched in 2017 exclusively for the Japanese market.",
+        "Sold through NTT Docomo."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Golden",
+      "slug": "galaxy-golden",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flip"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Luxury consumers"
+      ],
+      "characteristics": [
+        "Dual clamshell displays",
+        "Premium design",
+        "High-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Golden",
+        "Galaxy Golden 2",
+        "Galaxy Golden 3"
+      ],
+      "primary_markets": [
+        "South Korea",
+        "China"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as a premium clamshell phone with dual displays.",
+        "Primarily sold in South Korea and China."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Folder",
+      "slug": "galaxy-folder",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Flip"
+      ],
+      "target_audience": [
+        "Consumers who prefer flip phones"
+      ],
+      "characteristics": [
+        "Clamshell design",
+        "Physical keypad",
+        "Touchscreen"
+      ],
+      "popular_models": [
+        "Galaxy Folder",
+        "Galaxy Folder 2"
+      ],
+      "primary_markets": [
+        "South Korea"
+      ],
+      "historical_notes": [
+        "Launched in 2015 as a smartphone with a clamshell form factor.",
+        "Exclusive to the South Korean market."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Win",
+      "slug": "galaxy-win",
+      "alternative_names": [
+        "Galaxy Grand Quattro"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Dual-SIM support",
+        "Good performance",
+        "Large display"
+      ],
+      "popular_models": [
+        "Galaxy Win",
+        "Galaxy Win Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as a mid-range dual-SIM smartphone.",
+        "Known as Galaxy Grand Quattro in some markets."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Fame",
+      "slug": "galaxy-fame",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Young users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Good cameras for the price"
+      ],
+      "popular_models": [
+        "Galaxy Fame"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as an entry-level smartphone.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Trend",
+      "slug": "galaxy-trend",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Low-end specs",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Trend"
+      ],
+      "primary_markets": [
+        "India",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as an entry-level smartphone for emerging markets.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Music",
+      "slug": "galaxy-music",
+      "alternative_names": [
+        "Galaxy Music Duos"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Music lovers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Dual front-facing speakers",
+        "Music-focused features"
+      ],
+      "popular_models": [
+        "Galaxy Music",
+        "Galaxy Music Duos"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2012 as a budget smartphone focused on music playback.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Discover",
+      "slug": "galaxy-discover",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "Low-end specs",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Discover"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2013 for the US prepaid market.",
+        "Notable for running stock Android without TouchWiz."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Indulge",
+      "slug": "galaxy-indulge",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Slide-out QWERTY keyboard",
+        "4G LTE support"
+      ],
+      "popular_models": [
+        "Galaxy Indulge"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2011 for MetroPCS and Cricket Wireless.",
+        "One of the first 4G LTE smartphones in the US."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Reverb",
+      "slug": "galaxy-reverb",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Good performance",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Reverb"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for Virgin Mobile USA.",
+        "Mid-range Android smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Rush",
+      "slug": "galaxy-rush",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Galaxy Rush"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for Boost Mobile.",
+        "Budget-friendly Android smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Stellar",
+      "slug": "galaxy-stellar",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Good performance for the price"
+      ],
+      "popular_models": [
+        "Galaxy Stellar"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for Verizon Wireless.",
+        "Budget-friendly 4G LTE smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Admire",
+      "slug": "galaxy-admire",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Good value for money"
+      ],
+      "popular_models": [
+        "Galaxy Admire",
+        "Galaxy Admire 4G"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2011 for MetroPCS.",
+        "Mid-range Android smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Appeal",
+      "slug": "galaxy-appeal",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Slide-out QWERTY keyboard",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Appeal"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for AT&T.",
+        "Budget-friendly smartphone with a physical keyboard."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Attain",
+      "slug": "galaxy-attain",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Galaxy Attain 4G"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for MetroPCS.",
+        "Mid-range 4G LTE smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Axiom",
+      "slug": "galaxy-axiom",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Galaxy Axiom"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for U.S. Cellular.",
+        "Mid-range 4G LTE smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Centura",
+      "slug": "galaxy-centura",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "Low-end specs",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Galaxy Centura"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2013 for Straight Talk.",
+        "Budget-friendly smartphone with stock Android."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Exhibit",
+      "slug": "galaxy-exhibit",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "4G support",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Galaxy Exhibit 4G",
+        "Galaxy Exhibit II 4G"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2011 for T-Mobile.",
+        "Mid-range 4G smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Prevail",
+      "slug": "galaxy-prevail",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Good value for money"
+      ],
+      "popular_models": [
+        "Galaxy Prevail",
+        "Galaxy Prevail LTE"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2011 for Boost Mobile.",
+        "Budget-friendly smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Proclaim",
+      "slug": "galaxy-proclaim",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Galaxy Proclaim"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for Straight Talk.",
+        "Budget-friendly Android smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Repp",
+      "slug": "galaxy-repp",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Galaxy Repp"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2011 for U.S. Cellular.",
+        "Budget-friendly Android smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Round",
+      "slug": "galaxy-round",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Curved display",
+        "High-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Round"
+      ],
+      "primary_markets": [
+        "South Korea"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as the first smartphone with a curved display.",
+        "Exclusive to SK Telecom in South Korea."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy S Duos",
+      "slug": "galaxy-s-duos",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Dual-SIM users"
+      ],
+      "characteristics": [
+        "Dual-SIM support",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Galaxy S Duos",
+        "Galaxy S Duos 2",
+        "Galaxy S Duos 3"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2012 as a dual-SIM variant of the Galaxy S series.",
+        "Part of the Galaxy S family but with dual-SIM functionality."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy S Plus",
+      "slug": "galaxy-s-plus",
+      "alternative_names": [
+        "Galaxy S 2011 Edition",
+        "Galaxy S+"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Faster processor",
+        "Improved performance"
+      ],
+      "popular_models": [
+        "Galaxy S Plus"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2011 as a slightly upgraded version of the original Galaxy S.",
+        "Featured a faster 1.4 GHz processor."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Victory",
+      "slug": "galaxy-victory",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Carrier customers"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Galaxy Victory 4G LTE"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2012 for Sprint.",
+        "Mid-range 4G LTE smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy V",
+      "slug": "galaxy-v",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Dual-SIM support"
+      ],
+      "popular_models": [
+        "Galaxy V",
+        "Galaxy V2"
+      ],
+      "primary_markets": [
+        "Vietnam",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2014 exclusively for the Vietnamese market.",
+        "Budget-friendly smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Y",
+      "slug": "galaxy-y",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Young users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Affordable",
+        "Good for social media"
+      ],
+      "popular_models": [
+        "Galaxy Y",
+        "Galaxy Y Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2011 as an entry-level smartphone.",
+        "Focused on social media and messaging."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy S Vibrant",
+      "slug": "galaxy-s-vibrant",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Super AMOLED display",
+        "High-end specs"
+      ],
+      "popular_models": [
+        "Galaxy S Vibrant"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2010 for T-Mobile USA as a variant of the Galaxy S.",
+        "Part of the original Galaxy S lineup."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy X",
+      "slug": "galaxy-x",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": "Unknown",
+      "latest_release_year": "Unknown",
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Experimental"
+      ],
+      "target_audience": [
+        "Early adopters",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Foldable display (prototype)"
+      ],
+      "popular_models": [],
+      "primary_markets": [
+        "Unknown"
+      ],
+      "historical_notes": [
+        "An experimental foldable smartphone prototype that never saw a commercial release.",
+        "Rumored and trademarked but not officially sold."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Galaxy Z",
+      "slug": "galaxy-z",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Foldable",
+        "Flip"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters",
+        "Fashion-conscious users"
+      ],
+      "characteristics": [
+        "Foldable and flip designs",
+        "Premium materials",
+        "Cutting-edge technology",
+        "AI features"
+      ],
+      "popular_models": [
+        "Galaxy Z Flip",
+        "Galaxy Z Fold2",
+        "Galaxy Z Fold3",
+        "Galaxy Z Flip3",
+        "Galaxy Z Fold4",
+        "Galaxy Z Flip4",
+        "Galaxy Z Fold5",
+        "Galaxy Z Flip5"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "The Galaxy Z series encompasses both the Fold and Flip lines.",
+        "Introduced in 2020 with the Galaxy Z Flip and Z Fold2.",
+        "Represents Samsung's flagship foldable smartphones."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy On",
+      "slug": "galaxy-on",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "Online-exclusive",
+        "Good value for money"
+      ],
+      "popular_models": [
+        "Galaxy On5",
+        "Galaxy On7",
+        "Galaxy On8",
+        "Galaxy On Max"
+      ],
+      "primary_markets": [
+        "India",
+        "China",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2015 as an online-exclusive series for emerging markets.",
+        "Replaced by the Galaxy M and F series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy K",
+      "slug": "galaxy-k",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Camera-focused",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "High-end cameras",
+        "Zoom lenses"
+      ],
+      "popular_models": [
+        "Galaxy K Zoom"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2014 as a camera-centric smartphone with an optical zoom lens.",
+        "Replaced by the Galaxy S Zoom series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy S Zoom",
+      "slug": "galaxy-s-zoom",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Camera-focused",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Optical zoom lens",
+        "High-resolution camera",
+        "DSLR-like features"
+      ],
+      "popular_models": [
+        "Galaxy S4 Zoom",
+        "Galaxy K Zoom"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as a camera-focused smartphone with a 10x optical zoom.",
+        "The Galaxy K Zoom was the successor."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Beam",
+      "slug": "galaxy-beam",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Camera-focused",
+        "Premium"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Presenters"
+      ],
+      "characteristics": [
+        "Built-in projector",
+        "Good cameras"
+      ],
+      "popular_models": [
+        "Galaxy Beam",
+        "Galaxy Beam 2"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in 2012 with a built-in pico projector.",
+        "Allows projecting content onto any surface."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Mini",
+      "slug": "galaxy-mini",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact size",
+        "Affordable",
+        "Low-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Mini",
+        "Galaxy Mini 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2011 as a compact, budget-friendly smartphone.",
+        "Replaced by the Galaxy Young and Pocket series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Neo",
+      "slug": "galaxy-neo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Decent performance"
+      ],
+      "popular_models": [
+        "Galaxy Grand Neo",
+        "Galaxy Star Neo"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Used as a suffix for budget-friendly variants of existing series.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Trend Lite",
+      "slug": "galaxy-trend-lite",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Low-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Trend Lite"
+      ],
+      "primary_markets": [
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2014 as an even more affordable version of the Galaxy Trend.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Pocket Neo",
+      "slug": "galaxy-pocket-neo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Small display"
+      ],
+      "popular_models": [
+        "Galaxy Pocket Neo"
+      ],
+      "primary_markets": [
+        "Global",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2013 as a budget-friendly variant of the Galaxy Pocket.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Fame Lite",
+      "slug": "galaxy-fame-lite",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Low-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Fame Lite"
+      ],
+      "primary_markets": [
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2014 as an even more affordable version of the Galaxy Fame.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Star 2",
+      "slug": "galaxy-star-2",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Low-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Star 2"
+      ],
+      "primary_markets": [
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2014 as a successor to the Galaxy Star.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Galaxy Young 2",
+      "slug": "galaxy-young-2",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Low-end specs"
+      ],
+      "popular_models": [
+        "Galaxy Young 2"
+      ],
+      "primary_markets": [
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Launched in 2014 as a successor to the Galaxy Young.",
+        "Short-lived."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "Galaxy S"
+    },
+    {
+      "year": 2010,
+      "series": "Galaxy S Vibrant"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Note"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy R"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy W"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy XCover"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Ace"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Indulge"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Admire"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Exhibit"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Prevail"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Repp"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy S Plus"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Y"
+    },
+    {
+      "year": 2011,
+      "series": "Galaxy Mini"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Grand"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Pocket"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Music"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Reverb"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Rush"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Stellar"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Appeal"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Attain"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Axiom"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Proclaim"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy S Duos"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Victory"
+    },
+    {
+      "year": 2012,
+      "series": "Galaxy Beam"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Mega"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Young"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Star"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Core"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Express"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Golden"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Win"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Fame"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Trend"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Discover"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Centura"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Round"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy S Zoom"
+    },
+    {
+      "year": 2013,
+      "series": "Galaxy Pocket Neo"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy A"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy V"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy K"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy Neo"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy Trend Lite"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy Fame Lite"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy Star 2"
+    },
+    {
+      "year": 2014,
+      "series": "Galaxy Young 2"
+    },
+    {
+      "year": 2015,
+      "series": "Galaxy J"
+    },
+    {
+      "year": 2015,
+      "series": "Galaxy E"
+    },
+    {
+      "year": 2015,
+      "series": "Galaxy Folder"
+    },
+    {
+      "year": 2015,
+      "series": "Galaxy On"
+    },
+    {
+      "year": 2016,
+      "series": "Galaxy C"
+    },
+    {
+      "year": 2017,
+      "series": "Galaxy Feel"
+    },
+    {
+      "year": 2019,
+      "series": "Galaxy M"
+    },
+    {
+      "year": 2019,
+      "series": "Galaxy Z Fold"
+    },
+    {
+      "year": 2020,
+      "series": "Galaxy Z Flip"
+    },
+    {
+      "year": 2020,
+      "series": "Galaxy F"
+    },
+    {
+      "year": 2020,
+      "series": "Galaxy Z"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Galaxy S",
+      "Galaxy Note",
+      "Galaxy Z Fold",
+      "Galaxy Z Flip",
+      "Galaxy Round",
+      "Galaxy S Plus",
+      "Galaxy S Vibrant",
+      "Galaxy Z"
+    ],
+    "premium": [
+      "Galaxy S",
+      "Galaxy Note",
+      "Galaxy Z Fold",
+      "Galaxy Z Flip",
+      "Galaxy W",
+      "Galaxy Golden",
+      "Galaxy Round",
+      "Galaxy S Plus",
+      "Galaxy S Vibrant",
+      "Galaxy K",
+      "Galaxy S Zoom",
+      "Galaxy Z"
+    ],
+    "mid_range": [
+      "Galaxy A",
+      "Galaxy M",
+      "Galaxy C",
+      "Galaxy E",
+      "Galaxy F",
+      "Galaxy Grand",
+      "Galaxy Mega",
+      "Galaxy Core",
+      "Galaxy Express",
+      "Galaxy Feel",
+      "Galaxy Folder",
+      "Galaxy Win",
+      "Galaxy Indulge",
+      "Galaxy Reverb",
+      "Galaxy Stellar",
+      "Galaxy Admire",
+      "Galaxy Attain",
+      "Galaxy Axiom",
+      "Galaxy Exhibit",
+      "Galaxy Proclaim",
+      "Galaxy S Duos",
+      "Galaxy Victory",
+      "Galaxy On"
+    ],
+    "budget": [
+      "Galaxy A",
+      "Galaxy M",
+      "Galaxy J",
+      "Galaxy F",
+      "Galaxy Ace",
+      "Galaxy Core",
+      "Galaxy Prevail",
+      "Galaxy On",
+      "Galaxy Neo"
+    ],
+    "entry_level": [
+      "Galaxy M",
+      "Galaxy J",
+      "Galaxy Pocket",
+      "Galaxy Young",
+      "Galaxy Star",
+      "Galaxy Ace",
+      "Galaxy Fame",
+      "Galaxy Trend",
+      "Galaxy Music",
+      "Galaxy Discover",
+      "Galaxy Rush",
+      "Galaxy Stellar",
+      "Galaxy Admire",
+      "Galaxy Appeal",
+      "Galaxy Centura",
+      "Galaxy Exhibit",
+      "Galaxy Prevail",
+      "Galaxy Proclaim",
+      "Galaxy Repp",
+      "Galaxy V",
+      "Galaxy Y",
+      "Galaxy Mini",
+      "Galaxy Trend Lite",
+      "Galaxy Pocket Neo",
+      "Galaxy Fame Lite",
+      "Galaxy Star 2",
+      "Galaxy Young 2"
+    ],
+    "foldable": [
+      "Galaxy Z Fold",
+      "Galaxy Z Flip",
+      "Galaxy Z"
+    ],
+    "flip": [
+      "Galaxy Z Flip",
+      "Galaxy W",
+      "Galaxy Golden",
+      "Galaxy Folder",
+      "Galaxy Z"
+    ],
+    "gaming": [],
+    "camera_focused": [
+      "Galaxy K",
+      "Galaxy S Zoom",
+      "Galaxy Beam"
+    ],
+    "business": [
+      "Galaxy Note",
+      "Galaxy XCover",
+      "Galaxy W"
+    ],
+    "rugged": [
+      "Galaxy XCover"
+    ],
+    "lifestyle": [],
+    "ai_focused": [
+      "Galaxy S",
+      "Galaxy Z Fold",
+      "Galaxy Z Flip",
+      "Galaxy Z"
+    ],
+    "regional_exclusive": [
+      "Galaxy C",
+      "Galaxy Feel",
+      "Galaxy Folder",
+      "Galaxy V"
+    ],
+    "carrier_exclusive": [
+      "Galaxy Indulge",
+      "Galaxy Reverb",
+      "Galaxy Rush",
+      "Galaxy Stellar",
+      "Galaxy Admire",
+      "Galaxy Appeal",
+      "Galaxy Attain",
+      "Galaxy Axiom",
+      "Galaxy Centura",
+      "Galaxy Exhibit",
+      "Galaxy Prevail",
+      "Galaxy Proclaim",
+      "Galaxy Repp",
+      "Galaxy Victory",
+      "Galaxy S Vibrant"
+    ],
+    "online_exclusive": [
+      "Galaxy M",
+      "Galaxy F",
+      "Galaxy On"
+    ],
+    "discontinued": [
+      "Galaxy Note",
+      "Galaxy J",
+      "Galaxy C",
+      "Galaxy E",
+      "Galaxy Grand",
+      "Galaxy Mega",
+      "Galaxy R",
+      "Galaxy Pocket",
+      "Galaxy Young",
+      "Galaxy Star",
+      "Galaxy Ace",
+      "Galaxy Core",
+      "Galaxy Express",
+      "Galaxy Feel",
+      "Galaxy Golden",
+      "Galaxy Folder",
+      "Galaxy Win",
+      "Galaxy Fame",
+      "Galaxy Trend",
+      "Galaxy Music",
+      "Galaxy Discover",
+      "Galaxy Indulge",
+      "Galaxy Reverb",
+      "Galaxy Rush",
+      "Galaxy Stellar",
+      "Galaxy Admire",
+      "Galaxy Appeal",
+      "Galaxy Attain",
+      "Galaxy Axiom",
+      "Galaxy Centura",
+      "Galaxy Exhibit",
+      "Galaxy Prevail",
+      "Galaxy Proclaim",
+      "Galaxy Repp",
+      "Galaxy Round",
+      "Galaxy S Duos",
+      "Galaxy S Plus",
+      "Galaxy Victory",
+      "Galaxy V",
+      "Galaxy Y",
+      "Galaxy S Vibrant",
+      "Galaxy X",
+      "Galaxy On",
+      "Galaxy K",
+      "Galaxy S Zoom",
+      "Galaxy Beam",
+      "Galaxy Mini",
+      "Galaxy Neo",
+      "Galaxy Trend Lite",
+      "Galaxy Pocket Neo",
+      "Galaxy Fame Lite",
+      "Galaxy Star 2",
+      "Galaxy Young 2"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series",
+      "Fold Series",
+      "Flip Series",
+      "Lite branding",
+      "Mini branding",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "FE branding",
+      "Neo branding"
+    ],
+    "description": "Samsung uses a combination of letters (S, A, M, etc.) and numbers to denote different market segments and generations. The 'Galaxy' prefix is used for all smartphones. Flagship models use the 'S' and 'Note' series, while mid-range and budget models use 'A', 'M', 'J', etc. Foldable phones are under the 'Z' series. Various suffixes like 'Lite', 'Plus', 'Ultra', and 'FE' indicate different variants within a series."
+  },
+  "summary": {
+    "total_series": 57,
+    "active_series": 8,
+    "discontinued_series": 49,
+    "oldest_series": "Galaxy S",
+    "newest_series": "Galaxy Z Flip",
+    "longest_running_series": "Galaxy S",
+    "most_popular_series": "Galaxy S",
+    "best_selling_series": "Galaxy A",
+    "most_premium_series": "Galaxy Z Fold",
+    "best_budget_series": "Galaxy A",
+    "most_influential_series": "Galaxy S",
+    "fastest_growing_series": "Galaxy Z Fold",
+    "future_expected_direction": "Continued focus on foldables (Galaxy Z series), AI integration across all series, and expanding the mid-range A and M series with 5G and improved cameras."
+  },
+  "missing_series": []
+}

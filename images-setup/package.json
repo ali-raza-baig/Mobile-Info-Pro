@@ -1,0 +1,27 @@
+{
+  "name": "images-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "expresss": "^0.0.0",
+    "morgan": "^1.11.0",
+    "multer": "^2.2.0",
+    "sharp": "^0.35.3"
+  },
+  "allowScripts": {
+    "sharp@0.32.6": true,
+    "sharp@0.35.3": true
+  }
+}

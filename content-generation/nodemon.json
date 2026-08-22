@@ -1,0 +1,9 @@
+{
+    "watch": [
+        "."
+    ],
+    "ignore": [
+        "content/**"
+    ],
+    "ext": "js,mjs,cjs,json"
+}

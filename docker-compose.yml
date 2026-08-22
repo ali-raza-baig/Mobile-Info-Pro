@@ -1,0 +1,15 @@
+version: '0.1'
+
+services:
+  images:
+    build: ./images-setup
+    container_name: 'mobile-info-images'
+    ports:
+      - "9000:9000"
+    networks:
+      - mobile-info-pro
+    restart: unless-stopped
+
+networks:
+  mobile-info-pro:
+    driver: bridge

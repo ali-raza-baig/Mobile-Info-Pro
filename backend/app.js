@@ -9,16 +9,13 @@ import initializeRedisClient from './config/redisConnection.js';
 import brandRoutes from './routes/brand.routes.js';
 import seriesRoutes from './routes/series.routes.js';
 import modelRoutes from './routes/model.routes.js';
-import { seriesContentGenerate, seriesImageGenerate } from './ollama/series.js';
-import { findModelBySeries, modelsContentGenerate, modelSpecWriter } from './ollama/model.js';
 
 const app = express();
 
 // Connections
 await dbconnect()
 // await initializeRedisClient()
-// modelSpecWriter()
-// modelsContentGenerate()
+
 //Middelware
 app.use(express.json());
 app.use(express.urlencoded());
