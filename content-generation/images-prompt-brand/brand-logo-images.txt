@@ -1,0 +1,251 @@
+1. Brand Name:Apple
+                
+ image File Name:brand-logo-Apple
+                
+
+                2. Brand Name:Samsung
+                
+ image File Name:brand-logo-Samsung
+                
+
+                3. Brand Name:Xiaomi
+                
+ image File Name:brand-logo-Xiaomi
+                
+
+                4. Brand Name:OPPO
+                
+ image File Name:brand-logo-OPPO
+                
+
+                5. Brand Name:Vivo
+                
+ image File Name:brand-logo-Vivo
+                
+
+                6. Brand Name:Redmi
+                
+ image File Name:brand-logo-Redmi
+                
+
+                7. Brand Name:Realme
+                
+ image File Name:brand-logo-Realme
+                
+
+                8. Brand Name:Motorola
+                
+ image File Name:brand-logo-Motorola
+                
+
+                9. Brand Name:Huawei
+                
+ image File Name:brand-logo-Huawei
+                
+
+                10. Brand Name:Honor
+                
+ image File Name:brand-logo-Honor
+                
+
+                11. Brand Name:Tecno
+                
+ image File Name:brand-logo-Tecno
+                
+
+                12. Brand Name:Infinix
+                
+ image File Name:brand-logo-Infinix
+                
+
+                13. Brand Name:Google (Pixel)
+                
+ image File Name:brand-logo-Google (Pixel)
+                
+
+                14. Brand Name:OnePlus
+                
+ image File Name:brand-logo-OnePlus
+                
+
+                15. Brand Name:Poco
+                
+ image File Name:brand-logo-Poco
+                
+
+                16. Brand Name:iQOO
+                
+ image File Name:brand-logo-iQOO
+                
+
+                17. Brand Name:itel
+                
+ image File Name:brand-logo-itel
+                
+
+                18. Brand Name:Sony (Xperia)
+                
+ image File Name:brand-logo-Sony (Xperia)
+                
+
+                19. Brand Name:Asus (ROG/Zenfone)
+                
+ image File Name:brand-logo-Asus (ROG/Zenfone)
+                
+
+                20. Brand Name:Nothing
+                
+ image File Name:brand-logo-Nothing
+                
+
+                21. Brand Name:ZTE
+                
+ image File Name:brand-logo-ZTE
+                
+
+                22. Brand Name:Nubia / RedMagic
+                
+ image File Name:brand-logo-Nubia / RedMagic
+                
+
+                23. Brand Name:HMD
+                
+ image File Name:brand-logo-HMD
+                
+
+                24. Brand Name:Nokia
+                
+ image File Name:brand-logo-Nokia
+                
+
+                25. Brand Name:Lava
+                
+ image File Name:brand-logo-Lava
+                
+
+                26. Brand Name:Sharp (Aquos)
+                
+ image File Name:brand-logo-Sharp (Aquos)
+                
+
+                27. Brand Name:TCL
+                
+ image File Name:brand-logo-TCL
+                
+
+                28. Brand Name:Blackview
+                
+ image File Name:brand-logo-Blackview
+                
+
+                29. Brand Name:Meizu
+                
+ image File Name:brand-logo-Meizu
+                
+
+                30. Brand Name:Micromax
+                
+ image File Name:brand-logo-Micromax
+                
+
+                31. Brand Name:Ulefone
+                
+ image File Name:brand-logo-Ulefone
+                
+
+                32. Brand Name:Doogee
+                
+ image File Name:brand-logo-Doogee
+                
+
+                33. Brand Name:Oukitel
+                
+ image File Name:brand-logo-Oukitel
+                
+
+                34. Brand Name:Fairphone
+                
+ image File Name:brand-logo-Fairphone
+                
+
+                35. Brand Name:HTC
+                
+ image File Name:brand-logo-HTC
+                
+
+                36. Brand Name:BLU Products
+                
+ image File Name:brand-logo-BLU Products
+                
+
+                37. Brand Name:Kyocera
+                
+ image File Name:brand-logo-Kyocera
+                
+
+                38. Brand Name:Hisense
+                
+ image File Name:brand-logo-Hisense
+                
+
+                39. Brand Name:Umidigi
+                
+ image File Name:brand-logo-Umidigi
+                
+
+                40. Brand Name:Cubot
+                
+ image File Name:brand-logo-Cubot
+                
+
+                41. Brand Name:Wiko
+                
+ image File Name:brand-logo-Wiko
+                
+
+                42. Brand Name:General Mobile
+                
+ image File Name:brand-logo-General Mobile
+                
+
+                43. Brand Name:Lanix
+                
+ image File Name:brand-logo-Lanix
+                
+
+                44. Brand Name:Positivo
+                
+ image File Name:brand-logo-Positivo
+                
+
+                45. Brand Name:Walton
+                
+ image File Name:brand-logo-Walton
+                
+
+                46. Brand Name:Mobicel
+                
+ image File Name:brand-logo-Mobicel
+                
+
+                47. Brand Name:Symphony
+                
+ image File Name:brand-logo-Symphony
+                
+
+                48. Brand Name:Cherry Mobile
+                
+ image File Name:brand-logo-Cherry Mobile
+                
+
+                49. Brand Name:Bphone
+                
+ image File Name:brand-logo-Bphone
+                
+
+                50. Brand Name:Librem (Purism)
+                
+ image File Name:brand-logo-Librem (Purism)
+                
+
+                

@@ -13,7 +13,14 @@ export const createSeriesController = async (req, res) => {
             })
         }
 
-        const exist = await seriesModel.findOne({ name: name });
+        const slug = await slugify(name, {
+            lower: true,
+            remove: /[*+~.()'"!:@]/g,
+            strict: true,
+            trim: true,
+        })
+
+        const exist = await seriesModel.findOne({ slug: slug });
         if (exist) {
             return res.status(200).send({
                 success: false,
@@ -22,12 +29,6 @@ export const createSeriesController = async (req, res) => {
             })
         };
 
-        const slug = await slugify(name, {
-            lower: true,
-            remove: /[*+~.()'"!:@]/g,
-            strict: true,
-            trim: true,
-        })
 
         const series = await seriesModel({ name, slug, brandId }).save()
         if (!series) {
@@ -92,53 +93,82 @@ export const updateSeriesController = async (req, res) => {
     try {
         const { slug } = req.params;
 
-        let updateData = {};
+        const exist = await seriesModel.findOne({ slug });
 
-
-        const exist = await seriesModel.findOne({ slug })
         if (!exist) {
             return res.status(400).send({
                 success: false,
-                message: 'Series not exist'
-            })
+                message: "Series not exist"
+            });
         }
+
+        const updateData = {};
 
         Object.keys(req.body).forEach((key) => {
             if (req.body[key] !== undefined) {
                 updateData[key] = req.body[key];
             }
-        })
+        });
 
-        if (updateData.mix?.first_release_year === "Unknown") {
-            updateData.mix.first_release_year = null;
+        // Handle mix fields
+        if (updateData.mix) {
+            // First release year
+            if (
+                updateData.mix.first_release_year === "Unknown" ||
+                updateData.mix.first_release_year === "" ||
+                updateData.mix.first_release_year === null
+            ) {
+                updateData.mix.first_release_year = null;
+            } else if (updateData.mix.first_release_year !== undefined) {
+                updateData.mix.first_release_year =
+                    Number(updateData.mix.first_release_year);
+            }
+
+            // Latest release year
+            if (
+                updateData.mix.latest_release_year === "Present" ||
+                updateData.mix.latest_release_year === "Unknown" ||
+                updateData.mix.latest_release_year === "" ||
+                updateData.mix.latest_release_year === null
+            ) {
+                updateData.mix.latest_release_year = null;
+            } else if (updateData.mix.latest_release_year !== undefined) {
+                updateData.mix.latest_release_year =
+                    Number(updateData.mix.latest_release_year);
+            }
         }
 
         const update = await seriesModel.findOneAndUpdate(
-            { slug: slug },
-            updateData,
-            { returnDocument: 'after', runValidators: true, }
-        )
+            { slug },
+            { $set: updateData },
+            {
+                returnDocument: "after",
+                runValidators: true
+            }
+        );
 
         if (!update) {
             return res.status(409).send({
                 success: false,
-                message: 'Error in update'
-            })
+                message: "Error in update"
+            });
         }
-        res.status(200).send({
+
+        return res.status(200).send({
             success: true,
-            message: `Series updated`,
+            message: "Series updated",
             series: update
-        })
+        });
 
     } catch (error) {
-        console.log(error)
+        console.error("Update series error:", error);
+
         return res.status(500).send({
             success: false,
-            message: 'Internal Server error'
-        })
+            message: "Internal Server error"
+        });
     }
-}
+};
 
 export const singleSeriesController = async (req, res) => {
     try {

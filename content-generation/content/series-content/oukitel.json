@@ -1,0 +1,706 @@
+{
+  "brand": "Oukitel",
+  "total_series": 12,
+  "series": [
+    {
+      "name": "C Series",
+      "slug": "c-series",
+      "alternative_names": [
+        "Oukitel C"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2025,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "IPS LCD displays",
+        "Entry-level Unisoc or MediaTek chipsets",
+        "Large batteries (typically 5000 mAh)",
+        "Dual or triple camera setups",
+        "Android (Go Edition or stock Android)"
+      ],
+      "popular_models": [
+        "C2",
+        "C3",
+        "C5",
+        "C8",
+        "C12 Pro",
+        "C15",
+        "C17 Pro",
+        "C21",
+        "C33",
+        "C69"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Oukitel's entry-level lineup, positioned as the most affordable smartphones in the brand's portfolio.",
+        "The series saw a wide range of models, from the early C2 to the more recent C69.",
+        "As of 2023, Oukitel shifted focus away from conventional smartphones like the C series toward rugged devices."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [
+        "Oukitel U",
+        "Design Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Design-focused aesthetics",
+        "IPS LCD displays",
+        "Mid-range MediaTek chipsets",
+        "Fingerprint sensors",
+        "Dual-SIM support"
+      ],
+      "popular_models": [
+        "U2",
+        "U7",
+        "U7 Plus",
+        "U11 Plus",
+        "U15 Pro",
+        "U18",
+        "U20 Plus",
+        "U22",
+        "U25 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Positioned as Oukitel's 'design' series, focusing on style and aesthetics.",
+        "The U series was one of Oukitel's early mainstream smartphone lineups.",
+        "Discontinued as Oukitel pivoted to rugged and specialized devices."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "K Series",
+      "slug": "k-series",
+      "alternative_names": [
+        "Oukitel K",
+        "Battery Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Power users",
+        "Users needing long battery life"
+      ],
+      "characteristics": [
+        "Extremely large battery capacities (up to 11000 mAh)",
+        "Mid-range MediaTek chipsets",
+        "Large displays (6-inch and above)",
+        "Dual or triple camera setups",
+        "Often marketed as 'battery smartphones'"
+      ],
+      "popular_models": [
+        "K3",
+        "K7",
+        "K10",
+        "K4000",
+        "K5000",
+        "K6000",
+        "K8000",
+        "K10000",
+        "K10000 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "The K series was Oukitel's original 'battery' lineup, known for record-breaking battery capacities.",
+        "The K10000 series, in particular, was famous for its 10000 mAh battery.",
+        "The K series was eventually succeeded by the WP series as Oukitel's primary rugged lineup."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "WP Series",
+      "slug": "wp-series",
+      "alternative_names": [
+        "Oukitel WP",
+        "Rugged WP Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Industrial workers",
+        "Adventurers",
+        "Users needing durable phones"
+      ],
+      "characteristics": [
+        "Rugged design (IP68/IP69K, MIL-STD-810H)",
+        "Massive batteries (typically 10000-33000 mAh)",
+        "High-resolution main cameras (up to 108MP)",
+        "Thermal camera options on some models",
+        "Modular designs with detachable accessories (e.g., WP200 Pro, WP300)",
+        "Satellite connectivity on newer models"
+      ],
+      "popular_models": [
+        "WP2",
+        "WP5000",
+        "WP15 5G",
+        "WP19",
+        "WP30 Pro",
+        "WP35 Pro",
+        "WP100 Titan",
+        "WP200 Pro",
+        "WP300",
+        "WP500 Ultra"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Australia"
+      ],
+      "historical_notes": [
+        "Oukitel's flagship rugged smartphone series, launched in 2020 as the company's first rugged phone.",
+        "The WP series has become Oukitel's primary focus, featuring innovative designs like modular accessories and satellite connectivity.",
+        "The WP100 Titan features a 33000mAh battery and a 1200-lumen camping light.",
+        "The WP300 is marketed as the world's first industrial-grade modular rugged phone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "RT Series",
+      "slug": "rt-series",
+      "alternative_names": [
+        "Oukitel RT",
+        "Rugged Tablet Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Industrial workers",
+        "Outdoor professionals",
+        "Field technicians"
+      ],
+      "characteristics": [
+        "Rugged tablets (IP68/IP69K, MIL-STD-810H)",
+        "Large batteries (up to 32000 mAh)",
+        "Large displays (8-11 inches)",
+        "High-resolution cameras",
+        "5G connectivity on some models"
+      ],
+      "popular_models": [
+        "RT1",
+        "RT5",
+        "RT6",
+        "RT7 5G",
+        "RT10 Series",
+        "RT11 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Oukitel's rugged tablet lineup, introduced as part of the company's expansion beyond smartphones.",
+        "The RT7 5G features a massive 32000 mAh battery.",
+        "The RT10 series is marketed as an industry-focused rugged tablet with a barcode scanner."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [
+        "Oukitel G"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Outdoor enthusiasts"
+      ],
+      "characteristics": [
+        "Rugged design (IP68/IP69K)",
+        "Moderate battery capacities (around 6300 mAh)",
+        "HD displays",
+        "Entry-level Unisoc chipsets",
+        "Camping lights on some models"
+      ],
+      "popular_models": [
+        "G1",
+        "G2",
+        "G3",
+        "G5"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "A more affordable rugged series compared to the WP line.",
+        "The G series offers basic rugged features at a lower price point.",
+        "Typically sold through online channels like Amazon."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "Oukitel P"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "General consumers"
+      ],
+      "characteristics": [
+        "AMOLED displays with high refresh rates",
+        "Sony IMX766 main camera",
+        "In-display fingerprint sensors",
+        "AI features",
+        "Dynamic Island-style design"
+      ],
+      "popular_models": [
+        "P1",
+        "P1 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A newer series aiming for a more premium design and feature set.",
+        "The P1 Pro is noted for its design resemblance to the iPhone 17 Pro.",
+        "Represents Oukitel's attempt to enter the upper mid-range and premium segments."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Mix Series",
+      "slug": "mix-series",
+      "alternative_names": [
+        "Oukitel Mix"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Bezel-less design",
+        "Full HD+ displays (18:9 aspect ratio)",
+        "Mid-range MediaTek Helio P25 chipset",
+        "6GB RAM"
+      ],
+      "popular_models": [
+        "Mix 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "A short-lived series that explored the bezel-less design trend.",
+        "Only one model, the Mix 2, was released.",
+        "The series was discontinued after a single release."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Y Series",
+      "slug": "y-series",
+      "alternative_names": [
+        "Oukitel Y"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "General consumers"
+      ],
+      "characteristics": [
+        "IP68 water resistance on some models",
+        "Mid-range MediaTek Helio P70 chipset (Y4800)",
+        "High-resolution main cameras (up to 48MP)"
+      ],
+      "popular_models": [
+        "Y1000",
+        "Y4800"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A short-lived series with only a few models.",
+        "The Y4800 focused on camera capabilities with a 48MP main sensor."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "BT Series",
+      "slug": "bt-series",
+      "alternative_names": [
+        "Oukitel BT"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Users needing basic Bluetooth devices"
+      ],
+      "characteristics": [
+        "Small form factor",
+        "Low-capacity batteries (around 400 mAh)",
+        "Basic features",
+        "No cellular connectivity on most models"
+      ],
+      "popular_models": [
+        "BT10",
+        "BT20",
+        "BT30",
+        "BT50",
+        "BT80"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "The BT series consists of basic Bluetooth-enabled devices, which may not be smartphones.",
+        "Some models lack cellular connectivity, suggesting they are more like feature phones or accessories."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "WP Titan Series",
+      "slug": "wp-titan-series",
+      "alternative_names": [
+        "Oukitel WP Titan"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Extreme outdoor enthusiasts",
+        "Power users"
+      ],
+      "characteristics": [
+        "Extremely large batteries (up to 33000 mAh)",
+        "Rugged design (IP68/IP69K, MIL-STD-810H)",
+        "High-end features",
+        "Built-in camping lights"
+      ],
+      "popular_models": [
+        "WP100 Titan"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A sub-series of the WP lineup, focusing on extreme battery capacity and ruggedness.",
+        "The WP100 Titan features a 33000mAh battery, making it one of the largest battery smartphones ever made."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "WP Pro Series",
+      "slug": "wp-pro-series",
+      "alternative_names": [
+        "Oukitel WP Pro"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Professionals"
+      ],
+      "characteristics": [
+        "Rugged design (IP68/IP69K, MIL-STD-810H)",
+        "High-end specifications",
+        "Modular designs with detachable accessories",
+        "High-resolution cameras"
+      ],
+      "popular_models": [
+        "WP30 Pro",
+        "WP35 Pro",
+        "WP200 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A premium sub-series of the WP lineup, offering higher-end specifications and features.",
+        "The WP200 Pro features a detachable Bluetooth earphone module."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2016,
+      "series": "C Series"
+    },
+    {
+      "year": 2016,
+      "series": "U Series"
+    },
+    {
+      "year": 2016,
+      "series": "K Series"
+    },
+    {
+      "year": 2017,
+      "series": "Mix Series"
+    },
+    {
+      "year": 2018,
+      "series": "WP Series"
+    },
+    {
+      "year": 2019,
+      "series": "Y Series"
+    },
+    {
+      "year": 2023,
+      "series": "RT Series"
+    },
+    {
+      "year": 2023,
+      "series": "BT Series"
+    },
+    {
+      "year": 2023,
+      "series": "WP Pro Series"
+    },
+    {
+      "year": 2024,
+      "series": "G Series"
+    },
+    {
+      "year": 2024,
+      "series": "P Series"
+    },
+    {
+      "year": 2025,
+      "series": "WP Titan Series"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "P Series"
+    ],
+    "mid_range": [
+      "U Series",
+      "K Series",
+      "Mix Series",
+      "P Series"
+    ],
+    "budget": [
+      "C Series",
+      "G Series",
+      "Y Series"
+    ],
+    "entry_level": [
+      "C Series",
+      "BT Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "Y Series"
+    ],
+    "business": [],
+    "rugged": [
+      "WP Series",
+      "RT Series",
+      "G Series",
+      "WP Titan Series",
+      "WP Pro Series"
+    ],
+    "lifestyle": [],
+    "ai_focused": [
+      "P Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "C Series",
+      "U Series",
+      "K Series",
+      "Mix Series",
+      "Y Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Titan branding",
+      "Ultra branding"
+    ],
+    "description": "Oukitel uses a letter-based system to denote different product lines: C (entry-level), U (design), K (battery), WP (rugged professional), RT (rugged tablets), G (budget rugged), P (premium), MIX (experimental), Y (camera), and BT (basic). The WP series further uses 'Pro' and 'Titan' suffixes to indicate premium or extreme variants."
+  },
+  "summary": {
+    "total_series": 12,
+    "active_series": 7,
+    "discontinued_series": 5,
+    "oldest_series": "C Series",
+    "newest_series": "WP Titan Series",
+    "longest_running_series": "WP Series",
+    "most_popular_series": "WP Series",
+    "best_selling_series": "WP Series",
+    "most_premium_series": "WP Titan Series",
+    "best_budget_series": "C Series",
+    "most_influential_series": "K Series",
+    "fastest_growing_series": "WP Series",
+    "future_expected_direction": "Continued focus on rugged smartphones and tablets, with innovations in battery technology, modular designs, and satellite connectivity."
+  },
+  "missing_series": []
+}

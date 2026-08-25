@@ -3,8 +3,9 @@ import dotenv from 'dotenv';
 dotenv.config();
 import cors from 'cors';
 import morgan from 'morgan';
-import { brandsContentGenerate } from './ollama/brand.js';
+import { brandsContentGenerate, brandsImagePrompt } from './ollama/brand.js';
 import { FileToModel, findActiveSeriesAndCreateFiles, modelsContentGenerate, modelSpecWriter } from './ollama/model.js';
+import { brandsFileForSeries, fileRawToSeries } from './ollama/series.js';
 
 
 const app = express()
@@ -15,7 +16,7 @@ app.use(cors({
 
 app.use(morgan('combined'));
 
-modelSpecWriter()
+fileRawToSeries()
 
 const port = process.env.PORT || 5000
 

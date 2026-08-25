@@ -1,0 +1,884 @@
+{
+  "brand": "Umidigi",
+  "total_series": 15,
+  "series": [
+    {
+      "name": "UMI",
+      "slug": "umi",
+      "alternative_names": [
+        "UMI Mobile",
+        "UMI Tech"
+      ],
+      "sub_brand": "Legacy Predecessor",
+      "first_release_year": 2012,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Metal unibody designs",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "UMI X1",
+        "UMI London",
+        "UMI Super",
+        "UMI Max",
+        "UMI Plus",
+        "UMI Diamond",
+        "UMI Zero"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Original brand name before rebranding to UMIDIGI in 2017",
+        "Known for pioneering affordable metal-body smartphones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Z Series",
+      "slug": "z-series",
+      "alternative_names": [
+        "UMIDIGI Z"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Glass and metal premium build",
+        "High-resolution displays",
+        "Advanced camera setups",
+        "In-display fingerprint sensors"
+      ],
+      "popular_models": [
+        "Z",
+        "Z1 Pro",
+        "Z2",
+        "Z2 Special Edition",
+        "Z5",
+        "Z5 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Served as UMIDIGI's flagship lineup",
+        "Replaced by S Series and later discontinued in favor of A and G series consolidation"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "UMIDIGI S"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Quad-camera setups",
+        "Premium design",
+        "High-capacity batteries",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "S1",
+        "S2",
+        "S2 Pro",
+        "S3",
+        "S3 Pro",
+        "S5 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Positioned as a premium alternative to the Z Series",
+        "Discontinued as the brand shifted focus to the G and A series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Max Series",
+      "slug": "max-series",
+      "alternative_names": [
+        "UMIDIGI Max"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Battery-conscious users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High-capacity batteries",
+        "Media-focused specs"
+      ],
+      "popular_models": [
+        "Max",
+        "Max 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Focused on phablet-style large screens and batteries",
+        "Eventually merged into the Pro Max naming convention within other series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Crystal Series",
+      "slug": "crystal-series",
+      "alternative_names": [
+        "UMIDIGI Crystal"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Unique gradient glass back design",
+        "Compact form factor",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Crystal"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Short-lived design-focused series",
+        "Pioneered the gradient back aesthetic later used in other series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "One Series",
+      "slug": "one-series",
+      "alternative_names": [
+        "UMIDIGI One"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 180,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Notch display",
+        "Affordable pricing",
+        "Decent battery life"
+      ],
+      "popular_models": [
+        "One",
+        "One Pro",
+        "One Max"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced the notch display design to UMIDIGI's budget lineup",
+        "Replaced by the A Series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A Series",
+      "slug": "a-series",
+      "alternative_names": [
+        "UMIDIGI A"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers",
+        "Secondary phone users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High-capacity batteries",
+        "Multiple rear cameras",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "A1",
+        "A3 Pro",
+        "A5 Pro",
+        "A7 Pro",
+        "A9 Pro",
+        "A11 Pro",
+        "A13 Pro",
+        "A15",
+        "A75x"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Latin America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Longest-running and most popular UMIDIGI series",
+        "Consistently updated with new models annually",
+        "Known for offering flagship-like designs at budget prices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "F Series",
+      "slug": "f-series",
+      "alternative_names": [
+        "UMIDIGI F"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 180,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Curved edge design",
+        "Matte finish",
+        "Large batteries",
+        "Helio P series chipsets"
+      ],
+      "popular_models": [
+        "F1",
+        "F1 Play",
+        "F2",
+        "F2 Play",
+        "F3 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Positioned between A Series and S Series",
+        "Discontinued as the G Series took over the mid-range segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "B Series",
+      "slug": "b-series",
+      "alternative_names": [
+        "UMIDIGI B"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic camera setups",
+        "Entry-level chipsets"
+      ],
+      "popular_models": [
+        "B1",
+        "B2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Short-lived budget series",
+        "Quickly absorbed into the A Series lineup"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "C Series",
+      "slug": "c-series",
+      "alternative_names": [
+        "UMIDIGI C"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 120,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Seniors",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Ultra-affordable pricing",
+        "Basic functionality",
+        "Large batteries relative to price"
+      ],
+      "popular_models": [
+        "C1",
+        "C1 Max",
+        "C2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Served as the absolute entry-level tier",
+        "Eventually phased out as the A Series dropped to lower price points"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [
+        "UMIDIGI X"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Waterdrop notch",
+        "Quad cameras",
+        "NFC support",
+        "Premium build materials"
+      ],
+      "popular_models": [
+        "X",
+        "X2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Attempt to capture the upper mid-range market",
+        "Discontinued due to overlapping with S Series and later G Series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Power Series",
+      "slug": "power-series",
+      "alternative_names": [
+        "UMIDIGI Power"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Heavy users",
+        "Travelers",
+        "Battery-conscious users"
+      ],
+      "characteristics": [
+        "Massive batteries (6000+ mAh)",
+        "Reverse charging",
+        "Durable build"
+      ],
+      "popular_models": [
+        "Power",
+        "Power 2",
+        "Power 3",
+        "Power 5",
+        "Power 7"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Pioneered the 6000+ mAh battery trend in budget phones",
+        "Eventually merged into the G Series and Bison Series for rugged and battery combinations"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bison Series",
+      "slug": "bison-series",
+      "alternative_names": [
+        "UMIDIGI Bison"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Construction workers",
+        "Heavy users"
+      ],
+      "characteristics": [
+        "IP68 and IP69K waterproof and dustproof",
+        "MIL-STD-810H certified",
+        "Large batteries",
+        "Thermal imaging in Pro models",
+        "Ruggedized chassis"
+      ],
+      "popular_models": [
+        "Bison",
+        "Bison Pro",
+        "Bison GT",
+        "Bison GT2 Pro",
+        "Bison X10",
+        "Bison X20"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Australia"
+      ],
+      "historical_notes": [
+        "UMIDIGI's dedicated rugged smartphone lineup",
+        "Introduced thermal imaging cameras in the Pro variants",
+        "One of the brand's most successful specialized series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Note Series",
+      "slug": "note-series",
+      "alternative_names": [
+        "UMIDIGI Note"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High refresh rates",
+        "Large batteries",
+        "Modern camera arrays"
+      ],
+      "popular_models": [
+        "Note 10",
+        "Note 11",
+        "Note 12",
+        "Note 13",
+        "Note 14",
+        "Note 100",
+        "Note 100 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Introduced to compete with other brands' Note naming conventions",
+        "Serves as a modernized budget and mid-range alternative to the A Series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [
+        "UMIDIGI G",
+        "G and C Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 250,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Modern designs",
+        "5G connectivity in higher models",
+        "High-capacity batteries",
+        "AI camera features"
+      ],
+      "popular_models": [
+        "G1",
+        "G2",
+        "G3",
+        "G5",
+        "G6 5G",
+        "G9 5G",
+        "G100",
+        "G100 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Latin America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Current primary mid-range lineup for UMIDIGI",
+        "Replaced the F and Power series as the core offering",
+        "Often grouped with C Series on official marketing as G and C Series"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "UMI"
+    },
+    {
+      "year": 2017,
+      "series": "Z Series"
+    },
+    {
+      "year": 2017,
+      "series": "S Series"
+    },
+    {
+      "year": 2017,
+      "series": "Max Series"
+    },
+    {
+      "year": 2018,
+      "series": "Crystal Series"
+    },
+    {
+      "year": 2018,
+      "series": "One Series"
+    },
+    {
+      "year": 2018,
+      "series": "A Series"
+    },
+    {
+      "year": 2018,
+      "series": "F Series"
+    },
+    {
+      "year": 2019,
+      "series": "B Series"
+    },
+    {
+      "year": 2019,
+      "series": "C Series"
+    },
+    {
+      "year": 2019,
+      "series": "X Series"
+    },
+    {
+      "year": 2019,
+      "series": "Power Series"
+    },
+    {
+      "year": 2020,
+      "series": "Bison Series"
+    },
+    {
+      "year": 2021,
+      "series": "Note Series"
+    },
+    {
+      "year": 2022,
+      "series": "G Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Z Series"
+    ],
+    "premium": [
+      "Z Series",
+      "S Series"
+    ],
+    "mid_range": [
+      "F Series",
+      "X Series",
+      "Note Series",
+      "G Series",
+      "Bison Series"
+    ],
+    "budget": [
+      "A Series",
+      "B Series",
+      "One Series",
+      "Power Series"
+    ],
+    "entry_level": [
+      "C Series",
+      "A Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "S Series"
+    ],
+    "business": [],
+    "rugged": [
+      "Bison Series"
+    ],
+    "lifestyle": [
+      "Crystal Series"
+    ],
+    "ai_focused": [
+      "G Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "UMI",
+      "Z Series",
+      "S Series",
+      "Max Series",
+      "Crystal Series",
+      "One Series",
+      "A Series",
+      "F Series",
+      "B Series",
+      "C Series",
+      "X Series",
+      "Power Series",
+      "Bison Series",
+      "Note Series",
+      "G Series"
+    ],
+    "discontinued": [
+      "UMI",
+      "Z Series",
+      "S Series",
+      "Max Series",
+      "Crystal Series",
+      "One Series",
+      "F Series",
+      "B Series",
+      "C Series",
+      "X Series",
+      "Power Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Max branding",
+      "Play branding",
+      "5G branding"
+    ],
+    "description": "Umidigi primarily uses a Letter plus Number naming convention (e.g., A15, G100, Note 100). It frequently employs suffixes like Pro, Max, 5G, and Play to denote variants within a series. The brand also uses descriptive names for specialized lines like Bison for rugged devices and Power for battery-focused models."
+  },
+  "summary": {
+    "total_series": 15,
+    "active_series": 4,
+    "discontinued_series": 11,
+    "oldest_series": "UMI",
+    "newest_series": "G Series",
+    "longest_running_series": "A Series",
+    "most_popular_series": "A Series",
+    "best_selling_series": "A Series",
+    "most_premium_series": "Z Series",
+    "best_budget_series": "A Series",
+    "most_influential_series": "Bison Series",
+    "fastest_growing_series": "G Series",
+    "future_expected_direction": "Continued focus on 5G connectivity in budget and mid-range segments, expansion of the rugged Bison lineup, and deeper integration of AI features in camera and battery management systems."
+  },
+  "missing_series": []
+}

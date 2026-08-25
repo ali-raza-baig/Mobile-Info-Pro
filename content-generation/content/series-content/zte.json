@@ -1,0 +1,1810 @@
+{
+  "brand": "ZTE",
+  "total_series": 40,
+  "series": [
+    {
+      "name": "Axon",
+      "slug": "axon",
+      "alternative_names": [
+        "ZTE Axon",
+        "中兴天机"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 899,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Premium build",
+        "Hi-Fi audio",
+        "Innovative displays",
+        "Advanced camera systems",
+        "Satellite communication"
+      ],
+      "popular_models": [
+        "Axon 7",
+        "Axon M",
+        "Axon 10 Pro",
+        "Axon 20 5G",
+        "Axon 30 Ultra",
+        "Axon 40 Ultra",
+        "Axon 50 Ultra",
+        "Axon 60 Ultra"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Introduced in 2015 as ZTE's flagship series",
+        "Axon M (2017) was a foldable dual-screen phone",
+        "Axon 20 5G (2020) was the world's first commercial smartphone with an under-display camera",
+        "Axon 50 Ultra introduced satellite communication"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Blade",
+      "slug": "blade",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Large batteries",
+        "Decent cameras",
+        "Multiple sub-variants (A, V, L series)"
+      ],
+      "popular_models": [
+        "Blade",
+        "Blade V9",
+        "Blade V10",
+        "Blade V40",
+        "Blade A52",
+        "Blade A75 5G",
+        "Blade V70",
+        "Blade V80 Max"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "Latin America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of ZTE's longest-running and best-selling series",
+        "Blade was the biggest selling Android phone in China with over 10 million units sold",
+        "The series includes various sub-lineups like Blade A, Blade V, and Blade L"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "nubia",
+      "slug": "nubia",
+      "alternative_names": [
+        "努比亚"
+      ],
+      "sub_brand": "nubia",
+      "first_release_year": 2012,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 900,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship",
+        "Camera-focused",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Gamers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Premium design",
+        "Innovative displays",
+        "Advanced camera systems",
+        "Gaming features",
+        "AI integration"
+      ],
+      "popular_models": [
+        "nubia Z5",
+        "nubia Z9",
+        "nubia Z11",
+        "nubia Z20",
+        "nubia Z60 Ultra",
+        "nubia Z70 Ultra",
+        "nubia Z80 Ultra"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "nubia was established as a sub-brand of ZTE in 2012",
+        "The nubia Z series is known for its camera innovations and borderless displays",
+        "nubia also encompasses the Redmagic gaming series and the Neo series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmagic",
+      "slug": "redmagic",
+      "alternative_names": [
+        "红魔",
+        "REDMAGIC"
+      ],
+      "sub_brand": "nubia",
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 1000,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Flagship",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High-performance gaming",
+        "Active cooling systems",
+        "High refresh rate displays",
+        "Gaming triggers",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Redmagic 3",
+        "Redmagic 5G",
+        "Redmagic 6",
+        "Redmagic 7",
+        "Redmagic 8 Pro",
+        "Redmagic 9 Pro",
+        "Redmagic 10 Pro",
+        "Redmagic 11 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Redmagic is a gaming-focused sub-brand under nubia",
+        "Known for introducing active cooling fans in smartphones",
+        "Redmagic 11 Pro introduced a liquid cooling system"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "nubia Neo",
+      "slug": "nubia-neo",
+      "alternative_names": [
+        "努比亚Neo"
+      ],
+      "sub_brand": "nubia",
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 499,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Youth",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Gaming design",
+        "Built-in cooling fans",
+        "Large displays",
+        "AI features",
+        "Affordable gaming"
+      ],
+      "popular_models": [
+        "nubia Neo 3",
+        "nubia Neo 3 GT",
+        "nubia Neo 5",
+        "nubia Neo 5 GT",
+        "nubia Neo 5 Max"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "nubia Neo is a youth-focused gaming smartphone series",
+        "nubia Neo 5 series introduced a built-in fan, a unique feature in its class",
+        "nubia Neo 5 Max is a PadPhone with a 7.5-inch display"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "nubia Air",
+      "slug": "nubia-air",
+      "alternative_names": [
+        "努比亚Air"
+      ],
+      "sub_brand": "nubia",
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Lifestyle users",
+        "Fashion-conscious users"
+      ],
+      "characteristics": [
+        "Ultra-slim design",
+        "Lightweight",
+        "Premium materials"
+      ],
+      "popular_models": [
+        "nubia Air",
+        "nubia Air Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "China"
+      ],
+      "historical_notes": [
+        "nubia Air is an ultra-slim smartphone series launched in 2024"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Grand",
+      "slug": "grand",
+      "alternative_names": [
+        "中兴Grand"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Premium build",
+        "High-performance processors"
+      ],
+      "popular_models": [
+        "Grand X",
+        "Grand S",
+        "Grand Era",
+        "Grand Memo",
+        "Grand S3"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Grand was ZTE's high-end series before the Axon series",
+        "Grand S was the world's thinnest 5-inch FHD quad-core smartphone at launch",
+        "Grand Memo featured a 5.7-inch display"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Skate",
+      "slug": "skate",
+      "alternative_names": [
+        "ZTE Skate",
+        "Style S"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 230,
+        "highest_usd": 230,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mid-range consumers"
+      ],
+      "characteristics": [
+        "Large display",
+        "Slim design",
+        "Android Gingerbread"
+      ],
+      "popular_models": [
+        "Skate"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "China",
+        "Philippines"
+      ],
+      "historical_notes": [
+        "Skate was a mid-level series positioned between Blade and Grand",
+        "Inspired by skateboard culture",
+        "Succeeded by other mid-range offerings"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Racer",
+      "slug": "racer",
+      "alternative_names": [
+        "ZTE X850",
+        "ZTE Link"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Android Eclair",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Racer",
+        "Racer II"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "One of ZTE's first Android smartphones",
+        "Also known as ZTE X850 in China and ZTE Link in France",
+        "Succeeded by the Blade series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Voyage",
+      "slug": "voyage",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mid-range consumers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "3D displays",
+        "Mid-range specifications",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "Voyage 20 Pro",
+        "Voyage 40 Pro+",
+        "Voyage 3D"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Voyage series focuses on mid-range 5G smartphones",
+        "Voyage 3D features a glasses-free 3D display"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "ZTE S30 series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Young consumers",
+        "Lifestyle users"
+      ],
+      "characteristics": [
+        "High refresh rate displays",
+        "High-resolution front cameras",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "S30",
+        "S30 Pro",
+        "S30 SE"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "S series was a short-lived lifestyle-focused series targeting young people",
+        "Launched in 2021 with three models"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Zmax",
+      "slug": "zmax",
+      "alternative_names": [
+        "ZTE ZMax"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Large-screen enthusiasts"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Affordable pricing",
+        "Decent battery life"
+      ],
+      "popular_models": [
+        "Zmax",
+        "Blade ZMAX"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Zmax was a series of large-screen budget smartphones",
+        "Available through carriers like T-Mobile and MetroPCS"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Max",
+      "slug": "max",
+      "alternative_names": [
+        "ZTE Max"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Max XL"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Max series offered large-screen budget smartphones"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Imperial",
+      "slug": "imperial",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact display",
+        "4G LTE",
+        "Android Jelly Bean"
+      ],
+      "popular_models": [
+        "Imperial",
+        "Imperial II"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Imperial was a carrier-exclusive series for US Cellular"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Awe",
+      "slug": "awe",
+      "alternative_names": [
+        "Virgin Mobile Awe"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android Jelly Bean"
+      ],
+      "popular_models": [
+        "Awe"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Awe was a carrier-exclusive series for Virgin Mobile",
+        "Also known as the Sprint Vital"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Tempo",
+      "slug": "tempo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 80,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Compact displays",
+        "Android Go"
+      ],
+      "popular_models": [
+        "Tempo",
+        "Tempo Go",
+        "Tempo X"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Tempo Go was ZTE's first Android Go smartphone",
+        "Available through Boost Mobile"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Prestige",
+      "slug": "prestige",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Basic specifications"
+      ],
+      "popular_models": [
+        "Prestige",
+        "Prestige 2"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Prestige was an entry-level series for carriers like Boost Mobile and T-Mobile"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Maven",
+      "slug": "maven",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 60,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Basic specifications"
+      ],
+      "popular_models": [
+        "Maven",
+        "Maven 2"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Maven was a budget series for AT&T and Cricket Wireless"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Sonata",
+      "slug": "sonata",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 30,
+        "highest_usd": 30,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact displays",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Sonata 4G",
+        "Sonata 2",
+        "Sonata 3"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Sonata was an entry-level series for carriers like Cricket Wireless and Aio Wireless"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Overture",
+      "slug": "overture",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact displays",
+        "4G LTE",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Overture",
+        "Overture 2",
+        "Overture 3"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Overture was a budget series for carriers like Aio Wireless and AT&T"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Speed",
+      "slug": "speed",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 99,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "4G LTE",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Speed"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Speed was a budget series for Boost Mobile"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Score",
+      "slug": "score",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android"
+      ],
+      "popular_models": [
+        "Score M"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Score was an early entry-level Android series"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Fury",
+      "slug": "fury",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 20,
+        "highest_usd": 20,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android Gingerbread",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Fury"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Fury was a budget series for Sprint"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Vital",
+      "slug": "vital",
+      "alternative_names": [
+        "Sprint Vital"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mid-range consumers"
+      ],
+      "characteristics": [
+        "5-inch display",
+        "HD resolution",
+        "13MP camera",
+        "4G LTE"
+      ],
+      "popular_models": [
+        "Vital"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Vital was a mid-range series for Sprint",
+        "Also known as the Virgin Mobile Awe"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Savvy",
+      "slug": "savvy",
+      "alternative_names": [
+        "Z750C"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android Jelly Bean"
+      ],
+      "popular_models": [
+        "Savvy"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Savvy was an entry-level series for prepaid carriers"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Avid",
+      "slug": "avid",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 149,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact displays",
+        "4G LTE",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Avid 4G",
+        "Avid 579",
+        "Avid 589"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Avid was a long-running budget series for carriers like MetroPCS"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Radiant",
+      "slug": "radiant",
+      "alternative_names": [
+        "AT&T Radiant",
+        "Z740"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android Jelly Bean"
+      ],
+      "popular_models": [
+        "Radiant"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Radiant was a budget series for AT&T"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Whirl",
+      "slug": "whirl",
+      "alternative_names": [
+        "Z660G",
+        "Whirl 2",
+        "Zinger",
+        "Prelude 2"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 10,
+        "highest_usd": 10,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android Jelly Bean",
+        "Very affordable"
+      ],
+      "popular_models": [
+        "Whirl",
+        "Whirl 2"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Whirl was an ultra-budget series for prepaid carriers",
+        "Whirl 2 was also sold as the ZTE Zinger and Prelude 2"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Obsidian",
+      "slug": "obsidian",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 47,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact display",
+        "4G LTE",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Obsidian"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Obsidian was a budget series for T-Mobile"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Kis",
+      "slug": "kis",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 50,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact display",
+        "Android Gingerbread",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Kis",
+        "Kis III",
+        "Kis 3"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "Kis was a budget series for Virgin Media and other carriers"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Libra",
+      "slug": "libra",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 180,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mid-range consumers"
+      ],
+      "characteristics": [
+        "3.5-inch display",
+        "Android Froyo",
+        "5MP camera"
+      ],
+      "popular_models": [
+        "Libra"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "Libra was a mid-range Android smartphone launched alongside the Skate"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [
+        "ZTE V"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact displays",
+        "Android"
+      ],
+      "popular_models": [
+        "V791",
+        "V956"
+      ],
+      "primary_markets": [
+        "Global",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "V series were early Android smartphones, some of which were rebranded as Blade models"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Tania",
+      "slug": "tania",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Windows Phone enthusiasts",
+        "Mid-range consumers"
+      ],
+      "characteristics": [
+        "Windows Phone 7",
+        "4.3-inch display",
+        "5MP camera"
+      ],
+      "popular_models": [
+        "Tania"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "Tania was ZTE's first Windows Phone device"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Era",
+      "slug": "era",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Quad-core Tegra 3 processor",
+        "Android Ice Cream Sandwich",
+        "Slim design"
+      ],
+      "popular_models": [
+        "Era"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Era was a flagship smartphone announced at MWC 2012 with a Tegra 3 processor"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Memo",
+      "slug": "memo",
+      "alternative_names": [
+        "Grand Memo"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Productivity users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "QWERTY keyboard (early models)",
+        "Productivity features"
+      ],
+      "popular_models": [
+        "Memo",
+        "Grand Memo",
+        "Grand Memo LTE"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "China"
+      ],
+      "historical_notes": [
+        "Memo series focused on productivity with large displays",
+        "Early models featured physical QWERTY keyboards",
+        "Later models were part of the Grand series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Open",
+      "slug": "open",
+      "alternative_names": [
+        "ZTE Open"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Experimental"
+      ],
+      "target_audience": [
+        "Developers",
+        "Firefox OS enthusiasts"
+      ],
+      "characteristics": [
+        "Firefox OS",
+        "Affordable",
+        "Basic specifications"
+      ],
+      "popular_models": [
+        "Open"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Open was ZTE's Firefox OS smartphone",
+        "Part of Mozilla's Firefox OS initiative"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "Blade"
+    },
+    {
+      "year": 2010,
+      "series": "Racer"
+    },
+    {
+      "year": 2011,
+      "series": "Libra"
+    },
+    {
+      "year": 2011,
+      "series": "Memo"
+    },
+    {
+      "year": 2011,
+      "series": "Skate"
+    },
+    {
+      "year": 2011,
+      "series": "Tania"
+    },
+    {
+      "year": 2011,
+      "series": "V Series"
+    },
+    {
+      "year": 2012,
+      "series": "Era"
+    },
+    {
+      "year": 2012,
+      "series": "Fury"
+    },
+    {
+      "year": 2012,
+      "series": "Grand"
+    },
+    {
+      "year": 2012,
+      "series": "Kis"
+    },
+    {
+      "year": 2012,
+      "series": "nubia"
+    },
+    {
+      "year": 2012,
+      "series": "Score"
+    },
+    {
+      "year": 2013,
+      "series": "Awe"
+    },
+    {
+      "year": 2013,
+      "series": "Imperial"
+    },
+    {
+      "year": 2013,
+      "series": "Open"
+    },
+    {
+      "year": 2013,
+      "series": "Overture"
+    },
+    {
+      "year": 2013,
+      "series": "Radiant"
+    },
+    {
+      "year": 2013,
+      "series": "Savvy"
+    },
+    {
+      "year": 2013,
+      "series": "Vital"
+    },
+    {
+      "year": 2013,
+      "series": "Whirl"
+    },
+    {
+      "year": 2014,
+      "series": "Avid"
+    },
+    {
+      "year": 2014,
+      "series": "Sonata"
+    },
+    {
+      "year": 2014,
+      "series": "Speed"
+    },
+    {
+      "year": 2014,
+      "series": "Zmax"
+    },
+    {
+      "year": 2015,
+      "series": "Axon"
+    },
+    {
+      "year": 2015,
+      "series": "Maven"
+    },
+    {
+      "year": 2015,
+      "series": "Obsidian"
+    },
+    {
+      "year": 2015,
+      "series": "Prestige"
+    },
+    {
+      "year": 2016,
+      "series": "Tempo"
+    },
+    {
+      "year": 2017,
+      "series": "Max"
+    },
+    {
+      "year": 2018,
+      "series": "Redmagic"
+    },
+    {
+      "year": 2021,
+      "series": "S Series"
+    },
+    {
+      "year": 2021,
+      "series": "Voyage"
+    },
+    {
+      "year": 2023,
+      "series": "nubia Neo"
+    },
+    {
+      "year": 2024,
+      "series": "nubia Air"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Axon",
+      "Grand",
+      "nubia",
+      "Redmagic",
+      "Era"
+    ],
+    "premium": [
+      "Axon",
+      "Grand",
+      "nubia",
+      "Redmagic",
+      "nubia Air"
+    ],
+    "mid_range": [
+      "Blade",
+      "Skate",
+      "Voyage",
+      "S Series",
+      "Zmax",
+      "Vital",
+      "Libra",
+      "Tania",
+      "Memo",
+      "nubia Neo"
+    ],
+    "budget": [
+      "Blade",
+      "Zmax",
+      "Imperial",
+      "Awe",
+      "Tempo",
+      "Prestige",
+      "Maven",
+      "Sonata",
+      "Overture",
+      "Speed",
+      "Fury",
+      "Avid",
+      "Radiant",
+      "Whirl",
+      "Obsidian",
+      "Kis"
+    ],
+    "entry_level": [
+      "Blade",
+      "Racer",
+      "Imperial",
+      "Awe",
+      "Tempo",
+      "Prestige",
+      "Maven",
+      "Sonata",
+      "Overture",
+      "Speed",
+      "Score",
+      "Fury",
+      "Savvy",
+      "Avid",
+      "Radiant",
+      "Whirl",
+      "Obsidian",
+      "Kis",
+      "V Series",
+      "Open"
+    ],
+    "foldable": [
+      "Axon"
+    ],
+    "flip": [],
+    "gaming": [
+      "Redmagic",
+      "nubia Neo"
+    ],
+    "camera_focused": [
+      "Axon",
+      "nubia"
+    ],
+    "business": [
+      "Grand",
+      "Memo"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "S Series",
+      "nubia Air"
+    ],
+    "ai_focused": [
+      "nubia",
+      "nubia Neo"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [
+      "Imperial",
+      "Awe",
+      "Tempo",
+      "Prestige",
+      "Maven",
+      "Sonata",
+      "Overture",
+      "Speed",
+      "Fury",
+      "Vital",
+      "Savvy",
+      "Avid",
+      "Radiant",
+      "Whirl",
+      "Obsidian",
+      "Kis"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Grand",
+      "Skate",
+      "Racer",
+      "S Series",
+      "Zmax",
+      "Max",
+      "Imperial",
+      "Awe",
+      "Tempo",
+      "Prestige",
+      "Maven",
+      "Sonata",
+      "Overture",
+      "Speed",
+      "Score",
+      "Fury",
+      "Vital",
+      "Savvy",
+      "Avid",
+      "Radiant",
+      "Whirl",
+      "Obsidian",
+      "Kis",
+      "Libra",
+      "V Series",
+      "Tania",
+      "Era",
+      "Memo",
+      "Open"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Fold Series",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Ultra branding",
+      "SE branding",
+      "GT branding",
+      "Lite branding",
+      "Vita branding",
+      "Design branding"
+    ],
+    "description": "ZTE uses a multi-layered naming strategy across its portfolio. The Axon series represents the flagship line with numbers indicating generation and 'Ultra' for the top-tier model. The Blade series is ZTE's volume driver with sub-letter series (A, V, L) indicating different market segments. nubia serves as a premium sub-brand with 'Z' series for flagships, 'Redmagic' for gaming, and 'Neo' for accessible gaming. Model suffixes like 'Pro', 'Plus', 'Max', 'Ultra', 'SE', and 'GT' denote variants within each series."
+  },
+  "summary": {
+    "total_series": 40,
+    "active_series": 9,
+    "discontinued_series": 31,
+    "oldest_series": "Blade",
+    "newest_series": "nubia Air",
+    "longest_running_series": "Blade",
+    "most_popular_series": "Blade",
+    "best_selling_series": "Blade",
+    "most_premium_series": "nubia",
+    "best_budget_series": "Blade",
+    "most_influential_series": "Axon",
+    "fastest_growing_series": "nubia Neo",
+    "future_expected_direction": "ZTE is expected to continue focusing on its nubia and Redmagic sub-brands for premium and gaming segments, while expanding AI integration across its portfolio. The Blade series will remain the volume driver in budget and mid-range segments. The company may also explore more foldable and innovative form factors under the Axon series."
+  },
+  "missing_series": []
+}

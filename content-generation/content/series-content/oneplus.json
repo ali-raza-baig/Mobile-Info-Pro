@@ -1,0 +1,520 @@
+{
+  "brand": "OnePlus",
+  "total_series": 8,
+  "series": [
+    {
+      "name": "OnePlus Number Series",
+      "slug": "oneplus-number-series",
+      "alternative_names": [
+        "OnePlus Digital Series",
+        "OnePlus Flagship Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 1069,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Premium cameras",
+        "Fast charging",
+        "Flagship processors"
+      ],
+      "popular_models": [
+        "OnePlus One",
+        "OnePlus 6T",
+        "OnePlus 8 Pro",
+        "OnePlus 9 Pro",
+        "OnePlus 11",
+        "OnePlus 12"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Original 'Flagship Killer' lineup",
+        "Introduced Hasselblad camera partnership in later models",
+        "Evolved from budget flagship to true premium flagship"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus X Series",
+      "slug": "oneplus-x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 249,
+        "highest_usd": 299,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Design-focused users"
+      ],
+      "characteristics": [
+        "Glass and metal design",
+        "Mid-range processor",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "OnePlus X"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India"
+      ],
+      "historical_notes": [
+        "Released as a more affordable alternative to the flagship lineup",
+        "Discontinued after one generation",
+        "Mid-range segment later filled by the Nord series in 2020"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Nord Series",
+      "slug": "oneplus-nord-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 399,
+        "highest_usd": 599,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Young professionals"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Fast charging",
+        "Clean software experience",
+        "Multiple camera setups"
+      ],
+      "popular_models": [
+        "OnePlus Nord",
+        "OnePlus Nord 2",
+        "OnePlus Nord 3",
+        "OnePlus Nord 4",
+        "OnePlus Nord CE",
+        "OnePlus Nord CE 3"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced to fill the mid-range gap left by the discontinuation of the OnePlus X",
+        "CE (Core Edition) sub-line offers a more budget-friendly variant",
+        "Shares hardware DNA with the Chinese Ace series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Nord N Series",
+      "slug": "oneplus-nord-n-series",
+      "alternative_names": [
+        "OnePlus N Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 179,
+        "highest_usd": 299,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "North American market"
+      ],
+      "characteristics": [
+        "5G connectivity at budget prices",
+        "Large batteries",
+        "LCD or lower-tier AMOLED displays",
+        "Clean software"
+      ],
+      "popular_models": [
+        "OnePlus Nord N10 5G",
+        "OnePlus Nord N100",
+        "OnePlus Nord N20 5G",
+        "OnePlus Nord N200 5G",
+        "OnePlus Nord N30 5G"
+      ],
+      "primary_markets": [
+        "North America",
+        "USA",
+        "Canada"
+      ],
+      "historical_notes": [
+        "Created specifically as a regional-exclusive budget lineup for North America",
+        "Often sold through carriers like T-Mobile",
+        "Serves as the entry point to the OnePlus ecosystem in the US"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Ace Series",
+      "slug": "oneplus-ace-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 399,
+        "highest_usd": 699,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Performance-focused buyers"
+      ],
+      "characteristics": [
+        "High-performance processors",
+        "Large batteries",
+        "Ultra-fast charging",
+        "Flat displays",
+        "Gaming-focused features"
+      ],
+      "popular_models": [
+        "OnePlus Ace",
+        "OnePlus Ace Pro",
+        "OnePlus Ace 2",
+        "OnePlus Ace 2 Pro",
+        "OnePlus Ace 3",
+        "OnePlus Ace 3V"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Launched as a China-exclusive performance-focused series",
+        "Effectively replaced the 'R' series in China",
+        "Shares hardware DNA with the global Nord series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus R Series",
+      "slug": "oneplus-r-series",
+      "alternative_names": [
+        "OnePlus Renegade Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 499,
+        "highest_usd": 699,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Value-seeking power users",
+        "Gamers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Near-flagship performance",
+        "Scaled-down flagship features",
+        "Competitive pricing",
+        "High refresh rate displays"
+      ],
+      "popular_models": [
+        "OnePlus 9R",
+        "OnePlus 10R",
+        "OnePlus 11R",
+        "OnePlus 12R",
+        "OnePlus 13R"
+      ],
+      "primary_markets": [
+        "India",
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "'R' stands for Renegade, representing a bold departure from ordinary pricing",
+        "Serves as the global counterpart to the China-exclusive Ace series in recent years",
+        "Revived the 'Flagship Killer' concept"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Open Series",
+      "slug": "oneplus-open-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 1699,
+        "highest_usd": 1699,
+        "estimated": false
+      },
+      "market_position": [
+        "Foldable",
+        "Ultra Premium",
+        "Flagship",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users",
+        "Tech enthusiasts",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Foldable display",
+        "Flexion Hinge technology",
+        "Premium build",
+        "Multi-tasking software features",
+        "High-end cameras"
+      ],
+      "popular_models": [
+        "OnePlus Open"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe",
+        "India"
+      ],
+      "historical_notes": [
+        "OnePlus's first official foldable smartphone",
+        "Developed in collaboration with Oppo (sold as Oppo Find N3 in China and select markets)",
+        "Represents entry into the ultra-premium foldable market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Turbo Series",
+      "slug": "oneplus-turbo-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 499,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Battery-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Massive battery capacity",
+        "Gaming-focused performance",
+        "High refresh rate displays",
+        "Aggressive pricing"
+      ],
+      "popular_models": [
+        "OnePlus Turbo 6",
+        "OnePlus Turbo 6X",
+        "OnePlus Turbo 6X Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Introduced as a new battery and gaming-focused lineup in China",
+        "Features unusually large batteries (e.g., 8000-9000 mAh)",
+        "Complements the Ace series by targeting extreme endurance and gaming value"
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2014,
+      "series": "OnePlus Number Series"
+    },
+    {
+      "year": 2015,
+      "series": "OnePlus X Series"
+    },
+    {
+      "year": 2020,
+      "series": "OnePlus Nord Series"
+    },
+    {
+      "year": 2020,
+      "series": "OnePlus Nord N Series"
+    },
+    {
+      "year": 2021,
+      "series": "OnePlus R Series"
+    },
+    {
+      "year": 2022,
+      "series": "OnePlus Ace Series"
+    },
+    {
+      "year": 2023,
+      "series": "OnePlus Open Series"
+    },
+    {
+      "year": 2025,
+      "series": "OnePlus Turbo Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "OnePlus Number Series",
+      "OnePlus Open Series"
+    ],
+    "premium": [
+      "OnePlus Number Series",
+      "OnePlus Ace Series",
+      "OnePlus R Series"
+    ],
+    "mid_range": [
+      "OnePlus Nord Series",
+      "OnePlus Ace Series",
+      "OnePlus Turbo Series"
+    ],
+    "budget": [
+      "OnePlus X Series",
+      "OnePlus Nord Series",
+      "OnePlus Nord N Series",
+      "OnePlus Turbo Series"
+    ],
+    "entry_level": [
+      "OnePlus Nord N Series"
+    ],
+    "foldable": [
+      "OnePlus Open Series"
+    ],
+    "flip": [],
+    "gaming": [
+      "OnePlus Ace Series",
+      "OnePlus Turbo Series"
+    ],
+    "camera_focused": [
+      "OnePlus Number Series"
+    ],
+    "business": [
+      "OnePlus Open Series"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "OnePlus X Series",
+      "OnePlus Nord Series"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "OnePlus Nord N Series",
+      "OnePlus Ace Series",
+      "OnePlus Turbo Series"
+    ],
+    "carrier_exclusive": [
+      "OnePlus Nord N Series"
+    ],
+    "online_exclusive": [
+      "OnePlus Number Series",
+      "OnePlus Nord Series"
+    ],
+    "discontinued": [
+      "OnePlus X Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "R branding",
+      "CE branding",
+      "N branding",
+      "Open branding",
+      "Turbo branding"
+    ],
+    "description": "OnePlus primarily uses a Number Series for its main flagship lineup, supplemented by letter-based sub-brands for specific market segments (Nord for mid-range, Ace for China performance, R for value flagship, N for North America budget). Suffixes like 'Pro', 'T', 'CE' (Core Edition), and 'V' denote variant tiers within those series. Recent additions like 'Open' and 'Turbo' describe form factor and performance focus respectively."
+  },
+  "summary": {
+    "total_series": 8,
+    "active_series": 7,
+    "discontinued_series": 1,
+    "oldest_series": "OnePlus Number Series",
+    "newest_series": "OnePlus Turbo Series",
+    "longest_running_series": "OnePlus Number Series",
+    "most_popular_series": "OnePlus Number Series",
+    "best_selling_series": "OnePlus Nord Series",
+    "most_premium_series": "OnePlus Open Series",
+    "best_budget_series": "OnePlus Nord N Series",
+    "most_influential_series": "OnePlus Number Series",
+    "fastest_growing_series": "OnePlus Ace Series",
+    "future_expected_direction": "Continued expansion of AI-focused features across all series, deeper integration with the Oppo ecosystem, and potential exploration of new form factors like flip foldables or dedicated gaming hardware."
+  },
+  "missing_series": [
+    "OnePlus Flip Series (Rumored, not officially released)",
+    "OnePlus Y Series (Rumored, never materialized)"
+  ]
+}

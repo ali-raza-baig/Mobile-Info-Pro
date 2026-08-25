@@ -1,0 +1,184 @@
+{
+  "brand": "Nothing",
+  "total_series": 2,
+  "series": [
+    {
+      "name": "Phone",
+      "slug": "phone",
+      "alternative_names": [
+        "Nothing Phone"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 349,
+        "highest_usd": 699,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Design-conscious users",
+        "Power users",
+        "Students"
+      ],
+      "characteristics": [
+        "Transparent design",
+        "Glyph Interface",
+        "Clean Nothing OS",
+        "AMOLED displays",
+        "High refresh rate",
+        "AI features"
+      ],
+      "popular_models": [
+        "Phone (1)",
+        "Phone (2)",
+        "Phone (2a)",
+        "Phone (3)",
+        "Phone (3a)",
+        "Phone (3a) Pro",
+        "Phone (4a)",
+        "Phone (4a) Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India",
+        "North America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Debut smartphone series for Nothing, launched in 2022.",
+        "Introduced the iconic Glyph Interface LED notification system.",
+        "Expanded into the mid-range segment with the 'a' sub-line in 2024.",
+        "Introduced AI-powered 'Essential Space' software feature in 2025."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "CMF Phone",
+      "slug": "cmf-phone",
+      "alternative_names": [
+        "CMF by Nothing Phone"
+      ],
+      "sub_brand": "CMF by Nothing",
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 199,
+        "highest_usd": 299,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Modular design with interchangeable back covers",
+        "AMOLED displays",
+        "Clean Nothing OS experience",
+        "Value-focused specifications"
+      ],
+      "popular_models": [
+        "CMF Phone 1",
+        "CMF Phone 2 Pro"
+      ],
+      "primary_markets": [
+        "India",
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched as a budget-focused sub-brand by Nothing in 2024.",
+        "Spun off into a standalone company based in India in 2025.",
+        "Focuses on extreme value, modularity, and accessibility."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2022,
+      "series": "Phone"
+    },
+    {
+      "year": 2024,
+      "series": "CMF Phone"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Phone"
+    ],
+    "premium": [
+      "Phone"
+    ],
+    "mid_range": [
+      "Phone"
+    ],
+    "budget": [
+      "CMF Phone"
+    ],
+    "entry_level": [
+      "CMF Phone"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Phone",
+      "CMF Phone"
+    ],
+    "ai_focused": [
+      "Phone"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Phone",
+      "CMF Phone"
+    ],
+    "discontinued": []
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Pro branding",
+      "Plus branding",
+      "Lite branding",
+      "a branding"
+    ],
+    "description": "Nothing uses a minimalist numbering system for its main 'Phone' series (e.g., Phone (1), Phone (2), Phone (3)). Mid-range variants utilize an 'a' suffix (e.g., Phone (2a), Phone (3a)), while enhanced or specialized versions use 'Pro', 'Plus', or 'Lite' suffixes. The sub-brand 'CMF by Nothing' follows a similar numeric progression (e.g., CMF Phone 1, CMF Phone 2 Pro)."
+  },
+  "summary": {
+    "total_series": 2,
+    "active_series": 2,
+    "discontinued_series": 0,
+    "oldest_series": "Phone",
+    "newest_series": "CMF Phone",
+    "longest_running_series": "Phone",
+    "most_popular_series": "Phone",
+    "best_selling_series": "Phone",
+    "most_premium_series": "Phone",
+    "best_budget_series": "CMF Phone",
+    "most_influential_series": "Phone",
+    "fastest_growing_series": "Phone",
+    "future_expected_direction": "Continued expansion of AI-driven software features (Essential Space), refinement of the Glyph Interface, and deeper market penetration in the mid-range and budget segments through the main Phone and CMF Phone lines, respectively."
+  },
+  "missing_series": []
+}

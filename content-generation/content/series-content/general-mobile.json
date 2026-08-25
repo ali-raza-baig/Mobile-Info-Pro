@@ -1,0 +1,443 @@
+{
+  "brand": "General Mobile",
+  "total_series": 7,
+  "series": [
+    {
+      "name": "DST Series",
+      "slug": "dst-series",
+      "alternative_names": [
+        "Double Sim Technology Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2007,
+      "latest_release_year": 2009,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Users needing dual-SIM functionality"
+      ],
+      "characteristics": [
+        "Dual-SIM capability",
+        "Compact design",
+        "Basic feature phone to early smartphone functionality"
+      ],
+      "popular_models": [
+        "DSTL1",
+        "DST11",
+        "DST22",
+        "DST3G Cool",
+        "DST33"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "General Mobile's first smartphone series, with the DSTL1 launched at MWC Barcelona on February 16, 2009.",
+        "DST stands for 'Double Sim Technology', highlighting the series' core dual-SIM functionality.",
+        "The DST series includes both feature phones and early Android smartphones."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Discovery Series",
+      "slug": "discovery-series",
+      "alternative_names": [
+        "Discovery",
+        "Discovery Elite",
+        "Discovery Elite Plus"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Slim design",
+        "HD IPS displays",
+        "Quad-core processors"
+      ],
+      "popular_models": [
+        "Discovery 16GB",
+        "Discovery Elite",
+        "Discovery Elite Plus",
+        "Discovery II"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Turkey",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "The Discovery series was known for its slim design, with the original Discovery being one of the thinnest Android phones at 7.59mm.",
+        "The Discovery Elite Plus featured a 5.20-inch Super AMOLED display and Android 5.0 Lollipop."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "GM Series",
+      "slug": "gm-series",
+      "alternative_names": [
+        "General Mobile Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Android One program participation",
+        "Wide range of models from entry-level to premium",
+        "5G capability in newer models"
+      ],
+      "popular_models": [
+        "GM 4G",
+        "GM 5",
+        "GM 5 Plus",
+        "GM 6",
+        "GM 8",
+        "GM 9 Pro",
+        "GM 20",
+        "GM 21",
+        "GM 22",
+        "GM 23",
+        "GM 24 Pro",
+        "GM 26 5G"
+      ],
+      "primary_markets": [
+        "Turkey",
+        "Europe",
+        "Middle East",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "General Mobile joined the Android One program in 2015, with the GM 4G being its first Android One smartphone.",
+        "The GM 5 and GM 5 Plus were launched in 2016 as part of the Android One initiative.",
+        "The GM series is the brand's main and most extensive product lineup, covering a wide range of market segments.",
+        "Recent models like the GM 26 5G and GM 26 Pro 5G feature AI capabilities and 5G connectivity."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Era Series",
+      "slug": "era-series",
+      "alternative_names": [
+        "ERA Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Young consumers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "AI-powered cameras",
+        "Long battery life",
+        "Modern design"
+      ],
+      "popular_models": [
+        "Era 30",
+        "Era 50"
+      ],
+      "primary_markets": [
+        "Turkey"
+      ],
+      "historical_notes": [
+        "The Era series was introduced in August 2024 with the slogan 'Senin Çağın' (Your Era).",
+        "The Era 50 features a 108MP AI Super Pixel camera and a 6.78-inch FHD+ display.",
+        "The Era 30 is positioned as a more affordable option with a 50MP AI-powered camera and 6.6-inch display.",
+        "This series represents General Mobile's focus on providing feature-rich devices at competitive price points."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Phoenix Series",
+      "slug": "phoenix-series",
+      "alternative_names": [
+        "GM Phoenix"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate (120Hz)",
+        "High-resolution cameras (up to 200MP)",
+        "5G connectivity",
+        "Large batteries with fast charging"
+      ],
+      "popular_models": [
+        "GM Phoenix 5G"
+      ],
+      "primary_markets": [
+        "Turkey",
+        "Europe"
+      ],
+      "historical_notes": [
+        "The GM Phoenix 5G was announced in August 2023 as General Mobile's most powerful smartphone at the time.",
+        "It features a 200MP AI Matrix Camera and a MediaTek Dimensity 7050 processor.",
+        "The device offers a 6.78-inch FHD+ AMOLED display with a 120Hz dynamic refresh rate."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Fenix Series",
+      "slug": "fenix-series",
+      "alternative_names": [
+        "GM Fenix"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship",
+        "AI-focused"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Early adopters",
+        "AI-focused users"
+      ],
+      "characteristics": [
+        "AI-powered features (GM AI)",
+        "High-performance processors",
+        "Large RAM and storage",
+        "AMOLED displays",
+        "5G connectivity",
+        "Premium design (aluminum alloy)"
+      ],
+      "popular_models": [
+        "GM Fenix II Pro 5G"
+      ],
+      "primary_markets": [
+        "Turkey",
+        "Europe"
+      ],
+      "historical_notes": [
+        "The Fenix series was introduced in February 2026, featuring GM AI technology.",
+        "The GM Fenix II Pro 5G is powered by the MediaTek Dimensity 8350 processor and offers up to 24GB of RAM.",
+        "It features a 6.67-inch AMOLED display and a 50MP main camera with OIS support.",
+        "This series represents General Mobile's entry into the AI-powered smartphone market."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "GM 4G Series",
+      "slug": "gm-4g-series",
+      "alternative_names": [
+        "GM 4G"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Android One",
+        "4G connectivity",
+        "Compact design"
+      ],
+      "popular_models": [
+        "GM 4G"
+      ],
+      "primary_markets": [
+        "Turkey",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "The GM 4G was General Mobile's first Android One smartphone, launched in 2016.",
+        "It was part of Google's initiative to provide a pure Android experience in emerging markets."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2007,
+      "series": "DST Series"
+    },
+    {
+      "year": 2013,
+      "series": "Discovery Series"
+    },
+    {
+      "year": 2016,
+      "series": "GM 4G Series"
+    },
+    {
+      "year": 2016,
+      "series": "GM Series"
+    },
+    {
+      "year": 2023,
+      "series": "Phoenix Series"
+    },
+    {
+      "year": 2024,
+      "series": "Era Series"
+    },
+    {
+      "year": 2026,
+      "series": "Fenix Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Fenix Series"
+    ],
+    "premium": [
+      "Fenix Series",
+      "Phoenix Series"
+    ],
+    "mid_range": [
+      "Discovery Series",
+      "GM Series",
+      "Era Series"
+    ],
+    "budget": [
+      "DST Series",
+      "GM Series",
+      "Era Series",
+      "GM 4G Series"
+    ],
+    "entry_level": [
+      "DST Series",
+      "GM Series",
+      "GM 4G Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "Phoenix Series"
+    ],
+    "business": [
+      "DST Series"
+    ],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [
+      "Fenix Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "DST Series",
+      "Discovery Series",
+      "GM 4G Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "SE branding",
+      "AI branding"
+    ],
+    "description": "General Mobile primarily uses a number-based naming strategy for its main GM series (e.g., GM 5, GM 6, GM 8, GM 20, GM 26). The brand also employs suffixes like 'Pro', 'Plus', and 'SE' to denote enhanced or special editions. For newer lineups, the company has introduced thematic names like 'Era', 'Phoenix', and 'Fenix' to create distinct product identities. The 'GM AI' branding is used for devices featuring artificial intelligence capabilities."
+  },
+  "summary": {
+    "total_series": 7,
+    "active_series": 4,
+    "discontinued_series": 3,
+    "oldest_series": "DST Series",
+    "newest_series": "Fenix Series",
+    "longest_running_series": "GM Series",
+    "most_popular_series": "GM Series",
+    "best_selling_series": "GM Series",
+    "most_premium_series": "Fenix Series",
+    "best_budget_series": "Era Series",
+    "most_influential_series": "GM Series",
+    "fastest_growing_series": "Fenix Series",
+    "future_expected_direction": "General Mobile is expected to continue expanding its AI-focused smartphone offerings, as seen with the introduction of the Fenix series and GM AI technology. The brand will likely maintain its presence in the budget and mid-range segments while pushing into premium territories with advanced features like high-resolution cameras, 5G connectivity, and AI capabilities. The Era series indicates a continued focus on providing feature-rich devices at competitive price points in emerging markets."
+  },
+  "missing_series": []
+}

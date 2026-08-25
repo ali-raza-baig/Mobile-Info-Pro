@@ -1,0 +1,1284 @@
+{
+  "brand": "HMD Global",
+  "total_series": 23,
+  "series": [
+    {
+      "name": "Nokia 1 series",
+      "slug": "nokia-1-series",
+      "alternative_names": [
+        "Nokia 1",
+        "Nokia 1 Plus",
+        "Nokia 1.3",
+        "Nokia 1.4"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2018,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 119,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Go Edition",
+        "Compact design",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Nokia 1",
+        "Nokia 1 Plus",
+        "Nokia 1.3",
+        "Nokia 1.4"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced Android Go Edition to the Nokia lineup",
+        "Discontinued in favor of the Nokia C series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 2 series",
+      "slug": "nokia-2-series",
+      "alternative_names": [
+        "Nokia 2",
+        "Nokia 2.1",
+        "Nokia 2.2",
+        "Nokia 2.3",
+        "Nokia 2.4"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 139,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Multi-day battery life",
+        "Android One (later models)",
+        "Durable polycarbonate build"
+      ],
+      "popular_models": [
+        "Nokia 2",
+        "Nokia 2.1",
+        "Nokia 2.2",
+        "Nokia 2.4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India",
+        "North America"
+      ],
+      "historical_notes": [
+        "Known for exceptional battery life",
+        "Transitioned from stock Android to Android One"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 3 series",
+      "slug": "nokia-3-series",
+      "alternative_names": [
+        "Nokia 3",
+        "Nokia 3.1",
+        "Nokia 3.1 Plus",
+        "Nokia 3.2",
+        "Nokia 3.4"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 139,
+        "highest_usd": 199,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Android One",
+        "Metal unibody (early models)",
+        "Stock Android experience"
+      ],
+      "popular_models": [
+        "Nokia 3",
+        "Nokia 3.1",
+        "Nokia 3.2",
+        "Nokia 3.4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India"
+      ],
+      "historical_notes": [
+        "Part of the original 2017 HMD lineup",
+        "Discontinued as Nokia streamlined its budget offerings into the C and G series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 4 series",
+      "slug": "nokia-4-series",
+      "alternative_names": [
+        "Nokia 4.2"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 169,
+        "highest_usd": 169,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android One",
+        "Dedicated Google Assistant button",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Nokia 4.2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Short-lived series with only one model (Nokia 4.2)",
+        "Discontinued after a single generation"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 5 series",
+      "slug": "nokia-5-series",
+      "alternative_names": [
+        "Nokia 5",
+        "Nokia 5.1",
+        "Nokia 5.1 Plus",
+        "Nokia 5.3",
+        "Nokia 5.4",
+        "Nokia X5 (China)"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 189,
+        "highest_usd": 249,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Android One",
+        "Aluminum unibody (early models)",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Nokia 5",
+        "Nokia 5.1",
+        "Nokia 5.3",
+        "Nokia 5.4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India",
+        "China"
+      ],
+      "historical_notes": [
+        "Nokia 5.1 Plus was rebranded as Nokia X5 in China",
+        "Paved the way for the modern Nokia G series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 6 series",
+      "slug": "nokia-6-series",
+      "alternative_names": [
+        "Nokia 6",
+        "Nokia 6.1",
+        "Nokia 6.1 Plus",
+        "Nokia 6.2",
+        "Nokia X6 (China)"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 229,
+        "highest_usd": 299,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mainstream users",
+        "Students"
+      ],
+      "characteristics": [
+        "Android One",
+        "Premium build quality",
+        "Zeiss optics (some models)"
+      ],
+      "popular_models": [
+        "Nokia 6",
+        "Nokia 6.1",
+        "Nokia 6.1 Plus",
+        "Nokia 6.2"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Europe"
+      ],
+      "historical_notes": [
+        "The very first smartphone released by HMD Global under the Nokia brand",
+        "Nokia 6.1 Plus was sold as Nokia X6 in China"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 7 series",
+      "slug": "nokia-7-series",
+      "alternative_names": [
+        "Nokia 7",
+        "Nokia 7 Plus",
+        "Nokia 7.1",
+        "Nokia 7.2"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 399,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Premium glass and metal design",
+        "Zeiss optics",
+        "Android One",
+        "High-quality cameras"
+      ],
+      "popular_models": [
+        "Nokia 7",
+        "Nokia 7 Plus",
+        "Nokia 7.1",
+        "Nokia 7.2"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Nokia 7 was initially a China-exclusive release",
+        "Known for bringing Zeiss optics to the mid-range segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 8 series",
+      "slug": "nokia-8-series",
+      "alternative_names": [
+        "Nokia 8",
+        "Nokia 8 Sirocco",
+        "Nokia 8.1",
+        "Nokia 8.3 5G",
+        "Nokia X7 (China)",
+        "Nokia 8 V 5G UW"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 399,
+        "highest_usd": 699,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Flagship processors",
+        "Zeiss optics",
+        "Premium materials (stainless steel, glass)",
+        "5G connectivity (later models)"
+      ],
+      "popular_models": [
+        "Nokia 8",
+        "Nokia 8 Sirocco",
+        "Nokia 8.1",
+        "Nokia 8.3 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "China"
+      ],
+      "historical_notes": [
+        "Nokia 8.1 was rebranded as Nokia X7 in China",
+        "Nokia 8.3 5G was the brand's first global 5G smartphone"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia 9 series",
+      "slug": "nokia-9-series",
+      "alternative_names": [
+        "Nokia 9 PureView"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 699,
+        "highest_usd": 699,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Power users"
+      ],
+      "characteristics": [
+        "Penta-camera array",
+        "Zeiss optics",
+        "Light Co. computational photography",
+        "Premium build"
+      ],
+      "popular_models": [
+        "Nokia 9 PureView"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Featured a groundbreaking five-camera setup co-developed with Light",
+        "Discontinued after one generation due to niche appeal and high price"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia C series",
+      "slug": "nokia-c-series",
+      "alternative_names": [
+        "Nokia C1",
+        "Nokia C2",
+        "Nokia C3",
+        "Nokia C10",
+        "Nokia C20",
+        "Nokia C30",
+        "Nokia C32",
+        "Nokia C100",
+        "Nokia C200",
+        "Nokia C300"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2019,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 69,
+        "highest_usd": 149,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Seniors"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Android Go Edition (lower models)",
+        "Expandable storage",
+        "Durable design"
+      ],
+      "popular_models": [
+        "Nokia C20",
+        "Nokia C30",
+        "Nokia C31",
+        "Nokia C32"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Africa",
+        "Southeast Asia",
+        "North America"
+      ],
+      "historical_notes": [
+        "Replaced the Nokia 1 and 2 series as the primary entry-level lineup",
+        "Includes carrier-exclusive models for North America (e.g., C100, C200, C300)"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia G series",
+      "slug": "nokia-g-series",
+      "alternative_names": [
+        "Nokia G10",
+        "Nokia G20",
+        "Nokia G50",
+        "Nokia G60",
+        "Nokia G100",
+        "Nokia G400",
+        "Nokia G22",
+        "Nokia G42"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2021,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 139,
+        "highest_usd": 349,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Eco-conscious consumers",
+        "Students"
+      ],
+      "characteristics": [
+        "Long software support",
+        "Repairability focus (G22, G42)",
+        "Large batteries",
+        "5G connectivity (select models)"
+      ],
+      "popular_models": [
+        "Nokia G20",
+        "Nokia G50",
+        "Nokia G60",
+        "Nokia G22",
+        "Nokia G42"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "India"
+      ],
+      "historical_notes": [
+        "Introduced the repairability focus with Nokia G22 in partnership with iFixit",
+        "Replaced the Nokia 3, 4, and 5 series in the budget-to-mid-range segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia X series",
+      "slug": "nokia-x-series",
+      "alternative_names": [
+        "Nokia X10",
+        "Nokia X20",
+        "Nokia X30",
+        "Nokia X100",
+        "Nokia X71"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2019,
+      "latest_release_year": 2022,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 249,
+        "highest_usd": 509,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Mainstream users",
+        "Mobile photographers",
+        "Eco-conscious consumers"
+      ],
+      "characteristics": [
+        "Premium materials (recycled aluminum/plastic)",
+        "OZO Audio",
+        "High-resolution cameras",
+        "Multi-day battery"
+      ],
+      "popular_models": [
+        "Nokia X10",
+        "Nokia X20",
+        "Nokia X30"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India",
+        "China",
+        "North America"
+      ],
+      "historical_notes": [
+        "Originally revived as a China-exclusive series (X5, X6, X7) before becoming a global mid-range lineup",
+        "X30 5G featured a 100% recycled aluminum frame"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nokia XR series",
+      "slug": "nokia-xr-series",
+      "alternative_names": [
+        "Nokia XR20",
+        "Nokia XR21"
+      ],
+      "sub_brand": "Nokia",
+      "first_release_year": 2021,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 499,
+        "highest_usd": 549,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Field workers",
+        "Clumsy users"
+      ],
+      "characteristics": [
+        "MIL-STD-810H certified",
+        "IP68/IP69K water and dust resistance",
+        "Drop-to-concrete resistance",
+        "Long software support"
+      ],
+      "popular_models": [
+        "Nokia XR20",
+        "Nokia XR21"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Spun off from the X series to specifically target the rugged smartphone market",
+        "XR21 introduced improved camera capabilities over its predecessor"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Pulse series",
+      "slug": "hmd-pulse-series",
+      "alternative_names": [
+        "HMD Pulse",
+        "HMD Pulse+",
+        "HMD Pulse Pro"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 119,
+        "highest_usd": 169,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High-capacity batteries",
+        "Basic AI camera features",
+        "Repairable design"
+      ],
+      "popular_models": [
+        "HMD Pulse",
+        "HMD Pulse+",
+        "HMD Pulse Pro"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Africa",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Among the first smartphones released under the standalone HMD brand rather than Nokia",
+        "Focuses on essential features and repairability"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Vibe series",
+      "slug": "hmd-vibe-series",
+      "alternative_names": [
+        "HMD Vibe",
+        "HMD Vibe 5G"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 139,
+        "highest_usd": 199,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Large battery",
+        "Clean Android experience"
+      ],
+      "popular_models": [
+        "HMD Vibe",
+        "HMD Vibe 5G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "India",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Part of HMD's multi-brand strategy shift away from exclusive Nokia branding"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Skyline series",
+      "slug": "hmd-skyline-series",
+      "alternative_names": [
+        "HMD Skyline"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 349,
+        "highest_usd": 349,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Content creators",
+        "Mobile photographers",
+        "Power users"
+      ],
+      "characteristics": [
+        "50MP selfie camera with autofocus",
+        "Triple rear camera setup",
+        "User-repairable design",
+        "Premium glass and metal build"
+      ],
+      "popular_models": [
+        "HMD Skyline"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Marketed heavily as a repair-it-yourself phone for creators",
+        "Represents HMD's push into the premium mid-range segment under its own brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Crest series",
+      "slug": "hmd-crest-series",
+      "alternative_names": [
+        "HMD Crest",
+        "HMD Crest Max"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 199,
+        "highest_usd": 249,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mainstream users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High-capacity batteries",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "HMD Crest",
+        "HMD Crest Max"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "India-exclusive series launched to compete in the highly competitive budget and mid-range market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Fusion series",
+      "slug": "hmd-fusion-series",
+      "alternative_names": [
+        "HMD Fusion"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 249,
+        "highest_usd": 249,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Eco-conscious consumers",
+        "Customization lovers"
+      ],
+      "characteristics": [
+        "Modular design (swappable back covers with embedded functionality)",
+        "User-repairable",
+        "USB-C port on the back module"
+      ],
+      "popular_models": [
+        "HMD Fusion"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Features a unique Outfit modular system allowing users to swap back covers for added functionality",
+        "Championed as a highly repairable and customizable device"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Arc series",
+      "slug": "hmd-arc-series",
+      "alternative_names": [
+        "HMD Arc",
+        "HMD Arc 2"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 199,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large battery",
+        "Basic camera setup",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "HMD Arc",
+        "HMD Arc 2"
+      ],
+      "primary_markets": [
+        "Africa",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Positioned as an ultra-affordable smartphone bridging the gap between feature phones and smartphones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Key series",
+      "slug": "hmd-key-series",
+      "alternative_names": [
+        "HMD Key"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 99,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Seniors",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Essential smartphone features",
+        "Android 14"
+      ],
+      "popular_models": [
+        "HMD Key"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Africa",
+        "India"
+      ],
+      "historical_notes": [
+        "Designed as a no-frills, highly affordable entry point into the HMD smartphone ecosystem"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "HMD Aura series",
+      "slug": "hmd-aura-series",
+      "alternative_names": [
+        "HMD Aura",
+        "HMD Aura 2"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 129,
+        "highest_usd": 159,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large display",
+        "Decent battery life",
+        "Clean Android interface"
+      ],
+      "popular_models": [
+        "HMD Aura",
+        "HMD Aura 2"
+      ],
+      "primary_markets": [
+        "Australia",
+        "Europe",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Initially launched stealthily in Australia as a more affordable alternative to the Pulse series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "HMD Ivalo series",
+      "slug": "hmd-ivalo-series",
+      "alternative_names": [
+        "HMD Ivalo XE"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 599,
+        "highest_usd": 599,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Rugged",
+        "Business"
+      ],
+      "target_audience": [
+        "Defense professionals",
+        "Field workers",
+        "Security-conscious users"
+      ],
+      "characteristics": [
+        "European designed and manufactured",
+        "High security standards",
+        "Modular and rugged design",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "HMD Ivalo XE"
+      ],
+      "primary_markets": [
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Part of HMD's new secure device business unit, targeting defense and mission-critical operations",
+        "Emphasizes data security and regulatory compliance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "HMD Luma series",
+      "slug": "hmd-luma-series",
+      "alternative_names": [
+        "HMD Luma"
+      ],
+      "sub_brand": "HMD",
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 179,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "50MP AI camera",
+        "Large battery",
+        "High refresh rate display",
+        "Portrait mode"
+      ],
+      "popular_models": [
+        "HMD Luma"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Marketed with a focus on AI-enhanced photography for budget users",
+        "Released in emerging markets like Nigeria and Ghana"
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2017,
+      "series": "Nokia 2 series"
+    },
+    {
+      "year": 2017,
+      "series": "Nokia 3 series"
+    },
+    {
+      "year": 2017,
+      "series": "Nokia 5 series"
+    },
+    {
+      "year": 2017,
+      "series": "Nokia 6 series"
+    },
+    {
+      "year": 2018,
+      "series": "Nokia 1 series"
+    },
+    {
+      "year": 2018,
+      "series": "Nokia 7 series"
+    },
+    {
+      "year": 2018,
+      "series": "Nokia 8 series"
+    },
+    {
+      "year": 2019,
+      "series": "Nokia 4 series"
+    },
+    {
+      "year": 2019,
+      "series": "Nokia 9 series"
+    },
+    {
+      "year": 2019,
+      "series": "Nokia C series"
+    },
+    {
+      "year": 2019,
+      "series": "Nokia X series"
+    },
+    {
+      "year": 2021,
+      "series": "Nokia G series"
+    },
+    {
+      "year": 2021,
+      "series": "Nokia XR series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Pulse series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Vibe series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Skyline series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Crest series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Fusion series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Arc series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Aura series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Ivalo series"
+    },
+    {
+      "year": 2024,
+      "series": "HMD Luma series"
+    },
+    {
+      "year": 2025,
+      "series": "HMD Key series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Nokia 8 series",
+      "Nokia 9 series"
+    ],
+    "premium": [
+      "Nokia 7 series",
+      "Nokia 8 series",
+      "HMD Ivalo series"
+    ],
+    "mid_range": [
+      "Nokia 5 series",
+      "Nokia 6 series",
+      "Nokia X series",
+      "Nokia XR series",
+      "HMD Skyline series",
+      "HMD Fusion series",
+      "HMD Crest series"
+    ],
+    "budget": [
+      "Nokia 2 series",
+      "Nokia 3 series",
+      "Nokia 4 series",
+      "Nokia 5 series",
+      "Nokia G series",
+      "HMD Pulse series",
+      "HMD Vibe series",
+      "HMD Crest series",
+      "HMD Arc series",
+      "HMD Aura series",
+      "HMD Luma series"
+    ],
+    "entry_level": [
+      "Nokia 1 series",
+      "Nokia 2 series",
+      "Nokia C series",
+      "HMD Pulse series",
+      "HMD Key series",
+      "HMD Arc series",
+      "HMD Luma series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "Nokia 9 series",
+      "HMD Skyline series"
+    ],
+    "business": [
+      "HMD Ivalo series"
+    ],
+    "rugged": [
+      "Nokia XR series",
+      "HMD Ivalo series"
+    ],
+    "lifestyle": [
+      "HMD Fusion series"
+    ],
+    "ai_focused": [
+      "HMD Luma series"
+    ],
+    "regional_exclusive": [
+      "Nokia 7 series",
+      "HMD Crest series"
+    ],
+    "carrier_exclusive": [
+      "Nokia C series",
+      "Nokia G series"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Nokia 1 series",
+      "Nokia 2 series",
+      "Nokia 3 series",
+      "Nokia 4 series",
+      "Nokia 5 series",
+      "Nokia 6 series",
+      "Nokia 7 series",
+      "Nokia 8 series",
+      "Nokia 9 series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Plus branding",
+      "Pro branding",
+      "Max branding",
+      "5G branding"
+    ],
+    "description": "HMD initially used a single-digit numbering system (1-9) to denote market tier, with decimal suffixes (.1, .2) for refreshes and 'Plus' for enhanced variants. It later transitioned to a letter-number system (C, G, X, XR) to clearly segment Entry, Budget, Mid-range, and Rugged categories. Recently, under the standalone HMD brand, it has shifted to evocative single-word names (Pulse, Skyline, Fusion, Crest, Arc, Aura, Luma, Ivalo, Key) often supplemented by 'Pro', 'Max', or '5G' suffixes to denote higher-tier variants within the series."
+  },
+  "summary": {
+    "total_series": 23,
+    "active_series": 14,
+    "discontinued_series": 9,
+    "oldest_series": "Nokia 6 series",
+    "newest_series": "HMD Key series",
+    "longest_running_series": "Nokia C series",
+    "most_popular_series": "Nokia G series",
+    "best_selling_series": "Nokia C series",
+    "most_premium_series": "Nokia 9 series",
+    "best_budget_series": "Nokia G series",
+    "most_influential_series": "Nokia 6 series",
+    "fastest_growing_series": "HMD Pulse series",
+    "future_expected_direction": "Continued expansion of the standalone HMD brand with a strong focus on repairability, modular design, AI-enhanced budget features, and specialized secure/rugged devices for enterprise and defense sectors, while gradually phasing out the Nokia smartphone branding."
+  },
+  "missing_series": []
+}

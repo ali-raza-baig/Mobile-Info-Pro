@@ -33,66 +33,6 @@ Output:
     `
 }
 
-const brand_hero_img_prompt = ({ BRAND, MODEL, COLOR }) => {
-  return `
-    Create an official-style premium smartphone hero render for a website.
-
-Device:
-Brand: ${BRAND}
-Model: ${MODEL}
-Color: ${COLOR}
-
-Composition:
-- Show both the front and back of the phone.
-- Front phone placed slightly in front.
-- Back phone positioned behind on the left.
-- Back phone rotated approximately 25°.
-- Front phone facing directly forward.
-- Match the exact composition of official smartphone promotional renders.
-- Keep the entire device fully visible.
-- Center the phone group.
-- Fill approximately 100% of the canvas.
-
-
-Design Accuracy:
-- Recreate the official industrial design of the real ${MODEL}.
-- Preserve the exact camera layout.
-- Preserve bezels, punch-hole/notch, frame shape, buttons, speakers, ports, and antenna lines.
-- Do not redesign any hardware.
-- Use the authentic ${COLOR} finish.
-
-Display:
-- Show the latest official ${BRAND} UI.
-- Use a premium wallpaper inspired by the official device.
-- Display "${MODEL}" on the screen.
-- No carrier logos.
-- No watermarks.
-
-Lighting:
-- Soft premium studio lighting.
-- Realistic reflections.
-- Commercial advertising quality.
-- Crisp edges.
-- Ultra-sharp details.
-
-Background:
-- Transparent PNG.
-- No shadow outside the phone.
-- No floor.
-- No props.
-- No accessories.
-- No hands.
-- No text outside the display.
-
-Quality:
-- Official product render quality.
-- Hyper realistic.
-- 8K.
-- PNG with transparent background.
-
-    `
-}
-
 const brand_hero_prompt = ({ BRAND }) => {
   return `
     You are an expert smartphone technology writer creating SEO content for a premium mobile specifications website MobileInfoPro (http://mobileinfopro.com) similar to GSMArena, PhoneArena, Kimovil, and NanoReview.
@@ -830,5 +770,320 @@ No extra text.
 
     `
 }
+
+
+const brand_hero_img_prompt = ({ BRAND }) => {
+  return `
+Create a premium official-style smartphone product render for a smartphone brand page.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BRAND INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Brand:
+${BRAND}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OBJECTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Automatically select the single best smartphone model that represents the entire ${BRAND} smartphone brand.
+
+The model must be selected automatically.
+
+Do NOT ask for the model name.
+
+Selection priority:
+
+1. Current latest flagship smartphone
+2. Most recognizable flagship smartphone
+3. Most popular premium smartphone
+4. Highest-end mainstream smartphone currently representing the brand
+
+Choose ONE real, officially released smartphone from ${BRAND}.
+
+The selected device should represent the current identity and design language of the ${BRAND} smartphone lineup.
+
+Do NOT combine multiple smartphone models.
+
+Do NOT show multiple generations.
+
+Do NOT invent a concept device.
+
+Do NOT create a fictional smartphone.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEVICE ACCURACY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The smartphone MUST accurately match the real official hardware of the selected ${BRAND} model.
+
+Preserve the exact real-world design characteristics, including:
+
+• Camera layout
+• Camera module shape
+• Camera size
+• Camera rings
+• Flash position
+• Camera sensor arrangement
+• Frame shape
+• Display proportions
+• Display bezels
+• Punch-hole or notch
+• Front camera position
+• Side buttons
+• Alert/action button if applicable
+• USB-C port
+• Speaker grills
+• Microphone openings
+• Antenna lines
+• Curved or flat display
+• Frame material
+• Back panel material
+• Overall proportions
+• Official industrial design
+
+Do NOT redesign the phone.
+
+Do NOT modernize the phone.
+
+Do NOT invent hardware.
+
+Do NOT merge hardware from different ${BRAND} models.
+
+The final smartphone must be immediately recognizable as a real official ${BRAND} flagship device.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMPOSITION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Show TWO identical phones of the selected model only.
+
+Front phone:
+
+• Positioned slightly in front
+• Facing directly toward the viewer
+• Display turned on
+• Perfectly vertical
+• Main focal point
+
+Back phone:
+
+• Positioned slightly behind and to the left
+• Rotated approximately 25°
+• Rear panel facing the viewer
+• Camera module clearly visible
+• Same exact smartphone model as the front phone
+
+Both devices must remain completely visible.
+
+Do not crop either phone.
+
+Keep balanced spacing.
+
+Center the composition.
+
+The phones should occupy approximately 85–90% of the canvas height.
+
+The composition should be suitable for a premium smartphone brand website hero section.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DISPLAY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Show the official software experience used by the selected smartphone.
+
+Examples include:
+
+• One UI
+• iOS
+• HyperOS
+• ColorOS
+• OxygenOS
+• Nothing OS
+• MagicOS
+• Funtouch OS
+• OriginOS
+• MyUX
+• Realme UI
+• ZenUI
+
+Use an official-style premium wallpaper appropriate for the selected device.
+
+The display must look realistic and consistent with the selected manufacturer's software design.
+
+Do NOT display:
+
+• Carrier logos
+• Notifications
+• Widgets
+• Watermarks
+• Time
+• Weather
+• App icons
+• Text
+• Advertisements
+• UI overlays
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COLOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Automatically select the most premium official launch color of the selected flagship.
+
+The color MUST be a real officially released color.
+
+Do NOT invent a color.
+
+Do NOT use custom gradients.
+
+Do NOT combine colors from different models.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LIGHTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Luxury commercial studio lighting.
+
+Soft controlled reflections.
+
+Realistic metal reflections.
+
+Realistic glass reflections.
+
+Clean highlights.
+
+Natural shadows.
+
+Accurate material rendering.
+
+Premium editorial product photography.
+
+Subtle realistic depth.
+
+No excessive glow.
+
+No dramatic cinematic effects.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BACKGROUND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Transparent PNG.
+
+Absolutely no background.
+
+No floor.
+
+No environment.
+
+No studio backdrop.
+
+No external reflections.
+
+No props.
+
+No accessories.
+
+No cables.
+
+No chargers.
+
+No cases.
+
+No people.
+
+No hands.
+
+No text.
+
+No logos floating outside the smartphone.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUALITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Official manufacturer product render quality.
+
+Hyper-realistic.
+
+Ultra sharp.
+
+Commercial advertising quality.
+
+Perfect clean edges.
+
+Accurate geometry.
+
+Accurate materials.
+
+Photorealistic glass.
+
+Photorealistic metal.
+
+Photorealistic camera lenses.
+
+High-end product visualization.
+
+8K-quality detail.
+
+Suitable for a premium smartphone specifications and comparison website.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STYLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The final image should look like an official promotional smartphone render released by ${BRAND}.
+
+It must feel premium, clean, minimal and authentic.
+
+No artistic effects.
+
+No concept designs.
+
+No futuristic modifications.
+
+No exaggerated reflections.
+
+No sci-fi elements.
+
+No floating UI.
+
+No additional objects.
+
+No accessories.
+
+Focus entirely on accurately showcasing the selected ${BRAND} flagship smartphone.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FINAL REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Brand:
+${BRAND}
+
+Automatically determine the most appropriate current flagship smartphone from ${BRAND}.
+
+Do not ask for the model name.
+
+Use ONE real officially released smartphone model.
+
+Show the same model from front and rear perspectives.
+
+Maintain exact official hardware design.
+
+Use a real official premium launch color.
+
+Transparent background.
+
+Output format:
+PNG
+
+Dimensions:
+1024 X 1536
+
+Final output must contain ONLY the two smartphones with transparent background.
+  `;
+};
 
 export { brand_logo_prompt, brand_hero_img_prompt, brand_hero_prompt, brand_about_prompt, brand_faq_prompt, brand_seo_prompt }

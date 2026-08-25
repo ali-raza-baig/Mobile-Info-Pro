@@ -1,0 +1,1365 @@
+{
+  "brand": "Mobicel",
+  "total_series": 29,
+  "series": [
+    {
+      "name": "Air",
+      "slug": "air",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 295,
+        "highest_usd": 295,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Ultra-slim design",
+        "Super AMOLED display",
+        "Octa-core processor"
+      ],
+      "popular_models": [
+        "Air"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Flagship model, one of the world's slimmest devices at 5.1mm at launch."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Astro",
+      "slug": "astro",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Go edition",
+        "Compact display",
+        "Low-cost"
+      ],
+      "popular_models": [
+        "Astro"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Best-selling model in South Africa in 2018, powered by UNISOC SC7731E."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Blaze",
+      "slug": "blaze",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic smartphone",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Blaze"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Early Mobicel model, type-approved in 2013."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "C",
+      "slug": "c",
+      "alternative_names": [
+        "C Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 9,
+        "highest_usd": 9,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Cloud-based handset",
+        "Affordable 4G",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "C1",
+        "C6"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive (MTN, Vodacom), cloud-based phones to reduce cost of smartphone access."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Dandy",
+      "slug": "dandy",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 7.0",
+        "Basic specs"
+      ],
+      "popular_models": [
+        "Dandy"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive (MTN)."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Desire",
+      "slug": "desire",
+      "alternative_names": [
+        "Desire Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 4.4.2",
+        "Basic specs"
+      ],
+      "popular_models": [
+        "Desire Ace",
+        "Desire Air",
+        "Desire Series Frio"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Sub-series include Ace, Air, and Frio variants."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Epic",
+      "slug": "epic",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 11 Go",
+        "Large display",
+        "Budget specs"
+      ],
+      "popular_models": [
+        "Epic",
+        "Epic Pro"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Epic Pro variant available."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "F",
+      "slug": "f",
+      "alternative_names": [
+        "F Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "4G connectivity",
+        "Compact design",
+        "Affordable"
+      ],
+      "popular_models": [
+        "F40",
+        "F50",
+        "F51"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive (Vodacom)."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "IX",
+      "slug": "ix",
+      "alternative_names": [
+        "IX Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large display",
+        "Long battery life",
+        "Multiple RAM/storage options",
+        "50MP camera (IX Plus)"
+      ],
+      "popular_models": [
+        "IX",
+        "IX Pro",
+        "IX Plus"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Flagship of the budget segment, IX Plus features a 50MP camera."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Legend",
+      "slug": "legend",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Go edition",
+        "Large display",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Legend",
+        "Legend Max",
+        "Legend Pro LTE"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Legend Max features triple rear cameras."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 4.4.2",
+        "Compact display",
+        "Dual-core processor"
+      ],
+      "popular_models": [
+        "Matrix"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Early Mobicel smartphone."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Mirage",
+      "slug": "mirage",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": "Unknown",
+      "latest_release_year": "Unknown",
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic smartphone"
+      ],
+      "popular_models": [
+        "Mirage Solo Vega"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Limited information available."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "MX",
+      "slug": "mx",
+      "alternative_names": [
+        "MX Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Go edition",
+        "Compact display",
+        "Affordable"
+      ],
+      "popular_models": [
+        "MX2",
+        "MX2 Plus",
+        "MX3 Plus",
+        "MX4"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series with multiple variants."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Oreo",
+      "slug": "oreo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Oreo Go edition",
+        "Compact display",
+        "Low-cost"
+      ],
+      "popular_models": [
+        "Oreo"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive (Vodacom)."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "P",
+      "slug": "p",
+      "alternative_names": [
+        "P Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Go edition",
+        "Large display",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "P5",
+        "P11",
+        "P11 Plus",
+        "P12"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series with Go edition variants."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pulse",
+      "slug": "pulse",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Oreo Go edition",
+        "Large display",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Pulse"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level device with Android Go."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Q",
+      "slug": "q",
+      "alternative_names": [
+        "Q Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "Octa-core processor",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Q10"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level smartphone with modern specs."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "R",
+      "slug": "r",
+      "alternative_names": [
+        "R Range",
+        "R Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Multiple camera setups",
+        "Long battery life",
+        "Various RAM/storage options"
+      ],
+      "popular_models": [
+        "R1 Plus",
+        "R4 LTE",
+        "R7",
+        "R9",
+        "R9 Pro",
+        "R9 Plus"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Long-running series with multiple variants, R9 featured a 20MP + 8MP dual front camera."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "RX",
+      "slug": "rx",
+      "alternative_names": [
+        "RX Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "Dual SIM",
+        "Affordable"
+      ],
+      "popular_models": [
+        "RX",
+        "RX17"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series, RX17 is a popular model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S",
+      "slug": "s",
+      "alternative_names": [
+        "S Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 14,
+        "highest_usd": 14,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Cloud-based phone",
+        "Affordable 4G",
+        "Compact display",
+        "Low specs"
+      ],
+      "popular_models": [
+        "S1 Smart",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive (Vodacom), cloud-based phones with very low specs to drive 4G adoption."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Scarlett",
+      "slug": "scarlett",
+      "alternative_names": [
+        "Scarlet"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Phablet users"
+      ],
+      "characteristics": [
+        "Dual SIM",
+        "Phablet form factor",
+        "Mid-range specs"
+      ],
+      "popular_models": [
+        "Scarlett",
+        "Scarlet"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Mid-range phablet device."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Spectra",
+      "slug": "spectra",
+      "alternative_names": [],
+      "sub_brand": "Spectra",
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High-end features",
+        "50MP camera",
+        "128GB storage",
+        "Trend-setting designs",
+        "Android 16 Go"
+      ],
+      "popular_models": [
+        "Spectra J1",
+        "Spectra J1 Pro",
+        "Spectra J2",
+        "Spectra J2 Pro",
+        "Spectra J3"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "New premium sub-brand launched in 2026, focusing on high-end features and design."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Trendy",
+      "slug": "trendy",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable LTE",
+        "Android Go",
+        "Compact display"
+      ],
+      "popular_models": [
+        "Trendy",
+        "Trendy 2",
+        "Trendy Plus"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Affordable LTE-enabled smartphone, successor to the original Trendy."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Vibe",
+      "slug": "vibe",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Low specs",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Vibe"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level smartphone, one of the cheapest in South Africa."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "VX",
+      "slug": "vx",
+      "alternative_names": [
+        "VX Range",
+        "VX Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Matrix lens camera",
+        "Large displays",
+        "Long battery life",
+        "Multiple RAM/storage options"
+      ],
+      "popular_models": [
+        "VX18",
+        "VX20",
+        "VX20 Pro"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Focus on camera capabilities with 'Matrix Lens' branding, VX20 Pro offers 48MP camera."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "alternative_names": [
+        "X Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Multiple RAM/storage options"
+      ],
+      "popular_models": [
+        "X1",
+        "X6",
+        "X9"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Popular budget series, X9 features a 50MP camera and 128GB storage."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Z",
+      "slug": "z",
+      "alternative_names": [
+        "Z Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "Octa-core processor",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Z3",
+        "Z4",
+        "Z5"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series with modern specs."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Zen",
+      "slug": "zen",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 6.0/7.0",
+        "Compact display",
+        "Budget specs"
+      ],
+      "popular_models": [
+        "Zen"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Early budget smartphone."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Zoom",
+      "slug": "zoom",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 6.0/8.1",
+        "Large display",
+        "Budget specs"
+      ],
+      "popular_models": [
+        "Zoom",
+        "Zoom 6.0",
+        "Zoom Fever Plus H",
+        "Zoom H"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "Budget series with tablet-like variants."
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "Blaze"
+    },
+    {
+      "year": 2014,
+      "series": "Matrix"
+    },
+    {
+      "year": 2014,
+      "series": "Scarlett"
+    },
+    {
+      "year": 2015,
+      "series": "Air"
+    },
+    {
+      "year": 2016,
+      "series": "Zen"
+    },
+    {
+      "year": 2016,
+      "series": "Zoom"
+    },
+    {
+      "year": 2017,
+      "series": "Dandy"
+    },
+    {
+      "year": 2017,
+      "series": "R"
+    },
+    {
+      "year": 2018,
+      "series": "Astro"
+    },
+    {
+      "year": 2018,
+      "series": "Oreo"
+    },
+    {
+      "year": 2018,
+      "series": "Pulse"
+    },
+    {
+      "year": 2019,
+      "series": "Desire"
+    },
+    {
+      "year": 2019,
+      "series": "Trendy"
+    },
+    {
+      "year": 2020,
+      "series": "Legend"
+    },
+    {
+      "year": 2020,
+      "series": "X"
+    },
+    {
+      "year": 2021,
+      "series": "Epic"
+    },
+    {
+      "year": 2022,
+      "series": "MX"
+    },
+    {
+      "year": 2022,
+      "series": "Z"
+    },
+    {
+      "year": 2023,
+      "series": "F"
+    },
+    {
+      "year": 2023,
+      "series": "IX"
+    },
+    {
+      "year": 2023,
+      "series": "P"
+    },
+    {
+      "year": 2023,
+      "series": "Q"
+    },
+    {
+      "year": 2023,
+      "series": "RX"
+    },
+    {
+      "year": 2023,
+      "series": "S"
+    },
+    {
+      "year": 2023,
+      "series": "VX"
+    },
+    {
+      "year": 2024,
+      "series": "C"
+    },
+    {
+      "year": 2024,
+      "series": "Vibe"
+    },
+    {
+      "year": 2026,
+      "series": "Spectra"
+    },
+    {
+      "year": "Unknown",
+      "series": "Mirage"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "Air",
+      "Spectra"
+    ],
+    "mid_range": [
+      "IX",
+      "R",
+      "Scarlett",
+      "VX",
+      "X"
+    ],
+    "budget": [
+      "IX",
+      "R",
+      "VX",
+      "X"
+    ],
+    "entry_level": [
+      "Astro",
+      "Blaze",
+      "C",
+      "Dandy",
+      "Desire",
+      "Epic",
+      "F",
+      "Legend",
+      "Matrix",
+      "Mirage",
+      "MX",
+      "Oreo",
+      "P",
+      "Pulse",
+      "Q",
+      "RX",
+      "S",
+      "Trendy",
+      "Vibe",
+      "Z",
+      "Zen",
+      "Zoom"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "VX"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Air",
+      "Astro",
+      "Blaze",
+      "C",
+      "Dandy",
+      "Desire",
+      "Epic",
+      "F",
+      "IX",
+      "Legend",
+      "Matrix",
+      "Mirage",
+      "MX",
+      "Oreo",
+      "P",
+      "Pulse",
+      "Q",
+      "R",
+      "RX",
+      "S",
+      "Scarlett",
+      "Spectra",
+      "Trendy",
+      "Vibe",
+      "VX",
+      "X",
+      "Z",
+      "Zen",
+      "Zoom"
+    ],
+    "carrier_exclusive": [
+      "C",
+      "Dandy",
+      "F",
+      "Oreo",
+      "S"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Air",
+      "Astro",
+      "Blaze",
+      "Dandy",
+      "Desire",
+      "Epic",
+      "Legend",
+      "Matrix",
+      "Mirage",
+      "Oreo",
+      "Pulse",
+      "Scarlett",
+      "Trendy",
+      "Zen",
+      "Zoom"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series",
+      "Pro branding",
+      "Plus branding",
+      "Lite branding"
+    ],
+    "description": "Mobicel uses a mix of single-letter and two-letter prefixes (e.g., C, F, IX, MX, P, Q, R, RX, S, VX, X, Z) combined with numbers to denote different series and models. The 'Pro' and 'Plus' suffixes indicate higher-spec variants within a series. The 'Spectra' sub-brand represents a move towards premium positioning."
+  },
+  "summary": {
+    "total_series": 29,
+    "active_series": 11,
+    "discontinued_series": 15,
+    "oldest_series": "Blaze (2013)",
+    "newest_series": "Spectra (2026)",
+    "longest_running_series": "R (2017–2024)",
+    "most_popular_series": "IX",
+    "best_selling_series": "Astro",
+    "most_premium_series": "Spectra",
+    "best_budget_series": "IX",
+    "most_influential_series": "Astro",
+    "fastest_growing_series": "Spectra",
+    "future_expected_direction": "Mobicel is expanding its portfolio with the new premium 'Spectra' sub-brand while continuing to serve the entry-level and budget segments with a wide range of series. The company is likely to focus on 4G adoption and cloud-based phones in the entry-level segment, while pushing higher-end features and design in the premium segment."
+  },
+  "missing_series": [
+    "Admire (unverified, mentioned in a Facebook post)",
+    "Stylo (likely a different brand, but appears in some comparisons)"
+  ]
+}

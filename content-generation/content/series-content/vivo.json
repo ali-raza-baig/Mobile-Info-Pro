@@ -1,0 +1,921 @@
+{
+  "brand": "Vivo",
+  "total_series": 16,
+  "series": [
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 1200,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users",
+        "Content creators",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Premium cameras",
+        "ZEISS optics",
+        "High refresh rate AMOLED displays",
+        "Flagship processors",
+        "Premium design"
+      ],
+      "popular_models": [
+        "X200 Pro",
+        "X100 Ultra",
+        "X90 Pro+",
+        "X80 Pro",
+        "X70 Pro+"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Vivo's flagship series since the beginning",
+        "Introduced ZEISS partnership for camera co-engineering",
+        "Pushes mobile photography boundaries"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young consumers",
+        "Selfie enthusiasts",
+        "Fashion-conscious users"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High-resolution selfie cameras",
+        "Stylish designs",
+        "Lightweight"
+      ],
+      "popular_models": [
+        "S20 Pro",
+        "S18 Pro",
+        "S17 Pro",
+        "S1 Pro",
+        "S2"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Positioned between Y and V series",
+        "Focus on portrait and selfie photography",
+        "Brought back in 2026 with S2 after a 7-year hiatus in some markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Y Series",
+      "slug": "y-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Durable build",
+        "Essential features",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Y600 Turbo",
+        "Y300 Pro",
+        "Y100",
+        "Y53s",
+        "Y91"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "China"
+      ],
+      "historical_notes": [
+        "Vivo's entry-level and budget workhorse",
+        "One of the longest-running series",
+        "High volume seller in emerging markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Portrait camera expertise",
+        "ZEISS optics",
+        "Elegant design",
+        "AMOLED displays"
+      ],
+      "popular_models": [
+        "V70 5G",
+        "V40",
+        "V30 Pro",
+        "V23 5G",
+        "V20"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Pakistan",
+        "Global"
+      ],
+      "historical_notes": [
+        "Strong focus on portrait photography",
+        "Popular in Asian markets",
+        "Known for slim and stylish designs"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Z Series",
+      "slug": "z-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Decent performance",
+        "Online-exclusive"
+      ],
+      "popular_models": [
+        "Z9 5G",
+        "Z5",
+        "Z1 Pro",
+        "Z3"
+      ],
+      "primary_markets": [
+        "India",
+        "China"
+      ],
+      "historical_notes": [
+        "Online-exclusive series in India",
+        "Discontinued as Vivo streamlined its portfolio",
+        "Some Z-series models later appeared under iQOO sub-brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 110,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Online-exclusive",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "U10",
+        "U3",
+        "U1",
+        "U20"
+      ],
+      "primary_markets": [
+        "India",
+        "China"
+      ],
+      "historical_notes": [
+        "Online-centric series launched in India",
+        "Short-lived, discontinued after a few models",
+        "Focused on providing good battery life at low cost"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "NEX Series",
+      "slug": "nex-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 550,
+        "highest_usd": 750,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Experimental"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Early adopters",
+        "Power users"
+      ],
+      "characteristics": [
+        "Pop-up cameras",
+        "Notchless displays",
+        "In-display fingerprint sensors",
+        "Experimental features"
+      ],
+      "popular_models": [
+        "NEX S",
+        "NEX A",
+        "NEX 3",
+        "NEX 3S"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Explored new form factors and technologies",
+        "First to feature a pop-up selfie camera",
+        "Discontinued in 2022 with its mission absorbed by X series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "T Series",
+      "slug": "t-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Young professionals",
+        "All-rounder users"
+      ],
+      "characteristics": [
+        "Balanced performance",
+        "Good battery life",
+        "AMOLED displays",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "T5 Pro 5G",
+        "T5 5G",
+        "T1 5G",
+        "T5e"
+      ],
+      "primary_markets": [
+        "India",
+        "Indonesia",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Positioned as an all-rounder series",
+        "Popular in India and Indonesia",
+        "Revived in 2026 with T5 series after a gap"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xplay Series",
+      "slug": "xplay-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Audiophiles"
+      ],
+      "characteristics": [
+        "Hi-Fi audio",
+        "Large QHD displays",
+        "Premium build",
+        "Top-tier specs"
+      ],
+      "popular_models": [
+        "Xplay 6",
+        "Xplay 5",
+        "Xplay 3S",
+        "Xplay"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Early flagship series focused on audio and display quality",
+        "Discontinued as X series took over the flagship role",
+        "Known for being among the first with 2K displays"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Durability-focused users"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Rugged build",
+        "IP68/IP69 water resistance",
+        "Long-lasting durability"
+      ],
+      "popular_models": [
+        "G5i",
+        "G5z",
+        "G3 5G"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "New series focused on durability and long battery life",
+        "Features 6-year battery longevity and high water resistance",
+        "Targets users needing a tough phone"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Fold Series",
+      "slug": "x-fold-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 1300,
+        "highest_usd": 2000,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Foldable",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Early adopters",
+        "Business professionals",
+        "Power users"
+      ],
+      "characteristics": [
+        "Foldable displays",
+        "Premium cameras",
+        "High-end processors",
+        "Thin and light designs"
+      ],
+      "popular_models": [
+        "X Fold5",
+        "X Fold3 Pro",
+        "X Fold2",
+        "X Fold+"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Vivo's book-style foldable flagship series",
+        "Known for pushing the boundaries of thinness and weight in foldables",
+        "Competes with Samsung Galaxy Z Fold series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Flip Series",
+      "slug": "x-flip-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 850,
+        "highest_usd": 950,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Flip",
+        "Premium"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Content creators",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Clamshell foldable design",
+        "Compact form factor",
+        "Premium cameras",
+        "Large cover display"
+      ],
+      "popular_models": [
+        "X Flip"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Vivo's first clamshell foldable",
+        "Launched in 2023 with a focus on style and portability",
+        "Competes with Samsung Galaxy Z Flip series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO Digital Series",
+      "slug": "iqoo-digital-series",
+      "alternative_names": [
+        "iQOO Number Series"
+      ],
+      "sub_brand": "iQOO",
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 1000,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Gaming",
+        "Premium"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Performance enthusiasts"
+      ],
+      "characteristics": [
+        "High-performance processors",
+        "High refresh rate displays",
+        "Gaming-centric features",
+        "Aggressive designs"
+      ],
+      "popular_models": [
+        "iQOO 15",
+        "iQOO 13",
+        "iQOO 12 Pro",
+        "iQOO 11",
+        "iQOO 9 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Global"
+      ],
+      "historical_notes": [
+        "Vivo's gaming-focused sub-brand",
+        "Official KPL (King Pro League) game phone",
+        "Known for top-tier performance and fast charging"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO Neo Series",
+      "slug": "iqoo-neo-series",
+      "alternative_names": [],
+      "sub_brand": "iQOO",
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 650,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Performance seekers",
+        "Budget-conscious gamers"
+      ],
+      "characteristics": [
+        "Strong processors",
+        "High refresh rate displays",
+        "Good gaming performance",
+        "Value for money"
+      ],
+      "popular_models": [
+        "iQOO Neo11",
+        "iQOO Neo10 Pro",
+        "iQOO Neo9",
+        "iQOO Neo7",
+        "iQOO Neo5"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Global"
+      ],
+      "historical_notes": [
+        "More affordable gaming-focused series under iQOO",
+        "Offers flagship-like performance at a mid-range price",
+        "Popular among mobile gamers"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO Z Series",
+      "slug": "iqoo-z-series",
+      "alternative_names": [],
+      "sub_brand": "iQOO",
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Budget gamers",
+        "Young users",
+        "Performance seekers on a budget"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Good processors for the price",
+        "High refresh rate displays",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "iQOO Z11",
+        "iQOO Z10 Turbo",
+        "iQOO Z9",
+        "iQOO Z7",
+        "iQOO Z1"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level gaming series under iQOO",
+        "Offers good performance at an affordable price",
+        "Known for large batteries and fast charging"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO U Series",
+      "slug": "iqoo-u-series",
+      "alternative_names": [],
+      "sub_brand": "iQOO",
+      "first_release_year": 2021,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Affordable pricing",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "iQOO U5",
+        "iQOO U3x",
+        "iQOO U1x"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Budget series under iQOO",
+        "Short-lived, discontinued as iQOO focused on higher-end segments",
+        "Offered 5G at a very affordable price"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "X Series"
+    },
+    {
+      "year": 2013,
+      "series": "Xplay Series"
+    },
+    {
+      "year": 2014,
+      "series": "Y Series"
+    },
+    {
+      "year": 2015,
+      "series": "V Series"
+    },
+    {
+      "year": 2018,
+      "series": "NEX Series"
+    },
+    {
+      "year": 2019,
+      "series": "S Series"
+    },
+    {
+      "year": 2019,
+      "series": "Z Series"
+    },
+    {
+      "year": 2019,
+      "series": "U Series"
+    },
+    {
+      "year": 2019,
+      "series": "iQOO Digital Series"
+    },
+    {
+      "year": 2019,
+      "series": "iQOO Neo Series"
+    },
+    {
+      "year": 2020,
+      "series": "iQOO Z Series"
+    },
+    {
+      "year": 2021,
+      "series": "T Series"
+    },
+    {
+      "year": 2021,
+      "series": "iQOO U Series"
+    },
+    {
+      "year": 2022,
+      "series": "X Fold Series"
+    },
+    {
+      "year": 2023,
+      "series": "X Flip Series"
+    },
+    {
+      "year": 2025,
+      "series": "G Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "X Series",
+      "NEX Series",
+      "Xplay Series",
+      "X Fold Series",
+      "X Flip Series",
+      "iQOO Digital Series"
+    ],
+    "premium": [
+      "X Series",
+      "NEX Series",
+      "Xplay Series",
+      "X Fold Series",
+      "X Flip Series",
+      "iQOO Digital Series",
+      "V Series"
+    ],
+    "mid_range": [
+      "S Series",
+      "V Series",
+      "T Series",
+      "G Series",
+      "iQOO Neo Series",
+      "iQOO Z Series"
+    ],
+    "budget": [
+      "Y Series",
+      "Z Series",
+      "U Series",
+      "iQOO Z Series",
+      "iQOO U Series"
+    ],
+    "entry_level": [
+      "Y Series",
+      "U Series",
+      "iQOO U Series"
+    ],
+    "foldable": [
+      "X Fold Series",
+      "X Flip Series"
+    ],
+    "flip": [
+      "X Flip Series"
+    ],
+    "gaming": [
+      "iQOO Digital Series",
+      "iQOO Neo Series",
+      "iQOO Z Series"
+    ],
+    "camera_focused": [
+      "X Series",
+      "S Series",
+      "V Series"
+    ],
+    "business": [
+      "Xplay Series",
+      "X Fold Series"
+    ],
+    "rugged": [
+      "G Series"
+    ],
+    "lifestyle": [
+      "S Series",
+      "X Flip Series"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Z Series",
+      "U Series"
+    ],
+    "discontinued": [
+      "Z Series",
+      "U Series",
+      "NEX Series",
+      "Xplay Series",
+      "iQOO U Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Fold Series",
+      "Flip Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "Turbo branding",
+      "Neo branding",
+      "Lite branding",
+      "SE branding"
+    ],
+    "description": "Vivo uses a letter-based system for its main series (X, S, Y, V, Z, U, T, G) with numbers indicating generation. Flagship foldables are under X Fold and X Flip. The iQOO sub-brand uses Digital, Neo, Z, and U series with similar numbering. Suffixes like Pro, Plus, Ultra, Turbo, Neo, Lite, and SE denote variants within a series."
+  },
+  "summary": {
+    "total_series": 16,
+    "active_series": 11,
+    "discontinued_series": 5,
+    "oldest_series": "X Series",
+    "newest_series": "G Series",
+    "longest_running_series": "X Series",
+    "most_popular_series": "X Series",
+    "best_selling_series": "Y Series",
+    "most_premium_series": "X Fold Series",
+    "best_budget_series": "Y Series",
+    "most_influential_series": "NEX Series",
+    "fastest_growing_series": "G Series",
+    "future_expected_direction": "Continued focus on foldables (X Fold and X Flip), camera innovation in X and V series, expansion of durable G series, and strengthening of iQOO's gaming portfolio with AI integration."
+  },
+  "missing_series": []
+}

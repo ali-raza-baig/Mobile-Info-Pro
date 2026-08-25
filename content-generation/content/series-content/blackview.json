@@ -1,0 +1,971 @@
+{
+  "brand": "Blackview",
+  "total_series": 18,
+  "series": [
+    {
+      "name": "BV Series",
+      "slug": "bv-series",
+      "alternative_names": [
+        "BV"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Construction workers",
+        "Power users"
+      ],
+      "characteristics": [
+        "IP68/IP69K waterproof",
+        "MIL-STD-810H certified",
+        "Large battery capacity",
+        "Thermal imaging (select models)"
+      ],
+      "popular_models": [
+        "BV9900 Pro",
+        "BV9800 Pro",
+        "BV8800",
+        "BV9200",
+        "BV7100"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Core rugged lineup of Blackview",
+        "Introduced thermal imaging to the mid-range rugged segment with the BV9800 Pro"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "BL Series",
+      "slug": "bl-series",
+      "alternative_names": [
+        "BL"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Rugged",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Professionals",
+        "Outdoor enthusiasts",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Dual-screen variants",
+        "High-end rugged build",
+        "Large battery capacity"
+      ],
+      "popular_models": [
+        "BL6000 Pro",
+        "BL7000 Pro",
+        "BL8000",
+        "BL8800 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced Blackview's first 5G rugged phone with the BL6000 Pro",
+        "Features unique dual-display hardware variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A Series",
+      "slug": "a-series",
+      "alternative_names": [
+        "A"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Decent battery life",
+        "Standard Android experience"
+      ],
+      "popular_models": [
+        "A7",
+        "A50",
+        "A100",
+        "A200 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of the earliest non-rugged budget lines from Blackview",
+        "The A5 was among the first models in this lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Wave Series",
+      "slug": "wave-series",
+      "alternative_names": [
+        "Wave"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Secondary phone buyers",
+        "Seniors"
+      ],
+      "characteristics": [
+        "Compact designs",
+        "Basic camera setups",
+        "Long battery life",
+        "Lightweight"
+      ],
+      "popular_models": [
+        "Wave 2C",
+        "Wave 6C",
+        "Wave 8",
+        "Wave 9C",
+        "Wave 10"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Positioned as the ultra-budget everyday smartphone lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xplore Series",
+      "slug": "xplore-series",
+      "alternative_names": [
+        "XPLORE"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor adventurers",
+        "Field workers",
+        "Emergency responders"
+      ],
+      "characteristics": [
+        "Walkie-talkie functionality",
+        "Massive batteries (up to 20000mAh)",
+        "Built-in projector (select models)",
+        "Night vision cameras"
+      ],
+      "popular_models": [
+        "Xplore 1",
+        "Xplore 1 Pro",
+        "Xplore 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced extreme niche features like built-in projectors and two-way radios to the smartphone form factor"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Rock Series",
+      "slug": "rock-series",
+      "alternative_names": [
+        "ROCK"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Campers",
+        "Outdoor workers",
+        "Hikers"
+      ],
+      "characteristics": [
+        "Dual high-lumen camping lights",
+        "Massive batteries",
+        "Rugged build"
+      ],
+      "popular_models": [
+        "Rock 2 Pro",
+        "Rock 5"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Focused on outdoor utility with integrated high-power camping lights"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Fort Series",
+      "slug": "fort-series",
+      "alternative_names": [
+        "FORT"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Users wanting ruggedness without bulk",
+        "Everyday workers"
+      ],
+      "characteristics": [
+        "Slimmer rugged design",
+        "Lightweight",
+        "IP68/IP69K rating"
+      ],
+      "popular_models": [
+        "Fort 1",
+        "Fort 2",
+        "Fort 5 Slim"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Addresses the 'slim rugged' niche, challenging the traditional bulky rugged phone stereotype"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "N Series",
+      "slug": "n-series",
+      "alternative_names": [
+        "N"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 180,
+        "highest_usd": 220,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Budget"
+      ],
+      "target_audience": [
+        "Users with small hands",
+        "Minimalists",
+        "Secondary phone users"
+      ],
+      "characteristics": [
+        "Compact 4.3-inch display",
+        "Rugged build",
+        "Mid-range chipset (e.g., Helio G99)"
+      ],
+      "popular_models": [
+        "N6000"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "One of the few modern mini rugged smartphones on the market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Hero Series",
+      "slug": "hero-series",
+      "alternative_names": [
+        "HERO"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Foldable",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Budget foldable seekers"
+      ],
+      "characteristics": [
+        "Foldable AMOLED display",
+        "Affordable foldable technology",
+        "Mid-range processor"
+      ],
+      "popular_models": [
+        "Hero 10"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Marketed as one of the world's most affordable foldable smartphones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Shark Series",
+      "slug": "shark-series",
+      "alternative_names": [
+        "SHARK"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Everyday users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Basic performance",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Shark 6",
+        "Shark 9"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Introduced as a value-focused lineup for core smartphone functionality"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Color Series",
+      "slug": "color-series",
+      "alternative_names": [
+        "COLOR"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Media consumers"
+      ],
+      "characteristics": [
+        "Large batteries (6000mAh+)",
+        "Vibrant displays",
+        "High storage variants for the price"
+      ],
+      "popular_models": [
+        "Color 6",
+        "Color 8"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Focuses on providing high capacity storage and battery at entry-level prices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Max Series",
+      "slug": "max-series",
+      "alternative_names": [
+        "MAX"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Experimental",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Presenters",
+        "Outdoor movie watchers"
+      ],
+      "characteristics": [
+        "Built-in laser projector",
+        "Rugged build",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Max 1",
+        "Max 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Pioneered the 'projector phone' niche for Blackview",
+        "Discontinued due to niche appeal and hardware limitations"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "P"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Battery-focused users",
+        "Budget-conscious buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Metal construction (early models)",
+        "Basic cameras"
+      ],
+      "popular_models": [
+        "P2",
+        "P10000 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Early battery-centric lineup",
+        "Eventually merged and replaced by the BV and A series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Oscal C Series",
+      "slug": "oscal-c-series",
+      "alternative_names": [
+        "Oscal C"
+      ],
+      "sub_brand": "Oscal",
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Young adults"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Modern design",
+        "Basic daily performance"
+      ],
+      "popular_models": [
+        "Oscal C20",
+        "Oscal C30",
+        "Oscal C40",
+        "Oscal C80"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Flagship budget lineup of the Oscal sub-brand",
+        "Launched alongside the sub-brand's creation"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Oscal S Series",
+      "slug": "oscal-s-series",
+      "alternative_names": [
+        "Oscal S"
+      ],
+      "sub_brand": "Oscal",
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Rugged design",
+        "Mid-range performance",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Oscal S60 Pro",
+        "Oscal S70",
+        "Oscal S80",
+        "Oscal S100"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Bridges the gap between budget and rugged, offering durable mid-range devices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Oscal Pilot Series",
+      "slug": "oscal-pilot-series",
+      "alternative_names": [
+        "Oscal Pilot"
+      ],
+      "sub_brand": "Oscal",
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Field workers",
+        "Outdoor adventurers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Rugged build",
+        "Advanced cameras (including thermal in some)",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Oscal Pilot 1",
+        "Oscal Pilot 3",
+        "Oscal Pilot 6",
+        "Oscal Pilot 8"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Premium rugged lineup under the Oscal brand",
+        "Often features 5G and advanced sensors"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Oscal Tiger Series",
+      "slug": "oscal-tiger-series",
+      "alternative_names": [
+        "Oscal Tiger"
+      ],
+      "sub_brand": "Oscal",
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Mobile gamers",
+        "Media consumers",
+        "Performance seekers on a budget"
+      ],
+      "characteristics": [
+        "High refresh rate displays",
+        "Gaming-focused chipsets",
+        "Large RAM configurations"
+      ],
+      "popular_models": [
+        "Oscal Tiger 12",
+        "Oscal Tiger 13"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced as the performance and gaming-oriented lineup for the Oscal brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Oscal Marine Series",
+      "slug": "oscal-marine-series",
+      "alternative_names": [
+        "Oscal Marine"
+      ],
+      "sub_brand": "Oscal",
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Marine workers",
+        "Extreme outdoor enthusiasts",
+        "Heavy-duty users"
+      ],
+      "characteristics": [
+        "Massive batteries (11000mAh+)",
+        "IP68/IP69K rating",
+        "Rugged build"
+      ],
+      "popular_models": [
+        "Oscal Marine 1",
+        "Oscal Marine 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Specialized lineup focusing on extreme battery life and durability for harsh environments"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2016,
+      "series": "BV Series"
+    },
+    {
+      "year": 2017,
+      "series": "P Series"
+    },
+    {
+      "year": 2018,
+      "series": "A Series"
+    },
+    {
+      "year": 2019,
+      "series": "Max Series"
+    },
+    {
+      "year": 2020,
+      "series": "BL Series"
+    },
+    {
+      "year": 2020,
+      "series": "Wave Series"
+    },
+    {
+      "year": 2021,
+      "series": "Oscal C Series"
+    },
+    {
+      "year": 2022,
+      "series": "Oscal S Series"
+    },
+    {
+      "year": 2022,
+      "series": "Oscal Pilot Series"
+    },
+    {
+      "year": 2023,
+      "series": "N Series"
+    },
+    {
+      "year": 2023,
+      "series": "Color Series"
+    },
+    {
+      "year": 2023,
+      "series": "Oscal Tiger Series"
+    },
+    {
+      "year": 2024,
+      "series": "Xplore Series"
+    },
+    {
+      "year": 2024,
+      "series": "Rock Series"
+    },
+    {
+      "year": 2024,
+      "series": "Fort Series"
+    },
+    {
+      "year": 2024,
+      "series": "Hero Series"
+    },
+    {
+      "year": 2024,
+      "series": "Shark Series"
+    },
+    {
+      "year": 2024,
+      "series": "Oscal Marine Series"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "BL Series"
+    ],
+    "mid_range": [
+      "BV Series",
+      "A Series",
+      "Oscal S Series",
+      "Oscal Tiger Series"
+    ],
+    "budget": [
+      "Wave Series",
+      "Shark Series",
+      "Color Series",
+      "Oscal C Series"
+    ],
+    "entry_level": [
+      "Wave Series",
+      "Shark Series",
+      "Color Series",
+      "Oscal C Series"
+    ],
+    "foldable": [
+      "Hero Series"
+    ],
+    "flip": [],
+    "gaming": [
+      "Oscal Tiger Series"
+    ],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [
+      "BV Series",
+      "BL Series",
+      "Xplore Series",
+      "Rock Series",
+      "Fort Series",
+      "N Series",
+      "Oscal S Series",
+      "Oscal Pilot Series",
+      "Oscal Marine Series"
+    ],
+    "lifestyle": [
+      "Color Series",
+      "Wave Series"
+    ],
+    "ai_focused": [
+      "Xplore Series",
+      "Oscal Marine Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Hero Series",
+      "Oscal C Series"
+    ],
+    "discontinued": [
+      "P Series",
+      "Max Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Slim branding",
+      "Mini branding"
+    ],
+    "description": "Blackview primarily uses letter prefixes (BV, BL, A) followed by numbers to denote generations or tiers, with 'Pro' indicating upgraded variants. The Oscal sub-brand uses distinct series names (C, S, Pilot, Tiger, Marine) paired with numbers to differentiate performance tiers and specific use cases like gaming or extreme durability."
+  },
+  "summary": {
+    "total_series": 18,
+    "active_series": 16,
+    "discontinued_series": 2,
+    "oldest_series": "BV Series",
+    "newest_series": "Oscal Marine Series",
+    "longest_running_series": "BV Series",
+    "most_popular_series": "BV Series",
+    "best_selling_series": "BV Series",
+    "most_premium_series": "BL Series",
+    "best_budget_series": "Wave Series",
+    "most_influential_series": "BV Series",
+    "fastest_growing_series": "Oscal Pilot Series",
+    "future_expected_direction": "Continued expansion of AI-integrated rugged devices, more affordable foldable technology, and aggressive growth of the Oscal sub-brand in emerging global markets."
+  },
+  "missing_series": []
+}

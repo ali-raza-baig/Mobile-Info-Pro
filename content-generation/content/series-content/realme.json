@@ -1,0 +1,604 @@
+{
+  "brand": "Realme",
+  "total_series": 10,
+  "series": [
+    {
+      "name": "Realme Number Series",
+      "slug": "realme-number-series",
+      "alternative_names": [
+        "Realme Digit Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 450,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Content creators"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Premium cameras",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "Realme 1",
+        "Realme 3 Pro",
+        "Realme 5 Pro",
+        "Realme 8 Pro",
+        "Realme 11 Pro+",
+        "Realme 12 Pro+"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Europe",
+        "Southeast Asia",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Foundational series of the brand",
+        "Replaced by GT series for premium tier, but continues as core mid-range/budget lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme C Series",
+      "slug": "realme-c-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Long battery life",
+        "Large displays",
+        "Basic camera setups",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Realme C1",
+        "Realme C3",
+        "Realme C11",
+        "Realme C25",
+        "Realme C35",
+        "Realme C55",
+        "Realme C67"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Africa",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Core entry-level lineup",
+        "Consistently updated to provide long-lasting value in emerging markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme GT Series",
+      "slug": "realme-gt-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 700,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High-end processors",
+        "Ultra-fast charging",
+        "AMOLED displays with high refresh rates",
+        "Premium build materials"
+      ],
+      "popular_models": [
+        "Realme GT",
+        "Realme GT Neo 3",
+        "Realme GT 2 Pro",
+        "Realme GT 5 Pro",
+        "Realme GT 6",
+        "Realme GT 7"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced to replace the X series as the flagship/performance lineup",
+        "Neo variants offer flagship killers at mid-range prices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme Narzo Series",
+      "slug": "realme-narzo-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Online-exclusive"
+      ],
+      "target_audience": [
+        "Young users",
+        "Gamers on a budget",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "Balanced performance",
+        "High refresh rate displays",
+        "Gaming-focused optimizations",
+        "Online-exclusive sales model"
+      ],
+      "popular_models": [
+        "Realme Narzo 20 Pro",
+        "Realme Narzo 30 Pro",
+        "Realme Narzo 50 Pro",
+        "Realme Narzo 60 Pro",
+        "Realme Narzo 70 Pro"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Global"
+      ],
+      "historical_notes": [
+        "Created as an online-exclusive sub-lineup to compete with Redmi's online offerings",
+        "Shares hardware with Number and Q series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme X Series",
+      "slug": "realme-x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 450,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Power users",
+        "Design-conscious users"
+      ],
+      "characteristics": [
+        "Pop-up selfie cameras",
+        "AMOLED displays",
+        "Fast charging",
+        "Premium design"
+      ],
+      "popular_models": [
+        "Realme X",
+        "Realme X2 Pro",
+        "Realme X3 SuperZoom",
+        "Realme X50 Pro",
+        "Realme X7 Max"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "China",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Realme's first attempt at a premium mid-range/flagship killer lineup",
+        "Discontinued in 2021 and replaced by the GT series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme U Series",
+      "slug": "realme-u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Selfie enthusiasts",
+        "Young users",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "Waterdrop notch",
+        "Online-exclusive"
+      ],
+      "popular_models": [
+        "Realme U1"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Short-lived online-exclusive series focused on selfies",
+        "Only one model (U1) was released before the lineup was absorbed into the Number and C series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme Q Series",
+      "slug": "realme-q-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Online-exclusive"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Online shoppers",
+        "Students"
+      ],
+      "characteristics": [
+        "Balanced specs",
+        "5G connectivity",
+        "Online-exclusive in China"
+      ],
+      "popular_models": [
+        "Realme Q",
+        "Realme Q2 Pro",
+        "Realme Q3 Pro",
+        "Realme Q5 Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive online series",
+        "Often shared hardware with the global Narzo or Number series",
+        "Discontinued and merged into the V series and Number series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme V Series",
+      "slug": "realme-v-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "5G adopters on a budget",
+        "General consumers in China"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Large batteries",
+        "Fast charging",
+        "China-exclusive"
+      ],
+      "popular_models": [
+        "Realme V5",
+        "Realme V15",
+        "Realme V25",
+        "Realme V30",
+        "Realme V50",
+        "Realme V70"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive series focused on bringing affordable 5G and large batteries to the mass market",
+        "Replaced the Q series in China's lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme Note Series",
+      "slug": "realme-note-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 65,
+        "highest_usd": 120,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Emerging markets"
+      ],
+      "characteristics": [
+        "Massive batteries",
+        "Durable build",
+        "Basic but functional cameras",
+        "Ultra-affordable pricing"
+      ],
+      "popular_models": [
+        "Realme Note 50",
+        "Realme Note 60",
+        "Realme Note 70",
+        "Realme Note 80"
+      ],
+      "primary_markets": [
+        "Southeast Asia",
+        "India",
+        "Middle East",
+        "Africa",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Introduced in 2024 to aggressively target the ultra-budget segment",
+        "Competes directly with entry-level Redmi and Samsung Galaxy A0x series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Realme P Series",
+      "slug": "realme-p-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Young gamers",
+        "Performance-focused budget users",
+        "Students"
+      ],
+      "characteristics": [
+        "Performance-oriented chipsets",
+        "High refresh rate displays",
+        "Gaming-focused software features",
+        "Aggressive pricing"
+      ],
+      "popular_models": [
+        "Realme P1",
+        "Realme P1 Pro",
+        "Realme P2 Pro",
+        "Realme P3",
+        "Realme P4"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Launched in 2024 as a new mid-range performance series",
+        "Specifically designed to dominate online sales channels with a focus on gaming and value"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2018,
+      "series": "Number Series"
+    },
+    {
+      "year": 2018,
+      "series": "C Series"
+    },
+    {
+      "year": 2018,
+      "series": "U Series"
+    },
+    {
+      "year": 2019,
+      "series": "X Series"
+    },
+    {
+      "year": 2019,
+      "series": "Q Series"
+    },
+    {
+      "year": 2020,
+      "series": "Narzo Series"
+    },
+    {
+      "year": 2020,
+      "series": "V Series"
+    },
+    {
+      "year": 2021,
+      "series": "GT Series"
+    },
+    {
+      "year": 2024,
+      "series": "Note Series"
+    },
+    {
+      "year": 2024,
+      "series": "P Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "GT Series"
+    ],
+    "premium": [
+      "GT Series",
+      "X Series"
+    ],
+    "mid_range": [
+      "Number Series",
+      "Narzo Series",
+      "P Series",
+      "Q Series",
+      "V Series"
+    ],
+    "budget": [
+      "C Series",
+      "Number Series",
+      "P Series",
+      "V Series"
+    ],
+    "entry_level": [
+      "Note Series",
+      "C Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "GT Series",
+      "P Series",
+      "Narzo Series"
+    ],
+    "camera_focused": [
+      "Number Series",
+      "X Series"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "V Series",
+      "Q Series",
+      "U Series"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Narzo Series",
+      "Q Series",
+      "U Series",
+      "P Series"
+    ],
+    "discontinued": [
+      "X Series",
+      "U Series",
+      "Q Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Neo branding",
+      "Lite branding",
+      "Max branding",
+      "T branding"
+    ],
+    "description": "Realme employs a hybrid naming strategy combining a core alphabetic series identifier (e.g., C, GT, V, P) or numeric progression (Number Series) with descriptive suffixes to denote variants. 'Pro' and 'Plus' indicate enhanced specifications, 'Neo' signifies a performance-focused sub-variant, 'Lite' denotes a cost-reduced version, 'Max' highlights top-tier specs in a mid-range lineup, and 'T' represents a refreshed or slightly upgraded mid-cycle model."
+  },
+  "summary": {
+    "total_series": 10,
+    "active_series": 7,
+    "discontinued_series": 3,
+    "oldest_series": "Number Series",
+    "newest_series": "Note Series",
+    "longest_running_series": "Number Series",
+    "most_popular_series": "Number Series",
+    "best_selling_series": "C Series",
+    "most_premium_series": "GT Series",
+    "best_budget_series": "C Series",
+    "most_influential_series": "GT Series",
+    "fastest_growing_series": "P Series",
+    "future_expected_direction": "Continued consolidation of mid-range portfolios (P, Narzo, Number), aggressive expansion in the ultra-budget 5G segment (Note, V series), and deeper integration of AI features and ecosystem synergy with parent company Oppo."
+  },
+  "missing_series": []
+}

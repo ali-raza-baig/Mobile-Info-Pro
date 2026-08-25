@@ -1,0 +1,566 @@
+{
+  "brand": "Positivo",
+  "total_series": 10,
+  "series": [
+    {
+      "name": "Ypy",
+      "slug": "ypy",
+      "alternative_names": [
+        "Positivo Ypy"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Dual-SIM",
+        "Android OS",
+        "Touchscreen"
+      ],
+      "popular_models": [
+        "Ypy S350",
+        "Ypy S350 Colors",
+        "Ypy S400",
+        "Ypy S450",
+        "Ypy S460 TV",
+        "Ypy S500"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "First smartphone series from Positivo, launched in 2012[reference:0].",
+        "Initially used the Ypy branding from Positivo's tablets[reference:1].",
+        "The Ypy S400 was the first Android dual-chip smartphone from Positivo[reference:2]."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S",
+      "slug": "s",
+      "alternative_names": [
+        "Positivo S"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Dual-SIM",
+        "Android OS",
+        "Large screens"
+      ],
+      "popular_models": [
+        "S350",
+        "S400",
+        "S440",
+        "S450",
+        "S480",
+        "S550"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Introduced as a budget and mid-range lineup alongside the Ypy series[reference:3].",
+        "The S550 was Positivo's first smartphone with a 5.5-inch screen[reference:4]."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "alternative_names": [
+        "Positivo X"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android OS",
+        "Dual-SIM",
+        "Quad-core processors"
+      ],
+      "popular_models": [
+        "X400",
+        "X500",
+        "X800"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Launched as a mid-range lineup in 2015[reference:5].",
+        "The X800 (Octa X800) was the first Brazilian smartphone with an octa-core processor[reference:6]."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Octa",
+      "slug": "octa",
+      "alternative_names": [
+        "Positivo Octa"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Octa-core processor",
+        "Premium design",
+        "Advanced cameras"
+      ],
+      "popular_models": [
+        "Octa X800"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Positioned as Positivo's first flagship 'top de linha' series[reference:7].",
+        "The Octa X800 was the first Brazilian smartphone with a True Octa-core processor[reference:8]."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Quantum",
+      "slug": "quantum",
+      "alternative_names": [
+        "Positivo Quantum"
+      ],
+      "sub_brand": "Quantum",
+      "first_release_year": 2015,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Young consumers"
+      ],
+      "characteristics": [
+        "Android OS",
+        "Dual-SIM",
+        "Cost-effective"
+      ],
+      "popular_models": [
+        "Quantum Go",
+        "Quantum You",
+        "Quantum Fit",
+        "Quantum M",
+        "Quantum YOLO",
+        "Quantum UP32"
+      ],
+      "primary_markets": [
+        "Brazil",
+        "Argentina"
+      ],
+      "historical_notes": [
+        "Launched as a separate smartphone brand by Positivo in 2015[reference:9].",
+        "Focused on high-performance smartphones with good cost-benefit[reference:10].",
+        "Expanded to Argentina with models like Quantum YOLO and UP32[reference:11]."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Twist",
+      "slug": "twist",
+      "alternative_names": [
+        "Positivo Twist"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Android OS",
+        "Dual-SIM",
+        "Affordable",
+        "Google Camera Go"
+      ],
+      "popular_models": [
+        "Twist M",
+        "Twist S",
+        "Twist 4G",
+        "Twist 4 Pro",
+        "Twist 5 Max",
+        "Twist 5 Pro"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Introduced in 2016 as a new line of affordable smartphones[reference:12].",
+        "The Twist series has seen multiple generations, including Twist 4 and Twist 5[reference:13].",
+        "Twist 4 Pro and Twist 4G featured Google Camera Go[reference:14]."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Next",
+      "slug": "next",
+      "alternative_names": [
+        "Positivo Next"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers"
+      ],
+      "characteristics": [
+        "HD 2.5D glass",
+        "Android OS",
+        "Dual-SIM"
+      ],
+      "popular_models": [
+        "Next X500"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Launched in March 2016 with a 5-inch HD display and 2.5D glass[reference:15].",
+        "Positioned as a mid-range device with a premium design element[reference:16]."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "One",
+      "slug": "one",
+      "alternative_names": [
+        "Positivo One"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android OS",
+        "Dual-core processor"
+      ],
+      "popular_models": [
+        "Positivo One"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Launched in 2016 as a budget smartphone[reference:17].",
+        "Featured a dual-core processor and 8GB of internal storage[reference:18]."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "P",
+      "slug": "p",
+      "alternative_names": [
+        "Positivo P"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Basic phone users",
+        "Elderly",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Feature phone style",
+        "Basic calling and messaging",
+        "Dual-SIM",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "P26",
+        "P30",
+        "P38",
+        "P41",
+        "P51",
+        "P70S"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "A lineup of basic phones and entry-level smartphones[reference:19].",
+        "The P70S was launched with KaiOS in 2019[reference:20]."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Infinix",
+      "slug": "infinix",
+      "alternative_names": [
+        "Positivo Infinix"
+      ],
+      "sub_brand": "Infinix",
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Young consumers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Large displays",
+        "High refresh rate",
+        "Premium design",
+        "Advanced cameras"
+      ],
+      "popular_models": [
+        "Infinix Hot 11",
+        "Infinix Hot 11S",
+        "Infinix Zero 5G",
+        "Infinix Note 40 5G",
+        "Infinix Smart 8 Pro"
+      ],
+      "primary_markets": [
+        "Brazil"
+      ],
+      "historical_notes": [
+        "Positivo partnered with Infinix (Transsion Holdings) to license and manufacture Infinix smartphones in Brazil[reference:21].",
+        "Launched with the Infinix Hot 11, Hot 11S, and Zero 5G in 2022[reference:22].",
+        "The Infinix Note 40 5G was launched in 2025[reference:23]."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Ypy"
+    },
+    {
+      "year": 2012,
+      "series": "S"
+    },
+    {
+      "year": 2015,
+      "series": "X"
+    },
+    {
+      "year": 2015,
+      "series": "Octa"
+    },
+    {
+      "year": 2015,
+      "series": "Quantum"
+    },
+    {
+      "year": 2015,
+      "series": "P"
+    },
+    {
+      "year": 2016,
+      "series": "Twist"
+    },
+    {
+      "year": 2016,
+      "series": "Next"
+    },
+    {
+      "year": 2016,
+      "series": "One"
+    },
+    {
+      "year": 2022,
+      "series": "Infinix"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Octa"
+    ],
+    "premium": [
+      "Octa"
+    ],
+    "mid_range": [
+      "S",
+      "X",
+      "Quantum",
+      "Next",
+      "Infinix"
+    ],
+    "budget": [
+      "Ypy",
+      "S",
+      "Quantum",
+      "Twist",
+      "Infinix"
+    ],
+    "entry_level": [
+      "Ypy",
+      "S",
+      "Twist",
+      "One",
+      "P",
+      "Infinix"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Ypy",
+      "S",
+      "X",
+      "Octa",
+      "Quantum",
+      "Next",
+      "One",
+      "P"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Max branding",
+      "Lite branding"
+    ],
+    "description": "Positivo's naming strategy has evolved over time. Early series used letters (Ypy, S, X) with model numbers. The Twist series uses generation numbers (Twist 4, Twist 5) with Pro and Max variants. The Infinix sub-brand uses established Infinix series names (Hot, Note, Zero, Smart) with model numbers. Quantum used letter-based model names (Go, You, Fit, M) and later numeric models (Q20, UP32)."
+  },
+  "summary": {
+    "total_series": 10,
+    "active_series": 2,
+    "discontinued_series": 8,
+    "oldest_series": "Ypy",
+    "newest_series": "Infinix",
+    "longest_running_series": "Twist",
+    "most_popular_series": "Twist",
+    "best_selling_series": "Twist",
+    "most_premium_series": "Octa",
+    "best_budget_series": "Twist",
+    "most_influential_series": "Ypy",
+    "fastest_growing_series": "Infinix",
+    "future_expected_direction": "Expansion of the Infinix portfolio with more 5G models and continued focus on budget and entry-level segments through the Twist series."
+  },
+  "missing_series": [
+    "Potential additional sub-series within Quantum (e.g., Quantum MÜV) that may require further verification.",
+    "Possible regional or carrier-exclusive models not widely documented."
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "brand": "Fairphone",
+  "total_series": 1,
+  "series": [
+    {
+      "name": "Fairphone",
+      "slug": "fairphone",
+      "alternative_names": [
+        "Fairphone (Gen. 6)",
+        "Fairphone Gen 6+"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 750,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium",
+        "Lifestyle",
+        "Business"
+      ],
+      "target_audience": [
+        "Environmentally conscious consumers",
+        "Ethical tech advocates",
+        "Business professionals",
+        "Long-term device users"
+      ],
+      "characteristics": [
+        "Modular and user-repairable design",
+        "Ethically sourced materials",
+        "Extended software support",
+        "Removable battery",
+        "Expandable storage via microSD"
+      ],
+      "popular_models": [
+        "Fairphone 2",
+        "Fairphone 3",
+        "Fairphone 4",
+        "Fairphone 5",
+        "Fairphone 6"
+      ],
+      "primary_markets": [
+        "Europe",
+        "North America",
+        "Global"
+      ],
+      "historical_notes": [
+        "Pioneered the modular and repairable smartphone movement.",
+        "Fairphone 1 began as a crowd-funded campaign in 2013.",
+        "Fairphone 2 was the first commercially available modular smartphone.",
+        "Introduced industry-leading software support commitments (up to 10 years) starting with Fairphone 5.",
+        "Expanded to the North American market with the Fairphone Gen 6 lineup."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "Fairphone"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "Fairphone"
+    ],
+    "mid_range": [
+      "Fairphone"
+    ],
+    "budget": [],
+    "entry_level": [],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [
+      "Fairphone"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "Fairphone"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Fairphone"
+    ],
+    "discontinued": []
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Plus branding"
+    ],
+    "description": "Fairphone uses a simple numerical naming strategy (e.g., Fairphone 1, Fairphone 2, up to Fairphone 6), occasionally adding a '+' suffix for mid-cycle hardware upgrades (e.g., Fairphone 3+, Fairphone 6+). Recently, they have also adopted a 'Gen. 6' branding to emphasize generational leaps in modularity and longevity."
+  },
+  "summary": {
+    "total_series": 1,
+    "active_series": 1,
+    "discontinued_series": 0,
+    "oldest_series": "Fairphone",
+    "newest_series": "Fairphone",
+    "longest_running_series": "Fairphone",
+    "most_popular_series": "Fairphone",
+    "best_selling_series": "Fairphone",
+    "most_premium_series": "Fairphone",
+    "best_budget_series": "Fairphone",
+    "most_influential_series": "Fairphone",
+    "fastest_growing_series": "Fairphone",
+    "future_expected_direction": "Continued focus on modularity, extended software support (up to 10 years), and expansion into new markets like North America, while maintaining ethical sourcing and repairability as core brand pillars."
+  },
+  "missing_series": []
+}

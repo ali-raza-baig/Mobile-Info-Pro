@@ -1,0 +1,1054 @@
+{
+  "brand": "Doogee",
+  "total_series": 21,
+  "series": [
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Explorers",
+        "Adventure seekers"
+      ],
+      "characteristics": [
+        "Rugged design",
+        "IP68/IP69K",
+        "MIL-STD-810H",
+        "Large battery",
+        "Secondary display",
+        "High-resolution camera"
+      ],
+      "popular_models": [
+        "S60",
+        "S100",
+        "S110",
+        "S118 Pro",
+        "S119",
+        "S200",
+        "S200 Ultra",
+        "S300 Plus Thermal"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "One of Doogee's earliest rugged series.",
+        "The 'S' stands for 'Spark'.",
+        "Introduced the first 5G rugged phone in the S series with the S200.",
+        "S300 series introduced AI Thermal Imaging."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Professionals",
+        "Power users",
+        "Outdoor adventurers"
+      ],
+      "characteristics": [
+        "Flagship rugged design",
+        "5G connectivity",
+        "High-end cameras",
+        "Large battery",
+        "Secondary display"
+      ],
+      "popular_models": [
+        "V10",
+        "V20",
+        "V30",
+        "V40 Pro",
+        "V50",
+        "V Max",
+        "V Max LR"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's prestigious flagship rugged phone series.",
+        "V10 marked the debut of Doogee's first 5G-enabled phone.",
+        "V Max series focuses on extended battery life and includes a built-in projector."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Low-cost",
+        "Entry-level specifications",
+        "Basic functionality"
+      ],
+      "popular_models": [
+        "X3",
+        "X5 Max",
+        "X6 Pro",
+        "X9 Pro",
+        "X95"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "One of Doogee's earliest budget series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Mix Series",
+      "slug": "mix-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Full-display",
+        "Bezel-less design",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Mix",
+        "Mix Lite",
+        "Mix2",
+        "Mix3",
+        "Mix4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Nigeria"
+      ],
+      "historical_notes": [
+        "Budget full-display smartphones.",
+        "Mix3 featured a 360° rotatory camera.",
+        "Mix4 was the first Doogee to embed a Snapdragon processor."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "BL Series",
+      "slug": "bl-series",
+      "alternative_names": [
+        "Be Long Time Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Users needing long battery life"
+      ],
+      "characteristics": [
+        "Extremely large battery",
+        "Phablet size",
+        "Bezel-less display"
+      ],
+      "popular_models": [
+        "BL5000",
+        "BL7000",
+        "BL9000",
+        "BL12000",
+        "BL12000 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Nigeria"
+      ],
+      "historical_notes": [
+        "BL stands for 'Be Long time'.",
+        "BL12000 held a Guinness World Record for the biggest battery smartphone at the time."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "N Series",
+      "slug": "n-series",
+      "alternative_names": [
+        "Note Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Everyday users",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Balanced performance",
+        "Vibrant displays",
+        "Long-lasting batteries"
+      ],
+      "popular_models": [
+        "N50",
+        "N50 Pro",
+        "N55",
+        "N55 Plus",
+        "N100"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Designed for everyday users seeking a balance of power and practicality."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Fire Series",
+      "slug": "fire-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 320,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Travelers",
+        "Off-the-grid explorers",
+        "Outdoor enthusiasts"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Large battery",
+        "Camping lights",
+        "IP68/IP69K",
+        "MIL-STD-810H"
+      ],
+      "popular_models": [
+        "Fire 3 Pro",
+        "Fire 3 Ultra",
+        "Fire 5",
+        "Fire 5 Pro",
+        "Fire 5 Ultra",
+        "Fire 7",
+        "Fire 7 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Divided into sub-series: Fire 3 (compact, cost-effective), Fire 5 (long battery), and Fire 7 (professional tools).",
+        "Fire 5 Ultra features a 13,000 mAh battery and camping lights."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Blade Series",
+      "slug": "blade-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Users wanting slim rugged phones",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Slim rugged design",
+        "Smart lighting",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Blade 10",
+        "Blade 10 Pro",
+        "Blade 10 Power",
+        "Blade 10 Ultra",
+        "Blade 20",
+        "Blade 20 Turbo",
+        "Blade GT",
+        "Blade GT Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Redefines ruggedness with an industry-leading slim design.",
+        "Blade GT Series is the first ultra-thin rugged phone with smart lighting."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Moment Series",
+      "slug": "moment-series",
+      "alternative_names": [
+        "M60 Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Business professionals",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Built-in projector",
+        "Slim rugged body",
+        "Silicon anode battery"
+      ],
+      "popular_models": [
+        "Moment 60",
+        "Moment 60 Pro",
+        "Moment 60 Max"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First smartphone series from Doogee with a built-in projector.",
+        "Designed for people who want both toughness and modern style."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "DK Series",
+      "slug": "dk-series",
+      "alternative_names": [
+        "Duke Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Rugged",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Outdoor photographers",
+        "Luxury seekers"
+      ],
+      "characteristics": [
+        "Luxury rugged design",
+        "Premium materials",
+        "Advanced camera system",
+        "AMOLED display"
+      ],
+      "popular_models": [
+        "DK10"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Also known as the Duke Series, encapsulates luxury within a rugged phone.",
+        "Developed in collaboration with Morpho for camera enhancements."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Flip Series",
+      "slug": "v-flip-series",
+      "alternative_names": [
+        "Flip Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Flip"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Early adopters of foldable tech"
+      ],
+      "characteristics": [
+        "Foldable flip design",
+        "AMOLED display",
+        "Budget-friendly"
+      ],
+      "popular_models": [
+        "V Flip",
+        "V Flip Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "North Korea"
+      ],
+      "historical_notes": [
+        "One of the world's cheapest foldable smartphones.",
+        "Planned for release in North Korea under a different name."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Pure Series",
+      "slug": "pure-series",
+      "alternative_names": [
+        "P Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "AMOLED display",
+        "Periscope zoom camera",
+        "Quad-curved display"
+      ],
+      "popular_models": [
+        "Pure 70",
+        "Pure 70 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First Doogee devices with a quad-curved display.",
+        "Pure 70 Pro features a periscope zoom camera."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Shield Series",
+      "slug": "shield-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Extreme adventurers",
+        "Professionals"
+      ],
+      "characteristics": [
+        "Aluminum-titanium alloy frame",
+        "Mecha design",
+        "Rear display",
+        "Ultimate durability"
+      ],
+      "popular_models": [
+        "S200 Ultra"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Represents DOOGEE's vanguard of rugged innovation.",
+        "The S200 Ultra is made with a strong aluminum-titanium alloy frame."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "T Series",
+      "slug": "t-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Affordable"
+      ],
+      "popular_models": [
+        "T10",
+        "T30 Max",
+        "T30SE",
+        "T36",
+        "T40"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's tablet series, offering large-screen experiences."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable tablets",
+        "Basic functionality"
+      ],
+      "popular_models": [
+        "U7",
+        "U10",
+        "U10 Pro",
+        "U11",
+        "U11 Pro",
+        "U13"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's entry-level tablet series."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "R Series",
+      "slug": "r-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "R08",
+        "R10",
+        "R20"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's tablet series."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "V Pad Series",
+      "slug": "v-pad-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Large high-resolution display",
+        "Flagship performance"
+      ],
+      "popular_models": [
+        "V Pad",
+        "V Pad VIP"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's high-end 5G flagship business tablets."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "E Series",
+      "slug": "e-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Entertainment lovers",
+        "Families"
+      ],
+      "characteristics": [
+        "Entertainment-focused",
+        "Immersive audio",
+        "Vibrant display"
+      ],
+      "popular_models": [
+        "Tab E3"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's upper mid-range entertainment-focused tablets."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mobile professionals",
+        "Students"
+      ],
+      "characteristics": [
+        "Lightweight",
+        "Portable",
+        "Productivity-focused"
+      ],
+      "popular_models": [],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Doogee's mid-range, light, and portable tablets for mobile office use."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "S Cyber Series",
+      "slug": "s-cyber-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Adventure seekers"
+      ],
+      "characteristics": [
+        "Rugged design",
+        "Large battery",
+        "Shockproof"
+      ],
+      "popular_models": [
+        "S Cyber"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A rugged smartphone series from Doogee."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Flip X Series",
+      "slug": "flip-x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": "Unknown",
+      "latest_release_year": "Unknown",
+      "status": "Unknown",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flip"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Foldable flip design"
+      ],
+      "popular_models": [
+        "Flip X"
+      ],
+      "primary_markets": [
+        "Unknown"
+      ],
+      "historical_notes": [
+        "A potential flip series from Doogee."
+      ],
+      "confidence": "Low"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2016,
+      "series": "X Series"
+    },
+    {
+      "year": 2017,
+      "series": "S Series"
+    },
+    {
+      "year": 2017,
+      "series": "Mix Series"
+    },
+    {
+      "year": 2017,
+      "series": "BL Series"
+    },
+    {
+      "year": 2019,
+      "series": "N Series"
+    },
+    {
+      "year": 2020,
+      "series": "V Series"
+    },
+    {
+      "year": 2021,
+      "series": "U Series"
+    },
+    {
+      "year": 2024,
+      "series": "Blade Series"
+    },
+    {
+      "year": 2024,
+      "series": "DK Series"
+    },
+    {
+      "year": 2024,
+      "series": "T Series"
+    },
+    {
+      "year": 2024,
+      "series": "R Series"
+    },
+    {
+      "year": 2024,
+      "series": "V Flip Series"
+    },
+    {
+      "year": 2025,
+      "series": "Fire Series"
+    },
+    {
+      "year": 2025,
+      "series": "Moment Series"
+    },
+    {
+      "year": 2025,
+      "series": "Pure Series"
+    },
+    {
+      "year": 2025,
+      "series": "Shield Series"
+    },
+    {
+      "year": 2025,
+      "series": "V Pad Series"
+    },
+    {
+      "year": 2025,
+      "series": "E Series"
+    },
+    {
+      "year": 2025,
+      "series": "G Series"
+    },
+    {
+      "year": 2025,
+      "series": "S Cyber Series"
+    },
+    {
+      "year": "Unknown",
+      "series": "Flip X Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "V Series",
+      "Shield Series"
+    ],
+    "premium": [
+      "DK Series",
+      "V Pad Series"
+    ],
+    "mid_range": [
+      "S Series",
+      "Moment Series",
+      "Pure Series",
+      "G Series"
+    ],
+    "budget": [
+      "X Series",
+      "Mix Series",
+      "N Series",
+      "T Series",
+      "R Series"
+    ],
+    "entry_level": [
+      "X Series",
+      "N Series",
+      "U Series"
+    ],
+    "foldable": [],
+    "flip": [
+      "V Flip Series",
+      "Flip X Series"
+    ],
+    "gaming": [],
+    "camera_focused": [
+      "DK Series",
+      "Pure Series"
+    ],
+    "business": [
+      "V Pad Series"
+    ],
+    "rugged": [
+      "S Series",
+      "V Series",
+      "Fire Series",
+      "Blade Series",
+      "Moment Series",
+      "DK Series",
+      "Shield Series",
+      "S Cyber Series"
+    ],
+    "lifestyle": [
+      "Moment Series"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "X Series",
+      "Mix Series",
+      "BL Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series"
+    ],
+    "description": "Doogee uses a letter-based naming strategy for its product families, with each letter denoting a specific market segment or product type. For example, 'S' and 'V' series are rugged, 'N' series is budget-friendly, and 'X' series was entry-level. Sub-models within a series are distinguished by numbers, with suffixes like 'Pro', 'Ultra', 'Max', and 'Plus' indicating higher-tier variants."
+  },
+  "summary": {
+    "total_series": 21,
+    "active_series": 18,
+    "discontinued_series": 3,
+    "oldest_series": "X Series",
+    "newest_series": "S Cyber Series",
+    "longest_running_series": "S Series",
+    "most_popular_series": "S Series",
+    "best_selling_series": "S Series",
+    "most_premium_series": "V Series",
+    "best_budget_series": "N Series",
+    "most_influential_series": "S Series",
+    "fastest_growing_series": "Fire Series",
+    "future_expected_direction": "Doogee is likely to continue expanding its rugged smartphone portfolio with advanced features like AI thermal imaging, built-in projectors, and foldable designs, while also exploring new form factors and technologies to cater to niche markets."
+  },
+  "missing_series": [
+    "Potential sub-series like 'S100', 'S200', 'S300' which are part of the larger S Series.",
+    "Specific tablet sub-series like 'Tab E3' which might belong to the E Series."
+  ]
+}

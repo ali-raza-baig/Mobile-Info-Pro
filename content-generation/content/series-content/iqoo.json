@@ -1,0 +1,358 @@
+{
+  "brand": "iQOO",
+  "total_series": 5,
+  "series": [
+    {
+      "name": "iQOO Number Series",
+      "slug": "iqoo-number-series",
+      "alternative_names": [
+        "iQOO Digital Series",
+        "iQOO Flagship Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 550,
+        "highest_usd": 1200,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Gaming",
+        "Premium"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "High-performance flagship processors",
+        "High refresh rate AMOLED displays",
+        "Fast charging (up to 200W)",
+        "Premium cameras with periscope zoom",
+        "Gaming-centric features (dedicated display chips)",
+        "Ultrasonic fingerprint sensors (on Pro models)"
+      ],
+      "popular_models": [
+        "iQOO 3",
+        "iQOO 5 Pro",
+        "iQOO 7",
+        "iQOO 8 Pro",
+        "iQOO 9 Pro",
+        "iQOO 10 Pro",
+        "iQOO 11",
+        "iQOO 12",
+        "iQOO 13",
+        "iQOO 15",
+        "iQOO 15 Ultra"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Launched in March 2019 as iQOO's first smartphone series.",
+        "The series skipped the number 14, moving from iQOO 12 directly to iQOO 15.",
+        "iQOO 10 Pro was the first smartphone to feature 200W ultra-fast flash charging.",
+        "Introduced the first self-developed gaming chip Q1 with the iQOO 12 series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO Neo Series",
+      "slug": "iqoo-neo-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 320,
+        "highest_usd": 600,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Budget-conscious power users",
+        "Students"
+      ],
+      "characteristics": [
+        "Previous-generation flagship processors",
+        "High refresh rate displays",
+        "Large batteries with fast charging",
+        "Gaming optimization (dedicated display chips on newer models)"
+      ],
+      "popular_models": [
+        "iQOO Neo",
+        "iQOO Neo 855",
+        "iQOO Neo3",
+        "iQOO Neo5",
+        "iQOO Neo6",
+        "iQOO Neo7",
+        "iQOO Neo8",
+        "iQOO Neo9",
+        "iQOO Neo10",
+        "iQOO Neo11"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Positioned as a performance-focused mid-range to upper mid-range series.",
+        "Introduced as a more affordable alternative to the flagship number series.",
+        "The series has included variants like 'SE', '竞速版' (Racing Edition), and 'Pro' models.",
+        "iQOO Neo9 series was among the first to feature the company's self-developed AI large model.",
+        "The brand decided to skip the Neo series launch in India in 2026 to refine its flagship strategy."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO Z Series",
+      "slug": "iqoo-z-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries with exceptional longevity",
+        "Large displays (often LCD in earlier models, AMOLED in newer)",
+        "Competent processors for daily tasks and light gaming",
+        "Good value for money",
+        "Focus on balanced performance and battery life"
+      ],
+      "popular_models": [
+        "iQOO Z1",
+        "iQOO Z1x",
+        "iQOO Z3",
+        "iQOO Z5",
+        "iQOO Z6",
+        "iQOO Z7",
+        "iQOO Z8",
+        "iQOO Z9",
+        "iQOO Z10",
+        "iQOO Z11"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Introduced in 2020 as a value-oriented series focusing on long battery life and good performance.",
+        "Has become one of iQOO's most popular and extensive lineups, with multiple variants per generation (e.g., Z9x, Z9s, Z9 Turbo).",
+        "The Z series is known for bringing features like high refresh rate displays and large batteries to more affordable price points.",
+        "iQOO Z11S was launched as the brand's first phone with a 10,000mAh class battery."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO U Series",
+      "slug": "iqoo-u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 140,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Large 5000mAh batteries",
+        "Competent processors for basic tasks",
+        "Entry-level to budget pricing",
+        "Focus on essential smartphone features at a low cost"
+      ],
+      "popular_models": [
+        "iQOO U1",
+        "iQOO U1x",
+        "iQOO U3",
+        "iQOO U3x",
+        "iQOO U5",
+        "iQOO U5x",
+        "iQOO U5e"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Introduced as iQOO's entry-level and budget-oriented series.",
+        "The series was known for offering large batteries and decent performance at very affordable prices.",
+        "Appears to have been discontinued after 2022, with the Z series likely covering the budget segment in subsequent years."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iQOO Pro Series",
+      "slug": "iqoo-pro-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 450,
+        "highest_usd": 580,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Early 5G adopters"
+      ],
+      "characteristics": [
+        "Top-tier flagship processors (Snapdragon 855+)",
+        "Large batteries (4500mAh) with fast charging (44W)",
+        "5G connectivity (on 5G variant)",
+        "Gaming-focused features"
+      ],
+      "popular_models": [
+        "iQOO Pro",
+        "iQOO Pro 5G"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Launched in August 2019 as an enhanced version of the original iQOO.",
+        "iQOO Pro 5G was the brand's first 5G smartphone and was one of the most affordable 5G phones at launch.",
+        "The series was discontinued after a single generation, with its features being integrated into the main iQOO Number Series."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2019,
+      "series": "iQOO Number Series"
+    },
+    {
+      "year": 2019,
+      "series": "iQOO Neo Series"
+    },
+    {
+      "year": 2019,
+      "series": "iQOO Pro Series"
+    },
+    {
+      "year": 2020,
+      "series": "iQOO Z Series"
+    },
+    {
+      "year": 2020,
+      "series": "iQOO U Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "iQOO Number Series",
+      "iQOO Pro Series"
+    ],
+    "premium": [
+      "iQOO Number Series"
+    ],
+    "mid_range": [
+      "iQOO Z Series"
+    ],
+    "budget": [
+      "iQOO Z Series",
+      "iQOO U Series"
+    ],
+    "entry_level": [
+      "iQOO U Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "iQOO Number Series",
+      "iQOO Neo Series",
+      "iQOO Pro Series"
+    ],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "iQOO Pro Series",
+      "iQOO U Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Pro branding",
+      "Neo branding",
+      "Z branding",
+      "U branding",
+      "Turbo branding",
+      "Lite branding",
+      "SE branding",
+      "R branding",
+      "x branding",
+      "s branding"
+    ],
+    "description": "iQOO's naming strategy is hierarchical and descriptive. The core 'Number Series' (iQOO 3, 5, 7, etc.) represents its flagship line. 'Neo' denotes a performance-focused upper mid-range series. 'Z' is for the value-oriented mid-range and budget segment, known for long battery life. 'U' was previously used for entry-level/budget devices. Suffixes like 'Pro', 'Turbo', 'Lite', 'SE', 'R', 'x', and 's' further differentiate models within a series by specifications and features, indicating premium or value variants."
+  },
+  "summary": {
+    "total_series": 5,
+    "active_series": 3,
+    "discontinued_series": 2,
+    "oldest_series": "iQOO Number Series",
+    "newest_series": "iQOO Number Series",
+    "longest_running_series": "iQOO Number Series",
+    "most_popular_series": "iQOO Z Series",
+    "best_selling_series": "iQOO Z Series",
+    "most_premium_series": "iQOO Number Series",
+    "best_budget_series": "iQOO Z Series",
+    "most_influential_series": "iQOO Number Series",
+    "fastest_growing_series": "iQOO Z Series",
+    "future_expected_direction": "iQOO is expected to continue refining its flagship Number Series with cutting-edge performance and charging technology, expand the Neo Series with more powerful gaming features, and further develop the Z Series as a battery-life champion in the budget and mid-range segments."
+  },
+  "missing_series": []
+}

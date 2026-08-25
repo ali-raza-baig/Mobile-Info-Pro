@@ -1,0 +1,1152 @@
+{
+  "brand": "HTC",
+  "total_series": 21,
+  "series": [
+    {
+      "name": "Dream",
+      "slug": "dream",
+      "alternative_names": [
+        "T-Mobile G1",
+        "ERa100"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2008,
+      "latest_release_year": 2008,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 179,
+        "highest_usd": 179,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Early adopters",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "First Android OS",
+        "Physical QWERTY keyboard",
+        "Trackball navigation"
+      ],
+      "popular_models": [
+        "HTC Dream",
+        "T-Mobile G1"
+      ],
+      "primary_markets": [
+        "North America",
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "First commercially available Android smartphone",
+        "Developed in partnership with Google"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Magic",
+      "slug": "magic",
+      "alternative_names": [
+        "T-Mobile myTouch 3G",
+        "HTC Sapphire"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2009,
+      "latest_release_year": 2009,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Optical trackball",
+        "Improved UI over Dream",
+        "3.2MP camera"
+      ],
+      "popular_models": [
+        "HTC Magic",
+        "T-Mobile myTouch 3G"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "First HTC phone to feature the HTC Sense UI (via update)",
+        "Introduced optical trackball navigation"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Hero",
+      "slug": "hero",
+      "alternative_names": [
+        "T-Mobile G2 Touch",
+        "Droid Eris"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2009,
+      "latest_release_year": 2009,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Distinctive chin design",
+        "HTC Sense UI debut",
+        "5MP camera"
+      ],
+      "popular_models": [
+        "HTC Hero",
+        "Droid Eris",
+        "T-Mobile G2 Touch"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Official debut of HTC Sense UI",
+        "Won 'Best Mobile Handset or Device' at MWC 2010"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Tattoo",
+      "slug": "tattoo",
+      "alternative_names": [
+        "HTC Click"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2009,
+      "latest_release_year": 2009,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Youth"
+      ],
+      "characteristics": [
+        "Customizable home screen",
+        "Compact design",
+        "Android 1.6"
+      ],
+      "popular_models": [
+        "HTC Tattoo",
+        "HTC Click"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Asia",
+        "Global"
+      ],
+      "historical_notes": [
+        "HTC's first true budget Android phone",
+        "Featured a highly customizable 'dot matrix' interface"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Legend",
+      "slug": "legend",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Unibody aluminum design",
+        "Optical trackpad",
+        "HTC Sense 2.1"
+      ],
+      "popular_models": [
+        "HTC Legend"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Asia"
+      ],
+      "historical_notes": [
+        "First HTC phone with a unibody aluminum chassis",
+        "Replaced the Hero as the premium mainstream offering"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Desire",
+      "slug": "desire",
+      "alternative_names": [
+        "HTC Bravo"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 600,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Power users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "AMOLED displays (early models)",
+        "Long battery life",
+        "Consistent mid-range specs"
+      ],
+      "popular_models": [
+        "HTC Desire",
+        "HTC Desire HD",
+        "HTC Desire 820",
+        "HTC Desire 22 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "historical_notes": [
+        "One of HTC's longest-running and best-selling series",
+        "Transitioned from premium to mid-range/budget over its lifespan",
+        "Revived in 2022 with the Desire 22 Pro targeting Web3/metaverse"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Wildfire",
+      "slug": "wildfire",
+      "alternative_names": [
+        "HTC Bee"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Large batteries (recent models)",
+        "Basic but reliable performance"
+      ],
+      "popular_models": [
+        "HTC Wildfire",
+        "HTC Wildfire S",
+        "HTC Wildfire E",
+        "HTC Wildfire E3 lite",
+        "HTC Wildfire E6 Plus"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Asia",
+        "Africa",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Originally HTC's entry-level line",
+        "Discontinued for several years before being revived in 2019 as the 'Wildfire E' series for emerging markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Incredible",
+      "slug": "incredible",
+      "alternative_names": [
+        "Droid Incredible"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 500,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "US consumers"
+      ],
+      "characteristics": [
+        "High-resolution displays",
+        "Premium cameras",
+        "Distinctive red accent ring (original)"
+      ],
+      "popular_models": [
+        "HTC Droid Incredible",
+        "HTC Incredible S",
+        "HTC Droid Incredible 4G LTE"
+      ],
+      "primary_markets": [
+        "USA",
+        "North America"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive series primarily for Verizon Wireless",
+        "Known for strong camera performance and premium build"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Evo",
+      "slug": "evo",
+      "alternative_names": [
+        "HTC Supersonic"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 500,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Large displays",
+        "4G WiMAX/LTE connectivity",
+        "Dual cameras (Evo 3D)"
+      ],
+      "popular_models": [
+        "HTC Evo 4G",
+        "HTC Evo 3D",
+        "HTC Evo 4G LTE"
+      ],
+      "primary_markets": [
+        "USA",
+        "North America"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive series primarily for Sprint",
+        "Pioneered 4G WiMAX and dual-camera 3D recording in smartphones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sensation",
+      "slug": "sensation",
+      "alternative_names": [
+        "HTC Pyramid"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 500,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Multimedia enthusiasts"
+      ],
+      "characteristics": [
+        "Dual-core processors",
+        "Beats Audio integration",
+        "Distinctive wedge-shaped design"
+      ],
+      "popular_models": [
+        "HTC Sensation",
+        "HTC Sensation XE",
+        "HTC Sensation XL"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "historical_notes": [
+        "Introduced Beats Audio branding to HTC phones",
+        "Served as the bridge between the Desire/Nexus era and the One series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Rhyme",
+      "slug": "rhyme",
+      "alternative_names": [
+        "HTC Bliss"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Female consumers",
+        "Fashion-conscious users",
+        "Casual users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "LED notification cube accessory",
+        "Pastel color options"
+      ],
+      "popular_models": [
+        "HTC Rhyme",
+        "HTC Bliss"
+      ],
+      "primary_markets": [
+        "USA",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Explicitly marketed towards women",
+        "Featured a unique detachable LED accessory for notifications"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "7 Series",
+      "slug": "7-series",
+      "alternative_names": [
+        "Windows Phone 7 Series"
+      ],
+      "sub_brand": "Windows Phone",
+      "first_release_year": 2010,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Mainstream consumers",
+        "Windows ecosystem users"
+      ],
+      "characteristics": [
+        "Metro UI",
+        "Live Tiles",
+        "Xbox Live integration"
+      ],
+      "popular_models": [
+        "HTC 7 Mozart",
+        "HTC 7 Trophy",
+        "HTC 7 Surround",
+        "HTC 7 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "HTC's first major lineup of Windows Phone 7 devices",
+        "Included the only Windows Phone 7 device with a physical keyboard (7 Pro)"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "8 Series",
+      "slug": "8-series",
+      "alternative_names": [
+        "Windows Phone 8 Series"
+      ],
+      "sub_brand": "Windows Phone",
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 500,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Mainstream consumers",
+        "Windows ecosystem users"
+      ],
+      "characteristics": [
+        "Windows Phone 8 OS",
+        "Multi-core support",
+        "Beats Audio"
+      ],
+      "popular_models": [
+        "HTC Windows Phone 8X",
+        "HTC Windows Phone 8S",
+        "HTC 8XT"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Flagship 8X was co-developed closely with Microsoft",
+        "Marked HTC's high-water mark in the Windows Phone ecosystem"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "One",
+      "slug": "one",
+      "alternative_names": [
+        "HTC One M-series",
+        "HTC One A-series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 650,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Design-conscious consumers"
+      ],
+      "characteristics": [
+        "All-metal unibody design",
+        "UltraPixel cameras",
+        "BoomSound stereo speakers",
+        "High refresh rate displays (later models)"
+      ],
+      "popular_models": [
+        "HTC One (M7)",
+        "HTC One (M8)",
+        "HTC One (M9)",
+        "HTC One A9",
+        "HTC 10"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "historical_notes": [
+        "Revitalized HTC's brand image with premium metal design",
+        "Introduced UltraPixel camera technology and front-facing stereo speakers",
+        "The '10' model dropped the 'One' name but is considered part of this lineage"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Butterfly",
+      "slug": "butterfly",
+      "alternative_names": [
+        "HTC Droid DNA",
+        "HTC J Butterfly"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 650,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Media consumers",
+        "Power users"
+      ],
+      "characteristics": [
+        "1080p displays (early adopter)",
+        "Large phablet form factor",
+        "Premium cameras"
+      ],
+      "popular_models": [
+        "HTC Butterfly",
+        "HTC Butterfly S",
+        "HTC Butterfly 2",
+        "HTC Butterfly 3"
+      ],
+      "primary_markets": [
+        "Japan",
+        "Asia",
+        "North America"
+      ],
+      "historical_notes": [
+        "Pioneered 1080p displays in smartphones",
+        "Highly successful in the Japanese market",
+        "Served as HTC's phablet offering before the One Max"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "J",
+      "slug": "j",
+      "alternative_names": [
+        "HTC J Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 650,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Japanese consumers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Water and dust resistance",
+        "Localized software features",
+        "Premium build"
+      ],
+      "popular_models": [
+        "HTC J",
+        "HTC J One",
+        "HTC J Butterfly"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Exclusive series developed specifically for the Japanese market (primarily KDDI/au)",
+        "Featured early adoption of water resistance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U",
+      "slug": "u",
+      "alternative_names": [
+        "HTC U Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 349,
+        "highest_usd": 799,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Edge Sense (squeeze gestures)",
+        "Liquid Surface design",
+        "AI photo enhancement",
+        "High-resolution cameras"
+      ],
+      "popular_models": [
+        "HTC U11",
+        "HTC U12+",
+        "HTC U20 5G",
+        "HTC U23 Pro",
+        "HTC U24 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "historical_notes": [
+        "Represented a 'new direction' in design language with glass and liquid surface aesthetics",
+        "Introduced Edge Sense technology",
+        "Continues to be HTC's active flagship line as of 2024"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Exodus",
+      "slug": "exodus",
+      "alternative_names": [
+        "HTC Exodus Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 1000,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Niche"
+      ],
+      "target_audience": [
+        "Crypto enthusiasts",
+        "Web3 early adopters",
+        "Privacy-focused users"
+      ],
+      "characteristics": [
+        "Hardware crypto wallet (Zion)",
+        "Blockchain dApp support",
+        "Cryptocurrency purchase options"
+      ],
+      "popular_models": [
+        "HTC Exodus 1",
+        "HTC Exodus 1s",
+        "HTC Exodus 1 Binance Edition"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "historical_notes": [
+        "World's first blockchain-native smartphone",
+        "Allowed users to buy the device directly with Bitcoin or Ethereum",
+        "Pivoted to Web3 metaverse focus with later Desire models after Exodus line ended"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "PocketPC Series"
+      ],
+      "sub_brand": "Windows Mobile",
+      "first_release_year": 2004,
+      "latest_release_year": 2009,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Business",
+        "Premium"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Enterprise users"
+      ],
+      "characteristics": [
+        "Stylus support",
+        "Physical QWERTY or touch screen",
+        "Windows Mobile OS"
+      ],
+      "popular_models": [
+        "HTC P3300",
+        "HTC P4000",
+        "HTC Touch Diamond (P3700)"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "HTC's foundational smartphone line before Android",
+        "Established HTC as a major ODM and brand in the PDA/smartphone space"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "T Series",
+      "slug": "t-series",
+      "alternative_names": [
+        "Touch Series"
+      ],
+      "sub_brand": "Windows Mobile",
+      "first_release_year": 2007,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Mainstream consumers"
+      ],
+      "characteristics": [
+        "TouchFLO UI",
+        "Stylus and finger touch support",
+        "Windows Mobile"
+      ],
+      "popular_models": [
+        "HTC Touch",
+        "HTC Touch Pro",
+        "HTC Touch HD",
+        "HTC HD2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced the revolutionary TouchFLO interface",
+        "HTC HD2 became legendary for its ability to boot multiple alternative operating systems"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "Standard Series"
+      ],
+      "sub_brand": "Windows Mobile",
+      "first_release_year": 2007,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Business",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Enterprise users"
+      ],
+      "characteristics": [
+        "Physical QWERTY keyboard",
+        "Non-touch display",
+        "Windows Mobile Standard"
+      ],
+      "popular_models": [
+        "HTC S710",
+        "HTC S740",
+        "HTC Snap"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Designed for users who preferred physical keyboards over touchscreens",
+        "Served as the business-focused counterpart to the T Series"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2004,
+      "series": "P Series"
+    },
+    {
+      "year": 2007,
+      "series": "S Series"
+    },
+    {
+      "year": 2007,
+      "series": "T Series"
+    },
+    {
+      "year": 2008,
+      "series": "Dream"
+    },
+    {
+      "year": 2009,
+      "series": "Magic"
+    },
+    {
+      "year": 2009,
+      "series": "Hero"
+    },
+    {
+      "year": 2009,
+      "series": "Tattoo"
+    },
+    {
+      "year": 2010,
+      "series": "Legend"
+    },
+    {
+      "year": 2010,
+      "series": "Desire"
+    },
+    {
+      "year": 2010,
+      "series": "Wildfire"
+    },
+    {
+      "year": 2010,
+      "series": "Incredible"
+    },
+    {
+      "year": 2010,
+      "series": "Evo"
+    },
+    {
+      "year": 2010,
+      "series": "7 Series"
+    },
+    {
+      "year": 2011,
+      "series": "Sensation"
+    },
+    {
+      "year": 2011,
+      "series": "Rhyme"
+    },
+    {
+      "year": 2012,
+      "series": "8 Series"
+    },
+    {
+      "year": 2012,
+      "series": "One"
+    },
+    {
+      "year": 2012,
+      "series": "Butterfly"
+    },
+    {
+      "year": 2012,
+      "series": "J"
+    },
+    {
+      "year": 2017,
+      "series": "U"
+    },
+    {
+      "year": 2018,
+      "series": "Exodus"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "One",
+      "U",
+      "Evo",
+      "Butterfly"
+    ],
+    "premium": [
+      "Desire",
+      "Sensation",
+      "Dream",
+      "Hero",
+      "Legend",
+      "J"
+    ],
+    "mid_range": [
+      "Desire",
+      "Sensation",
+      "8 Series",
+      "7 Series",
+      "Rhyme"
+    ],
+    "budget": [
+      "Wildfire",
+      "Tattoo"
+    ],
+    "entry_level": [
+      "Wildfire"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "Butterfly",
+      "One",
+      "Incredible"
+    ],
+    "business": [
+      "P Series",
+      "S Series",
+      "T Series"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "Rhyme"
+    ],
+    "ai_focused": [
+      "U"
+    ],
+    "regional_exclusive": [
+      "J"
+    ],
+    "carrier_exclusive": [
+      "Incredible",
+      "Evo"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Dream",
+      "Magic",
+      "Hero",
+      "Tattoo",
+      "Legend",
+      "Desire",
+      "Incredible",
+      "Evo",
+      "Sensation",
+      "Rhyme",
+      "7 Series",
+      "8 Series",
+      "One",
+      "Butterfly",
+      "J",
+      "Exodus",
+      "P Series",
+      "T Series",
+      "S Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Lite branding",
+      "Max branding",
+      "S branding",
+      "E branding"
+    ],
+    "description": "HTC historically used evocative names (Dream, Magic, Hero, Desire, Sensation) before shifting to alphanumeric and single-letter series (One, U, J). Sub-variants frequently employed suffixes like 'S', 'Pro', 'Plus', 'Lite', 'Max', and 'E' to denote iterations, regional variants, or hardware refreshes."
+  },
+  "summary": {
+    "total_series": 21,
+    "active_series": 2,
+    "discontinued_series": 19,
+    "oldest_series": "P Series",
+    "newest_series": "U",
+    "longest_running_series": "Desire",
+    "most_popular_series": "One",
+    "best_selling_series": "Desire",
+    "most_premium_series": "U",
+    "best_budget_series": "Wildfire",
+    "most_influential_series": "Dream",
+    "fastest_growing_series": "Unknown",
+    "future_expected_direction": "Focus on niche mid-range and AI-enhanced devices under the U and Wildfire brands, with potential continued Web3 integrations."
+  },
+  "missing_series": []
+}

@@ -1,0 +1,620 @@
+{
+  "brand": "Redmi",
+  "total_series": 10,
+  "series": [
+    {
+      "name": "Redmi",
+      "slug": "redmi",
+      "alternative_names": [
+        "Redmi Number Series",
+        "Hongmi"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 299,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Long battery life",
+        "Affordable pricing",
+        "Basic to mid-tier cameras",
+        "Durable build"
+      ],
+      "popular_models": [
+        "Redmi 1",
+        "Redmi 4A",
+        "Redmi 9A",
+        "Redmi 13C",
+        "Redmi 14C"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Europe",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Originally launched as 'Hongmi' in China in 2013",
+        "Became an independent sub-brand of Xiaomi in 2019",
+        "One of the best-selling smartphone lines globally"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Note",
+      "slug": "redmi-note",
+      "alternative_names": [
+        "Redmi Note Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 399,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "Power users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High refresh rate",
+        "Long battery life",
+        "Competitive cameras",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "Redmi Note 4",
+        "Redmi Note 7",
+        "Redmi Note 10 Pro",
+        "Redmi Note 12",
+        "Redmi Note 13 Pro",
+        "Redmi Note 14 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Europe",
+        "Southeast Asia",
+        "Latin America",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Introduced as a larger, more powerful alternative to the base Redmi series",
+        "Redmi Note 7 series sold over 20 million units in 7 months",
+        "Frequently introduces new mid-range technologies before trickling down to other lines"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi K",
+      "slug": "redmi-k",
+      "alternative_names": [
+        "Redmi K Series",
+        "Redmi Killer Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 599,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium",
+        "Flagship",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Tech enthusiasts",
+        "Performance seekers"
+      ],
+      "characteristics": [
+        "Flagship-tier processors",
+        "High refresh rate AMOLED displays",
+        "Ultra-fast charging",
+        "Premium build quality",
+        "Gaming optimizations"
+      ],
+      "popular_models": [
+        "Redmi K20 Pro",
+        "Redmi K30 Pro",
+        "Redmi K40 Gaming",
+        "Redmi K60 Ultra",
+        "Redmi K70 Pro",
+        "Redmi K80"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Introduced as a 'flagship killer' lineup",
+        "Replaced Redmi's flagship ambitions, positioning Xiaomi mainline as ultra-premium",
+        "K-series devices are often rebranded as POCO F-series globally"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi A",
+      "slug": "redmi-a",
+      "alternative_names": [
+        "Redmi A Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 69,
+        "highest_usd": 119,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Elderly users",
+        "Developing markets"
+      ],
+      "characteristics": [
+        "Ultra-affordable",
+        "Large batteries",
+        "Durable build",
+        "Simplified software experience"
+      ],
+      "popular_models": [
+        "Redmi A1",
+        "Redmi A2",
+        "Redmi A3",
+        "Redmi A3 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Latin America",
+        "Africa",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Introduced as an ultra-basic entry-level lineup",
+        "Some models feature Android Go and lack full MIUI/HyperOS",
+        "Replaced the need for separate ultra-budget variants in many markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Go",
+      "slug": "redmi-go",
+      "alternative_names": [
+        "Redmi Go Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 85,
+        "highest_usd": 85,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Developing markets",
+        "Users upgrading from feature phones"
+      ],
+      "characteristics": [
+        "Android Go Edition",
+        "Lightweight MIUI",
+        "1GB RAM",
+        "Compact 5-inch display"
+      ],
+      "popular_models": [
+        "Redmi Go",
+        "Redmi 9A Go"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Africa",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "First Redmi device to feature Android Go Edition",
+        "Discontinued as the Redmi A series absorbed the ultra-budget segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Y",
+      "slug": "redmi-y",
+      "alternative_names": [
+        "Redmi Y Series",
+        "Redmi Youth"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 129,
+        "highest_usd": 159,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Youth",
+        "Selfie enthusiasts",
+        "Social media users"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "Trendy designs",
+        "AI beauty modes"
+      ],
+      "popular_models": [
+        "Redmi Y1",
+        "Redmi Y1 Lite",
+        "Redmi Y2",
+        "Redmi Y3"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "India-exclusive series focused on selfie and youth demographics",
+        "Effectively replaced by the Redmi Note series and later discontinued",
+        "Redmi Y2 was known as Redmi S2 in China"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi S",
+      "slug": "redmi-s",
+      "alternative_names": [
+        "Redmi S Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 139,
+        "highest_usd": 139,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Youth",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "AI selfie features",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Redmi S2"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive selfie-focused series",
+        "Only one generation released before being merged into the Redmi Y series (as Y2) and later discontinued"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Pro",
+      "slug": "redmi-pro",
+      "alternative_names": [
+        "Redmi Pro Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 210,
+        "highest_usd": 280,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "OLED display",
+        "Dual-camera setup",
+        "Premium metal unibody design",
+        "High-end MediaTek Helio X20/X25 processors"
+      ],
+      "popular_models": [
+        "Redmi Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "First Redmi phone to feature an OLED display and dual cameras",
+        "Discontinued after a single generation",
+        "The 'Pro' naming convention was later repurposed as a suffix for the Redmi and Redmi Note series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Turbo",
+      "slug": "redmi-turbo",
+      "alternative_names": [
+        "Redmi Turbo Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 249,
+        "highest_usd": 349,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Performance seekers",
+        "Students"
+      ],
+      "characteristics": [
+        "Flagship-tier mid-range processors",
+        "High refresh rate AMOLED displays",
+        "Ultra-fast charging",
+        "Gaming optimizations"
+      ],
+      "popular_models": [
+        "Redmi Turbo 3",
+        "Redmi Turbo 4"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Introduced in 2024 to fill the gap between Redmi Note and Redmi K series",
+        "Focuses on raw performance and gaming at an accessible price point",
+        "Replaced the 'Note T' or 'Note Turbo' naming convention as a standalone series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi 10X",
+      "slug": "redmi-10x",
+      "alternative_names": [
+        "Redmi 10X Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 199,
+        "highest_usd": 349,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "5G early adopters",
+        "Budget-conscious buyers"
+      ],
+      "characteristics": [
+        "First Redmi phones with MediaTek Dimensity 820",
+        "AMOLED displays on 5G models",
+        "5G connectivity",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Redmi 10X 4G",
+        "Redmi 10X 5G",
+        "Redmi 10X Pro 5G"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Short-lived series introduced in 2020",
+        "Served as a bridge for 5G adoption in the mid-range segment",
+        "Subsequently absorbed back into the main Redmi Number and Note series"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "Redmi"
+    },
+    {
+      "year": 2014,
+      "series": "Redmi Note"
+    },
+    {
+      "year": 2016,
+      "series": "Redmi Pro"
+    },
+    {
+      "year": 2017,
+      "series": "Redmi Y"
+    },
+    {
+      "year": 2018,
+      "series": "Redmi S"
+    },
+    {
+      "year": 2019,
+      "series": "Redmi Go"
+    },
+    {
+      "year": 2019,
+      "series": "Redmi K"
+    },
+    {
+      "year": 2020,
+      "series": "Redmi 10X"
+    },
+    {
+      "year": 2022,
+      "series": "Redmi A"
+    },
+    {
+      "year": 2024,
+      "series": "Redmi Turbo"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Redmi K"
+    ],
+    "premium": [
+      "Redmi K",
+      "Redmi Turbo",
+      "Redmi Pro"
+    ],
+    "mid_range": [
+      "Redmi Note",
+      "Redmi 10X",
+      "Redmi Turbo"
+    ],
+    "budget": [
+      "Redmi",
+      "Redmi Y",
+      "Redmi S"
+    ],
+    "entry_level": [
+      "Redmi A",
+      "Redmi Go"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "Redmi K",
+      "Redmi Turbo"
+    ],
+    "camera_focused": [
+      "Redmi Y",
+      "Redmi S",
+      "Redmi Pro"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Redmi Y",
+      "Redmi S",
+      "Redmi Go"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Redmi K",
+      "Redmi Turbo"
+    ],
+    "discontinued": [
+      "Redmi Pro",
+      "Redmi Y",
+      "Redmi S",
+      "Redmi Go",
+      "Redmi 10X"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Pro branding",
+      "Plus branding",
+      "Lite branding",
+      "SE branding",
+      "Max branding",
+      "Ultra branding",
+      "T branding",
+      "Turbo branding",
+      "Gaming branding"
+    ],
+    "description": "Redmi primarily uses a number-based naming convention for its core lineup (e.g., Redmi 14, Redmi Note 14), augmented by suffixes like 'Pro', 'Plus', 'Ultra', and 'SE' to denote tier variations. Performance-focused lines use distinct names like 'K' and 'Turbo'. Regional or specialized lines have used letter-based naming (e.g., 'Y' for youth, 'A' for entry-level, 'S' for selfie). The brand avoids 'Fold' or 'Flip' as it does not produce foldable smartphones, focusing instead on maximizing value and performance within traditional slab form factors."
+  },
+  "summary": {
+    "total_series": 10,
+    "active_series": 5,
+    "discontinued_series": 5,
+    "oldest_series": "Redmi",
+    "newest_series": "Redmi Turbo",
+    "longest_running_series": "Redmi",
+    "most_popular_series": "Redmi Note",
+    "best_selling_series": "Redmi Note",
+    "most_premium_series": "Redmi K",
+    "best_budget_series": "Redmi",
+    "most_influential_series": "Redmi Note",
+    "fastest_growing_series": "Redmi Turbo",
+    "future_expected_direction": "Continued expansion of the Turbo series for performance, deeper integration of AI features across mid-range devices, and consolidation of ultra-budget lines under the Redmi A series while maintaining aggressive 5G adoption in the Note series."
+  },
+  "missing_series": []
+}

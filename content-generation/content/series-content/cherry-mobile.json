@@ -1,0 +1,2286 @@
+{
+  "brand": "Cherry Mobile",
+  "total_series": 48,
+  "series": [
+    {
+      "name": "Flare",
+      "slug": "flare",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Wide variety of models",
+        "Android OS"
+      ],
+      "popular_models": [
+        "Flare 2.0",
+        "Flare 4",
+        "Flare 5",
+        "Flare S6",
+        "Flare S7",
+        "Flare S8"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of Cherry Mobile's most popular and longest-running series.",
+        "Succeeded by the Aqua series in late 2020.",
+        "Included various sub-series like Flare J, Flare S, Flare Y, and Flare X."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Flare S",
+      "slug": "flare-s",
+      "alternative_names": [],
+      "sub_brand": "Flare",
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Selfie-focused cameras",
+        "TrueView display",
+        "Quad cameras on some models"
+      ],
+      "popular_models": [
+        "Flare S6",
+        "Flare S6 Power",
+        "Flare S7",
+        "Flare S8"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A sub-series of the Flare lineup focused on selfie cameras and design.",
+        "The Flare S7 and S8 were the last major releases before the transition to Aqua."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Flare J",
+      "slug": "flare-j",
+      "alternative_names": [],
+      "sub_brand": "Flare",
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Affordable pricing",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Flare J1",
+        "Flare J1 2017",
+        "Flare J2",
+        "Flare J2 Mini",
+        "Flare J3"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Budget-friendly sub-series of the Flare lineup.",
+        "Focused on providing essential smartphone features at a low cost."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Flare Y",
+      "slug": "flare-y",
+      "alternative_names": [],
+      "sub_brand": "Flare",
+      "first_release_year": 2018,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Entry-level specifications",
+        "Android Go edition on some models"
+      ],
+      "popular_models": [
+        "Flare Y3s",
+        "Flare Y5",
+        "Flare Y7 Pro",
+        "Flare Y20"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Entry-level sub-series of the Flare lineup.",
+        "Often featured Android Go edition for optimized performance on low-end hardware."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Flare X",
+      "slug": "flare-x",
+      "alternative_names": [],
+      "sub_brand": "Flare",
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Gaming-focused",
+        "Large display",
+        "High RAM",
+        "Powerful processor"
+      ],
+      "popular_models": [
+        "Flare X3"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A short-lived gaming-focused sub-series of the Flare lineup.",
+        "Positioned as an 'Ultimate Gaming Experience' device."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Aqua",
+      "slug": "aqua",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Gamers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "5G connectivity on some models",
+        "AMOLED displays",
+        "High refresh rate",
+        "Gaming-focused models",
+        "AI-powered cameras"
+      ],
+      "popular_models": [
+        "Aqua S9",
+        "Aqua S9 Max",
+        "Aqua S10",
+        "Aqua S10 Pro",
+        "Aqua SV",
+        "Aqua GR",
+        "Aqua S11 Pro"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Succeeded the Flare series in late 2020.",
+        "Represents Cherry Mobile's evolution into the broader CHERRY brand.",
+        "Includes gaming-focused models like the Aqua GR."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Omega",
+      "slug": "omega",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Quad-core processors",
+        "HD displays on some models"
+      ],
+      "popular_models": [
+        "Omega HD",
+        "Omega HD 2.0",
+        "Omega HD 3",
+        "Omega XL",
+        "Omega 4G",
+        "Omega Spectrum"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A popular mid-range series in the early 2010s.",
+        "Included various models with different screen sizes and processors."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Desire",
+      "slug": "desire",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Sleek design",
+        "Fingerprint sensors",
+        "Dual cameras on some models",
+        "Full HD displays"
+      ],
+      "popular_models": [
+        "Desire R6",
+        "Desire R7",
+        "Desire R7 Plus",
+        "Desire R8"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series positioned as elegant and do-it-all smartphones.",
+        "Focused on providing a premium look and feel at an affordable price."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Cosmos",
+      "slug": "cosmos",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Super AMOLED displays",
+        "High-resolution cameras",
+        "Quad-core and octa-core processors",
+        "Premium design"
+      ],
+      "popular_models": [
+        "Cosmos X",
+        "Cosmos X2",
+        "Cosmos S",
+        "Cosmos Z",
+        "Cosmos Three",
+        "Cosmos One"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series that offered premium features like Super AMOLED displays at competitive prices.",
+        "The Cosmos One was a limited edition high-end model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Cubix",
+      "slug": "cubix",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "Online-exclusive",
+        "Affordable pricing",
+        "Decent specifications for the price"
+      ],
+      "popular_models": [
+        "Cubix Cube",
+        "Cubix Cube 3",
+        "Cubix Cube Play",
+        "Cubix Cube Play HD",
+        "Cubix Cube Max",
+        "Cubix Cube OnRev Astro"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An online-exclusive series sold in partnership with Lazada.",
+        "Focused on providing value-for-money smartphones to online consumers."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Alpha",
+      "slug": "alpha",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Windows Phone enthusiasts",
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Windows Phone OS",
+        "Windows 10 Mobile on some models",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Alpha Style",
+        "Alpha Luxe",
+        "Alpha Neon",
+        "Alpha View",
+        "Alpha Prime 4",
+        "Alpha Prime 5"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Cherry Mobile's series of Windows Phone smartphones.",
+        "The Alpha Prime 4 and 5 were among the first Windows 10 Mobile phones."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Rover",
+      "slug": "rover",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Adventurers",
+        "Budget-conscious users needing a durable phone"
+      ],
+      "characteristics": [
+        "IP67 or IP68 water and dust resistance",
+        "Durable design",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Rover",
+        "Rover 2"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Cherry Mobile's rugged smartphone series.",
+        "The Rover 2 was a sequel with IP68 water resistance."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Defender",
+      "slug": "defender",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Adventurers",
+        "Power users needing a durable phone"
+      ],
+      "characteristics": [
+        "IP68 water and shock resistance",
+        "Powerful specs (Helio P10, 3GB RAM)",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Defender"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A rugged smartphone with high-end specs for its time.",
+        "Designed for active users who need a durable and powerful device."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Titan",
+      "slug": "titan",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large display",
+        "Dual-core processor",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Titan",
+        "Titan TV"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of Cherry Mobile's early dual-core Android smartphones.",
+        "Positioned as a flagship device at the time of its release."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Thunder",
+      "slug": "thunder",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Dual-core and quad-core processors",
+        "IPS displays"
+      ],
+      "popular_models": [
+        "Thunder",
+        "Thunder 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A budget-friendly series that offered good value for money.",
+        "The Thunder 2.0 was marketed as one of the cheapest quad-core phones in the Philippines."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Blaze",
+      "slug": "blaze",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Multimedia enthusiasts"
+      ],
+      "characteristics": [
+        "Large HD displays",
+        "Quad-core processors",
+        "Good cameras"
+      ],
+      "popular_models": [
+        "Blaze",
+        "Blaze 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series that offered large-screen smartphones with good specs at competitive prices.",
+        "The Blaze 2.0 was a 5.7-inch phablet."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sonic",
+      "slug": "sonic",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Affordable pricing",
+        "Quad-core processor on the 2.0 model"
+      ],
+      "popular_models": [
+        "Sonic",
+        "Sonic 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A budget-friendly series that offered good value.",
+        "The Sonic 2.0 featured a quad-core processor and Android 4.2 Jelly Bean."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Burst",
+      "slug": "burst",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Dual-core and quad-core processors",
+        "IPS displays"
+      ],
+      "popular_models": [
+        "Burst",
+        "Burst 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An alternative to the Flare series with similar specifications.",
+        "Offered good value for budget-conscious consumers."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Flame",
+      "slug": "flame",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Quad-core Snapdragon processor",
+        "qHD display",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Flame",
+        "Flame 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "The Flame 2.0 was the first locally branded quad-core smartphone in the Philippines.",
+        "Featured a Snapdragon processor."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ME",
+      "slug": "me",
+      "alternative_names": [
+        "Me"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Young consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Customizable back covers",
+        "Personalization",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "ME",
+        "Me Vibe",
+        "ME Pop"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series focused on personalization with customizable back covers.",
+        "Allowed users to 'Personalize Me' using an online tool."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Apollo",
+      "slug": "apollo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "HD IPS displays",
+        "Quad-core processors",
+        "Good cameras (BSI sensors)"
+      ],
+      "popular_models": [
+        "Apollo",
+        "Apollo X"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A mid-range series that offered good camera features.",
+        "The Apollo was a rebranded Cubot GT99."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Gem",
+      "slug": "gem",
+      "alternative_names": [
+        "Jade",
+        "Amber",
+        "Onyx",
+        "Garnet",
+        "Topaz",
+        "Amethyst",
+        "Quartz",
+        "Ruby",
+        "Emerald"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Very affordable pricing",
+        "Entry-level specs",
+        "Named after gemstones"
+      ],
+      "popular_models": [
+        "Gem",
+        "Jade",
+        "Amber",
+        "Onyx",
+        "Garnet",
+        "Topaz",
+        "Amethyst",
+        "Quartz",
+        "Ruby",
+        "Emerald"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series of entry-level smartphones named after gemstones.",
+        "All models were priced under Php3,000."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Touch",
+      "slug": "touch",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "On-cell display technology",
+        "Affordable pricing",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Touch",
+        "Touch HD",
+        "Touch XL 2"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A budget series that featured On-Cell display technology.",
+        "The Touch XL 2 came with a free VR headset."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Magnum",
+      "slug": "magnum",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High-end specs",
+        "Dual-core and octa-core processors",
+        "Large displays",
+        "Premium build"
+      ],
+      "popular_models": [
+        "Magnum HD",
+        "Magnum 2X",
+        "Magnum S"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of Cherry Mobile's early flagship series.",
+        "The Magnum 2X featured a dual-core Nvidia Tegra 2 processor."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Taiji",
+      "slug": "taiji",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Experimental"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "E-reader enthusiasts",
+        "Innovation seekers"
+      ],
+      "characteristics": [
+        "Unique dual-display design",
+        "E-Ink secondary display on the back",
+        "Premium specs"
+      ],
+      "popular_models": [
+        "Taiji"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An experimental smartphone with a 4.7-inch E-Ink display on the back.",
+        "Allowed users to read e-books and view notifications on the E-Ink screen."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "One",
+      "slug": "one",
+      "alternative_names": [
+        "Android One"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Google Android One enthusiasts",
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Android One program",
+        "Pure Android experience",
+        "Timely software updates"
+      ],
+      "popular_models": [
+        "One"
+      ],
+      "primary_markets": [
+        "Southeast Asia",
+        "Myanmar"
+      ],
+      "historical_notes": [
+        "Part of Google's Android One initiative.",
+        "Offered a stock Android experience with guaranteed updates."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Superion",
+      "slug": "superion",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Tablet users",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Tablet with phone capabilities",
+        "Large displays",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Superion",
+        "Superion Discover",
+        "Superion Voyager",
+        "Superion Navigator",
+        "Superion Scope LTE",
+        "Superion S1 DTV"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Cherry Mobile's series of tablet-phones.",
+        "The original Superion was the first tablet phone in the Philippines."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Rugged R",
+      "slug": "rugged-r",
+      "alternative_names": [
+        "R2"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Budget-conscious users needing a durable phone"
+      ],
+      "characteristics": [
+        "Rugged body",
+        "Dustproof and waterproof",
+        "Flashlight",
+        "FM radio"
+      ],
+      "popular_models": [
+        "R2"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An affordable rugged smartphone.",
+        "Featured a dustproof and waterproof body."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Adventurers",
+        "Workers needing push-to-talk"
+      ],
+      "characteristics": [
+        "Rugged built",
+        "Waterproof",
+        "Push-to-talk function (walkie-talkie)"
+      ],
+      "popular_models": [
+        "U3"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A rugged series with a built-in walkie-talkie function.",
+        "Designed for camping and outdoor activities."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Fusion",
+      "slug": "fusion",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Tablet users",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Tablets with phone capabilities",
+        "Large displays",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Fusion Aura",
+        "Fusion Aura 3",
+        "Fusion Ice",
+        "Fusion Fire",
+        "Fusion Bolt",
+        "Fusion Storm"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series of Android tablets with phone functionality.",
+        "Offered large-screen devices at budget-friendly prices."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Novam",
+      "slug": "novam",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "Novam"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of Cherry Mobile's early Android smartphones, launched alongside the Magnum HD and Superion."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Equinox",
+      "slug": "equinox",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Good display",
+        "Expandable storage"
+      ],
+      "popular_models": [
+        "Equinox Night"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A smartphone that competed with the Magnum S."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Life",
+      "slug": "life",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Life 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An entry-level series."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Amber",
+      "slug": "amber",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Very affordable",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Amber",
+        "Amber 2"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A very affordable entry-level series."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Pearl",
+      "slug": "pearl",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Affordable pricing",
+        "Dual-core processor"
+      ],
+      "popular_models": [
+        "Pearl"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An entry-level smartphone with a 4-inch display."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Marble",
+      "slug": "marble",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Dual-core processor"
+      ],
+      "popular_models": [
+        "Marble"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "An entry-level smartphone with similar specs to the Pearl."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Razor",
+      "slug": "razor",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "Razor"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a list of Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Sky Fire",
+      "slug": "sky-fire",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "Sky Fire 2.0"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a 2013 price list."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Flare Tab",
+      "slug": "flare-tab",
+      "alternative_names": [],
+      "sub_brand": "Flare",
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Tablet users",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Android tablet",
+        "DTV support",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Flare Tab",
+        "Flare Tab Pro"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A tablet series under the Flare brand.",
+        "Featured DTV (Digital Television) support."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "CubeBook",
+      "slug": "cubebook",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Laptop-tablet hybrid",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "CubeBook"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A budget laptop-tablet hybrid device."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Omega Icon",
+      "slug": "omega-icon",
+      "alternative_names": [],
+      "sub_brand": "Omega",
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Omega Icon",
+        "Omega Icon 2"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A budget sub-series of the Omega lineup."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "S Series (Numbered)",
+      "slug": "s-series-numbered",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A series of numbered smartphones."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "V1"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a list of Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "M Series",
+      "slug": "m-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "M11"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a list of Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "G1"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a comparison with the Cherry Mobile One."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Zoom",
+      "slug": "zoom",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "Zoom"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a comparison with other Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "W Series",
+      "slug": "w-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "W6i"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a list of Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "C Series",
+      "slug": "c-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "C7"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a list of Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Iris",
+      "slug": "iris",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Unknown"
+      ],
+      "target_audience": [
+        "Unknown"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "Iris"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Mentioned in a list of Cherry Mobile devices."
+      ],
+      "confidence": "Low"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "Magnum"
+    },
+    {
+      "year": 2010,
+      "series": "Novam"
+    },
+    {
+      "year": 2010,
+      "series": "Superion"
+    },
+    {
+      "year": 2012,
+      "series": "Flare"
+    },
+    {
+      "year": 2012,
+      "series": "Titan"
+    },
+    {
+      "year": 2012,
+      "series": "W Series"
+    },
+    {
+      "year": 2013,
+      "series": "Apollo"
+    },
+    {
+      "year": 2013,
+      "series": "Blaze"
+    },
+    {
+      "year": 2013,
+      "series": "Burst"
+    },
+    {
+      "year": 2013,
+      "series": "C Series"
+    },
+    {
+      "year": 2013,
+      "series": "Cosmos"
+    },
+    {
+      "year": 2013,
+      "series": "Flame"
+    },
+    {
+      "year": 2013,
+      "series": "Fusion"
+    },
+    {
+      "year": 2013,
+      "series": "Gem"
+    },
+    {
+      "year": 2013,
+      "series": "Life"
+    },
+    {
+      "year": 2013,
+      "series": "Omega"
+    },
+    {
+      "year": 2013,
+      "series": "Razor"
+    },
+    {
+      "year": 2013,
+      "series": "Sky Fire"
+    },
+    {
+      "year": 2013,
+      "series": "Sonic"
+    },
+    {
+      "year": 2013,
+      "series": "Thunder"
+    },
+    {
+      "year": 2014,
+      "series": "Alpha"
+    },
+    {
+      "year": 2014,
+      "series": "Amber"
+    },
+    {
+      "year": 2014,
+      "series": "Equinox"
+    },
+    {
+      "year": 2014,
+      "series": "Marble"
+    },
+    {
+      "year": 2014,
+      "series": "ME"
+    },
+    {
+      "year": 2014,
+      "series": "Omega Icon"
+    },
+    {
+      "year": 2014,
+      "series": "Pearl"
+    },
+    {
+      "year": 2014,
+      "series": "Rover"
+    },
+    {
+      "year": 2014,
+      "series": "U Series"
+    },
+    {
+      "year": 2015,
+      "series": "Cubix"
+    },
+    {
+      "year": 2015,
+      "series": "G Series"
+    },
+    {
+      "year": 2015,
+      "series": "One"
+    },
+    {
+      "year": 2015,
+      "series": "Touch"
+    },
+    {
+      "year": 2016,
+      "series": "Defender"
+    },
+    {
+      "year": 2016,
+      "series": "Flare J"
+    },
+    {
+      "year": 2016,
+      "series": "Taiji"
+    },
+    {
+      "year": 2016,
+      "series": "Zoom"
+    },
+    {
+      "year": 2017,
+      "series": "CubeBook"
+    },
+    {
+      "year": 2017,
+      "series": "Desire"
+    },
+    {
+      "year": 2017,
+      "series": "Flare S"
+    },
+    {
+      "year": 2017,
+      "series": "Iris"
+    },
+    {
+      "year": 2017,
+      "series": "M Series"
+    },
+    {
+      "year": 2017,
+      "series": "S Series (Numbered)"
+    },
+    {
+      "year": 2017,
+      "series": "V Series"
+    },
+    {
+      "year": 2018,
+      "series": "Flare Y"
+    },
+    {
+      "year": 2019,
+      "series": "Flare Tab"
+    },
+    {
+      "year": 2019,
+      "series": "Flare X"
+    },
+    {
+      "year": 2020,
+      "series": "Aqua"
+    },
+    {
+      "year": 2020,
+      "series": "Rugged R"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Magnum"
+    ],
+    "premium": [
+      "Cosmos",
+      "Magnum",
+      "Taiji"
+    ],
+    "mid_range": [
+      "Apollo",
+      "Blaze",
+      "Cosmos",
+      "Desire",
+      "Equinox",
+      "Flame",
+      "Flare",
+      "Flare S",
+      "Omega",
+      "Rover",
+      "Titan"
+    ],
+    "budget": [
+      "Aqua",
+      "Burst",
+      "Cubix",
+      "Flare",
+      "Flare J",
+      "Flare S",
+      "Flare Y",
+      "Fusion",
+      "Gem",
+      "ME",
+      "Omega",
+      "One",
+      "Sonic",
+      "Thunder",
+      "Touch"
+    ],
+    "entry_level": [
+      "Amber",
+      "Aqua",
+      "Cubix",
+      "Flare",
+      "Flare J",
+      "Flare Y",
+      "Gem",
+      "Life",
+      "Marble",
+      "Pearl",
+      "Rugged R",
+      "Sonic",
+      "Superion",
+      "Touch"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "Aqua",
+      "Flare X"
+    ],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [
+      "Defender",
+      "Rover",
+      "Rugged R",
+      "U Series"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Cubix"
+    ],
+    "discontinued": [
+      "Alpha",
+      "Amber",
+      "Apollo",
+      "Blaze",
+      "Burst",
+      "C Series",
+      "Cosmos",
+      "CubeBook",
+      "Cubix",
+      "Defender",
+      "Desire",
+      "Equinox",
+      "Flame",
+      "Flare",
+      "Flare J",
+      "Flare S",
+      "Flare Tab",
+      "Flare X",
+      "Flare Y",
+      "Fusion",
+      "G Series",
+      "Gem",
+      "Iris",
+      "Life",
+      "M Series",
+      "Magnum",
+      "Marble",
+      "ME",
+      "Novam",
+      "Omega",
+      "Omega Icon",
+      "One",
+      "Pearl",
+      "Razor",
+      "Rover",
+      "Rugged R",
+      "S Series (Numbered)",
+      "Sky Fire",
+      "Sonic",
+      "Superion",
+      "Taiji",
+      "Thunder",
+      "Titan",
+      "Touch",
+      "U Series",
+      "V Series",
+      "W Series",
+      "Zoom"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Lite branding",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Prime branding",
+      "Deluxe branding",
+      "Mini branding",
+      "SE branding"
+    ],
+    "description": "Cherry Mobile's naming strategy has evolved over time. Early series used simple names like Flare, Omega, and Titan. Within series, they used suffixes like 'HD', 'XL', and numeric iterations (2.0, 3.0) to indicate different models. The Flare series had several sub-series denoted by letters (S, J, Y, X) to indicate different market segments. With the transition to the Aqua series, they adopted a more standardized naming scheme with numbers (S9, S10, S11) and suffixes like Pro, Lite, and Max to denote different tiers within the series."
+  },
+  "summary": {
+    "total_series": 48,
+    "active_series": 1,
+    "discontinued_series": 47,
+    "oldest_series": "Magnum, Novam, Superion (2010)",
+    "newest_series": "Aqua (2020 - Present)",
+    "longest_running_series": "Flare (2012-2020, 8 years)",
+    "most_popular_series": "Flare",
+    "best_selling_series": "Flare",
+    "most_premium_series": "Magnum, Taiji",
+    "best_budget_series": "Flare, Aqua",
+    "most_influential_series": "Flare",
+    "fastest_growing_series": "Aqua",
+    "future_expected_direction": "Cherry Mobile is expected to continue focusing on the Aqua series as its main smartphone lineup, with an emphasis on 5G connectivity, gaming performance, and AI-powered camera features. The brand may also explore new form factors like foldables or expand into other IoT devices as part of its evolution into the broader CHERRY brand."
+  },
+  "missing_series": [
+    "Cherry Mobile C7",
+    "Cherry Mobile W6i",
+    "Cherry Mobile G1",
+    "Cherry Mobile Zoom",
+    "Cherry Mobile V1",
+    "Cherry Mobile M11",
+    "Cherry Mobile S2/S3/S4/S5",
+    "Cherry Mobile Iris",
+    "Cherry Mobile Razor",
+    "Cherry Mobile Sky Fire 2.0",
+    "Cherry Mobile CubeBook"
+  ]
+}

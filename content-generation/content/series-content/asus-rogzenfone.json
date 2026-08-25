@@ -1,0 +1,201 @@
+{
+  "brand": "Asus (ROG/Zenfone)",
+  "total_series": 6,
+  "series": [
+    {
+      "name": "ZenFone",
+      "slug": "zenfone",
+      "alternative_names": ["ZenFone Series"],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2026,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 999,
+        "estimated": true
+      },
+      "market_position": ["Entry Level", "Budget", "Mid Range", "Upper Mid Range", "Premium", "Flagship"],
+      "target_audience": ["Students", "First-time smartphone buyers", "Budget-conscious users", "Mobile photographers", "Business professionals", "Power users"],
+      "characteristics": ["ZenUI interface", "PixelMaster camera technology", "Variety of processors (Intel Atom, Qualcomm Snapdragon, MediaTek)", "Focus on design and value"],
+      "popular_models": ["ZenFone 2", "ZenFone 3", "ZenFone 4", "ZenFone 5", "ZenFone 6", "ZenFone 7 Pro", "ZenFone 8", "ZenFone 10", "ZenFone 11 Ultra"],
+      "primary_markets": ["Global", "Europe", "North America", "Latin America", "China", "India", "Southeast Asia"],
+      "historical_notes": [
+        "Announced at CES 2014, marking ASUS's major entry into the smartphone market.",
+        "Featured ZenUI, a custom Android interface.",
+        "Some models used unique Intel Atom processors.",
+        "Discontinued in 2026 as ASUS exited the smartphone business."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ZenFone Laser",
+      "slug": "zenfone-laser",
+      "alternative_names": ["ZenFone 2 Laser", "ZenFone 3 Laser"],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 199,
+        "highest_usd": 299,
+        "estimated": true
+      },
+      "market_position": ["Mid Range", "Camera-focused"],
+      "target_audience": ["Mobile photographers", "Budget-conscious users"],
+      "characteristics": ["Laser autofocus for faster camera focusing", "Mid-range specifications"],
+      "popular_models": ["ZenFone 2 Laser (ZE550KL)", "ZenFone 2 Laser (ZE551KL)", "ZenFone 3 Laser (ZC551KL)"],
+      "primary_markets": ["Global", "India", "Southeast Asia"],
+      "historical_notes": [
+        "A sub-series of ZenFone focused on camera technology.",
+        "Introduced laser autofocus to improve photography experience."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ZenFone Selfie",
+      "slug": "zenfone-selfie",
+      "alternative_names": ["ZenFone Selfie Series"],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 249,
+        "highest_usd": 349,
+        "estimated": true
+      },
+      "market_position": ["Mid Range", "Camera-focused"],
+      "target_audience": ["Selfie enthusiasts", "Mobile photographers", "Young users"],
+      "characteristics": ["High-resolution front-facing camera", "Dedicated selfie features", "Mid-range specifications"],
+      "popular_models": ["ZenFone Selfie (ZD551KL)", "ZenFone 3 Selfie (ZC553KL)"],
+      "primary_markets": ["Global", "India", "Southeast Asia"],
+      "historical_notes": [
+        "A sub-series of ZenFone focused on selfie camera capabilities.",
+        "Targeted users who prioritized front-camera quality."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ZenFone Max",
+      "slug": "zenfone-max",
+      "alternative_names": ["ZenFone Max Series", "ZenFone Max Pro", "ZenFone Max Shot"],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 299,
+        "estimated": true
+      },
+      "market_position": ["Budget", "Mid Range"],
+      "target_audience": ["Budget-conscious users", "Users needing long battery life", "First-time smartphone buyers"],
+      "characteristics": ["Large battery capacity", "Long battery life", "Mid-range or budget specifications"],
+      "popular_models": ["ZenFone Max (M1)", "ZenFone Max Plus (M1)", "ZenFone Max Pro (M1)", "ZenFone Max (M2)", "ZenFone Max Pro (M2)", "ZenFone Max Shot"],
+      "primary_markets": ["Global", "India", "Southeast Asia"],
+      "historical_notes": [
+        "A sub-series of ZenFone focused on large battery capacity.",
+        "Popular in markets where battery life is a key purchase factor."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pegasus",
+      "slug": "pegasus",
+      "alternative_names": ["飞马系列"],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": ["Entry Level", "Budget"],
+      "target_audience": ["First-time smartphone buyers", "Budget-conscious users", "Students"],
+      "characteristics": ["Low-cost specifications", "ZenUI interface", "Focused on value for money"],
+      "popular_models": ["Pegasus (X002)", "Pegasus 2 (X003)", "Pegasus 3 (X008D)", "Pegasus 4 (X009D)"],
+      "primary_markets": ["China"],
+      "historical_notes": [
+        "A China-exclusive budget smartphone series.",
+        "Used the ZenUI interface.",
+        "Aimed to compete with local Chinese brands in the entry-level segment."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ROG Phone",
+      "slug": "rog-phone",
+      "alternative_names": ["Republic of Gamers Phone", "ROG Phone Series"],
+      "sub_brand": "ROG",
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 699,
+        "highest_usd": 1599,
+        "estimated": true
+      },
+      "market_position": ["Gaming", "Flagship", "Ultra Premium"],
+      "target_audience": ["Gamers", "Power users", "Content creators"],
+      "characteristics": ["High refresh rate displays", "Advanced cooling systems", "High-end processors", "Gaming-centric features (AirTriggers, X Mode)", "ROG UI"],
+      "popular_models": ["ROG Phone", "ROG Phone II", "ROG Phone 3", "ROG Phone 5", "ROG Phone 6", "ROG Phone 7", "ROG Phone 8", "ROG Phone 9"],
+      "primary_markets": ["Global", "Europe", "North America", "China", "India", "Southeast Asia"],
+      "historical_notes": [
+        "Launched in 2018 as ASUS's gaming smartphone series.",
+        "ASUS's second major smartphone line alongside ZenFone.",
+        "Discontinued in 2026 with ASUS's exit from the smartphone market."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {"year": 2014, "series": "ZenFone"},
+    {"year": 2014, "series": "Pegasus"},
+    {"year": 2015, "series": "ZenFone Laser"},
+    {"year": 2015, "series": "ZenFone Selfie"},
+    {"year": 2015, "series": "ZenFone Max"},
+    {"year": 2018, "series": "ROG Phone"}
+  ],
+  "categories": {
+    "flagship": ["ZenFone", "ROG Phone"],
+    "premium": ["ZenFone", "ROG Phone"],
+    "mid_range": ["ZenFone", "ZenFone Laser", "ZenFone Selfie", "ZenFone Max"],
+    "budget": ["ZenFone", "ZenFone Max", "Pegasus"],
+    "entry_level": ["ZenFone", "Pegasus"],
+    "foldable": [],
+    "flip": [],
+    "gaming": ["ROG Phone"],
+    "camera_focused": ["ZenFone Laser", "ZenFone Selfie"],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": ["Pegasus"],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": ["ZenFone", "ZenFone Laser", "ZenFone Selfie", "ZenFone Max", "Pegasus", "ROG Phone"]
+  },
+  "naming_strategy": {
+    "uses": ["Number Series", "Lite branding", "Pro branding", "Plus branding", "Max branding", "Ultra branding"],
+    "description": "ASUS primarily used a number-based naming scheme for its ZenFone series, often with suffixes like 'Pro', 'Plus', 'Max', and 'Ultra' to denote different tiers. The ROG Phone series uses a straightforward numerical progression (ROG Phone, ROG Phone II, ROG Phone 3, etc.) with occasional 'Pro' and 'Ultimate' variants. The brand also utilized descriptive names like 'Laser', 'Selfie', and 'Max' to highlight key features."
+  },
+  "summary": {
+    "total_series": 6,
+    "active_series": 0,
+    "discontinued_series": 6,
+    "oldest_series": "ZenFone",
+    "newest_series": "ROG Phone",
+    "longest_running_series": "ZenFone",
+    "most_popular_series": "ZenFone",
+    "best_selling_series": "ZenFone",
+    "most_premium_series": "ROG Phone",
+    "best_budget_series": "Pegasus",
+    "most_influential_series": "ZenFone",
+    "fastest_growing_series": "ROG Phone",
+    "future_expected_direction": "ASUS has officially discontinued its smartphone business as of 2026, shifting focus to PCs and AI devices. No new smartphone series are expected."
+  },
+  "missing_series": []
+}

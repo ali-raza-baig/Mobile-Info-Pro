@@ -1,0 +1,1216 @@
+{
+  "brand": "Xiaomi",
+  "total_series": 23,
+  "series": [
+    {
+      "name": "Xiaomi",
+      "slug": "xiaomi",
+      "alternative_names": [
+        "Mi"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 1200,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Premium cameras",
+        "High refresh rate AMOLED",
+        "Flagship SoCs",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "Mi 11",
+        "Xiaomi 13 Ultra",
+        "Xiaomi 14",
+        "Xiaomi 15"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Originally launched as 'Mi' series, rebranded to 'Xiaomi' globally starting with Xiaomi 12",
+        "Introduced Leica camera partnership in 2022"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi MIX",
+      "slug": "xiaomi-mix",
+      "alternative_names": [
+        "Mi MIX"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 1500,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship",
+        "Foldable",
+        "Flip"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Early adopters",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Bezel-less design",
+        "Ceramic bodies",
+        "Foldable displays",
+        "Under-display cameras"
+      ],
+      "popular_models": [
+        "Mi MIX",
+        "Mi MIX 2",
+        "Mi MIX 3",
+        "Xiaomi MIX Fold",
+        "Xiaomi MIX Flip"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Pioneered the bezel-less 'full-screen' smartphone concept in 2016",
+        "Evolved to include foldable devices (MIX Fold, MIX Flip)"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi Max",
+      "slug": "xiaomi-max",
+      "alternative_names": [
+        "Mi Max"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Users preferring large screens"
+      ],
+      "characteristics": [
+        "Massive displays (6.44 inches or larger)",
+        "Large batteries",
+        "Mid-range processors"
+      ],
+      "popular_models": [
+        "Mi Max",
+        "Mi Max 2",
+        "Mi Max 3"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "Discontinued as large-screen phones became mainstream in the standard Xiaomi and Redmi Note series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi Note",
+      "slug": "xiaomi-note",
+      "alternative_names": [
+        "Mi Note"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Upper Mid Range",
+        "Business"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Premium glass and metal design",
+        "Large displays",
+        "High-end specifications"
+      ],
+      "popular_models": [
+        "Mi Note",
+        "Mi Note 2",
+        "Mi Note 3",
+        "Mi Note 10"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Initially a premium phablet line",
+        "Later iterations like Mi Note 10 focused on camera innovation (first 108MP sensor)",
+        "Lineage absorbed into main Xiaomi series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi Play",
+      "slug": "xiaomi-play",
+      "alternative_names": [
+        "Mi Play"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic cameras",
+        "Entry-level SoCs"
+      ],
+      "popular_models": [
+        "Mi Play"
+      ],
+      "primary_markets": [
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "Short-lived series",
+        "Quickly overshadowed by the Redmi series which offered better value"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi A",
+      "slug": "xiaomi-a",
+      "alternative_names": [
+        "Mi A"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Stock Android enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Clean Android One software",
+        "No bloatware",
+        "Guaranteed updates"
+      ],
+      "popular_models": [
+        "Mi A1",
+        "Mi A2",
+        "Mi A3"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Part of Google's Android One program",
+        "Discontinued as Xiaomi shifted focus to MIUI/HyperOS across all devices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi C",
+      "slug": "xiaomi-c",
+      "alternative_names": [
+        "Mi CC"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young users",
+        "Selfie enthusiasts",
+        "Content creators"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "Stylish designs",
+        "Meitu software integration"
+      ],
+      "popular_models": [
+        "Mi CC9",
+        "Mi CC9e",
+        "Mi CC9 Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Developed in partnership with Meitu",
+        "Later evolved into the global Xiaomi Civi series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi Civi",
+      "slug": "xiaomi-civi",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 500,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Lifestyle",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Content creators",
+        "Young professionals",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "Slim and lightweight design",
+        "Premium materials",
+        "Advanced front-facing cameras",
+        "AI beauty features"
+      ],
+      "popular_models": [
+        "Xiaomi Civi",
+        "Xiaomi Civi 1S",
+        "Xiaomi Civi 3",
+        "Xiaomi Civi 4 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Spiritual successor to the Mi CC series",
+        "Focuses on lifestyle and premium mid-range aesthetics"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xiaomi T",
+      "slug": "xiaomi-t",
+      "alternative_names": [
+        "Mi T"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 700,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Flagship Killer"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "High refresh rate displays",
+        "Flagship-tier processors",
+        "Fast charging",
+        "Competitive pricing"
+      ],
+      "popular_models": [
+        "Mi 9T",
+        "Xiaomi 11T",
+        "Xiaomi 12T Pro",
+        "Xiaomi 13T",
+        "Xiaomi 14T"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Originally launched as 'Mi 9T' globally (Redmi K20 in China)",
+        "Established as a distinct 'T' series to offer near-flagship specs at mid-range prices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi",
+      "slug": "redmi",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2013,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 250,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Decent cameras",
+        "Affordable pricing",
+        "MIUI/HyperOS"
+      ],
+      "popular_models": [
+        "Redmi 1",
+        "Redmi 4A",
+        "Redmi 9",
+        "Redmi 13C"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Originally a sub-brand, now a distinct series under the Redmi brand",
+        "The backbone of Xiaomi's global market share"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Note",
+      "slug": "redmi-note",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2014,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "Mainstream consumers"
+      ],
+      "characteristics": [
+        "Excellent price-to-performance ratio",
+        "Large batteries",
+        "High-resolution cameras",
+        "AMOLED displays in higher trims"
+      ],
+      "popular_models": [
+        "Redmi Note 3",
+        "Redmi Note 7",
+        "Redmi Note 10 Pro",
+        "Redmi Note 13 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of the best-selling smartphone series globally",
+        "Consistently redefines the budget and mid-range segments"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi K",
+      "slug": "redmi-k",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Flagship Killer",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Flagship-tier SoCs",
+        "High refresh rate displays",
+        "Fast charging",
+        "Minimal camera compromises"
+      ],
+      "popular_models": [
+        "Redmi K20 Pro",
+        "Redmi K30",
+        "Redmi K40 Gaming",
+        "Redmi K70"
+      ],
+      "primary_markets": [
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "Serves as Xiaomi's 'flagship killer' line",
+        "Many models are rebranded globally under the POCO F series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi A",
+      "slug": "redmi-a",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 120,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Developing markets",
+        "Elderly users"
+      ],
+      "characteristics": [
+        "Stock-like Android experience",
+        "Large batteries",
+        "Durable build",
+        "Essential features only"
+      ],
+      "popular_models": [
+        "Redmi A1",
+        "Redmi A2",
+        "Redmi A3"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Africa",
+        "Latin America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Replaced the Redmi Go series as the primary ultra-budget offering",
+        "Features a cleaner software experience"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Go",
+      "slug": "redmi-go",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 100,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Developing markets"
+      ],
+      "characteristics": [
+        "Android Go Edition",
+        "1GB/2GB RAM",
+        "Lightweight",
+        "Removable battery on some models"
+      ],
+      "popular_models": [
+        "Redmi Go"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Xiaomi's first Android Go device",
+        "Discontinued and replaced by the Redmi A series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Pro",
+      "slug": "redmi-pro",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 220,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Dual rear cameras",
+        "AMOLED display",
+        "Premium metal unibody"
+      ],
+      "popular_models": [
+        "Redmi Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "First Redmi device with an AMOLED display and dual cameras",
+        "The 'Pro' naming was later applied to the Redmi Note series instead"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Y",
+      "slug": "redmi-y",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 180,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young users",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "AI beauty modes",
+        "Stylish designs"
+      ],
+      "popular_models": [
+        "Redmi Y1",
+        "Redmi Y2",
+        "Redmi Y3"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "India-exclusive series focused on selfies",
+        "Eventually merged into the main Redmi number series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi S",
+      "slug": "redmi-s",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 160,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young users",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "AI front cameras",
+        "Sleek design"
+      ],
+      "popular_models": [
+        "Redmi S2"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive counterpart to the India-exclusive Redmi Y series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Redmi Turbo",
+      "slug": "redmi-turbo",
+      "alternative_names": [],
+      "sub_brand": "Redmi",
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Gaming",
+        "Flagship Killer"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Students"
+      ],
+      "characteristics": [
+        "High-performance SoCs",
+        "High refresh rate displays",
+        "Aggressive pricing"
+      ],
+      "popular_models": [
+        "Redmi Turbo 3",
+        "Redmi Turbo 4"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Introduced to fill the performance mid-range gap in China",
+        "Took over the mantle from older Redmi K 'Gaming' variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "POCO F",
+      "slug": "poco-f",
+      "alternative_names": [
+        "Pocophone F"
+      ],
+      "sub_brand": "POCO",
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship Killer",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Gamers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Top-tier processors",
+        "High refresh rate displays",
+        "Minimal design compromises",
+        "Aggressive pricing"
+      ],
+      "popular_models": [
+        "Pocophone F1",
+        "POCO F2 Pro",
+        "POCO F3",
+        "POCO F5 Pro",
+        "POCO F6"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Launched with the legendary Pocophone F1",
+        "Often shares hardware with the Redmi K series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "POCO X",
+      "slug": "poco-x",
+      "alternative_names": [],
+      "sub_brand": "POCO",
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Mainstream users",
+        "Casual gamers"
+      ],
+      "characteristics": [
+        "Balanced performance",
+        "High refresh rate displays",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "POCO X2",
+        "POCO X3 Pro",
+        "POCO X4 Pro",
+        "POCO X6 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Designed as the 'all-rounder' mid-range series",
+        "Often rebranded from Redmi Note series devices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "POCO M",
+      "slug": "poco-m",
+      "alternative_names": [],
+      "sub_brand": "POCO",
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Decent performance",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "POCO M2 Pro",
+        "POCO M3",
+        "POCO M5",
+        "POCO M6 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Serves as the budget-friendly counterpart to the POCO X series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "POCO C",
+      "slug": "poco-c",
+      "alternative_names": [],
+      "sub_brand": "POCO",
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 130,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Developing markets"
+      ],
+      "characteristics": [
+        "Basic but reliable specs",
+        "Large batteries",
+        "Essential features"
+      ],
+      "popular_models": [
+        "POCO C3",
+        "POCO C40",
+        "POCO C55",
+        "POCO C65"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Africa",
+        "Latin America",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "POCO's entry-level series",
+        "Replaced older budget Redmi models in certain markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Black Shark",
+      "slug": "black-shark",
+      "alternative_names": [],
+      "sub_brand": "Black Shark",
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 800,
+        "estimated": false
+      },
+      "market_position": [
+        "Gaming",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Hardcore mobile gamers",
+        "Esports enthusiasts"
+      ],
+      "characteristics": [
+        "Physical gaming triggers",
+        "Advanced cooling systems",
+        "High refresh rate displays",
+        "Gaming-centric software"
+      ],
+      "popular_models": [
+        "Black Shark",
+        "Black Shark 2 Pro",
+        "Black Shark 4",
+        "Black Shark 5 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Originally a Xiaomi-invested startup",
+        "Later fully integrated as Xiaomi's dedicated gaming sub-brand"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2011,
+      "series": "Xiaomi"
+    },
+    {
+      "year": 2013,
+      "series": "Redmi"
+    },
+    {
+      "year": 2014,
+      "series": "Redmi Note"
+    },
+    {
+      "year": 2015,
+      "series": "Xiaomi Note"
+    },
+    {
+      "year": 2016,
+      "series": "Xiaomi Max"
+    },
+    {
+      "year": 2016,
+      "series": "Redmi Pro"
+    },
+    {
+      "year": 2017,
+      "series": "Xiaomi A"
+    },
+    {
+      "year": 2017,
+      "series": "Redmi Y"
+    },
+    {
+      "year": 2018,
+      "series": "Xiaomi Play"
+    },
+    {
+      "year": 2018,
+      "series": "Redmi S"
+    },
+    {
+      "year": 2018,
+      "series": "Black Shark"
+    },
+    {
+      "year": 2019,
+      "series": "Xiaomi C"
+    },
+    {
+      "year": 2019,
+      "series": "Redmi Go"
+    },
+    {
+      "year": 2019,
+      "series": "Redmi K"
+    },
+    {
+      "year": 2019,
+      "series": "POCO F"
+    },
+    {
+      "year": 2020,
+      "series": "POCO X"
+    },
+    {
+      "year": 2020,
+      "series": "POCO M"
+    },
+    {
+      "year": 2021,
+      "series": "Xiaomi Civi"
+    },
+    {
+      "year": 2021,
+      "series": "POCO C"
+    },
+    {
+      "year": 2022,
+      "series": "Redmi A"
+    },
+    {
+      "year": 2024,
+      "series": "Redmi Turbo"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Xiaomi"
+    ],
+    "premium": [
+      "Xiaomi",
+      "Xiaomi MIX",
+      "Xiaomi Note"
+    ],
+    "mid_range": [
+      "Xiaomi T",
+      "Redmi",
+      "Redmi Note",
+      "Redmi Turbo",
+      "POCO X",
+      "POCO M"
+    ],
+    "budget": [
+      "Redmi",
+      "Redmi Note",
+      "POCO M"
+    ],
+    "entry_level": [
+      "Xiaomi Play",
+      "Redmi A",
+      "Redmi Go",
+      "POCO C"
+    ],
+    "foldable": [
+      "Xiaomi MIX"
+    ],
+    "flip": [
+      "Xiaomi MIX"
+    ],
+    "gaming": [
+      "Redmi K",
+      "Redmi Turbo",
+      "Black Shark"
+    ],
+    "camera_focused": [
+      "Xiaomi C",
+      "Xiaomi Civi",
+      "Redmi Y",
+      "Redmi S"
+    ],
+    "business": [
+      "Xiaomi Note"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "Xiaomi Civi"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Redmi Y",
+      "Redmi S",
+      "Redmi Turbo"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "POCO F",
+      "POCO X",
+      "POCO M",
+      "POCO C"
+    ],
+    "discontinued": [
+      "Xiaomi Max",
+      "Xiaomi Note",
+      "Xiaomi Play",
+      "Xiaomi A",
+      "Xiaomi C",
+      "Redmi Go",
+      "Redmi Pro",
+      "Redmi Y",
+      "Redmi S"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Fold Series",
+      "Flip Series",
+      "Lite branding",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Ultra branding",
+      "Turbo branding",
+      "T branding"
+    ],
+    "description": "Xiaomi uses a hierarchical naming strategy. The main 'Xiaomi' (formerly Mi) line uses numbers for generations, with suffixes like 'Pro', 'Ultra', and 'Lite' denoting variants. Sub-brands like Redmi and POCO use letter series (A, C, M, X, F, K) to denote market segments, with 'Note' indicating a step up in the number series. 'Turbo' and 'T' denote performance-focused variants."
+  },
+  "summary": {
+    "total_series": 23,
+    "active_series": 14,
+    "discontinued_series": 9,
+    "oldest_series": "Xiaomi",
+    "newest_series": "Redmi Turbo",
+    "longest_running_series": "Xiaomi",
+    "most_popular_series": "Redmi Note",
+    "best_selling_series": "Redmi Note",
+    "most_premium_series": "Xiaomi",
+    "best_budget_series": "Redmi",
+    "most_influential_series": "Xiaomi",
+    "fastest_growing_series": "POCO",
+    "future_expected_direction": "Continued expansion of AI-integrated features, consolidation of mid-range lines under the Turbo and T branding, and further refinement of foldable technology in the MIX series."
+  },
+  "missing_series": []
+}

@@ -1,0 +1,1918 @@
+{
+  "brand": "Sony Xperia",
+  "total_series": 41,
+  "series": [
+    {
+      "name": "Xperia X1",
+      "slug": "xperia-x1",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2008,
+      "latest_release_year": 2008,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users"
+      ],
+      "characteristics": [
+        "QWERTY keyboard",
+        "Windows Mobile",
+        "WVGA display"
+      ],
+      "popular_models": [
+        "Xperia X1"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First Xperia smartphone",
+        "Designed and built by HTC",
+        "Ran Windows Mobile 6.1"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia X2",
+      "slug": "xperia-x2",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2009,
+      "latest_release_year": 2009,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users"
+      ],
+      "characteristics": [
+        "QWERTY keyboard",
+        "Windows Mobile",
+        "8.1 MP camera"
+      ],
+      "popular_models": [
+        "Xperia X2"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Last Sony Ericsson phone to use Windows Mobile"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia X10",
+      "slug": "xperia-x10",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "4-inch display",
+        "8.1 MP camera",
+        "Android 1.6"
+      ],
+      "popular_models": [
+        "Xperia X10"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First Sony Ericsson smartphone to run Android"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia X8",
+      "slug": "xperia-x8",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "3-inch display",
+        "3.2 MP camera",
+        "Android 1.6"
+      ],
+      "popular_models": [
+        "Xperia X8"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Mid-range offering in the early Xperia lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia mini",
+      "slug": "xperia-mini",
+      "alternative_names": [
+        "Xperia mini pro"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Compact phone enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "3-inch display",
+        "Compact design",
+        "Android 2.3"
+      ],
+      "popular_models": [
+        "Xperia mini",
+        "Xperia mini pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Succeeded the X10 mini series",
+        "mini pro variant includes a slide-out QWERTY keyboard"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Play",
+      "slug": "xperia-play",
+      "alternative_names": [
+        "PlayStation Phone"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Gamers"
+      ],
+      "characteristics": [
+        "Dedicated gaming buttons",
+        "PlayStation Certified",
+        "Slide-out gamepad"
+      ],
+      "popular_models": [
+        "Xperia Play"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First PlayStation Certified smartphone",
+        "Combined phone and handheld console"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Neo",
+      "slug": "xperia-neo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "3.7-inch display",
+        "8.1 MP camera with Exmor R",
+        "Sony Bravia Engine"
+      ],
+      "popular_models": [
+        "Xperia Neo",
+        "Xperia Neo V"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Positioned below the Arc",
+        "Neo V was a slightly lower-specced variant"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Arc",
+      "slug": "xperia-arc",
+      "alternative_names": [
+        "Xperia Arc S"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "4.2-inch display",
+        "8.1 MP camera",
+        "Arc design",
+        "Android 2.3"
+      ],
+      "popular_models": [
+        "Xperia Arc",
+        "Xperia Arc S"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Succeeded the Xperia X10",
+        "Arc S was a faster variant"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Ray",
+      "slug": "xperia-ray",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Compact"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Compact phone enthusiasts"
+      ],
+      "characteristics": [
+        "3.3-inch display",
+        "8.1 MP camera",
+        "Sleek design"
+      ],
+      "popular_models": [
+        "Xperia Ray"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "10th anniversary model for Sony Ericsson",
+        "Last phone co-developed with Ericsson"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Active",
+      "slug": "xperia-active",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Active lifestyle users"
+      ],
+      "characteristics": [
+        "Water-resistant",
+        "Dust-proof",
+        "Scratch-resistant",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Xperia Active"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Last smartphone released under the Sony Ericsson brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Pro",
+      "slug": "xperia-pro-2011",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Business",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Business professionals"
+      ],
+      "characteristics": [
+        "QWERTY keyboard",
+        "3.7-inch display",
+        "8.1 MP camera"
+      ],
+      "popular_models": [
+        "Xperia Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Business-oriented variant with physical keyboard"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia acro",
+      "slug": "xperia-acro",
+      "alternative_names": [
+        "Xperia acro HD"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Regional-exclusive"
+      ],
+      "target_audience": [
+        "Japanese market",
+        "Power users"
+      ],
+      "characteristics": [
+        "Japanese-specific features (mobile wallet, TV)",
+        "4.2-inch display",
+        "8.1 MP camera"
+      ],
+      "popular_models": [
+        "Xperia acro SO-02C",
+        "Xperia acro IS11S",
+        "Xperia acro HD SO-03D"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Japan-exclusive variant of the Xperia Arc",
+        "Included FeliCa mobile wallet and 1seg TV"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia S",
+      "slug": "xperia-s",
+      "alternative_names": [
+        "Xperia NX"
+      ],
+      "sub_brand": "NXT",
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "4.3-inch display",
+        "12 MP camera",
+        "Transparent bar design",
+        "Android 2.3"
+      ],
+      "popular_models": [
+        "Xperia S",
+        "Xperia NX"
+      ],
+      "primary_markets": [
+        "Global",
+        "Japan"
+      ],
+      "historical_notes": [
+        "First Sony-branded Xperia (after Sony Ericsson)",
+        "First in the NXT series",
+        "NX is the Japan variant"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia P",
+      "slug": "xperia-p",
+      "alternative_names": [],
+      "sub_brand": "NXT",
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Aluminum unibody",
+        "4-inch display",
+        "8 MP camera",
+        "WhiteMagic display"
+      ],
+      "popular_models": [
+        "Xperia P"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Part of the NXT series",
+        "Featured Sony's WhiteMagic display technology"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia U",
+      "slug": "xperia-u",
+      "alternative_names": [],
+      "sub_brand": "NXT",
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Young users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "3.5-inch display",
+        "5 MP camera",
+        "Exchangeable bottom caps",
+        "Transparent bar design"
+      ],
+      "popular_models": [
+        "Xperia U"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level NXT series device",
+        "Colorful exchangeable bottom caps"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia sola",
+      "slug": "xperia-sola",
+      "alternative_names": [],
+      "sub_brand": "NXT",
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Floating touch technology",
+        "3.7-inch display",
+        "5 MP camera"
+      ],
+      "popular_models": [
+        "Xperia sola"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Introduced 'floating touch' technology",
+        "Part of the NXT series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia go",
+      "slug": "xperia-go",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Active lifestyle users"
+      ],
+      "characteristics": [
+        "IP67 certified",
+        "Water-resistant",
+        "Dust-proof",
+        "Scratch-resistant",
+        "3.5-inch display"
+      ],
+      "popular_models": [
+        "Xperia go"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Rugged smartphone with IP67 certification"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia GX",
+      "slug": "xperia-gx",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Regional-exclusive"
+      ],
+      "target_audience": [
+        "Japanese market",
+        "Power users"
+      ],
+      "characteristics": [
+        "4.6-inch display",
+        "13 MP camera",
+        "LTE support",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Xperia GX"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Japan-exclusive flagship",
+        "First Xperia with LTE in Japan"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia SX",
+      "slug": "xperia-sx",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Regional-exclusive",
+        "Compact"
+      ],
+      "target_audience": [
+        "Japanese market",
+        "Compact phone enthusiasts"
+      ],
+      "characteristics": [
+        "3.7-inch display",
+        "8 MP camera",
+        "World's lightest LTE phone (95g)",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Xperia SX"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Japan-exclusive",
+        "World's lightest LTE smartphone at the time"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia AX",
+      "slug": "xperia-ax",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Regional-exclusive"
+      ],
+      "target_audience": [
+        "Japanese market",
+        "Power users"
+      ],
+      "characteristics": [
+        "4.3-inch display",
+        "13 MP camera",
+        "LTE support",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Xperia AX"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Japan-exclusive variant of the Xperia V"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia T",
+      "slug": "xperia-t",
+      "alternative_names": [
+        "Xperia TX"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "4.6-inch display",
+        "13 MP camera",
+        "LTE support",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Xperia T",
+        "Xperia TX",
+        "Xperia TL"
+      ],
+      "primary_markets": [
+        "Global",
+        "USA"
+      ],
+      "historical_notes": [
+        "Global flagship for 2012",
+        "TL was AT&T-branded for US"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia V",
+      "slug": "xperia-v",
+      "alternative_names": [
+        "Xperia VC",
+        "Xperia AX"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Power users",
+        "Outdoor enthusiasts"
+      ],
+      "characteristics": [
+        "4.3-inch display",
+        "13 MP camera",
+        "IP55/57 certified",
+        "LTE support"
+      ],
+      "popular_models": [
+        "Xperia V",
+        "Xperia VC",
+        "Xperia AX"
+      ],
+      "primary_markets": [
+        "Global",
+        "Japan"
+      ],
+      "historical_notes": [
+        "Water-resistant flagship",
+        "AX is Japan variant",
+        "VC is CDMA variant"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia J",
+      "slug": "xperia-j",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "4-inch display",
+        "5 MP camera",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Xperia J"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level smartphone",
+        "Succeeded by Xperia L"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Z",
+      "slug": "xperia-z",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "OmniBalance design",
+        "IP55/57 certified",
+        "5-inch 1080p display",
+        "13 MP camera"
+      ],
+      "popular_models": [
+        "Xperia Z",
+        "Xperia ZL",
+        "Xperia ZR",
+        "Xperia Z Ultra",
+        "Xperia Z1",
+        "Xperia Z1 Compact",
+        "Xperia Z2",
+        "Xperia Z3",
+        "Xperia Z3 Compact",
+        "Xperia Z3+",
+        "Xperia Z5",
+        "Xperia Z5 Compact",
+        "Xperia Z5 Premium"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Flagship series from 2013 to 2015",
+        "Replaced by Xperia X series",
+        "Z3+ is known as Z4 in Japan",
+        "Z5 Premium featured a 4K display"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia SP",
+      "slug": "xperia-sp",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "4.6-inch display",
+        "8 MP camera",
+        "Aluminum frame",
+        "Transparent bar design"
+      ],
+      "popular_models": [
+        "Xperia SP"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Mid-range device with premium design elements"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia L",
+      "slug": "xperia-l",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Budget-friendly",
+        "Large display",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Xperia L",
+        "Xperia L1",
+        "Xperia L2",
+        "Xperia L3",
+        "Xperia L4"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level and budget series",
+        "L1 revived the series in 2017",
+        "L4 was the last L-series device"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia M",
+      "slug": "xperia-m",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Good camera",
+        "Water-resistant (M4 Aqua, M5)"
+      ],
+      "popular_models": [
+        "Xperia M",
+        "Xperia M2",
+        "Xperia M4 Aqua",
+        "Xperia M5"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Mid-range series",
+        "M4 Aqua and M5 offered water resistance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia C",
+      "slug": "xperia-c",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Selfie enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "Good front camera",
+        "Selfie-focused"
+      ],
+      "popular_models": [
+        "Xperia C",
+        "Xperia C3",
+        "Xperia C4",
+        "Xperia C5 Ultra"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Selfie-focused mid-range series",
+        "C5 Ultra featured a 13 MP front camera"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia T2 Ultra",
+      "slug": "xperia-t2-ultra",
+      "alternative_names": [
+        "Xperia T2 Ultra Dual"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Phablet"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "6-inch display",
+        "13 MP camera",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Xperia T2 Ultra",
+        "Xperia T2 Ultra Dual"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Phablet-style device",
+        "Dual-SIM variant available"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia T3",
+      "slug": "xperia-t3",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "5.3-inch display",
+        "8 MP camera",
+        "Slim design (7mm)"
+      ],
+      "popular_models": [
+        "Xperia T3"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Successor to the T2 Ultra",
+        "One of the slimmest 5.3-inch phones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia E",
+      "slug": "xperia-e",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Entry-level specs",
+        "Compact design",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Xperia E",
+        "Xperia E1",
+        "Xperia E3",
+        "Xperia E4",
+        "Xperia E5"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level series",
+        "E5 was the last model"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia X",
+      "slug": "xperia-x",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "New design language",
+        "Improved cameras",
+        "Android 6.0"
+      ],
+      "popular_models": [
+        "Xperia X",
+        "Xperia X Performance",
+        "Xperia X Compact",
+        "Xperia XZ",
+        "Xperia XZs",
+        "Xperia XZ Premium",
+        "Xperia XZ1",
+        "Xperia XZ1 Compact",
+        "Xperia XZ2",
+        "Xperia XZ2 Compact",
+        "Xperia XZ2 Premium",
+        "Xperia XZ3"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Replaced the Z series",
+        "XZ3 was the last X-series device"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia XA",
+      "slug": "xperia-xa",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Selfie enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Near-bezel-less design",
+        "Good front camera",
+        "Mid-range specs"
+      ],
+      "popular_models": [
+        "Xperia XA",
+        "Xperia XA Ultra",
+        "Xperia XA1",
+        "Xperia XA1 Ultra",
+        "Xperia XA1 Plus",
+        "Xperia XA2",
+        "Xperia XA2 Ultra"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Mid-range series with a focus on design and selfies",
+        "XA2 Ultra had a dual front camera"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia R1",
+      "slug": "xperia-r1",
+      "alternative_names": [
+        "Xperia R1 Plus"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Regional-exclusive"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Indian market"
+      ],
+      "characteristics": [
+        "5.2-inch display",
+        "13 MP camera",
+        "Android 7.0"
+      ],
+      "popular_models": [
+        "Xperia R1",
+        "Xperia R1 Plus"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "India-exclusive budget series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia 1",
+      "slug": "xperia-1",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 949,
+        "highest_usd": 1299,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Camera-focused",
+        "Content creation"
+      ],
+      "target_audience": [
+        "Content creators",
+        "Mobile photographers",
+        "Power users",
+        "Filmmakers"
+      ],
+      "characteristics": [
+        "21:9 CinemaWide 4K HDR OLED display",
+        "Triple camera system",
+        "Professional-grade camera apps",
+        "High-end performance"
+      ],
+      "popular_models": [
+        "Xperia 1",
+        "Xperia 1 II",
+        "Xperia 1 III",
+        "Xperia 1 IV",
+        "Xperia 1 V",
+        "Xperia 1 VI",
+        "Xperia 1 VII",
+        "Xperia 1 VIII"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Replaced the X series as Sony's flagship line",
+        "Introduced 21:9 aspect ratio",
+        "Focus on professional camera and video features"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia 5",
+      "slug": "xperia-5",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 799,
+        "highest_usd": 999,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Compact",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Content creators",
+        "Mobile photographers",
+        "Compact phone enthusiasts"
+      ],
+      "characteristics": [
+        "21:9 CinemaWide HDR OLED display",
+        "Compact form factor",
+        "Triple camera system",
+        "Flagship performance"
+      ],
+      "popular_models": [
+        "Xperia 5",
+        "Xperia 5 II",
+        "Xperia 5 III",
+        "Xperia 5 IV",
+        "Xperia 5 V"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Compact flagship sibling to the Xperia 1 series",
+        "Offers flagship features in a smaller body"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia 10",
+      "slug": "xperia-10",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 349,
+        "highest_usd": 499,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Media consumers"
+      ],
+      "characteristics": [
+        "21:9 CinemaWide display",
+        "Dual camera system",
+        "Mid-range specs"
+      ],
+      "popular_models": [
+        "Xperia 10",
+        "Xperia 10 Plus",
+        "Xperia 10 II",
+        "Xperia 10 III",
+        "Xperia 10 IV",
+        "Xperia 10 V",
+        "Xperia 10 VI",
+        "Xperia 10 VII"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Replaced the XA series as Sony's mid-range line",
+        "10 Plus offered a larger display"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Ace",
+      "slug": "xperia-ace",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Compact",
+        "Regional-exclusive"
+      ],
+      "target_audience": [
+        "Japanese market",
+        "Compact phone enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Entry-level specs",
+        "Water-resistant",
+        "Japan-exclusive"
+      ],
+      "popular_models": [
+        "Xperia Ace",
+        "Xperia Ace II",
+        "Xperia Ace III"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Japan-exclusive entry-level series",
+        "Focus on compact size and essential features"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xperia Pro",
+      "slug": "xperia-pro-2020",
+      "alternative_names": [
+        "Xperia PRO"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 2499,
+        "highest_usd": 2499,
+        "estimated": false
+      },
+      "market_position": [
+        "Ultra Premium",
+        "Business",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Professional photographers",
+        "Videographers",
+        "Broadcasters"
+      ],
+      "characteristics": [
+        "HDMI input",
+        "mmWave 5G",
+        "Professional-grade camera",
+        "High-end specs"
+      ],
+      "popular_models": [
+        "Xperia Pro",
+        "Xperia PRO-I"
+      ],
+      "primary_markets": [
+        "USA",
+        "Japan",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Professional-focused device with HDMI input",
+        "PRO-I features a 1-inch camera sensor"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2008,
+      "series": "Xperia X1"
+    },
+    {
+      "year": 2009,
+      "series": "Xperia X2"
+    },
+    {
+      "year": 2010,
+      "series": "Xperia X10"
+    },
+    {
+      "year": 2010,
+      "series": "Xperia X8"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia mini"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia Play"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia Neo"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia Arc"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia Ray"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia Active"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia Pro"
+    },
+    {
+      "year": 2011,
+      "series": "Xperia acro"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia S"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia P"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia U"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia sola"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia go"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia GX"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia SX"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia AX"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia T"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia V"
+    },
+    {
+      "year": 2012,
+      "series": "Xperia J"
+    },
+    {
+      "year": 2013,
+      "series": "Xperia Z"
+    },
+    {
+      "year": 2013,
+      "series": "Xperia SP"
+    },
+    {
+      "year": 2013,
+      "series": "Xperia L"
+    },
+    {
+      "year": 2013,
+      "series": "Xperia M"
+    },
+    {
+      "year": 2013,
+      "series": "Xperia C"
+    },
+    {
+      "year": 2013,
+      "series": "Xperia E"
+    },
+    {
+      "year": 2014,
+      "series": "Xperia T2 Ultra"
+    },
+    {
+      "year": 2014,
+      "series": "Xperia T3"
+    },
+    {
+      "year": 2016,
+      "series": "Xperia X"
+    },
+    {
+      "year": 2016,
+      "series": "Xperia XA"
+    },
+    {
+      "year": 2017,
+      "series": "Xperia R1"
+    },
+    {
+      "year": 2019,
+      "series": "Xperia 1"
+    },
+    {
+      "year": 2019,
+      "series": "Xperia 5"
+    },
+    {
+      "year": 2019,
+      "series": "Xperia 10"
+    },
+    {
+      "year": 2019,
+      "series": "Xperia Ace"
+    },
+    {
+      "year": 2020,
+      "series": "Xperia Pro"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Xperia X1",
+      "Xperia X2",
+      "Xperia X10",
+      "Xperia Play",
+      "Xperia Arc",
+      "Xperia acro",
+      "Xperia S",
+      "Xperia GX",
+      "Xperia AX",
+      "Xperia T",
+      "Xperia V",
+      "Xperia Z",
+      "Xperia X",
+      "Xperia 1",
+      "Xperia 5"
+    ],
+    "premium": [
+      "Xperia Ray",
+      "Xperia SX",
+      "Xperia X",
+      "Xperia 1",
+      "Xperia 5",
+      "Xperia Pro"
+    ],
+    "mid_range": [
+      "Xperia X8",
+      "Xperia mini",
+      "Xperia Neo",
+      "Xperia Pro",
+      "Xperia P",
+      "Xperia U",
+      "Xperia sola",
+      "Xperia go",
+      "Xperia SP",
+      "Xperia M",
+      "Xperia C",
+      "Xperia T2 Ultra",
+      "Xperia T3",
+      "Xperia XA",
+      "Xperia 10"
+    ],
+    "budget": [
+      "Xperia L",
+      "Xperia E",
+      "Xperia R1",
+      "Xperia Ace"
+    ],
+    "entry_level": [
+      "Xperia J",
+      "Xperia L",
+      "Xperia E",
+      "Xperia Ace"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "Xperia Play"
+    ],
+    "camera_focused": [
+      "Xperia C",
+      "Xperia XA",
+      "Xperia 1",
+      "Xperia 5",
+      "Xperia Pro"
+    ],
+    "business": [
+      "Xperia X1",
+      "Xperia X2",
+      "Xperia Pro",
+      "Xperia Pro"
+    ],
+    "rugged": [
+      "Xperia Active",
+      "Xperia go",
+      "Xperia V",
+      "Xperia Z"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Xperia acro",
+      "Xperia GX",
+      "Xperia SX",
+      "Xperia AX",
+      "Xperia R1",
+      "Xperia Ace"
+    ],
+    "carrier_exclusive": [
+      "Xperia TL",
+      "Xperia VC"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Xperia X1",
+      "Xperia X2",
+      "Xperia X10",
+      "Xperia X8",
+      "Xperia mini",
+      "Xperia Play",
+      "Xperia Neo",
+      "Xperia Arc",
+      "Xperia Ray",
+      "Xperia Active",
+      "Xperia Pro",
+      "Xperia acro",
+      "Xperia S",
+      "Xperia P",
+      "Xperia U",
+      "Xperia sola",
+      "Xperia go",
+      "Xperia GX",
+      "Xperia SX",
+      "Xperia AX",
+      "Xperia T",
+      "Xperia V",
+      "Xperia J",
+      "Xperia Z",
+      "Xperia SP",
+      "Xperia L",
+      "Xperia M",
+      "Xperia C",
+      "Xperia T2 Ultra",
+      "Xperia T3",
+      "Xperia E",
+      "Xperia X",
+      "Xperia XA",
+      "Xperia R1",
+      "Xperia Pro"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "Compact branding",
+      "Premium branding"
+    ],
+    "description": "Sony Xperia's naming strategy has evolved over time. Early models used single letters (X, P, U, etc.) and later the Z series for flagships. In 2016, the X series replaced Z, and in 2019, Sony switched to a number-based system (Xperia 1, 5, 10) for clearer tiering. The 1 series is flagship, 5 is compact flagship, and 10 is mid-range. Pro and Ace are specialized lines for professionals and specific markets."
+  },
+  "summary": {
+    "total_series": 41,
+    "active_series": 4,
+    "discontinued_series": 37,
+    "oldest_series": "Xperia X1",
+    "newest_series": "Xperia 1",
+    "longest_running_series": "Xperia Z (2013-2015)",
+    "most_popular_series": "Xperia Z",
+    "best_selling_series": "Xperia Z",
+    "most_premium_series": "Xperia Pro",
+    "best_budget_series": "Xperia L",
+    "most_influential_series": "Xperia Z",
+    "fastest_growing_series": "Xperia 1",
+    "future_expected_direction": "Sony continues to focus on the Xperia 1, 5, and 10 series, with an emphasis on camera technology, 21:9 displays, and professional-grade features. The Pro line may see further development for professional users."
+  },
+  "missing_series": []
+}

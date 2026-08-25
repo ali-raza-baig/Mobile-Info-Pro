@@ -1,0 +1,1223 @@
+{
+  "brand": "Nokia",
+  "total_series": 23,
+  "series": [
+    {
+      "name": "Nseries",
+      "slug": "nseries",
+      "alternative_names": [
+        "N Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2005,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Multimedia enthusiasts"
+      ],
+      "characteristics": [
+        "Multimedia capabilities",
+        "High-end cameras",
+        "Symbian OS"
+      ],
+      "popular_models": [
+        "N70",
+        "N90",
+        "N91",
+        "N95",
+        "N82",
+        "N8",
+        "N9"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Introduced in 2005 as the flagship multimedia smartphone series.",
+        "Last Nseries phone was the Nokia N9 in 2011.",
+        "The N95 was one of the most iconic and best-selling smartphones of its era."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Eseries",
+      "slug": "eseries",
+      "alternative_names": [
+        "E Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2005,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Enterprise users"
+      ],
+      "characteristics": [
+        "QWERTY keyboards",
+        "Corporate email support",
+        "Enhanced connectivity"
+      ],
+      "popular_models": [
+        "E60",
+        "E61",
+        "E71",
+        "E72",
+        "E90 Communicator",
+        "E7"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Designed for business users with a focus on email and productivity.",
+        "The E90 Communicator was the final model in the Communicator line.",
+        "Discontinued after 2011 as Nokia shifted focus to Windows Phone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Communicator",
+      "slug": "communicator",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 1996,
+      "latest_release_year": 2007,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Business",
+        "Premium"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users"
+      ],
+      "characteristics": [
+        "Clamshell design",
+        "Full QWERTY keyboard",
+        "Large internal display"
+      ],
+      "popular_models": [
+        "9000 Communicator",
+        "9110 Communicator",
+        "9210 Communicator",
+        "9500 Communicator",
+        "E90 Communicator"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Pioneering smartphone series with a PDA-like form factor.",
+        "The E90 Communicator was the last model, folding into the Eseries.",
+        "Known for its high price and niche business appeal."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "N-Gage",
+      "slug": "n-gage",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2003,
+      "latest_release_year": 2004,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers"
+      ],
+      "characteristics": [
+        "Handheld gaming controls",
+        "Symbian OS",
+        "Game deck functionality"
+      ],
+      "popular_models": [
+        "N-Gage",
+        "N-Gage QD"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A hybrid phone and handheld game console.",
+        "Discontinued in 2006 after a short lifespan.",
+        "The N-Gage QD addressed some of the original model's criticisms."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xseries (Original)",
+      "slug": "xseries-original",
+      "alternative_names": [
+        "X Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2009,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Young consumers"
+      ],
+      "characteristics": [
+        "Music-focused",
+        "Vibrant colors",
+        "Affordable"
+      ],
+      "popular_models": [
+        "X3",
+        "X6",
+        "X2-02"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Initially a series of music-focused feature phones and smartphones.",
+        "The X2-02, released in 2012, was the last handset of the original series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xseries (HMD)",
+      "slug": "xseries-hmd",
+      "alternative_names": [
+        "Nokia X Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Tech-savvy users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Pure Android",
+        "5G connectivity",
+        "High refresh rate displays"
+      ],
+      "popular_models": [
+        "X6",
+        "X7",
+        "X20",
+        "X30",
+        "X10",
+        "X71"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "USA"
+      ],
+      "historical_notes": [
+        "Revived by HMD Global in 2018 with the X6 and X5.",
+        "Positioned as a mid-to-upper-mid-range series.",
+        "The X30 5G features PureView technology."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Lumia",
+      "slug": "lumia",
+      "alternative_names": [
+        "Nokia Lumia"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Windows Phone enthusiasts"
+      ],
+      "characteristics": [
+        "Windows Phone",
+        "PureView cameras",
+        "Vibrant design"
+      ],
+      "popular_models": [
+        "Lumia 800",
+        "Lumia 920",
+        "Lumia 1020",
+        "Lumia 1520",
+        "Lumia 520",
+        "Lumia 930"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Nokia's primary smartphone series during the Windows Phone era.",
+        "The Lumia 1020 featured a groundbreaking 41-megapixel camera.",
+        "The brand was transferred to Microsoft in 2014 and became Microsoft Lumia."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Asha",
+      "slug": "asha",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Emerging markets"
+      ],
+      "characteristics": [
+        "Touch and Type",
+        "Nokia Asha platform",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Asha 200",
+        "Asha 300",
+        "Asha 501",
+        "Asha 502",
+        "Asha 503",
+        "Asha 230"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Emerging markets"
+      ],
+      "historical_notes": [
+        "Targeted at emerging markets as an affordable smartphone alternative.",
+        "Ran on the Nokia Asha platform, not full Android.",
+        "Discontinued when Nokia shifted to Windows Phone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "PureView",
+      "slug": "pureview",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users"
+      ],
+      "characteristics": [
+        "High-resolution cameras",
+        "Pixel oversampling",
+        "Carl Zeiss optics"
+      ],
+      "popular_models": [
+        "808 PureView",
+        "Lumia 1020",
+        "Lumia 930",
+        "9 PureView"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Introduced with the Symbian-based Nokia 808 PureView in 2012.",
+        "The technology was later used in Lumia smartphones.",
+        "Revived by HMD with the Nokia 9 PureView in 2019."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "1 series",
+      "slug": "1-series",
+      "alternative_names": [
+        "Nokia 1"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android Go Edition",
+        "Affordable",
+        "Compact"
+      ],
+      "popular_models": [
+        "Nokia 1",
+        "Nokia 1.3",
+        "Nokia 1.4",
+        "Nokia 1 Plus"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Part of HMD Global's Android One series.",
+        "Designed to be the most affordable entry point into the Nokia smartphone ecosystem."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "2 series",
+      "slug": "2-series",
+      "alternative_names": [
+        "Nokia 2"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Stock Android"
+      ],
+      "popular_models": [
+        "Nokia 2",
+        "Nokia 2.1",
+        "Nokia 2.2",
+        "Nokia 2.3",
+        "Nokia 2.4"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Part of HMD Global's entry-level Android One series.",
+        "Known for offering long battery life at a low price point."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "3 series",
+      "slug": "3-series",
+      "alternative_names": [
+        "Nokia 3"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Nokia 3",
+        "Nokia 3.1",
+        "Nokia 3.2",
+        "Nokia 3.4"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Part of HMD Global's Android One series.",
+        "Focused on providing a clean Android experience at a low price."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "4 series",
+      "slug": "4-series",
+      "alternative_names": [
+        "Nokia 4"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "Notch display"
+      ],
+      "popular_models": [
+        "Nokia 4.2"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A single model series from HMD Global.",
+        "The Nokia 4.2 was announced in 2019 as a budget-friendly device."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "5 series",
+      "slug": "5-series",
+      "alternative_names": [
+        "Nokia 5"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "Metal build",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Nokia 5",
+        "Nokia 5.1",
+        "Nokia 5.3",
+        "Nokia 5.4"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Part of HMD Global's Android One series.",
+        "Served as the entry-level mid-range option."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "6 series",
+      "slug": "6-series",
+      "alternative_names": [
+        "Nokia 6"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Value seekers",
+        "Mainstream consumers"
+      ],
+      "characteristics": [
+        "Premium build",
+        "Stock Android",
+        "Good cameras"
+      ],
+      "popular_models": [
+        "Nokia 6",
+        "Nokia 6.1",
+        "Nokia 6.2",
+        "Nokia 6.1 Plus"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "One of the first Android smartphones released by HMD Global.",
+        "Known for its solid build quality and clean Android experience."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "7 series",
+      "slug": "7-series",
+      "alternative_names": [
+        "Nokia 7"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Value seekers",
+        "Photography enthusiasts"
+      ],
+      "characteristics": [
+        "Premium design",
+        "Zeiss optics",
+        "Stock Android"
+      ],
+      "popular_models": [
+        "Nokia 7",
+        "Nokia 7 Plus",
+        "Nokia 7.1",
+        "Nokia 7.2"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Positioned as a high-end mid-range series with a focus on camera quality.",
+        "The Nokia 7 Plus was particularly well-received."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "8 series",
+      "slug": "8-series",
+      "alternative_names": [
+        "Nokia 8"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "High-end specifications",
+        "Zeiss optics",
+        "Premium build"
+      ],
+      "popular_models": [
+        "Nokia 8",
+        "Nokia 8 Sirocco",
+        "Nokia 8.1",
+        "Nokia 8.3 5G"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "HMD Global's flagship series, competing in the premium segment.",
+        "The Nokia 8 Sirocco featured a unique curved glass design.",
+        "The Nokia 8.3 5G was one of the first 5G smartphones from the brand."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "9 series",
+      "slug": "9-series",
+      "alternative_names": [
+        "Nokia 9"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Penta-lens camera",
+        "PureView",
+        "In-display fingerprint sensor"
+      ],
+      "popular_models": [
+        "Nokia 9 PureView"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A unique flagship with a five-camera array on the back.",
+        "Designed to deliver exceptional photography performance.",
+        "Discontinued after a single model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "C series",
+      "slug": "c-series",
+      "alternative_names": [
+        "Nokia C"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Long battery life",
+        "Clean Android"
+      ],
+      "popular_models": [
+        "C1",
+        "C2",
+        "C10",
+        "C20",
+        "C21",
+        "C30",
+        "C32",
+        "C100"
+      ],
+      "primary_markets": [
+        "Global",
+        "USA"
+      ],
+      "historical_notes": [
+        "HMD Global's entry-level Android series.",
+        "Includes carrier-exclusive models like the C100 and C200 for the US market."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G series",
+      "slug": "g-series",
+      "alternative_names": [
+        "Nokia G"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Long battery life",
+        "Large displays",
+        "5G connectivity",
+        "Clean Android"
+      ],
+      "popular_models": [
+        "G10",
+        "G20",
+        "G21",
+        "G50",
+        "G60",
+        "G22",
+        "G42"
+      ],
+      "primary_markets": [
+        "Global",
+        "USA"
+      ],
+      "historical_notes": [
+        "Launched in 2021 as a budget-friendly series.",
+        "Known for offering large batteries and 5G at competitive prices."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "XR series",
+      "slug": "xr-series",
+      "alternative_names": [
+        "Nokia XR"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Industrial workers"
+      ],
+      "characteristics": [
+        "Military-grade durability",
+        "Water and dust resistance",
+        "Clean Android"
+      ],
+      "popular_models": [
+        "XR20",
+        "XR21"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Nokia's rugged smartphone series, designed to withstand harsh conditions.",
+        "The XR20 and XR21 offer 5G connectivity and are built to MIL-STD-810H standards."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "C series (Cricket Wireless)",
+      "slug": "c-series-cricket",
+      "alternative_names": [
+        "Nokia C series Cricket"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Carrier-exclusive"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Cricket Wireless customers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Carrier-branded",
+        "Clean Android"
+      ],
+      "popular_models": [
+        "C2 Tava",
+        "C2 Tennen",
+        "C5 Endi"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "A carrier-exclusive variant of the C series, sold through Cricket Wireless.",
+        "Includes entry-level and mid-range models."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G series (US Carrier-exclusive)",
+      "slug": "g-series-us-carrier",
+      "alternative_names": [
+        "Nokia G100",
+        "Nokia G400"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Carrier-exclusive"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "US carrier customers"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Carrier-branded",
+        "Affordable"
+      ],
+      "popular_models": [
+        "G100",
+        "G400 5G",
+        "G310 5G"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive models in the G series, primarily for the US market.",
+        "Often sold through Verizon and other carriers."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1996,
+      "series": "Communicator"
+    },
+    {
+      "year": 2003,
+      "series": "N-Gage"
+    },
+    {
+      "year": 2005,
+      "series": "Eseries"
+    },
+    {
+      "year": 2005,
+      "series": "Nseries"
+    },
+    {
+      "year": 2009,
+      "series": "Xseries (Original)"
+    },
+    {
+      "year": 2011,
+      "series": "Asha"
+    },
+    {
+      "year": 2011,
+      "series": "Lumia"
+    },
+    {
+      "year": 2012,
+      "series": "PureView"
+    },
+    {
+      "year": 2017,
+      "series": "2 series"
+    },
+    {
+      "year": 2017,
+      "series": "3 series"
+    },
+    {
+      "year": 2017,
+      "series": "5 series"
+    },
+    {
+      "year": 2017,
+      "series": "6 series"
+    },
+    {
+      "year": 2017,
+      "series": "7 series"
+    },
+    {
+      "year": 2017,
+      "series": "8 series"
+    },
+    {
+      "year": 2018,
+      "series": "1 series"
+    },
+    {
+      "year": 2018,
+      "series": "Xseries (HMD)"
+    },
+    {
+      "year": 2019,
+      "series": "4 series"
+    },
+    {
+      "year": 2019,
+      "series": "9 series"
+    },
+    {
+      "year": 2019,
+      "series": "C series"
+    },
+    {
+      "year": 2020,
+      "series": "C series (Cricket Wireless)"
+    },
+    {
+      "year": 2021,
+      "series": "G series"
+    },
+    {
+      "year": 2021,
+      "series": "XR series"
+    },
+    {
+      "year": 2022,
+      "series": "G series (US Carrier-exclusive)"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Nseries",
+      "Lumia",
+      "PureView",
+      "8 series",
+      "9 series"
+    ],
+    "premium": [
+      "Nseries",
+      "Communicator",
+      "Lumia",
+      "PureView",
+      "8 series",
+      "9 series"
+    ],
+    "mid_range": [
+      "Xseries (HMD)",
+      "Lumia",
+      "5 series",
+      "6 series",
+      "G series",
+      "XR series"
+    ],
+    "budget": [
+      "Xseries (Original)",
+      "Lumia",
+      "Asha",
+      "2 series",
+      "3 series",
+      "4 series",
+      "5 series",
+      "C series",
+      "G series",
+      "C series (Cricket Wireless)",
+      "G series (US Carrier-exclusive)"
+    ],
+    "entry_level": [
+      "Xseries (Original)",
+      "Asha",
+      "1 series",
+      "2 series",
+      "3 series",
+      "C series",
+      "C series (Cricket Wireless)"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "N-Gage"
+    ],
+    "camera_focused": [
+      "Nseries",
+      "PureView",
+      "7 series",
+      "8 series",
+      "9 series"
+    ],
+    "business": [
+      "Eseries",
+      "Communicator"
+    ],
+    "rugged": [
+      "XR series"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [
+      "C series (Cricket Wireless)",
+      "G series (US Carrier-exclusive)"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Nseries",
+      "Eseries",
+      "Communicator",
+      "N-Gage",
+      "Xseries (Original)",
+      "Lumia",
+      "Asha",
+      "PureView",
+      "1 series",
+      "2 series",
+      "3 series",
+      "4 series",
+      "5 series",
+      "6 series",
+      "7 series",
+      "8 series",
+      "9 series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "SE branding",
+      "Lite branding",
+      "Ultra branding"
+    ],
+    "description": "Nokia's naming strategy has evolved significantly over time. Early smartphones used letter-based series (N, E, X) to denote market positioning (multimedia, business, music). The Lumia series used a number-based hierarchy. Under HMD Global, the strategy shifted to a combination of single-digit series (1-9) indicating ascending tiers and letter series (C, G, X, XR) for specific market segments (entry, budget, mid-range, rugged). The X series was revived as a higher-tier offering. Carrier-exclusive and regional variants often receive alphanumeric suffixes."
+  },
+  "summary": {
+    "total_series": 23,
+    "active_series": 7,
+    "discontinued_series": 16,
+    "oldest_series": "Communicator (1996)",
+    "newest_series": "G series (US Carrier-exclusive) (2022)",
+    "longest_running_series": "Communicator (1996-2007)",
+    "most_popular_series": "Lumia",
+    "best_selling_series": "Lumia",
+    "most_premium_series": "Nseries",
+    "best_budget_series": "C series",
+    "most_influential_series": "Nseries",
+    "fastest_growing_series": "G series",
+    "future_expected_direction": "HMD Global is likely to continue expanding its G, X, and XR series with a focus on 5G and rugged durability, while potentially exploring foldable or AI-driven features in the future."
+  },
+  "missing_series": []
+}

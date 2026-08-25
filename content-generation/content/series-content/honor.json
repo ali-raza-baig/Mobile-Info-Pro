@@ -1,0 +1,1050 @@
+{
+  "brand": "Honor",
+  "total_series": 17,
+  "series": [
+    {
+      "name": "Magic Series",
+      "slug": "honor-magic-series",
+      "alternative_names": [
+        "Honor Magic",
+        "荣耀Magic系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 550,
+        "highest_usd": 1600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Foldable",
+        "Flip"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Content creators",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Premium build",
+        "Latest Snapdragon chipsets",
+        "Advanced AI cameras",
+        "High refresh rate OLED displays",
+        "Foldable and flip form factors",
+        "Porsche Design editions"
+      ],
+      "popular_models": [
+        "Honor Magic V2",
+        "Honor Magic V3",
+        "Honor Magic V Flip",
+        "Honor Magic8 Pro",
+        "Honor Magic7 RSR Porsche Design"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Europe",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Introduced in 2018 as Honor's flagship series",
+        "Expanded to include foldable devices with the Magic V series",
+        "Includes Porsche Design collaborations",
+        "Represents Honor's most advanced technology"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "N Series",
+      "slug": "honor-n-series",
+      "alternative_names": [
+        "Honor Digital Series",
+        "Honor Number Series",
+        "荣耀数字系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Style-conscious users",
+        "Young professionals"
+      ],
+      "characteristics": [
+        "High-resolution cameras",
+        "Vlog-focused features",
+        "AMOLED displays",
+        "Fast charging",
+        "Fashion-forward design"
+      ],
+      "popular_models": [
+        "Honor 50",
+        "Honor 70",
+        "Honor 90",
+        "Honor 200",
+        "Honor 400",
+        "Honor 500",
+        "Honor 600"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Europe",
+        "Southeast Asia",
+        "India"
+      ],
+      "historical_notes": [
+        "Originated as the Honor Digital Series with the Honor 6 in 2014",
+        "Rebranded as N Series in some global markets",
+        "Skipped the Honor 40 name, jumping from 30 to 50 after Honor's independence from Huawei",
+        "Known for introducing 100W fast charging with the Honor 50 Pro"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Series",
+      "slug": "honor-x-series",
+      "alternative_names": [
+        "荣耀X系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Durable build",
+        "Good value for money",
+        "Large screen-to-body ratio"
+      ],
+      "popular_models": [
+        "Honor 8X",
+        "Honor 9X",
+        "Honor X10",
+        "Honor X30",
+        "Honor X40",
+        "Honor X50",
+        "Honor X60"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Originally launched as the Honor Changwan (畅玩) X series in 2013",
+        "One of Honor's best-selling series, with multiple models exceeding 10 million units sold",
+        "Dropped the 'Changwan' prefix starting with the Honor 8X",
+        "Known for popularizing full-screen displays and high-value specifications in the budget segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Play Series",
+      "slug": "honor-play-series",
+      "alternative_names": [
+        "荣耀Play系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Budget",
+        "Mid Range",
+        "Online-exclusive"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Young users",
+        "Online shoppers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Gaming-focused features",
+        "GPU Turbo technology",
+        "Large batteries",
+        "High refresh rate displays",
+        "Value-oriented pricing"
+      ],
+      "popular_models": [
+        "Honor Play",
+        "Honor Play4T",
+        "Honor Play5",
+        "Honor Play8T",
+        "Honor Play10",
+        "Honor Play11 Plus"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Launched in 2018 with the original Honor Play, introducing GPU Turbo graphics acceleration technology",
+        "Primarily sold through online channels",
+        "Positioned as a gaming and entertainment-focused series",
+        "Expanded to include various budget and mid-range gaming devices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Changwan Series",
+      "slug": "honor-changwan-series",
+      "alternative_names": [
+        "Honor Changwan",
+        "荣耀畅玩系列",
+        "Honor Play (early models)"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Senior citizens",
+        "Students"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Simple designs",
+        "Durable construction",
+        "Basic smartphone features",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Honor Changwan 3C",
+        "Honor Changwan 4A",
+        "Honor Changwan 5",
+        "Honor Changwan 20",
+        "Honor Changwan 40",
+        "Honor Changwan 60",
+        "Honor Changwan 80"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Honor's entry-level series",
+        "Originally part of the X series (Changwan X)",
+        "Became a separate entry-level lineup",
+        "Focuses on basic functionality and long battery life at very affordable prices",
+        "One of Honor's most widely available series in developing markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "honor-v-series",
+      "alternative_names": [
+        "Honor View Series",
+        "荣耀V系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Mobile photographers",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Cutting-edge technology",
+        "VR capabilities",
+        "High-resolution displays",
+        "Dual cameras",
+        "Premium specifications"
+      ],
+      "popular_models": [
+        "Honor V8",
+        "Honor View 10",
+        "Honor View 20",
+        "Honor View 30",
+        "Honor V40"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Introduced in 2016 as a flagship sub-series focused on 'extreme technology'",
+        "Positioned alongside the Digital Series but with more advanced features",
+        "Known for VR capabilities and dual-camera innovations",
+        "Discontinued after the V40 as Honor restructured its lineup following independence from Huawei"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Note Series",
+      "slug": "honor-note-series",
+      "alternative_names": [
+        "Honor Note",
+        "荣耀Note系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users",
+        "Media consumers"
+      ],
+      "characteristics": [
+        "Extra-large displays (6.6-7 inches)",
+        "High-capacity batteries",
+        "AMOLED screens",
+        "Premium processors",
+        "Stylus-like productivity features"
+      ],
+      "popular_models": [
+        "Honor Note 8",
+        "Honor Note 10"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Short-lived series focused on extra-large screen devices",
+        "Positioned as productivity and media consumption devices",
+        "Discontinued after the Note 10 as phablet trends evolved",
+        "Served as Honor's answer to the large-format smartphone market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "GT Series",
+      "slug": "honor-gt-series",
+      "alternative_names": [
+        "荣耀GT系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Premium"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Performance enthusiasts",
+        "Young users"
+      ],
+      "characteristics": [
+        "High-performance Snapdragon chipsets",
+        "High refresh rate AMOLED displays",
+        "Large batteries with fast charging",
+        "Gaming-optimized features",
+        "Aggressive design"
+      ],
+      "popular_models": [
+        "Honor GT",
+        "Honor GT Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "New gaming-focused series launched in 2024",
+        "Positioned as a performance-oriented lineup",
+        "Targets the mobile gaming market with top-tier specifications"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Purse Series",
+      "slug": "honor-v-purse-series",
+      "alternative_names": [
+        "荣耀V Purse"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 822,
+        "highest_usd": 959,
+        "estimated": false
+      },
+      "market_position": [
+        "Foldable",
+        "Lifestyle",
+        "Premium"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Early adopters",
+        "Style-focused consumers"
+      ],
+      "characteristics": [
+        "Outward-folding design",
+        "Ultra-slim profile (8.6mm folded)",
+        "Fashionable accessory-like appearance",
+        "Customizable straps",
+        "Lightweight construction"
+      ],
+      "popular_models": [
+        "Honor V Purse"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Experimental outward-folding smartphone launched in 2023",
+        "Positioned as a fashion accessory and concept device",
+        "World's thinnest foldable phone at launch",
+        "Limited release as a concept device rather than a mass-market product",
+        "Notable for its unique handbag-inspired design"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Power Series",
+      "slug": "honor-power-series",
+      "alternative_names": [
+        "荣耀Power系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Heavy users",
+        "Travelers",
+        "Students"
+      ],
+      "characteristics": [
+        "Extra-large batteries",
+        "Long battery life",
+        "Durable construction",
+        "Basic to mid-range specifications",
+        "Value-oriented pricing"
+      ],
+      "popular_models": [
+        "Honor Power2",
+        "Honor Power3"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "New series focused on extreme battery life",
+        "Positioned as a budget-friendly option for users who prioritize battery endurance",
+        "Represents Honor's focus on battery innovation"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "WIN Series",
+      "slug": "honor-win-series",
+      "alternative_names": [
+        "荣耀WIN系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Productivity users",
+        "Corporate users"
+      ],
+      "characteristics": [
+        "Productivity-focused features",
+        "Business-oriented software",
+        "Reliable performance",
+        "Professional design"
+      ],
+      "popular_models": [
+        "Honor WIN",
+        "Honor WIN RT",
+        "Honor WIN Turbo"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Newer series focused on business and productivity users",
+        "Part of Honor's expansion into specialized market segments",
+        "Includes both smartphones and other devices in the WIN ecosystem"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Holly Series",
+      "slug": "honor-holly-series",
+      "alternative_names": [
+        "荣耀Holly系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Compact designs",
+        "Basic specifications",
+        "Affordable pricing",
+        "Entry-level performance"
+      ],
+      "popular_models": [
+        "Honor Holly",
+        "Honor Holly 3",
+        "Honor Holly 4",
+        "Honor Holly 4 Plus"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Entry-level series targeted primarily at emerging markets",
+        "Focused on affordability and basic smartphone functionality",
+        "Discontinued as the Changwan series filled the entry-level segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Magic V Series",
+      "slug": "honor-magic-v-series",
+      "alternative_names": [
+        "Honor Magic V",
+        "荣耀Magic V系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 1200,
+        "highest_usd": 2000,
+        "estimated": true
+      },
+      "market_position": [
+        "Foldable",
+        "Flagship",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Early adopters",
+        "Luxury consumers"
+      ],
+      "characteristics": [
+        "Book-style foldable design",
+        "Ultra-thin profiles",
+        "Large inner and outer displays",
+        "Premium materials",
+        "High-end specifications"
+      ],
+      "popular_models": [
+        "Honor Magic V",
+        "Honor Magic V2",
+        "Honor Magic V3",
+        "Honor Magic V5",
+        "Honor Magic V6"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Sub-series of the Magic lineup focused on foldable smartphones",
+        "Introduced in 2022 with the original Magic V",
+        "Known for pushing the boundaries of foldable thinness and durability",
+        "Competes directly with Samsung's Galaxy Z Fold series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Magic V Flip Series",
+      "slug": "honor-magic-v-flip-series",
+      "alternative_names": [
+        "Honor Magic V Flip",
+        "荣耀Magic V Flip系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 700,
+        "highest_usd": 900,
+        "estimated": false
+      },
+      "market_position": [
+        "Flip",
+        "Premium",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Young professionals",
+        "Style-focused consumers"
+      ],
+      "characteristics": [
+        "Clamshell foldable design",
+        "Large cover display",
+        "Compact form factor",
+        "Premium cameras",
+        "Fashionable colors and designs"
+      ],
+      "popular_models": [
+        "Honor Magic V Flip",
+        "Honor Magic V Flip2"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Flip-style foldable sub-series of the Magic lineup",
+        "Introduced in 2024 as Honor's entry into the clamshell foldable market",
+        "Features a large 4.0-inch cover display",
+        "Includes special edition collaborations with fashion designers"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Robot Phone Series",
+      "slug": "honor-robot-phone-series",
+      "alternative_names": [
+        "荣耀Robot Phone"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "AI-focused",
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "AI early adopters",
+        "Innovation seekers"
+      ],
+      "characteristics": [
+        "Advanced AI capabilities",
+        "AI-focused software features",
+        "Innovative AI camera systems",
+        "Cutting-edge AI processing"
+      ],
+      "popular_models": [
+        "Honor Robot Phone"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Experimental series focused on advanced AI capabilities",
+        "Represents Honor's exploration of AI-first smartphone experiences",
+        "Limited availability and experimental positioning"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "A Series",
+      "slug": "honor-a-series",
+      "alternative_names": [
+        "荣耀A系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Entry-level users"
+      ],
+      "characteristics": [
+        "Basic smartphone features",
+        "Affordable pricing",
+        "Entry-level specifications",
+        "Simple designs"
+      ],
+      "popular_models": [
+        "Honor A4F",
+        "Honor A7E",
+        "Honor A7D",
+        "Honor A5DP"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Entry-level series with basic smartphone functionality",
+        "Part of Honor's broader entry-level strategy",
+        "Limited information available about this series"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "P Series",
+      "slug": "honor-p-series",
+      "alternative_names": [
+        "荣耀P系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Mid-range specifications",
+        "Good value proposition",
+        "Balanced features",
+        "Entry-level to mid-range performance"
+      ],
+      "popular_models": [
+        "Honor P3EM"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Mid-range to budget series",
+        "Limited information available about this series",
+        "Appears to be a newer addition to Honor's lineup"
+      ],
+      "confidence": "Low"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "N Series"
+    },
+    {
+      "year": 2013,
+      "series": "X Series"
+    },
+    {
+      "year": 2013,
+      "series": "Changwan Series"
+    },
+    {
+      "year": 2014,
+      "series": "Holly Series"
+    },
+    {
+      "year": 2016,
+      "series": "Note Series"
+    },
+    {
+      "year": 2016,
+      "series": "V Series"
+    },
+    {
+      "year": 2018,
+      "series": "Magic Series"
+    },
+    {
+      "year": 2018,
+      "series": "Play Series"
+    },
+    {
+      "year": 2022,
+      "series": "Magic V Series"
+    },
+    {
+      "year": 2023,
+      "series": "V Purse Series"
+    },
+    {
+      "year": 2024,
+      "series": "Magic V Flip Series"
+    },
+    {
+      "year": 2024,
+      "series": "GT Series"
+    },
+    {
+      "year": 2025,
+      "series": "Power Series"
+    },
+    {
+      "year": 2025,
+      "series": "WIN Series"
+    },
+    {
+      "year": 2025,
+      "series": "Robot Phone Series"
+    },
+    {
+      "year": 2025,
+      "series": "A Series"
+    },
+    {
+      "year": 2025,
+      "series": "P Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Magic Series",
+      "V Series",
+      "Magic V Series"
+    ],
+    "premium": [
+      "Magic Series",
+      "N Series",
+      "V Series",
+      "Magic V Series",
+      "Magic V Flip Series",
+      "V Purse Series",
+      "Robot Phone Series"
+    ],
+    "mid_range": [
+      "N Series",
+      "X Series",
+      "Play Series",
+      "Power Series",
+      "WIN Series",
+      "P Series"
+    ],
+    "budget": [
+      "X Series",
+      "Play Series",
+      "Changwan Series",
+      "Holly Series",
+      "Power Series",
+      "A Series"
+    ],
+    "entry_level": [
+      "X Series",
+      "Changwan Series",
+      "Holly Series",
+      "A Series"
+    ],
+    "foldable": [
+      "Magic V Series",
+      "V Purse Series"
+    ],
+    "flip": [
+      "Magic V Flip Series"
+    ],
+    "gaming": [
+      "Play Series",
+      "GT Series"
+    ],
+    "camera_focused": [
+      "N Series",
+      "V Series",
+      "Magic Series"
+    ],
+    "business": [
+      "WIN Series",
+      "Note Series"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "V Purse Series",
+      "Magic V Flip Series"
+    ],
+    "ai_focused": [
+      "Robot Phone Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Play Series"
+    ],
+    "discontinued": [
+      "V Series",
+      "Note Series",
+      "Holly Series",
+      "V Purse Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Fold Series",
+      "Flip Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "GT branding",
+      "Turbo branding",
+      "Lite branding",
+      "SE branding",
+      "T branding"
+    ],
+    "description": "Honor employs a multi-layered naming strategy across its product lines. The N Series uses sequential numbers (50, 70, 90, 100, 200, etc.) with Pro, Lite, and Ultra variants. The Magic Series uses sequential numbers with Pro, RSR Porsche Design, and foldable (V) variants. The X Series uses sequential numbers for budget devices. The Play and GT series target gamers with performance-oriented branding. Foldable devices use the 'V' designation within the Magic series (Magic V, Magic V Flip). The company also uses letter-based series (A, P) for entry-level devices and thematic names (Power, WIN) for specialized segments."
+  },
+  "summary": {
+    "total_series": 17,
+    "active_series": 13,
+    "discontinued_series": 4,
+    "oldest_series": "N Series",
+    "newest_series": "GT Series",
+    "longest_running_series": "N Series",
+    "most_popular_series": "X Series",
+    "best_selling_series": "X Series",
+    "most_premium_series": "Magic V Series",
+    "best_budget_series": "X Series",
+    "most_influential_series": "Magic Series",
+    "fastest_growing_series": "Magic V Flip Series",
+    "future_expected_direction": "Honor is expected to continue expanding its foldable portfolio with thinner and more durable devices, enhance AI integration across all series, and potentially introduce new specialized series in emerging categories like AR/VR devices and AI-first smartphones."
+  },
+  "missing_series": [
+    "Honor Y Series ",
+    "Honor C Series ",
+    "Honor L Series ",
+    "Honor H Series ",
+    "Honor Q Series "
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "brand": "Ulefone",
+  "total_series": 12,
+  "series": [
+    {
+      "name": "Armor",
+      "slug": "armor",
+      "alternative_names": [
+        "Armadura"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Professionals",
+        "Adventurers"
+      ],
+      "characteristics": [
+        "IP68/IP69K",
+        "MIL-STD-810H",
+        "Thermal imaging",
+        "Large battery",
+        "Night vision"
+      ],
+      "popular_models": [
+        "Armor 7",
+        "Armor 8",
+        "Armor 11",
+        "Armor 28 Ultra",
+        "Armor 29 Pro",
+        "Armor 34 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "First rugged series",
+        "Introduced thermal imaging",
+        "Flagship rugged line"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Armor X",
+      "slug": "armor-x",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Outdoor workers"
+      ],
+      "characteristics": [
+        "IP68/IP69K",
+        "MIL-STD-810H",
+        "Large battery",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Armor X3",
+        "Armor X5",
+        "Armor X6 Pro",
+        "Armor X16 Pro",
+        "Armor X31 Pro",
+        "Armor X32 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "More affordable rugged series",
+        "Entry-level rugged line"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Armor Mini",
+      "slug": "armor-mini",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Compact",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Users seeking compact rugged phones",
+        "Outdoor minimalists"
+      ],
+      "characteristics": [
+        "Compact design",
+        "IP68/IP69K",
+        "Thermal imaging",
+        "Night vision"
+      ],
+      "popular_models": [
+        "Armor Mini 20",
+        "Armor Mini 20 Pro",
+        "Armor Mini 20T Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Pocket-sized rugged series",
+        "Smallest rugged phones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Note",
+      "slug": "note",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Large display",
+        "Long battery life",
+        "Affordable",
+        "Slim design"
+      ],
+      "popular_models": [
+        "Note 7",
+        "Note 10",
+        "Note 15",
+        "Note 17 Pro",
+        "Note 19",
+        "Note 20 Pro",
+        "Note 21"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Non-rugged budget series",
+        "First OLED model: Note 17 Pro"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Power",
+      "slug": "power",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 210,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Battery-conscious users"
+      ],
+      "characteristics": [
+        "Massive battery",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Power",
+        "Power 2",
+        "Power 3S",
+        "Power 5"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Focus on battery life",
+        "Replaced by Power Armor series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Power Armor",
+      "slug": "power-armor",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Premium",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Professionals",
+        "Outdoor enthusiasts",
+        "Power users"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Large battery",
+        "Thermal imaging",
+        "Night vision"
+      ],
+      "popular_models": [
+        "Power Armor 13",
+        "Power Armor 16 Pro",
+        "Power Armor 18 Ultra",
+        "Power Armor 19",
+        "Power Armor 20WT"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Combines Power and Armor features",
+        "Focus on battery and ruggedness"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "RugKing",
+      "slug": "rugking",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 110,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Rugged",
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time rugged buyers"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Affordable",
+        "IP68/IP69K",
+        "MIL-STD-810H"
+      ],
+      "popular_models": [
+        "RugKing",
+        "RugKing 2 Pro",
+        "RugKing 3 Pro",
+        "RugKing 4 Pro",
+        "RugKing 5 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Value-focused rugged series",
+        "Entry-level rugged line"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S",
+      "slug": "s",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Compact",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "S1",
+        "S7",
+        "S8",
+        "S8 Pro",
+        "S9 Pro",
+        "S10 Pro",
+        "S11"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level non-rugged series",
+        "Discontinued"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mainstream consumers"
+      ],
+      "characteristics": [
+        "Notch display",
+        "Dual cameras",
+        "Wireless charging"
+      ],
+      "popular_models": [
+        "X"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Short-lived non-rugged series",
+        "Only one model"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Mix",
+      "slug": "mix",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mainstream consumers",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Bezel-less display",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Mix",
+        "Mix 2"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Bezel-less design",
+        "Discontinued"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "T",
+      "slug": "t",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High-performance",
+        "Premium design",
+        "Flagship specs"
+      ],
+      "popular_models": [
+        "T1",
+        "T1 Premium",
+        "T2 Pro",
+        "T3"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Flagship non-rugged series",
+        "Discontinued"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xever",
+      "slug": "xever",
+      "alternative_names": [],
+      "sub_brand": "RugOne",
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Outdoor professionals",
+        "Adventurers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Removable battery",
+        "Thermal imaging",
+        "AMOLED display",
+        "High performance"
+      ],
+      "popular_models": [
+        "Xever 7",
+        "Xever 7 Pro",
+        "Xever 8"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Sub-brand RugOne",
+        "World's first rugged phone with removable battery"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2015,
+      "series": "Power"
+    },
+    {
+      "year": 2017,
+      "series": "Armor"
+    },
+    {
+      "year": 2017,
+      "series": "S"
+    },
+    {
+      "year": 2017,
+      "series": "Mix"
+    },
+    {
+      "year": 2017,
+      "series": "T"
+    },
+    {
+      "year": 2018,
+      "series": "Armor X"
+    },
+    {
+      "year": 2018,
+      "series": "X"
+    },
+    {
+      "year": 2019,
+      "series": "Note"
+    },
+    {
+      "year": 2022,
+      "series": "Power Armor"
+    },
+    {
+      "year": 2024,
+      "series": "Armor Mini"
+    },
+    {
+      "year": 2025,
+      "series": "RugKing"
+    },
+    {
+      "year": 2025,
+      "series": "Xever"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "T",
+      "Xever"
+    ],
+    "premium": [
+      "Armor",
+      "Power Armor",
+      "Xever"
+    ],
+    "mid_range": [
+      "Armor",
+      "Armor X",
+      "Armor Mini",
+      "Note",
+      "Power",
+      "X",
+      "Mix"
+    ],
+    "budget": [
+      "Armor X",
+      "Note",
+      "Power",
+      "RugKing",
+      "S"
+    ],
+    "entry_level": [
+      "Note",
+      "RugKing",
+      "S"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [
+      "Armor",
+      "Armor X",
+      "Armor Mini",
+      "Power Armor",
+      "RugKing",
+      "Xever"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Power",
+      "S",
+      "X",
+      "Mix",
+      "T"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "Mini branding",
+      "T branding"
+    ],
+    "description": "Ulefone uses a mix of letter-based series (Armor, Note, Power, etc.) and number-based models. Rugged series often carry 'Armor' branding. Pro, Plus, Ultra, and T suffixes denote higher-end variants within a series. Mini indicates compact models."
+  },
+  "summary": {
+    "total_series": 12,
+    "active_series": 7,
+    "discontinued_series": 5,
+    "oldest_series": "Power",
+    "newest_series": "Xever",
+    "longest_running_series": "Armor",
+    "most_popular_series": "Armor",
+    "best_selling_series": "Armor",
+    "most_premium_series": "Xever",
+    "best_budget_series": "RugKing",
+    "most_influential_series": "Armor",
+    "fastest_growing_series": "RugKing",
+    "future_expected_direction": "Continued focus on rugged smartphones with advanced features like thermal imaging, AI, and large batteries; expansion of sub-brands like RugOne."
+  },
+  "missing_series": []
+}

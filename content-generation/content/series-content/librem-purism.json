@@ -1,0 +1,112 @@
+{
+  "brand": "Purism",
+  "total_series": 1,
+  "series": [
+    {
+      "name": "Librem 5",
+      "slug": "librem-5",
+      "alternative_names": [
+        "Librem 5 USA",
+        "Liberty Phone",
+        "Librem 5r"
+      ],
+      "sub_brand": "Librem",
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 799,
+        "highest_usd": 1999,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Privacy-conscious users",
+        "Linux enthusiasts"
+      ],
+      "characteristics": [
+        "PureOS (Linux-based)",
+        "Hardware kill switches",
+        "Convergent operating system",
+        "Open-source hardware and software",
+        "Replaceable battery"
+      ],
+      "popular_models": [
+        "Librem 5",
+        "Librem 5 USA",
+        "Liberty Phone",
+        "Librem 5r"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "First mass-produced fully open-source GNU/Linux smartphone",
+        "Initially crowdfunded with iterative transparent shipping",
+        "Liberty Phone variant introduced as a US-assembled version with US-sourced electronics",
+        "Features physical hardware kill switches for cellular, Wi-Fi/Bluetooth, and microphone/camera"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2019,
+      "series": "Librem 5"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "Librem 5"
+    ],
+    "mid_range": [],
+    "budget": [],
+    "entry_level": [],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [
+      "Librem 5"
+    ],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Librem 5"
+    ],
+    "discontinued": []
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series"
+    ],
+    "description": "Purism uses a simple number-based naming strategy for its Librem product line (e.g., Librem 5), indicating the product category and generation without complex suffixes. Variants like 'USA' or 'Liberty' denote specific assembly or component sourcing distinctions rather than separate series."
+  },
+  "summary": {
+    "total_series": 1,
+    "active_series": 1,
+    "discontinued_series": 0,
+    "oldest_series": "Librem 5",
+    "newest_series": "Librem 5",
+    "longest_running_series": "Librem 5",
+    "most_popular_series": "Librem 5",
+    "best_selling_series": "Librem 5",
+    "most_premium_series": "Librem 5",
+    "best_budget_series": "Unknown",
+    "most_influential_series": "Librem 5",
+    "fastest_growing_series": "Librem 5",
+    "future_expected_direction": "Continued focus on privacy, security, and US-based manufacturing (Liberty Phone), with ongoing PureOS software convergence and hardware refinement."
+  },
+  "missing_series": []
+}

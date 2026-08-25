@@ -1,11 +1,20 @@
 version: '0.1'
 
 services:
-  images:
-    build: ./images-setup
-    container_name: 'mobile-info-images'
+  backend:
+    build: ./backend
+    container_name: 'mobile-info-backend'
     ports:
-      - "9000:9000"
+      - "8080:8080"
+    networks:
+      - mobile-info-pro
+    restart: unless-stopped
+
+  content:
+    build: ./content-generation
+    container_name: 'mobile-info-content'
+    ports:
+      - "8000:8000"
     networks:
       - mobile-info-pro
     restart: unless-stopped

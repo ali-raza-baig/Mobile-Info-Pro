@@ -1,6 +1,7 @@
 import dotenv from 'dotenv'
 dotenv.config()
-import fs from 'fs'
+import fs from 'fs/promises'
+
 
 import { Ollama } from "ollama";
 import parseJSON from "../utils/parseJson.js";
@@ -10,8 +11,11 @@ import {
     brand_about_prompt,
     brand_faq_prompt,
     brand_seo_prompt,
+    brand_logo_prompt,
+    brand_hero_img_prompt,
 } from "../prompts/brand.js";
 import path from 'path';
+import uploadImage from '../utils/uploadImage.js';
 
 // const MODEL = "gemma4";
 const MODEL = "gpt-oss:120b";
@@ -211,34 +215,192 @@ export const brandsContentGenerate = async () => {
     }
 };
 
-export const brandsImageGenerate = async () => {
-    console.log(`started .....`)
+export const brandsImagePrompt = async () => {
+    console.log('===================')
+    console.log(`Started Writting Brand Images Prompt  .....`)
+    console.log('===================')
     try {
 
-        const brands = await pendingBrands({ isImageCompleted: false })
+        const brands = await fetchPendingBrands({ isImageCompleted: false })
 
-        brandModel.find({ isCompleted: 'content completed', isImageCompleted: false })
+        console.log(`Total pending brands for images`, brands.length)
 
-        if (!brands.length) {
-            console.log("No pending brands found.");
-            return;
-        }
-        console.log(`Found ${brands.length} brands.\n`);
+        const folderPathBrand = path.join(process.cwd(), 'images-prompt-brand')
+
+        await fs.mkdir(folderPathBrand, {
+            recursive: true
+        })
+
+
 
         for (let i = 0; i < brands.length; i++) {
+            const brand = brands[i]
+
             try {
+                const contentLogo = `${i + 1}. Brand Name:${brand.name}
+                \n image File Name:brand-logo-${brand.name}
+                \n
+                `
+                const filePathLogo = path.join(folderPathBrand, `brand-logo-images.txt`)
+                await fs.appendFile(filePathLogo, contentLogo, 'utf-8')
+
+                const contentHero = `${i + 1}. Brand Name:${brand.name}
+                \n image File Name:brand-hero-${brand.name}
+                \n`
+
+                const filePathHero = path.join(folderPathBrand, `brand-hero-images.txt`)
+                await fs.appendFile(filePathHero, contentHero, 'utf-8')
+
+
 
             } catch (error) {
-                console.error(
-                    `❌ Failed to generate image for ${brand.name}`
-                );
-                console.error(err.message);
+                console.log(`Error in creating logo prompt file for ${brand.name}`)
+                console.log(error)
             }
         }
-
-
+        console.log(`✅ Completed`)
     } catch (error) {
         console.error("Brands Image Generator Error");
         console.error(error);
+    }
+}
+
+export const brandsImageUpload = async () => {
+    try {
+        const brands = await fetchPendingBrands({
+            isImageCompleted: false
+        })
+
+        console.log(`Total pending brands for images: ${brands.length}`)
+
+        const folderPathLogo = path.join(
+            process.cwd(),
+            "images",
+            "brands-logo"
+        )
+
+        const folderPathHero = path.join(
+            process.cwd(),
+            "images",
+            "brands-hero"
+        )
+
+        // Find file without requiring extension
+        const findImage = (folderPath, baseName) => {
+            const file = fs.readdirSync(folderPath).find(
+                (file) => path.parse(file).name === baseName
+            )
+
+            if (!file) {
+                throw new Error(
+                    `Image not found: ${baseName} in ${folderPath}`
+                )
+            }
+
+            return path.join(folderPath, file)
+        }
+
+        for (const brand of brands) {
+            try {
+                console.log(`\nProcessing brand: ${brand.name}`)
+
+                // Find images regardless of extension
+                const filePathLogo = findImage(
+                    folderPathLogo,
+                    `brand-logo-${brand.name}`
+                )
+
+                const filePathHero = findImage(
+                    folderPathHero,
+                    `brand-hero-${brand.name}`
+                )
+
+                console.log("Logo:", filePathLogo)
+                console.log("Hero:", filePathHero)
+
+                // =========================
+                // Upload Logo
+                // =========================
+
+                const logoFormData = new FormData()
+
+                logoFormData.append(
+                    "image",
+                    fs.createReadStream(filePathLogo)
+                )
+
+                logoFormData.append(
+                    "name",
+                    `brand-logo-${brand.name}`
+                )
+
+                logoFormData.append(
+                    "removeBg",
+                    String(true)
+                )
+
+                logoFormData.append(
+                    "width",
+                    String(120)
+                )
+
+                logoFormData.append(
+                    "height",
+                    String(120)
+                )
+
+                const logoImage = await uploadImage({
+                    formData: logoFormData
+                })
+
+                // =========================
+                // Upload Hero
+                // =========================
+
+                const heroFormData = new FormData()
+
+                heroFormData.append(
+                    "image",
+                    fs.createReadStream(filePathHero)
+                )
+
+                heroFormData.append(
+                    "name",
+                    `brand-hero-${brand.name}`
+                )
+
+                heroFormData.append(
+                    "removeBg",
+                    String(true)
+                )
+
+                const heroImage = await uploadImage({
+                    formData: heroFormData
+                })
+
+                // =========================
+                // Update Brand
+                // =========================
+
+                await updateBrands(brand.slug, {
+                    isImageCompleted: true,
+                    isActive: true,
+                    logo: logoImage,
+                    heroImage: heroImage
+                })
+
+                console.log(`✓ Images uploaded: ${brand.name}`)
+
+            } catch (error) {
+                console.log(`✗ Error uploading images for ${brand.name}`)
+
+                console.log(error?.response?.data || error?.message || error)
+            }
+        }
+
+    } catch (error) {
+        console.log(`Error in uploading brand images`)
+
+        console.log(error?.response?.data || error?.message || error)
     }
 }

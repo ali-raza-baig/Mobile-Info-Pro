@@ -1,0 +1,504 @@
+{
+  "brand": "Lanix",
+  "total_series": 8,
+  "series": [
+    {
+      "name": "Ilium S",
+      "slug": "ilium-s",
+      "alternative_names": [
+        "Lanix Ilium S"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2012,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 199,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic smartphone features",
+        "Compact design",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Ilium S100",
+        "Ilium S130",
+        "Ilium S400",
+        "Ilium S420",
+        "Ilium S500",
+        "Ilium S520",
+        "Ilium S700"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "First smartphone series released by Lanix in 2012",
+        "Positioned Lanix as a domestic smartphone brand in Mexico"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium U",
+      "slug": "ilium-u",
+      "alternative_names": [
+        "Lanix Ilium U"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 79,
+        "highest_usd": 99,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Extremely budget-conscious users"
+      ],
+      "characteristics": [
+        "Very basic specs",
+        "Small displays",
+        "Low RAM"
+      ],
+      "popular_models": [
+        "Ilium U100",
+        "Ilium U340"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "Short-lived entry-level series",
+        "U340 later appeared as a KaiOS smart feature device"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium X",
+      "slug": "ilium-x",
+      "alternative_names": [
+        "Lanix Ilium X"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2014,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 89,
+        "highest_usd": 179,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Basic cameras",
+        "Standard displays"
+      ],
+      "popular_models": [
+        "Ilium X1",
+        "Ilium X110",
+        "Ilium X200",
+        "Ilium X210",
+        "Ilium X220",
+        "Ilium X510",
+        "Ilium X550",
+        "Ilium X710",
+        "Ilium X750",
+        "Ilium X860"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "Focused on providing affordable Android smartphones with basic multimedia capabilities"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium L",
+      "slug": "ilium-l",
+      "alternative_names": [
+        "Lanix Ilium L"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2015,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 249,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Larger displays",
+        "Decent battery life",
+        "Affordable pricing",
+        "Fingerprint sensors in later models"
+      ],
+      "popular_models": [
+        "Ilium L400",
+        "Ilium L420",
+        "Ilium L500",
+        "Ilium L610",
+        "Ilium L620",
+        "Ilium L820",
+        "Ilium L910",
+        "Ilium L920",
+        "Ilium L950",
+        "Ilium L1000",
+        "Ilium L1050",
+        "Ilium L1120",
+        "Ilium L1200",
+        "Ilium L1400"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico",
+        "Colombia"
+      ],
+      "historical_notes": [
+        "One of Lanix's most extensive and popular series",
+        "Included some of the cheapest smartphones with fingerprint readers in Latin America"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium LT",
+      "slug": "ilium-lt",
+      "alternative_names": [
+        "Lanix Ilium LT"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 129,
+        "highest_usd": 199,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Users seeking better performance on a budget"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Better processors than entry-level",
+        "Balanced specs"
+      ],
+      "popular_models": [
+        "Ilium LT500",
+        "Ilium LT510",
+        "Ilium LT520"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico",
+        "Uruguay"
+      ],
+      "historical_notes": [
+        "LT stood for LTE, marking Lanix's push into 4G connectivity",
+        "First market in the southern cone was Uruguay"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium W",
+      "slug": "ilium-w",
+      "alternative_names": [
+        "Lanix Ilium W"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 99,
+        "highest_usd": 129,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Windows Phone enthusiasts",
+        "Budget users"
+      ],
+      "characteristics": [
+        "Windows Phone OS",
+        "Basic hardware"
+      ],
+      "popular_models": [
+        "Ilium W250"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "Lanix's first and only smartphone with Windows Phone OS",
+        "Short-lived due to the decline of the Windows Phone platform"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium Alpha",
+      "slug": "ilium-alpha",
+      "alternative_names": [
+        "Alpha",
+        "Lanix Alpha"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2017,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 299,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious budget users",
+        "Students",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Modern design",
+        "Large displays",
+        "Multiple cameras",
+        "Android OS"
+      ],
+      "popular_models": [
+        "Ilium Alpha 1s",
+        "Ilium Alpha 1T",
+        "Ilium Alpha 1V",
+        "Ilium Alpha 2",
+        "Ilium Alpha 3",
+        "Ilium Alpha 3V",
+        "Ilium Alpha 5V",
+        "Ilium Alpha 6",
+        "Ilium Alpha 9",
+        "Ilium Alpha 9V",
+        "Ilium Alpha 950",
+        "Ilium Alpha 950XL"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "Became the flagship budget/mid-range series for Lanix",
+        "Replaced older naming conventions with a more modern 'Alpha' branding",
+        "Recent models like Alpha 6 continue to be marketed actively"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ilium M",
+      "slug": "ilium-m",
+      "alternative_names": [
+        "Lanix Ilium M"
+      ],
+      "sub_brand": "Ilium",
+      "first_release_year": 2019,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 89,
+        "highest_usd": 159,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Entertainment seekers"
+      ],
+      "characteristics": [
+        "Entertainment-focused",
+        "Large screens",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Ilium M1",
+        "Ilium M5",
+        "Ilium M7",
+        "Ilium M7V",
+        "Ilium M9",
+        "Ilium M9V"
+      ],
+      "primary_markets": [
+        "Latin America",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "Marketed as an accessible entertainment-focused smartphone lineup",
+        "Later models included 'V' suffix indicating updated variants"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Ilium S"
+    },
+    {
+      "year": 2014,
+      "series": "Ilium U"
+    },
+    {
+      "year": 2014,
+      "series": "Ilium X"
+    },
+    {
+      "year": 2015,
+      "series": "Ilium L"
+    },
+    {
+      "year": 2015,
+      "series": "Ilium W"
+    },
+    {
+      "year": 2016,
+      "series": "Ilium LT"
+    },
+    {
+      "year": 2017,
+      "series": "Ilium Alpha"
+    },
+    {
+      "year": 2019,
+      "series": "Ilium M"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [],
+    "mid_range": [
+      "Ilium L",
+      "Ilium LT",
+      "Ilium Alpha"
+    ],
+    "budget": [
+      "Ilium S",
+      "Ilium X",
+      "Ilium L",
+      "Ilium LT",
+      "Ilium W",
+      "Ilium Alpha",
+      "Ilium M"
+    ],
+    "entry_level": [
+      "Ilium S",
+      "Ilium U",
+      "Ilium X",
+      "Ilium W",
+      "Ilium M"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Ilium Alpha"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Ilium S",
+      "Ilium U",
+      "Ilium X",
+      "Ilium L",
+      "Ilium LT",
+      "Ilium W",
+      "Ilium Alpha",
+      "Ilium M"
+    ],
+    "carrier_exclusive": [
+      "Ilium U",
+      "Ilium W"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Ilium S",
+      "Ilium U",
+      "Ilium X",
+      "Ilium L",
+      "Ilium LT",
+      "Ilium W",
+      "Ilium M"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series",
+      "V branding",
+      "T branding",
+      "S branding"
+    ],
+    "description": "Lanix primarily uses a letter-based series naming convention under the 'Ilium' sub-brand (e.g., S, X, L, M, LT, W, Alpha). Within series, models are designated by numbers (e.g., L1000, X510). Suffixes like 'V' (e.g., M7V, Alpha 3V) indicate updated variants or specific regional/carrier versions, while 'T' or 's' denote minor hardware revisions."
+  },
+  "summary": {
+    "total_series": 8,
+    "active_series": 1,
+    "discontinued_series": 7,
+    "oldest_series": "Ilium S",
+    "newest_series": "Ilium Alpha",
+    "longest_running_series": "Ilium Alpha",
+    "most_popular_series": "Ilium L",
+    "best_selling_series": "Ilium L",
+    "most_premium_series": "Ilium Alpha",
+    "best_budget_series": "Ilium M",
+    "most_influential_series": "Ilium S",
+    "fastest_growing_series": "Ilium Alpha",
+    "future_expected_direction": "Continued focus on budget and mid-range devices in the Latin American market, with potential integration of basic AI features and 5G connectivity in the Alpha series."
+  },
+  "missing_series": []
+}

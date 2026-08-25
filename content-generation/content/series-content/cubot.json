@@ -1,0 +1,936 @@
+{
+  "brand": "Cubot",
+  "total_series": 18,
+  "series": [
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Power users"
+      ],
+      "characteristics": [
+        "Metal or glass body",
+        "Octa-core processors",
+        "High value-to-price ratio",
+        "Large displays"
+      ],
+      "popular_models": [
+        "Cubot X6",
+        "Cubot X9",
+        "Cubot X30",
+        "Cubot X50",
+        "Cubot X70",
+        "Cubot X100"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Started as affordable flagship-clone designs (e.g., X9)",
+        "Evolved into the premium mid-range lineup for the brand",
+        "Consistently features the highest specifications within Cubot's standard smartphone portfolio"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "One Series",
+      "slug": "one-series",
+      "alternative_names": [
+        "One S"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic specifications",
+        "Removable battery"
+      ],
+      "popular_models": [
+        "Cubot One",
+        "Cubot One S"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Asia"
+      ],
+      "historical_notes": [
+        "One of the earliest budget lines from Cubot",
+        "Discontinued as the brand shifted focus to the more structured Note and X series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "5.5-inch display",
+        "Basic quad-core performance"
+      ],
+      "popular_models": [
+        "Cubot S350"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Short-lived series",
+        "Quickly replaced by the Note and X series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "H Series",
+      "slug": "h-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Users needing long battery life"
+      ],
+      "characteristics": [
+        "Massive battery (5000+ mAh)",
+        "HD display"
+      ],
+      "popular_models": [
+        "Cubot H1",
+        "Cubot H2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Predecessor to the Max and Power series",
+        "Focused heavily on battery capacity over premium design"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Note Series",
+      "slug": "note-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Decent battery life",
+        "Affordable pricing",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Cubot Note S",
+        "Cubot Note Plus",
+        "Cubot Note 21",
+        "Cubot Note 40",
+        "Cubot Note 60"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America",
+        "Africa"
+      ],
+      "historical_notes": [
+        "One of Cubot's longest-running and most popular budget lines",
+        "Frequently updated with modern Android versions and incremental spec bumps"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "KingKong Series",
+      "slug": "kingkong-series",
+      "alternative_names": [
+        "King Kong"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Construction workers",
+        "Adventurers"
+      ],
+      "characteristics": [
+        "IP68/IP69K waterproof",
+        "MIL-STD-810H durability",
+        "Massive batteries",
+        "Swappable batteries (recent models)",
+        "High-brightness displays"
+      ],
+      "popular_models": [
+        "Cubot King Kong",
+        "Cubot KingKong 5",
+        "Cubot KingKong 9",
+        "Cubot KingKong Star 2",
+        "Cubot KingKong Dura",
+        "Cubot KingKong ACE 5"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Cubot's flagship rugged lineup",
+        "Continuously innovating with features like swappable batteries, 5G connectivity, and extreme temperature resistance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Max Series",
+      "slug": "max-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Users needing large screens and batteries"
+      ],
+      "characteristics": [
+        "6.95-inch large displays",
+        "5000+ mAh batteries",
+        "Slim profile relative to screen size"
+      ],
+      "popular_models": [
+        "Cubot Max",
+        "Cubot Max 3",
+        "Cubot Max 5"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Evolved from the H series",
+        "Focuses on phablet-sized screens without excessive bulk"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Sleek design",
+        "Glass backs",
+        "Multiple camera setups",
+        "Gradient colors"
+      ],
+      "popular_models": [
+        "Cubot P20",
+        "Cubot P40",
+        "Cubot P80",
+        "Cubot P90"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Positioned as the stylish, camera-focused alternative to the rugged KingKong series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "J Series",
+      "slug": "j-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Elderly users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact 5.5-inch displays",
+        "Lightweight Android",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Cubot J3",
+        "Cubot J5",
+        "Cubot J10"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Ultra-budget line",
+        "Eventually phased out as the A series and Note series covered the entry-level market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "R Series",
+      "slug": "r-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Removable battery",
+        "Dual-SIM",
+        "Basic aspect ratio displays"
+      ],
+      "popular_models": [
+        "Cubot R11"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Very short-lived budget series",
+        "Quickly absorbed into the J and Note series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "C Series",
+      "slug": "c-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 140,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Quad-camera setups",
+        "High RAM for the price",
+        "Premium-inspired design"
+      ],
+      "popular_models": [
+        "Cubot C30"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "A brief series focused on delivering high RAM and multiple cameras at a budget price point"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A Series",
+      "slug": "a-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Slim lightweight design",
+        "Large screens",
+        "Dependable daily performance"
+      ],
+      "popular_models": [
+        "Cubot A10",
+        "Cubot A20",
+        "Cubot A30",
+        "Cubot A40",
+        "Cubot A50"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Replaced the J series as Cubot's primary entry-level lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pocket Series",
+      "slug": "pocket-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Users seeking compact phones",
+        "Secondary phone users"
+      ],
+      "characteristics": [
+        "4.0-inch to 4.7-inch displays",
+        "One-hand-friendly",
+        "Lightweight"
+      ],
+      "popular_models": [
+        "Cubot Pocket",
+        "Cubot Pocket 3"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Fills a niche market for ultra-compact, modern Android smartphones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "GT Series",
+      "slug": "gt-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic dual-core or quad-core processors",
+        "4-inch to 5-inch displays"
+      ],
+      "popular_models": [
+        "Cubot GT-95",
+        "Cubot GT-99"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Africa"
+      ],
+      "historical_notes": [
+        "One of Cubot's earliest smartphone lines",
+        "Predates the more structured X and Note series naming conventions"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Power Series",
+      "slug": "power-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 180,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor workers",
+        "Heavy mobile users"
+      ],
+      "characteristics": [
+        "Massive batteries (6000+ mAh)",
+        "Durable builds"
+      ],
+      "popular_models": [
+        "Cubot Power",
+        "Cubot Power 3",
+        "Cubot Power 4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Initially a standalone series",
+        "Later merged into the KingKong lineup as 'KingKong Power'"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "CheetahPhone",
+      "slug": "cheetahphone",
+      "alternative_names": [
+        "Cheetah Phone"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "App users"
+      ],
+      "characteristics": [
+        "Android 6.0 Marshmallow",
+        "Bundled with Cheetah Mobile apps",
+        "10GB free permanent cloud storage"
+      ],
+      "popular_models": [
+        "Cubot CheetahPhone"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Asia"
+      ],
+      "historical_notes": [
+        "A unique collaboration between Cubot and Cheetah Mobile",
+        "Announced at MWC 2016 in Barcelona"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Hafury",
+      "slug": "hafury",
+      "alternative_names": [],
+      "sub_brand": "Hafury",
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Women",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Elegant design",
+        "Exquisite packaging",
+        "Fashion-focused aesthetics"
+      ],
+      "popular_models": [
+        "Hafury Meet",
+        "Hafury V1",
+        "Hafury K30"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Officially established sub-brand by Cubot",
+        "Dedicated to crafting stylish smartphones, particularly marketed as gifts"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Magic Series",
+      "slug": "magic-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Full-curved design",
+        "Resembles premium flagships",
+        "5-inch HD display"
+      ],
+      "popular_models": [
+        "Cubot Magic"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "A short-lived series aimed at bringing flagship-like curved designs to the budget market"
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "One Series"
+    },
+    {
+      "year": 2014,
+      "series": "GT Series"
+    },
+    {
+      "year": 2014,
+      "series": "X Series"
+    },
+    {
+      "year": 2015,
+      "series": "S Series"
+    },
+    {
+      "year": 2015,
+      "series": "H Series"
+    },
+    {
+      "year": 2015,
+      "series": "Note Series"
+    },
+    {
+      "year": 2016,
+      "series": "Max Series"
+    },
+    {
+      "year": 2016,
+      "series": "CheetahPhone"
+    },
+    {
+      "year": 2017,
+      "series": "Magic Series"
+    },
+    {
+      "year": 2018,
+      "series": "KingKong Series"
+    },
+    {
+      "year": 2018,
+      "series": "P Series"
+    },
+    {
+      "year": 2018,
+      "series": "J Series"
+    },
+    {
+      "year": 2018,
+      "series": "R Series"
+    },
+    {
+      "year": 2018,
+      "series": "Power Series"
+    },
+    {
+      "year": 2020,
+      "series": "C Series"
+    },
+    {
+      "year": 2021,
+      "series": "A Series"
+    },
+    {
+      "year": 2021,
+      "series": "Hafury"
+    },
+    {
+      "year": 2022,
+      "series": "Pocket Series"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "X Series",
+      "P Series"
+    ],
+    "mid_range": [
+      "X Series",
+      "H Series",
+      "Max Series",
+      "P Series",
+      "C Series",
+      "Power Series",
+      "CheetahPhone",
+      "Hafury",
+      "Magic Series"
+    ],
+    "budget": [
+      "One Series",
+      "S Series",
+      "Note Series",
+      "J Series",
+      "R Series",
+      "C Series",
+      "A Series",
+      "Pocket Series",
+      "GT Series",
+      "Magic Series"
+    ],
+    "entry_level": [
+      "One Series",
+      "S Series",
+      "Note Series",
+      "J Series",
+      "R Series",
+      "A Series",
+      "GT Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "P Series",
+      "C Series"
+    ],
+    "business": [],
+    "rugged": [
+      "KingKong Series",
+      "Power Series"
+    ],
+    "lifestyle": [
+      "Pocket Series",
+      "Hafury"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Note Series",
+      "A Series",
+      "Pocket Series"
+    ],
+    "discontinued": [
+      "One Series",
+      "S Series",
+      "H Series",
+      "J Series",
+      "R Series",
+      "C Series",
+      "GT Series",
+      "Power Series",
+      "CheetahPhone",
+      "Magic Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Mini branding"
+    ],
+    "description": "Cubot primarily uses a Letter + Number naming convention (e.g., X30, Note 40, A50) to denote series and generational iterations. It also employs descriptive suffixes like 'Pro', 'Plus', 'Max', and 'Mini' to indicate variant specifications such as enhanced features, larger batteries, or compact form factors."
+  },
+  "summary": {
+    "total_series": 18,
+    "active_series": 8,
+    "discontinued_series": 10,
+    "oldest_series": "One Series",
+    "newest_series": "Pocket Series",
+    "longest_running_series": "X Series",
+    "most_popular_series": "KingKong Series",
+    "best_selling_series": "KingKong Series",
+    "most_premium_series": "X Series",
+    "best_budget_series": "Note Series",
+    "most_influential_series": "KingKong Series",
+    "fastest_growing_series": "KingKong Series",
+    "future_expected_direction": "Continued expansion of the rugged KingKong lineup with 5G, swappable batteries, and AI features, alongside maintaining a strong presence in the budget Note and A series markets."
+  },
+  "missing_series": []
+}

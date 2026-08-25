@@ -1,0 +1,1376 @@
+{
+  "brand": "BLU Products",
+  "total_series": 27,
+  "series": [
+    {
+      "name": "Advance",
+      "slug": "advance",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Small screens",
+        "Basic specifications",
+        "Android Go edition"
+      ],
+      "popular_models": [
+        "Advance 5.5 HD",
+        "Advance L4",
+        "Advance L5"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Low-end devices, most of which have a 4.0\" screen."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Bold",
+      "slug": "bold",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Premium design",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "Bold N2",
+        "Bold N3",
+        "Bold N4",
+        "Bold K12",
+        "Bold K50"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced as BLU's Flagship series.",
+        "Bold N4 features a rear OLED touch display."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "C",
+      "slug": "c",
+      "alternative_names": [
+        "Studio C"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 89,
+        "highest_usd": 149,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Low-end specifications",
+        "Android Go edition"
+      ],
+      "popular_models": [
+        "Studio 5.0 C HD",
+        "Studio C mini",
+        "Studio 5.0 C",
+        "Studio 5.0 CE",
+        "C5",
+        "C5L Max",
+        "C7",
+        "C7X",
+        "C9"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "BLU's low-end series of phones.",
+        "Studio C Series introduced in 2014 with Android 4.4 KitKat."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Dash",
+      "slug": "dash",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 49,
+        "highest_usd": 129,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Low cost",
+        "Dual-SIM",
+        "Variety of colors"
+      ],
+      "popular_models": [
+        "Dash Jr.",
+        "Dash Music 4.0",
+        "Dash 5.0",
+        "Dash 4.5",
+        "Dash XL",
+        "Dash L4"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Low and mid-ranged devices.",
+        "Launched in 2013 starting at $49."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Energy",
+      "slug": "energy",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 109,
+        "highest_usd": 179,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Users needing long battery life"
+      ],
+      "characteristics": [
+        "Massive batteries",
+        "Metal design",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Energy X",
+        "Energy X Plus",
+        "Energy X Plus 2",
+        "Energy XL",
+        "Energy Diamond",
+        "Energy M"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Mid and high-end devices.",
+        "Studio Energy 2 priced at $179 and Energy X at $109."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "F",
+      "slug": "f",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Early 5G adopters",
+        "Budget-conscious users wanting 5G"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "Large displays",
+        "High-resolution cameras"
+      ],
+      "popular_models": [
+        "F91 5G",
+        "F5 5G",
+        "F92e"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "BLU's line of phones that support the 5G network.",
+        "F91 5G was BLU's first 5G smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G",
+      "slug": "g",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 149,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Multiple camera setups",
+        "Infinity displays"
+      ],
+      "popular_models": [
+        "G9",
+        "G90",
+        "G91 Max",
+        "G91 Pro",
+        "G50 Mega",
+        "G53",
+        "G63",
+        "G72 Max",
+        "G73",
+        "G93"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "BLU's mid-range series of phones.",
+        "G90 replaced the G9 model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Grand",
+      "slug": "grand",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Low-end devices",
+        "Basic specifications"
+      ],
+      "popular_models": [
+        "Grand 5.5 HD",
+        "Grand X",
+        "Grand M",
+        "Grand M2 LTE",
+        "Grand M3"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Low end devices."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "J",
+      "slug": "j",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Leather pattern covers",
+        "Entry-level specifications",
+        "Android Go edition"
+      ],
+      "popular_models": [
+        "J2",
+        "J5L",
+        "J6 2020",
+        "J6S",
+        "J9L"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Entry-level series with leather pattern designs."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Life",
+      "slug": "life",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 229,
+        "highest_usd": 299,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Performance seekers",
+        "Users wanting premium features"
+      ],
+      "characteristics": [
+        "Quad-core CPUs",
+        "Dual-SIM",
+        "Premium build quality",
+        "IPS HD displays"
+      ],
+      "popular_models": [
+        "Life Play",
+        "Life One",
+        "Life View",
+        "Life One (2015 Edition)",
+        "Life 8 XL",
+        "Life X8",
+        "Life One X2",
+        "Life One X2 Mini"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "High-end devices.",
+        "Launched in 2013 with quad-core CPU and Android 4.2.",
+        "Life X8 was discontinued and replaced by Studio X8 HD."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "M",
+      "slug": "m",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic specifications",
+        "Entry-level performance"
+      ],
+      "popular_models": [
+        "M8L 2022"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Short-lived entry-level series."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Neo",
+      "slug": "neo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Low to mid-range devices",
+        "Basic functionality"
+      ],
+      "popular_models": [
+        "Neo 3.5",
+        "Neo 4.5",
+        "Neo 5.5",
+        "Neo XL",
+        "Neo X LTE",
+        "Neo Energy Mini"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Devices of low to mid range."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pure",
+      "slug": "pure",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 299,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High-resolution cameras",
+        "Premium materials",
+        "Flagship processors"
+      ],
+      "popular_models": [
+        "Pure XL",
+        "Pure XR",
+        "Pure View"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "BLU's highest-end devices.",
+        "Pure XR was a flagship collaboration with MediaTek."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Quattro",
+      "slug": "quattro",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "NVIDIA Tegra 3 quad-core processors",
+        "HD displays",
+        "Premium build quality",
+        "Gaming performance"
+      ],
+      "popular_models": [
+        "Quattro 4.5",
+        "Quattro 4.5 HD",
+        "Quattro 5.7 HD"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "BLU's first quad-core smartphone series.",
+        "Short-lived flagship series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "R",
+      "slug": "r",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Amazon Prime users"
+      ],
+      "characteristics": [
+        "Budget-friendly",
+        "Amazon Prime Exclusive with lockscreen offers"
+      ],
+      "popular_models": [
+        "R1 HD",
+        "R1 Plus",
+        "R2 Plus",
+        "R2 LTE"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "R1 HD was an Amazon Prime Exclusive."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S",
+      "slug": "s",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 179,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Sprint customers"
+      ],
+      "characteristics": [
+        "Curved glass displays",
+        "Fingerprint sensors",
+        "AI cameras"
+      ],
+      "popular_models": [
+        "S1",
+        "S91",
+        "S91 Pro"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "S1 was BLU's first Sprint compatible and certified device."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Studio",
+      "slug": "studio",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 89,
+        "highest_usd": 279,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Mainstream consumers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Multiple variants",
+        "LTE connectivity",
+        "Good value for money"
+      ],
+      "popular_models": [
+        "Studio 5.3 II",
+        "Studio 6.0 LTE",
+        "Studio 5.0 HD LTE",
+        "Studio Mini LTE",
+        "Studio G",
+        "Studio X",
+        "Studio X Plus",
+        "Studio X5",
+        "Studio X5 Max",
+        "Studio X10L 2022"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Mid and high-end devices.",
+        "Studio is BLU's most popular series.",
+        "Studio 6.0 LTE was $279, Studio 5.0 HD LTE $199, Studio Mini LTE $119."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Tank",
+      "slug": "tank",
+      "alternative_names": [
+        "Tank Xtreme"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Workers in tough environments"
+      ],
+      "characteristics": [
+        "Rugged design",
+        "Durable build",
+        "Long battery life",
+        "IP ratings"
+      ],
+      "popular_models": [
+        "Tank 4.5",
+        "Tank Xtreme 5.0",
+        "Tank Xtreme",
+        "Tank Flip"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Rugged series.",
+        "Tank Flip is a flip phone running Android 8.1."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Touchbook",
+      "slug": "touchbook",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time buyers"
+      ],
+      "characteristics": [
+        "Low-end devices",
+        "Basic tablet-like functionality"
+      ],
+      "popular_models": [
+        "Unknown"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Low end devices."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "View",
+      "slug": "view",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "5G adopters"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "HD+ displays",
+        "Budget pricing"
+      ],
+      "popular_models": [
+        "View Speed 5G",
+        "View Mega"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Newer budget series with 5G support."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Vivo",
+      "slug": "vivo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Performance seekers"
+      ],
+      "characteristics": [
+        "Metal bodies",
+        "AMOLED displays",
+        "Octa-core processors",
+        "Sleek designs"
+      ],
+      "popular_models": [
+        "Vivo 4.65 HD",
+        "Vivo Air",
+        "Vivo 5",
+        "Vivo XL",
+        "Vivo 8",
+        "Vivo 8L",
+        "Vivo XL3 Plus"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "High-end telephones.",
+        "Vivo 5 was BLU's first metal-chassis smartphone."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Win",
+      "slug": "win",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Windows Phone enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Windows Phone OS",
+        "LTE connectivity",
+        "Budget pricing"
+      ],
+      "popular_models": [
+        "Win JR LTE",
+        "Win HD LTE"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "BLU's Windows Phone series."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Zoey",
+      "slug": "zoey",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic entry-level specifications"
+      ],
+      "popular_models": [
+        "Zoey"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Obscure entry-level series."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Diva",
+      "slug": "diva",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic entry-level specifications"
+      ],
+      "popular_models": [
+        "Diva X"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Obscure entry-level series."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Hero",
+      "slug": "hero",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic entry-level specifications"
+      ],
+      "popular_models": [
+        "Hero II"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Obscure entry-level series."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Brooklyn",
+      "slug": "brooklyn",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic entry-level specifications"
+      ],
+      "popular_models": [
+        "Brooklyn"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Obscure entry-level series."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Elite",
+      "slug": "elite",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic entry-level specifications"
+      ],
+      "popular_models": [
+        "Elite 3.8"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Announced in 2012, released in August 2012."
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Bar",
+      "slug": "bar",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic entry-level specifications"
+      ],
+      "popular_models": [
+        "Bar Q"
+      ],
+      "primary_markets": [
+        "North America",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Obscure entry-level series."
+      ],
+      "confidence": "Low"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Dash"
+    },
+    {
+      "year": 2012,
+      "series": "Elite"
+    },
+    {
+      "year": 2012,
+      "series": "Studio"
+    },
+    {
+      "year": 2012,
+      "series": "Vivo"
+    },
+    {
+      "year": 2013,
+      "series": "Life"
+    },
+    {
+      "year": 2013,
+      "series": "Quattro"
+    },
+    {
+      "year": 2013,
+      "series": "Tank"
+    },
+    {
+      "year": 2013,
+      "series": "Touchbook"
+    },
+    {
+      "year": 2014,
+      "series": "C"
+    },
+    {
+      "year": 2014,
+      "series": "Neo"
+    },
+    {
+      "year": 2014,
+      "series": "Win"
+    },
+    {
+      "year": 2015,
+      "series": "Advance"
+    },
+    {
+      "year": 2015,
+      "series": "Energy"
+    },
+    {
+      "year": 2015,
+      "series": "Pure"
+    },
+    {
+      "year": 2016,
+      "series": "Grand"
+    },
+    {
+      "year": 2016,
+      "series": "R"
+    },
+    {
+      "year": 2017,
+      "series": "S"
+    },
+    {
+      "year": 2019,
+      "series": "G"
+    },
+    {
+      "year": 2020,
+      "series": "J"
+    },
+    {
+      "year": 2022,
+      "series": "Bold"
+    },
+    {
+      "year": 2022,
+      "series": "F"
+    },
+    {
+      "year": 2022,
+      "series": "M"
+    },
+    {
+      "year": 2024,
+      "series": "View"
+    },
+    {
+      "year": null,
+      "series": "Bar"
+    },
+    {
+      "year": null,
+      "series": "Brooklyn"
+    },
+    {
+      "year": null,
+      "series": "Diva"
+    },
+    {
+      "year": null,
+      "series": "Hero"
+    },
+    {
+      "year": null,
+      "series": "Zoey"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Pure",
+      "Quattro"
+    ],
+    "premium": [
+      "Pure",
+      "Vivo"
+    ],
+    "mid_range": [
+      "Bold",
+      "Energy",
+      "F",
+      "G",
+      "Life",
+      "S",
+      "Studio",
+      "Vivo",
+      "Win"
+    ],
+    "budget": [
+      "C",
+      "Dash",
+      "G",
+      "R",
+      "S",
+      "Studio",
+      "View",
+      "Win"
+    ],
+    "entry_level": [
+      "Advance",
+      "C",
+      "Dash",
+      "Grand",
+      "J",
+      "M",
+      "Neo",
+      "Touchbook",
+      "Zoey",
+      "Diva",
+      "Hero",
+      "Brooklyn",
+      "Elite",
+      "Bar"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [
+      "Tank"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Advance",
+      "C",
+      "Dash",
+      "Elite",
+      "Energy",
+      "Grand",
+      "J",
+      "Life",
+      "M",
+      "Neo",
+      "Pure",
+      "Quattro",
+      "R",
+      "S",
+      "Studio",
+      "Tank",
+      "Touchbook",
+      "Vivo",
+      "Win",
+      "Zoey",
+      "Diva",
+      "Hero",
+      "Brooklyn",
+      "Bar"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Lite branding",
+      "Mini branding",
+      "SE branding",
+      "Neo branding",
+      "Turbo branding",
+      "T branding"
+    ],
+    "description": "BLU Products uses a multi-faceted naming strategy. The brand employs letter-based series (G, F, C, S, R, M, J) to denote different market segments, with G for mid-range, F for 5G, C for low-end, and S for mid-range. Number-based series are also used (e.g., Studio 5.0, Vivo 8). BLU utilizes numerous suffixes including Pro, Plus, Max, Lite, Mini, SE, Neo, Turbo, and T to indicate enhanced or variant models within a series. The Bold series represents the flagship line, while Studio serves as the mainstream series. BLU also uses descriptive names like Energy, Pure, and Tank for specific feature-focused lineups."
+  },
+  "summary": {
+    "total_series": 27,
+    "active_series": 4,
+    "discontinued_series": 23,
+    "oldest_series": "Dash",
+    "newest_series": "View",
+    "longest_running_series": "Studio",
+    "most_popular_series": "Studio",
+    "best_selling_series": "Studio",
+    "most_premium_series": "Pure",
+    "best_budget_series": "G",
+    "most_influential_series": "Studio",
+    "fastest_growing_series": "Bold",
+    "future_expected_direction": "BLU Products is expected to continue focusing on affordable unlocked smartphones for the North American and Latin American markets. The company will likely expand its 5G offerings across more series, particularly in the F and View lineups. The Bold series may continue to serve as the flagship line with innovative features like dual displays. BLU may also explore foldable or flip devices in the future, building on the Tank Flip experiment. The G series will likely remain the core volume driver with regular annual updates."
+  },
+  "missing_series": [
+    "Specialty series (mentioned in some sources but details unclear)",
+    "Possible regional-exclusive series not documented in available sources",
+    "Carrier-exclusive variants not documented as separate series",
+    "Early feature phone series (pre-2012) if they existed"
+  ]
+}

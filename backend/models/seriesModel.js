@@ -34,7 +34,10 @@ const seriesSchema = new mongoose.Schema({
     mix: {
         alternative_names: [String],
         first_release_year: Number,
-        latest_release_year: mongoose.Schema.Types.Mixed,
+        latest_release_year: {
+            type: Number,
+            default: null
+        },
         market_position: [String],
         target_audience: [String],
         characteristics: [String],

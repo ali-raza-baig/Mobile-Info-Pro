@@ -5,12 +5,10 @@
     {
       "name": "iPhone",
       "slug": "iphone",
-      "alternative_names": [
-        "Apple iPhone"
-      ],
+      "alternative_names": [],
       "sub_brand": null,
       "first_release_year": 2007,
-      "latest_release_year": 2026,
+      "latest_release_year": "Present",
       "status": "Active",
       "launch_price": {
         "entry_usd": 499,
@@ -18,8 +16,8 @@
         "estimated": false
       },
       "market_position": [
-        "Premium",
         "Flagship",
+        "Premium",
         "Ultra Premium"
       ],
       "target_audience": [
@@ -27,38 +25,30 @@
         "Business professionals",
         "Power users",
         "Content creators",
-        "Mobile photographers",
-        "Students"
+        "Mobile photographers"
       ],
       "characteristics": [
+        "Premium build quality",
+        "Apple Silicon chips",
         "iOS ecosystem",
-        "Premium materials",
-        "A-series Bionic chips",
-        "Face ID / Touch ID",
-        "High-end camera systems",
-        "MagSafe",
-        "Ceramic Shield"
+        "Advanced camera systems",
+        "Long software support",
+        "Face ID"
       ],
       "popular_models": [
-        "iPhone (1st generation)",
-        "iPhone 4",
-        "iPhone 6",
-        "iPhone X",
-        "iPhone 11",
-        "iPhone 13 Pro",
-        "iPhone 15 Pro Max",
-        "iPhone 16 Pro"
+        "iPhone 15",
+        "iPhone 16 Pro",
+        "iPhone 17 Pro Max",
+        "iPhone 14",
+        "iPhone 13"
       ],
       "primary_markets": [
         "Global"
       ],
       "historical_notes": [
-        "First smartphone released by Apple",
-        "Revolutionized the mobile industry with multi-touch interface",
-        "Introduced the App Store in 2008",
-        "Shifted from plastic to glass and metal designs",
-        "Introduced Face ID with iPhone X",
-        "Transitioned to USB-C with iPhone 15 series"
+        "Introduced the modern smartphone era in 2007",
+        "Pioneered multi-touch interfaces and the App Store ecosystem",
+        "Replaced the iPod as Apple's primary revenue driver"
       ],
       "confidence": "High"
     },
@@ -74,26 +64,23 @@
       "status": "Discontinued",
       "launch_price": {
         "entry_usd": 399,
-        "highest_usd": 549,
+        "highest_usd": 429,
         "estimated": false
       },
       "market_position": [
         "Budget",
-        "Entry Level",
-        "Mid Range"
+        "Entry Level"
       ],
       "target_audience": [
         "Budget-conscious users",
         "First-time smartphone buyers",
-        "Users preferring compact displays",
-        "Fans of Touch ID"
+        "Users preferring compact design"
       ],
       "characteristics": [
-        "Compact form factor",
-        "Home button with Touch ID",
-        "Legacy chassis design paired with modern A-series chips",
-        "Lower starting price",
-        "LCD displays"
+        "Compact design",
+        "Touch ID",
+        "Flagship-level processor at lower price",
+        "Single or dual camera"
       ],
       "popular_models": [
         "iPhone SE (1st generation)",
@@ -104,10 +91,8 @@
         "Global"
       ],
       "historical_notes": [
-        "\"SE\" originally stood for \"Special Edition\"",
-        "Reused older flagship bodies (iPhone 5s, iPhone 8) with newer internal components",
-        "Served as Apple's entry-level and budget-friendly option",
-        "Discontinued and succeeded by the entry-level \"e\" series models like iPhone 16e / 17e"
+        "Introduced in 2016 to offer a budget-friendly iPhone using older flagship chassis with updated internals",
+        "Effectively replaced by the 'e' suffix models (e.g., iPhone 17e) in the main lineup starting in 2025"
       ],
       "confidence": "High"
     }
@@ -129,9 +114,7 @@
     "premium": [
       "iPhone"
     ],
-    "mid_range": [
-      "iPhone SE"
-    ],
+    "mid_range": [],
     "budget": [
       "iPhone SE"
     ],
@@ -164,11 +147,9 @@
       "Plus branding",
       "Max branding",
       "SE branding",
-      "Mini branding",
-      "Air branding",
       "e branding"
     ],
-    "description": "Apple primarily uses a Number Series (e.g., iPhone 14, 15, 16) combined with size and performance modifiers. \"Pro\" and \"Pro Max\" denote flagship-tier devices with advanced cameras and displays. \"Plus\" and \"Max\" indicate larger screen sizes, while \"Mini\" was used for compact flagships. \"SE\" (Special Edition) designates budget-friendly models using older chassis designs. Recently, Apple introduced \"Air\" for ultra-thin models and \"e\" for entry-level modern designs."
+    "description": "Apple primarily uses a numbered series (e.g., iPhone 15, iPhone 16) with 'Pro' and 'Pro Max' suffixes for premium tiers. The 'SE' (Special Edition) suffix was historically used for budget-friendly models, which has recently transitioned to an 'e' suffix (e.g., iPhone 17e) to denote entry-level variants within the main numbered lineup."
   },
   "summary": {
     "total_series": 2,
@@ -183,7 +164,7 @@
     "best_budget_series": "iPhone SE",
     "most_influential_series": "iPhone",
     "fastest_growing_series": "iPhone",
-    "future_expected_direction": "Continued focus on AI integration with Apple Intelligence, thinner designs with the Air lineup, and entry-level e series replacements for SE."
+    "future_expected_direction": "Continued integration of Apple Intelligence, transition of budget offerings to the 'e' suffix within the main lineup, and potential exploration of new form factors while maintaining the core iPhone ecosystem."
   },
   "missing_series": []
 }

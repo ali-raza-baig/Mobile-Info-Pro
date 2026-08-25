@@ -1,0 +1,1433 @@
+{
+  "brand": "Wiko",
+  "total_series": 28,
+  "series": [
+    {
+      "name": "Highway",
+      "slug": "highway",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Octa-core processor",
+        "Full HD display",
+        "AMOLED screen"
+      ],
+      "popular_models": [
+        "Wiko Highway",
+        "Wiko Highway 4G",
+        "Wiko Highway Star 4G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "First Wiko smartphone with an 8-core processor",
+        "Introduced in 2014 as a flagship-like device"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Kite",
+      "slug": "kite",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "4G LTE",
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Wiko Kite",
+        "Wiko Kite 4G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "One of Wiko's early 4G smartphones",
+        "Positioned as an affordable 4G entry point"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Goa",
+      "slug": "goa",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic smartphone features"
+      ],
+      "popular_models": [
+        "Wiko Goa"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Entry-level smartphone with a focus on affordability"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Lenny",
+      "slug": "lenny",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large display",
+        "Expandable storage",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "Wiko Lenny 3",
+        "Wiko Lenny 3 Max",
+        "Wiko Lenny 4",
+        "Wiko Lenny 5"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Popular budget series with multiple iterations",
+        "Known for offering good value for money"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pulp",
+      "slug": "pulp",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Octa-core processor",
+        "HD display",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "Wiko Pulp 3G",
+        "Wiko Pulp 4G",
+        "Wiko Pulp Fab 4G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Introduced with multiple 3G and 4G variants",
+        "Focused on providing a balance of performance and price"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Harry",
+      "slug": "harry",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "HD display",
+        "Quad-core processor",
+        "4G LTE"
+      ],
+      "popular_models": [
+        "Wiko Harry",
+        "Wiko Harry 2"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Affordable series with 4G connectivity",
+        "Succeeded by other entry-level series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Dark",
+      "slug": "dark",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Sleek design",
+        "IPS display",
+        "Quad-core processor"
+      ],
+      "popular_models": [
+        "Wiko Darkside",
+        "Wiko Darkfull",
+        "Wiko Darkmoon",
+        "Wiko Darknight"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Premium-looking series with a dark, elegant design language",
+        "Introduced multiple models with varying specs"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Fever",
+      "slug": "fever",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Performance seekers",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Full HD display",
+        "Octa-core processor",
+        "Good camera setup"
+      ],
+      "popular_models": [
+        "Wiko Fever",
+        "Wiko Fever SE"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Focused on performance and camera quality",
+        "Special Edition variant offered enhanced features"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sublim",
+      "slug": "sublim",
+      "alternative_names": [],
+      "sub_brand": "Swarovski",
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Luxury seekers"
+      ],
+      "characteristics": [
+        "Swarovski crystals",
+        "Premium design",
+        "Compact size"
+      ],
+      "popular_models": [
+        "Wiko Sublim"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Collaboration with Swarovski",
+        "Positioned as a fashion-focused smartphone"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Cink",
+      "slug": "cink",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Dual SIM",
+        "Android OS",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Wiko Cink Slim",
+        "Wiko Cink Five",
+        "Wiko Cink Peax"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "One of Wiko's earliest smartphone series",
+        "Helped establish Wiko as a budget-friendly brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U",
+      "slug": "u",
+      "alternative_names": [
+        "U Feel",
+        "Upulse"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Fingerprint sensor",
+        "HD display",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "Wiko U Feel",
+        "Wiko U Feel Prime",
+        "Wiko U Feel Lite",
+        "Wiko Upulse",
+        "Wiko Upulse Lite"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Introduced fingerprint sensors to Wiko's mid-range lineup",
+        "Expanded with multiple variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Power U",
+      "slug": "power-u",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Battery-focused users"
+      ],
+      "characteristics": [
+        "Massive battery (up to 6000 mAh)",
+        "Long battery life",
+        "Budget pricing"
+      ],
+      "popular_models": [
+        "Wiko Power U10",
+        "Wiko Power U20",
+        "Wiko Power U30"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Focused on extreme battery life",
+        "Advertised with up to 4 days of usage"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ride",
+      "slug": "ride",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large display",
+        "4G LTE",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Wiko Ride",
+        "Wiko Ride 3"
+      ],
+      "primary_markets": [
+        "North America",
+        "USA"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive series for Boost Mobile in the US",
+        "Marked Wiko's entry into the North American market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "View",
+      "slug": "view",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "18:9 aspect ratio displays",
+        "Dual cameras",
+        "Fingerprint sensors"
+      ],
+      "popular_models": [
+        "Wiko View",
+        "Wiko View XL",
+        "Wiko View Prime",
+        "Wiko View2",
+        "Wiko View2 Pro",
+        "Wiko View3",
+        "Wiko View3 Pro",
+        "Wiko View5",
+        "Wiko View5 Plus"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of Wiko's most popular and long-running series",
+        "Introduced the 18:9 display trend to Wiko's lineup",
+        "Included multiple generations and variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "T",
+      "slug": "t",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Big batteries",
+        "Modern design",
+        "5G support (in newer models)"
+      ],
+      "popular_models": [
+        "Wiko T3",
+        "Wiko T10",
+        "Wiko T50",
+        "Wiko T60",
+        "Wiko T20",
+        "Wiko T30",
+        "Wiko T40"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa",
+        "Southeast Asia",
+        "India"
+      ],
+      "historical_notes": [
+        "Current mainstream budget-to-mid-range series",
+        "Replaced older series like View and Y in some markets",
+        "Includes 5G models"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Y",
+      "slug": "y",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Basic smartphone features"
+      ],
+      "popular_models": [
+        "Wiko Y50",
+        "Wiko Y80",
+        "Wiko Y81",
+        "Wiko Y82",
+        "Wiko Y52",
+        "Wiko Y62",
+        "Wiko Y62 Plus"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series focused on affordability",
+        "Often priced under €100"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sunny",
+      "slug": "sunny",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Colorful options",
+        "Basic smartphone features"
+      ],
+      "popular_models": [
+        "Wiko Sunny",
+        "Wiko Sunny2",
+        "Wiko Sunny2 Plus",
+        "Wiko Sunny3",
+        "Wiko Sunny3 Mini",
+        "Wiko Sunny5",
+        "Wiko Sunny5 Lite"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series with a focus on simplicity and color",
+        "Popular among first-time smartphone users"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Tommy",
+      "slug": "tommy",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Colorful design",
+        "4G LTE",
+        "Basic smartphone features"
+      ],
+      "popular_models": [
+        "Wiko Tommy",
+        "Wiko Tommy2 Plus",
+        "Wiko Tommy3",
+        "Wiko Tommy3 Plus"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series with a fun, colorful design language",
+        "Popular among younger users"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "5G",
+      "slug": "5g",
+      "alternative_names": [
+        "Wiko 5G"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "5G early adopters"
+      ],
+      "characteristics": [
+        "5G connectivity",
+        "HarmonyOS ecosystem",
+        "High-resolution camera"
+      ],
+      "popular_models": [
+        "Wiko 5G"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "First Wiko smartphone with 5G support",
+        "Part of the HarmonyOS ecosystem",
+        "Exclusively launched in China"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "alternative_names": [
+        "Wiko 10"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large display",
+        "Big battery",
+        "AI camera"
+      ],
+      "popular_models": [
+        "Wiko 10"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Budget-friendly series with a focus on display and battery life",
+        "Part of Wiko's global expansion strategy"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Hi Enjoy",
+      "slug": "hi-enjoy",
+      "alternative_names": [
+        "Hi畅享"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "HarmonyOS enthusiasts",
+        "Chinese market users"
+      ],
+      "characteristics": [
+        "HarmonyOS ecosystem",
+        "5G connectivity",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Wiko Hi Enjoy 60",
+        "Wiko Hi Enjoy 60s",
+        "Wiko Hi Enjoy 70 Pro",
+        "Wiko Hi Enjoy 80",
+        "Wiko Hi Enjoy 80 Pro",
+        "Wiko Hi Enjoy 80S"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Exclusive to the Chinese market",
+        "Part of the HarmonyOS ecosystem",
+        "Successor to the 5G series in China"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Performance seekers"
+      ],
+      "characteristics": [
+        "High refresh rate display",
+        "Large battery",
+        "Modern design"
+      ],
+      "popular_models": [
+        "Wiko X70"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Latest series as of 2025",
+        "Focused on performance and design",
+        "Exclusive to the Chinese market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Wim",
+      "slug": "wim",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "AMOLED display",
+        "Dual cameras",
+        "Premium design",
+        "Quick Charge"
+      ],
+      "popular_models": [
+        "Wiko Wim",
+        "Wiko Wim Lite"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Wiko's first premium flagship series",
+        "Introduced dual-camera setup and AMOLED display"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Selfy",
+      "slug": "selfy",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Selfie enthusiasts",
+        "Social media users"
+      ],
+      "characteristics": [
+        "High-resolution front camera",
+        "Front flash",
+        "AMOLED display (in some models)"
+      ],
+      "popular_models": [
+        "Wiko Selfy",
+        "Wiko Selfy 4G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "First Wiko series dedicated to selfie photography",
+        "Focused on front camera quality"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Slide",
+      "slug": "slide",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 220,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display (5.5 inches)",
+        "Quad-core processor",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Wiko Slide"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "First Wiko smartphone with Android 4.4 KitKat",
+        "Phablet-style device with a large screen"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Wax",
+      "slug": "wax",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 280,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Gamers"
+      ],
+      "characteristics": [
+        "NVIDIA Tegra 4i processor",
+        "4G LTE",
+        "HD display"
+      ],
+      "popular_models": [
+        "Wiko Wax"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "First smartphone with NVIDIA Tegra 4i processor",
+        "Focused on gaming and multimedia performance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Birdy",
+      "slug": "birdy",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Colorful design",
+        "Compact size",
+        "Basic smartphone features"
+      ],
+      "popular_models": [
+        "Wiko Birdy",
+        "Wiko Birdy 4G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Entry-level series with a focus on color and style",
+        "Available in multiple vibrant colors"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ridge",
+      "slug": "ridge",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Lightweight design",
+        "HD display",
+        "4G LTE"
+      ],
+      "popular_models": [
+        "Wiko Ridge",
+        "Wiko Ridge 4G",
+        "Wiko Ridge Fab 4G"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "One of the lightest smartphones in its class",
+        "Focused on providing a good balance of features and portability"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Cink"
+    },
+    {
+      "year": 2013,
+      "series": "Dark"
+    },
+    {
+      "year": 2013,
+      "series": "Sublim"
+    },
+    {
+      "year": 2014,
+      "series": "Highway"
+    },
+    {
+      "year": 2014,
+      "series": "Kite"
+    },
+    {
+      "year": 2014,
+      "series": "Goa"
+    },
+    {
+      "year": 2014,
+      "series": "Slide"
+    },
+    {
+      "year": 2014,
+      "series": "Wax"
+    },
+    {
+      "year": 2014,
+      "series": "Birdy"
+    },
+    {
+      "year": 2015,
+      "series": "Pulp"
+    },
+    {
+      "year": 2015,
+      "series": "Ridge"
+    },
+    {
+      "year": 2015,
+      "series": "Selfy"
+    },
+    {
+      "year": 2016,
+      "series": "Lenny"
+    },
+    {
+      "year": 2016,
+      "series": "Fever"
+    },
+    {
+      "year": 2016,
+      "series": "U"
+    },
+    {
+      "year": 2016,
+      "series": "Tommy"
+    },
+    {
+      "year": 2017,
+      "series": "Harry"
+    },
+    {
+      "year": 2017,
+      "series": "View"
+    },
+    {
+      "year": 2017,
+      "series": "Sunny"
+    },
+    {
+      "year": 2017,
+      "series": "Wim"
+    },
+    {
+      "year": 2019,
+      "series": "Ride"
+    },
+    {
+      "year": 2019,
+      "series": "Y"
+    },
+    {
+      "year": 2021,
+      "series": "Power U"
+    },
+    {
+      "year": 2021,
+      "series": "T"
+    },
+    {
+      "year": 2022,
+      "series": "5G"
+    },
+    {
+      "year": 2022,
+      "series": "10"
+    },
+    {
+      "year": 2023,
+      "series": "Hi Enjoy"
+    },
+    {
+      "year": 2025,
+      "series": "X"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Wim"
+    ],
+    "premium": [
+      "Sublim",
+      "Wim"
+    ],
+    "mid_range": [
+      "Highway",
+      "Pulp",
+      "Dark",
+      "Fever",
+      "Cink",
+      "U",
+      "View",
+      "T",
+      "5G",
+      "Hi Enjoy",
+      "X",
+      "Selfy",
+      "Slide",
+      "Wax",
+      "Ridge"
+    ],
+    "budget": [
+      "Kite",
+      "Goa",
+      "Lenny",
+      "Harry",
+      "Power U",
+      "Ride",
+      "Y",
+      "Sunny",
+      "Tommy",
+      "10",
+      "Birdy"
+    ],
+    "entry_level": [
+      "Kite",
+      "Goa",
+      "Lenny",
+      "Harry",
+      "Power U",
+      "Ride",
+      "Y",
+      "Sunny",
+      "Tommy",
+      "10",
+      "Birdy"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "Wax"
+    ],
+    "camera_focused": [
+      "Selfy"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Sublim"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "5G",
+      "Hi Enjoy",
+      "X"
+    ],
+    "carrier_exclusive": [
+      "Ride"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Highway",
+      "Kite",
+      "Goa",
+      "Lenny",
+      "Pulp",
+      "Harry",
+      "Dark",
+      "Fever",
+      "Sublim",
+      "Cink",
+      "U",
+      "Power U",
+      "Ride",
+      "View",
+      "Y",
+      "Sunny",
+      "Tommy",
+      "5G",
+      "10",
+      "Wim",
+      "Selfy",
+      "Slide",
+      "Wax",
+      "Birdy",
+      "Ridge"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series"
+    ],
+    "description": "Wiko uses a mix of letter-based (e.g., T, Y, X, U) and number-based (e.g., 5G, 10) series names. The letter series often indicate market positioning: T for mainstream, Y for entry-level, X for premium, etc. The naming strategy has evolved over time, with older series using names like 'Highway' and 'View' before transitioning to simpler alphanumeric codes."
+  },
+  "summary": {
+    "total_series": 28,
+    "active_series": 3,
+    "discontinued_series": 25,
+    "oldest_series": "Cink",
+    "newest_series": "X",
+    "longest_running_series": "View",
+    "most_popular_series": "View",
+    "best_selling_series": "View",
+    "most_premium_series": "Wim",
+    "best_budget_series": "T",
+    "most_influential_series": "View",
+    "fastest_growing_series": "T",
+    "future_expected_direction": "Wiko is expected to continue expanding its T and Hi Enjoy series, with a focus on 5G connectivity and HarmonyOS integration in the Chinese market. The brand may also introduce new series targeting specific niches such as gaming or foldable devices."
+  },
+  "missing_series": []
+}

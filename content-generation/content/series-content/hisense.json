@@ -1,0 +1,1160 @@
+{
+  "brand": "Hisense",
+  "total_series": 24,
+  "series": [
+    {
+      "name": "Reading Phone Series",
+      "slug": "reading-phone-series",
+      "alternative_names": [
+        "海信阅读手机"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Book lovers",
+        "Students",
+        "Users with eye strain concerns"
+      ],
+      "characteristics": [
+        "E-ink display",
+        "Dual-screen variants",
+        "Eye protection",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "A2",
+        "A5",
+        "A5 Pro",
+        "A6",
+        "A6L",
+        "A7",
+        "A9",
+        "A10"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Launched in 2017 with the dual-screen A2. Expanded into color e-ink with A5C/A5 Pro. A10 (2026) features a detachable color LCD secondary display."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large battery",
+        "Entry-level specifications"
+      ],
+      "popular_models": [
+        "U30",
+        "U40",
+        "U43",
+        "U50",
+        "U53",
+        "U62 Pro",
+        "U70 Pro",
+        "U71",
+        "U607",
+        "U963",
+        "U967"
+      ],
+      "primary_markets": [
+        "China",
+        "South Africa",
+        "India"
+      ],
+      "historical_notes": [
+        "U30 (HLTE720T) released around 2019. U62 Pro and U43 are recent models sold in South Africa."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "E Series",
+      "slug": "e-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Daily drivers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Big batteries",
+        "AI cameras"
+      ],
+      "popular_models": [
+        "E30 Lite",
+        "E31 Lite",
+        "E34",
+        "E35",
+        "E36",
+        "E40 Lite",
+        "E50",
+        "E50 Lite",
+        "E50s",
+        "E60",
+        "E60 Lite",
+        "E70",
+        "E70 Pro",
+        "E71",
+        "E72"
+      ],
+      "primary_markets": [
+        "South Africa",
+        "India",
+        "Global"
+      ],
+      "historical_notes": [
+        "A broad budget lineup. Many models are identified by HLTE model numbers (e.g., E40 Lite is HLTE223E)."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "F Series",
+      "slug": "f-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Full-screen designs",
+        "Entry-level chipsets"
+      ],
+      "popular_models": [
+        "F23",
+        "F25",
+        "F26",
+        "F30",
+        "F31",
+        "F50",
+        "F50 Plus",
+        "F70 Lite"
+      ],
+      "primary_markets": [
+        "China",
+        "South Africa"
+      ],
+      "historical_notes": [
+        "F50 was one of Hisense's early 5G phones. F70 Lite (2023) featured the UNISOC T750 chipset."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Infinity Series",
+      "slug": "infinity-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "General consumers",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Infinity displays",
+        "Good cameras",
+        "Modern designs"
+      ],
+      "popular_models": [
+        "Infinity H11",
+        "Infinity H30",
+        "Infinity H50 Lite",
+        "Infinity H50 Zoom",
+        "Infinity H50S 5G",
+        "Infinity H60 5G",
+        "Infinity Lite S"
+      ],
+      "primary_markets": [
+        "South Africa",
+        "Global"
+      ],
+      "historical_notes": [
+        "A series focused on modern 'infinity' display designs. The H60 5G was a notable 5G model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "H Series",
+      "slug": "h-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Big batteries"
+      ],
+      "popular_models": [
+        "H30",
+        "H30 Lite",
+        "H50s 5G",
+        "H72",
+        "H72 Pro"
+      ],
+      "primary_markets": [
+        "South Africa",
+        "Russia"
+      ],
+      "historical_notes": [
+        "Often overlaps with the Infinity series. H50s is a 5G model. H30 and H30 Lite were sold in Russia."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "C Series (Rock Series)",
+      "slug": "c-series-rock-series",
+      "alternative_names": [
+        "Rock Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Outdoor enthusiasts",
+        "Durability seekers"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Waterproof (IP68)",
+        "Shockproof",
+        "Durable design"
+      ],
+      "popular_models": [
+        "C1",
+        "C20",
+        "C20 King Kong II",
+        "C30 Rock",
+        "C30 Rock Lite"
+      ],
+      "primary_markets": [
+        "South Africa",
+        "Global"
+      ],
+      "historical_notes": [
+        "C30 Rock was a highlight at MWC 2017. Known for its IP68 certification and rugged build."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "Pureshot Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Photography enthusiasts",
+        "Power users"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Camera focus",
+        "Rugged variants"
+      ],
+      "popular_models": [
+        "Pureshot",
+        "Pureshot +",
+        "P9",
+        "P50"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "P9 was a rugged smartphone with a 6000mAh battery. P50 was a 5G model released in early 2023."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Entry-level users"
+      ],
+      "characteristics": [
+        "Entry-level specs",
+        "Android Go variants"
+      ],
+      "popular_models": [
+        "V",
+        "V+",
+        "V3",
+        "V5",
+        "V40",
+        "V40i",
+        "V60"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "V+ (2018) featured a Snapdragon 660. Some models like the V3 and V5 ran Android Go."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "T Series",
+      "slug": "t-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact designs",
+        "Entry-level performance"
+      ],
+      "popular_models": [
+        "T5",
+        "T5 Plus",
+        "T17",
+        "T50",
+        "T55",
+        "T965"
+      ],
+      "primary_markets": [
+        "Europe",
+        "South Africa"
+      ],
+      "historical_notes": [
+        "T965 and T17 were launched in 2018. T55 is a recent budget model in South Africa."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "M Series",
+      "slug": "m-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget users",
+        "Basic phone users"
+      ],
+      "characteristics": [
+        "Low-end specs",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "M20-M",
+        "M20-T",
+        "M30",
+        "M50 Lite"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "M20 and M30 were low-end Android phones sold primarily in China."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "L Series",
+      "slug": "l-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget users"
+      ],
+      "characteristics": [
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "L675",
+        "L676",
+        "L695"
+      ],
+      "primary_markets": [
+        "Mexico",
+        "Europe"
+      ],
+      "historical_notes": [
+        "L675 was sold in Mexico through AT&T. L676 ran Android 5.1."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Business"
+      ],
+      "target_audience": [
+        "Business users",
+        "Field workers",
+        "Security personnel"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Durable",
+        "Security-focused"
+      ],
+      "popular_models": [
+        "G3",
+        "G7",
+        "G610",
+        "G610M"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "G610M was a rugged 4G phone. G7 was a 'police version' of the F70 Lite (2023)."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Rocks Series",
+      "slug": "rocks-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers"
+      ],
+      "characteristics": [
+        "Modern design",
+        "Good performance"
+      ],
+      "popular_models": [
+        "Rocks 6"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Rocks 6 (HLTE226e) was released in 2019 with a MediaTek Helio P60."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Enigma Series",
+      "slug": "enigma-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Premium glass design",
+        "Metal frame",
+        "Large display"
+      ],
+      "popular_models": [
+        "Enigma",
+        "Enigma SE",
+        "Enigma White",
+        "Enigma Black"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "A newer series with a focus on design and premium materials (glass back, metal frame)."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Y Series",
+      "slug": "y-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Big batteries"
+      ],
+      "popular_models": [
+        "Y82 Pro",
+        "Y82 Pro Max",
+        "Y83",
+        "Y83 Pro"
+      ],
+      "primary_markets": [
+        "South Africa"
+      ],
+      "historical_notes": [
+        "A new budget series launched in 2026, available in South Africa."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [
+        "MAXE X1"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Large 6.8-inch display",
+        "High-end specs for its time"
+      ],
+      "popular_models": [
+        "X1"
+      ],
+      "primary_markets": [
+        "China",
+        "USA"
+      ],
+      "historical_notes": [
+        "Hisense's first 'phablet' with a massive 6.8-inch display. Showcased at CES 2014 and MWC 2014."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sero Series",
+      "slug": "sero-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 199,
+        "highest_usd": 199,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "European market"
+      ],
+      "characteristics": [
+        "Mid-range specs",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Sero 5"
+      ],
+      "primary_markets": [
+        "Europe"
+      ],
+      "historical_notes": [
+        "Sero 5 was a mid-range phone sold in Europe for around €199."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Touch Series",
+      "slug": "touch-series",
+      "alternative_names": [
+        "海信TOUCH"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Audiophiles",
+        "Digital readers"
+      ],
+      "characteristics": [
+        "Audiophile-grade audio",
+        "Compact design",
+        "E-reader capabilities"
+      ],
+      "popular_models": [
+        "Touch"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "A niche device focusing on high-quality audio and e-reading. Notably, it does not have cellular capabilities."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "King Kong Series",
+      "slug": "king-kong-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged"
+      ],
+      "target_audience": [
+        "Durability seekers"
+      ],
+      "characteristics": [
+        "Rugged design",
+        "Durable build"
+      ],
+      "popular_models": [
+        "C20 King Kong II"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Part of the C series, specifically branded as 'King Kong' for its durability."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Halley Series",
+      "slug": "halley-series",
+      "alternative_names": [
+        "哈利系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Young consumers",
+        "Trendy users"
+      ],
+      "characteristics": [
+        "Full-screen design",
+        "Modern styling"
+      ],
+      "popular_models": [
+        "Halley (HLTE300T)"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "A mid-range full-screen phone sold in China."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Dolphin Series",
+      "slug": "dolphin-series",
+      "alternative_names": [
+        "小海豚系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget users",
+        "Kids"
+      ],
+      "characteristics": [
+        "Entry-level specs",
+        "Playful design"
+      ],
+      "popular_models": [
+        "Dolphin Pro H20"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "A budget-focused series with a playful 'Dolphin' branding."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget users"
+      ],
+      "characteristics": [
+        "Entry-level specs"
+      ],
+      "popular_models": [
+        "Infinity Lite S"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "A budget variant of the Infinity series."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "N Series",
+      "slug": "n-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Unknown",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [],
+      "target_audience": [],
+      "characteristics": [],
+      "popular_models": [],
+      "primary_markets": [],
+      "historical_notes": [],
+      "confidence": "Low"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2014,
+      "series": "X Series"
+    },
+    {
+      "year": 2015,
+      "series": "C Series (Rock Series)"
+    },
+    {
+      "year": 2015,
+      "series": "G Series"
+    },
+    {
+      "year": 2015,
+      "series": "L Series"
+    },
+    {
+      "year": 2015,
+      "series": "M Series"
+    },
+    {
+      "year": 2015,
+      "series": "P Series"
+    },
+    {
+      "year": 2015,
+      "series": "Sero Series"
+    },
+    {
+      "year": 2017,
+      "series": "F Series"
+    },
+    {
+      "year": 2017,
+      "series": "Infinity Series"
+    },
+    {
+      "year": 2017,
+      "series": "King Kong Series"
+    },
+    {
+      "year": 2017,
+      "series": "Reading Phone Series"
+    },
+    {
+      "year": 2018,
+      "series": "Halley Series"
+    },
+    {
+      "year": 2018,
+      "series": "V Series"
+    },
+    {
+      "year": 2019,
+      "series": "Dolphin Series"
+    },
+    {
+      "year": 2019,
+      "series": "H Series"
+    },
+    {
+      "year": 2019,
+      "series": "Rocks Series"
+    },
+    {
+      "year": 2019,
+      "series": "U Series"
+    },
+    {
+      "year": 2020,
+      "series": "E Series"
+    },
+    {
+      "year": 2020,
+      "series": "S Series"
+    },
+    {
+      "year": 2021,
+      "series": "Touch Series"
+    },
+    {
+      "year": 2025,
+      "series": "Enigma Series"
+    },
+    {
+      "year": 2026,
+      "series": "T Series"
+    },
+    {
+      "year": 2026,
+      "series": "Y Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "X Series"
+    ],
+    "premium": [
+      "X Series"
+    ],
+    "mid_range": [
+      "Enigma Series",
+      "Halley Series",
+      "Infinity Series",
+      "P Series",
+      "Reading Phone Series",
+      "Rocks Series",
+      "Sero Series"
+    ],
+    "budget": [
+      "E Series",
+      "F Series",
+      "H Series",
+      "Infinity Series",
+      "T Series",
+      "U Series",
+      "V Series",
+      "Y Series"
+    ],
+    "entry_level": [
+      "Dolphin Series",
+      "L Series",
+      "M Series",
+      "S Series",
+      "T Series",
+      "U Series",
+      "V Series",
+      "Y Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "P Series",
+      "Reading Phone Series"
+    ],
+    "business": [
+      "G Series"
+    ],
+    "rugged": [
+      "C Series (Rock Series)",
+      "G Series",
+      "King Kong Series",
+      "P Series"
+    ],
+    "lifestyle": [
+      "Touch Series"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Dolphin Series",
+      "Halley Series",
+      "Touch Series"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "C Series (Rock Series)",
+      "Dolphin Series",
+      "F Series",
+      "G Series",
+      "Halley Series",
+      "Infinity Series",
+      "King Kong Series",
+      "L Series",
+      "M Series",
+      "P Series",
+      "Rocks Series",
+      "S Series",
+      "Sero Series",
+      "Touch Series",
+      "V Series",
+      "X Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series",
+      "Pro branding",
+      "Lite branding",
+      "Plus branding",
+      "Max branding",
+      "SE branding"
+    ],
+    "description": "Hisense uses a letter-based naming system for its smartphone series (e.g., U, E, F, H, etc.), often combined with numbers to indicate model hierarchy. Common suffixes include 'Lite' for budget variants, 'Pro' for upgraded models, and 'Plus' or 'Max' for larger or enhanced versions. Some series have thematic names like 'Reading Phone' or 'Rock'."
+  },
+  "summary": {
+    "total_series": 24,
+    "active_series": 7,
+    "discontinued_series": 16,
+    "oldest_series": "X Series",
+    "newest_series": "Y Series",
+    "longest_running_series": "Reading Phone Series",
+    "most_popular_series": "Reading Phone Series",
+    "best_selling_series": "Reading Phone Series",
+    "most_premium_series": "X Series",
+    "best_budget_series": "U Series",
+    "most_influential_series": "Reading Phone Series",
+    "fastest_growing_series": "Enigma Series",
+    "future_expected_direction": "Continued focus on niche segments like E-ink reading phones, while expanding budget and mid-range offerings in emerging markets like Africa and India."
+  },
+  "missing_series": [
+    "N Series"
+  ]
+}

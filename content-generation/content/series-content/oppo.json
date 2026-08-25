@@ -1,0 +1,978 @@
+{
+  "brand": "OPPO",
+  "total_series": 17,
+  "series": [
+    {
+      "name": "Find",
+      "slug": "find",
+      "alternative_names": [
+        "Find Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Premium build",
+        "High-end processors",
+        "Innovative camera designs"
+      ],
+      "popular_models": [
+        "Find 5",
+        "Find 7",
+        "Find 7a"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Pioneered OPPO's flagship smartphone lineup",
+        "Discontinued in 2014 and later revived as the Find X series in 2018"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Find X",
+      "slug": "find-x",
+      "alternative_names": [
+        "Find X Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 1200,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Ultra Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Premium cameras",
+        "Hasselblad partnership",
+        "High refresh rate AMOLED",
+        "Ultra-fast charging"
+      ],
+      "popular_models": [
+        "Find X",
+        "Find X2 Pro",
+        "Find X3 Pro",
+        "Find X5 Pro",
+        "Find X7 Ultra",
+        "Find X8 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced a motorized pop-up camera in 2018 for a true all-screen design",
+        "Replaced the legacy Find series as the primary flagship lineup",
+        "Introduced Hasselblad camera branding and tuning in 2021"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Find N",
+      "slug": "find-n",
+      "alternative_names": [
+        "Find N Series",
+        "Find N Flip"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 700,
+        "highest_usd": 1300,
+        "estimated": false
+      },
+      "market_position": [
+        "Foldable",
+        "Flip",
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Foldable display",
+        "Compact crease-minimizing hinge",
+        "Premium cameras",
+        "High refresh rate"
+      ],
+      "popular_models": [
+        "Find N",
+        "Find N2",
+        "Find N3",
+        "Find N3 Flip",
+        "Find N5"
+      ],
+      "primary_markets": [
+        "China",
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "OPPO's first official foldable smartphone line",
+        "Known for its compact, waterdrop hinge technology that minimizes screen crease"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Reno",
+      "slug": "reno",
+      "alternative_names": [
+        "Reno Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 800,
+        "estimated": false
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Young professionals"
+      ],
+      "characteristics": [
+        "Premium cameras",
+        "Portrait mode enhancements",
+        "AMOLED displays",
+        "Fast charging",
+        "Unique design elements"
+      ],
+      "popular_models": [
+        "Reno 10x Zoom",
+        "Reno 4 Pro",
+        "Reno 8 Pro",
+        "Reno 11 Pro",
+        "Reno 13 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "Southeast Asia",
+        "India"
+      ],
+      "historical_notes": [
+        "Replaced the R series in 2019",
+        "Initially featured a motorized shark-fin pop-up camera",
+        "Strong focus on portrait, night photography, and AI imaging features"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A",
+      "slug": "a",
+      "alternative_names": [
+        "A Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Long battery life",
+        "Large displays",
+        "Decent cameras",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "A31",
+        "A53",
+        "A78",
+        "A98",
+        "A3 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "China",
+        "Africa"
+      ],
+      "historical_notes": [
+        "One of OPPO's longest-running and most prolific series",
+        "Serves as the backbone of OPPO's volume sales globally",
+        "Absorbed several legacy entry-level lines like Joy, Neo, and Mirror"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "F",
+      "slug": "f",
+      "alternative_names": [
+        "F Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young adults",
+        "Social media users",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "AI beauty modes",
+        "Slim design",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "F1",
+        "F3 Plus",
+        "F11 Pro",
+        "F19 Pro",
+        "F25 Pro"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Marketed heavily as the 'Selfie Expert'",
+        "F1s was a massive commercial success in India and Southeast Asia",
+        "Increasingly merged with Reno or A series naming in some global markets recently"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "K",
+      "slug": "k",
+      "alternative_names": [
+        "K Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Gaming",
+        "Online-exclusive"
+      ],
+      "target_audience": [
+        "Mobile gamers",
+        "Tech-savvy youth",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "High-performance processors",
+        "High refresh rate displays",
+        "Large batteries",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "K1",
+        "K3",
+        "K10",
+        "K12",
+        "K13"
+      ],
+      "primary_markets": [
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "Originally launched as an online-exclusive performance series",
+        "Often features the same hardware as upper-mid-range Reno models but at a lower price point"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "R",
+      "slug": "r",
+      "alternative_names": [
+        "R Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Young professionals",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Slim metal unibody design",
+        "Good cameras",
+        "Premium aesthetics"
+      ],
+      "popular_models": [
+        "R1",
+        "R5",
+        "R7",
+        "R9s",
+        "R15",
+        "R17"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "India"
+      ],
+      "historical_notes": [
+        "Replaced by the Reno series in 2019",
+        "R7 and R9 series were massive commercial hits for OPPO",
+        "Pioneered OPPO's focus on slim, premium-feeling mid-range devices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "N",
+      "slug": "n",
+      "alternative_names": [
+        "N Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 650,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Camera-focused",
+        "Experimental"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Rotating/swivel camera module",
+        "Large displays",
+        "Premium build"
+      ],
+      "popular_models": [
+        "N1",
+        "N1 Mini",
+        "N3"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Featured an innovative motorized rotating camera that served as both front and rear camera",
+        "Discontinued due to mechanical complexity and the industry shift to dedicated front cameras"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U",
+      "slug": "u",
+      "alternative_names": [
+        "U Series",
+        "Ulike"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Basic camera features",
+        "Standard displays"
+      ],
+      "popular_models": [
+        "Ulike 2",
+        "U3",
+        "U701"
+      ],
+      "primary_markets": [
+        "China",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Early budget/mid-range lineup",
+        "Discontinued as OPPO streamlined its portfolio into the A and F series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Joy",
+      "slug": "joy",
+      "alternative_names": [
+        "Joy Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic features",
+        "Removable battery (early models)"
+      ],
+      "popular_models": [
+        "Oppo Joy",
+        "Oppo Joy Plus",
+        "Oppo Joy 3"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Targeted at emerging markets",
+        "Discontinued and absorbed into the A series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Mirror",
+      "slug": "mirror",
+      "alternative_names": [
+        "Mirror Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Style-conscious budget users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Distinctive patterned back cover",
+        "Basic specifications",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Oppo Mirror 3",
+        "Oppo Mirror 5",
+        "Oppo Mirror 5s"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Short-lived series focused on aesthetic design at a low price point",
+        "Quickly merged into the A series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Neo",
+      "slug": "neo",
+      "alternative_names": [
+        "Neo Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Basic smartphone features",
+        "Affordable",
+        "Dual SIM support"
+      ],
+      "popular_models": [
+        "Oppo Neo",
+        "Oppo Neo 3",
+        "Oppo Neo 5",
+        "Oppo Neo 7"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Served as an entry-level option alongside the Joy series",
+        "Discontinued as the A series expanded to cover the budget segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Real",
+      "slug": "real",
+      "alternative_names": [
+        "Real Series",
+        "Oppo Real"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Youth",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Basic smartphone features",
+        "Youth-oriented marketing"
+      ],
+      "popular_models": [
+        "Oppo Real",
+        "Oppo RealMe"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The spiritual predecessor to the Realme brand",
+        "The slogan 'It's Real Me' was later adopted by the independent Realme brand in 2018"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "OnePlus",
+      "slug": "oneplus",
+      "alternative_names": [
+        "OnePlus Number Series"
+      ],
+      "sub_brand": "OnePlus",
+      "first_release_year": 2014,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 900,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Power users",
+        "Mobile gamers"
+      ],
+      "characteristics": [
+        "Flagship processors",
+        "Fast charging (Warp/SuperVOOC)",
+        "Clean software (OxygenOS)",
+        "High refresh rate displays"
+      ],
+      "popular_models": [
+        "OnePlus One",
+        "OnePlus 6T",
+        "OnePlus 9 Pro",
+        "OnePlus 12",
+        "OnePlus 13"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe",
+        "India",
+        "China"
+      ],
+      "historical_notes": [
+        "Founded as a sub-brand of OPPO, now operates as an officially owned sub-brand",
+        "Shares R&D, manufacturing, and charging technology with OPPO"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Nord",
+      "slug": "oneplus-nord",
+      "alternative_names": [
+        "Nord Series"
+      ],
+      "sub_brand": "OnePlus",
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 500,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Young professionals",
+        "Budget-conscious power users",
+        "Students"
+      ],
+      "characteristics": [
+        "Balanced performance",
+        "Good cameras",
+        "Fast charging",
+        "Clean software"
+      ],
+      "popular_models": [
+        "OnePlus Nord",
+        "OnePlus Nord 2",
+        "OnePlus Nord CE",
+        "OnePlus Nord 3",
+        "OnePlus Nord 4"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "India"
+      ],
+      "historical_notes": [
+        "Introduced to bring the OnePlus experience to the mid-range market",
+        "Highly successful in Europe and India"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "OnePlus Ace",
+      "slug": "oneplus-ace",
+      "alternative_names": [
+        "Ace Series"
+      ],
+      "sub_brand": "OnePlus",
+      "first_release_year": 2022,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 550,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Gaming",
+        "Performance"
+      ],
+      "target_audience": [
+        "Mobile gamers",
+        "Performance-focused users"
+      ],
+      "characteristics": [
+        "High-end processors",
+        "Advanced cooling",
+        "Fast charging",
+        "Gaming-centric features"
+      ],
+      "popular_models": [
+        "OnePlus Ace",
+        "OnePlus Ace 2",
+        "OnePlus Ace 3",
+        "OnePlus Ace 3 Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive performance series",
+        "Many Ace models are rebranded and released globally as part of the standard OnePlus number series or Nord series"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "Real"
+    },
+    {
+      "year": 2011,
+      "series": "Find"
+    },
+    {
+      "year": 2012,
+      "series": "R"
+    },
+    {
+      "year": 2012,
+      "series": "U"
+    },
+    {
+      "year": 2013,
+      "series": "N"
+    },
+    {
+      "year": 2014,
+      "series": "A"
+    },
+    {
+      "year": 2014,
+      "series": "Joy"
+    },
+    {
+      "year": 2014,
+      "series": "Neo"
+    },
+    {
+      "year": 2014,
+      "series": "OnePlus"
+    },
+    {
+      "year": 2015,
+      "series": "Mirror"
+    },
+    {
+      "year": 2016,
+      "series": "F"
+    },
+    {
+      "year": 2018,
+      "series": "Find X"
+    },
+    {
+      "year": 2018,
+      "series": "K"
+    },
+    {
+      "year": 2019,
+      "series": "Reno"
+    },
+    {
+      "year": 2020,
+      "series": "OnePlus Nord"
+    },
+    {
+      "year": 2021,
+      "series": "Find N"
+    },
+    {
+      "year": 2022,
+      "series": "OnePlus Ace"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Find",
+      "Find X",
+      "OnePlus"
+    ],
+    "premium": [
+      "Find N",
+      "Reno",
+      "R"
+    ],
+    "mid_range": [
+      "F",
+      "K",
+      "OnePlus Nord",
+      "OnePlus Ace"
+    ],
+    "budget": [
+      "A",
+      "U"
+    ],
+    "entry_level": [
+      "Joy",
+      "Mirror",
+      "Neo"
+    ],
+    "foldable": [
+      "Find N"
+    ],
+    "flip": [
+      "Find N"
+    ],
+    "gaming": [
+      "K",
+      "OnePlus Ace"
+    ],
+    "camera_focused": [
+      "Reno",
+      "Find X",
+      "N"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "F"
+    ],
+    "ai_focused": [
+      "Reno",
+      "Find X"
+    ],
+    "regional_exclusive": [
+      "K",
+      "OnePlus Ace"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "K"
+    ],
+    "discontinued": [
+      "Find",
+      "R",
+      "N",
+      "U",
+      "Joy",
+      "Mirror",
+      "Neo",
+      "Real"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Fold Series",
+      "Flip Series",
+      "Lite branding",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Ultra branding",
+      "AI branding"
+    ],
+    "description": "OPPO primarily uses a combination of letter-based series (A, F, K, R, N) for segmented market positioning and number-based series (Find X, Reno, OnePlus) for sequential flagship and mid-range generations. It heavily utilizes suffixes like 'Pro', 'Plus', 'Ultra', and 'Lite' to denote variant tiers within a series. Recently, 'AI' and 'Turbo' branding have been integrated into naming to highlight specific feature sets."
+  },
+  "summary": {
+    "total_series": 17,
+    "active_series": 9,
+    "discontinued_series": 8,
+    "oldest_series": "Real",
+    "newest_series": "OnePlus Ace",
+    "longest_running_series": "A",
+    "most_popular_series": "Reno",
+    "best_selling_series": "A",
+    "most_premium_series": "Find X",
+    "best_budget_series": "A",
+    "most_influential_series": "Find X",
+    "fastest_growing_series": "Reno",
+    "future_expected_direction": "Continued expansion of AI-integrated features across all tiers, deeper integration of foldable technology (Find N), and tighter hardware/software synergy between OPPO and its officially owned sub-brand OnePlus."
+  },
+  "missing_series": []
+}

@@ -1,0 +1,304 @@
+{
+  "brand": "Poco",
+  "total_series": 4,
+  "series": [
+    {
+      "name": "Poco F Series",
+      "slug": "poco-f-series",
+      "alternative_names": [
+        "Pocophone F Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Performance enthusiasts"
+      ],
+      "characteristics": [
+        "High-performance Snapdragon chipsets",
+        "AMOLED displays",
+        "High refresh rate",
+        "Fast charging",
+        "Gaming-oriented features"
+      ],
+      "popular_models": [
+        "Pocophone F1",
+        "Poco F2 Pro",
+        "Poco F3",
+        "Poco F3 GT",
+        "Poco F4",
+        "Poco F4 GT",
+        "Poco F5",
+        "Poco F6",
+        "Poco F7",
+        "Poco F8 Pro",
+        "Poco F8 Ultra"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Originally launched as the Pocophone F1 in August 2018.",
+        "Rebranded to Poco F series globally.",
+        "Many models are rebranded versions of Xiaomi Redmi K series devices.",
+        "GT variants focus on gaming performance with dedicated gaming triggers."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Poco X Series",
+      "slug": "poco-x-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Content creators",
+        "Photography enthusiasts",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Good camera systems",
+        "Balanced performance",
+        "Mid-range chipsets"
+      ],
+      "popular_models": [
+        "Poco X2",
+        "Poco X3",
+        "Poco X3 NFC",
+        "Poco X3 Pro",
+        "Poco X3 GT",
+        "Poco X4 Pro 5G",
+        "Poco X5",
+        "Poco X5 Pro",
+        "Poco X6",
+        "Poco X6 Pro",
+        "Poco X7",
+        "Poco X7 Pro",
+        "Poco X8 Pro",
+        "Poco X8 Pro Max"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Introduced in February 2020 with the Poco X2.",
+        "Positioned as a mid-range series with a focus on camera and display quality.",
+        "Shares hardware with Redmi Note series in some markets."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Poco M Series",
+      "slug": "poco-m-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Good value for money",
+        "LCD or AMOLED displays",
+        "Decent performance for daily tasks"
+      ],
+      "popular_models": [
+        "Poco M3",
+        "Poco M4 Pro",
+        "Poco M5",
+        "Poco M5s",
+        "Poco M6",
+        "Poco M6 Pro",
+        "Poco M7",
+        "Poco M8",
+        "Poco M8 Pro",
+        "Poco M8x"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Introduced in November 2020 with the Poco M3.",
+        "Focused on providing essential features at an affordable price.",
+        "Often rebranded versions of Redmi budget phones."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Poco C Series",
+      "slug": "poco-c-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Entry-level processors",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Poco C3",
+        "Poco C31",
+        "Poco C40",
+        "Poco C50",
+        "Poco C51",
+        "Poco C55",
+        "Poco C65",
+        "Poco C75",
+        "Poco C81",
+        "Poco C81 Pro",
+        "Poco C85"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Introduced in October 2020 with the Poco C3.",
+        "Entry-level series designed for emerging markets.",
+        "Often shares hardware with Redmi C and Redmi A series."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2018,
+      "series": "Poco F Series"
+    },
+    {
+      "year": 2020,
+      "series": "Poco X Series"
+    },
+    {
+      "year": 2020,
+      "series": "Poco M Series"
+    },
+    {
+      "year": 2020,
+      "series": "Poco C Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Poco F Series"
+    ],
+    "premium": [],
+    "mid_range": [
+      "Poco M Series"
+    ],
+    "budget": [
+      "Poco M Series",
+      "Poco C Series"
+    ],
+    "entry_level": [
+      "Poco C Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "Poco F Series"
+    ],
+    "camera_focused": [
+      "Poco X Series"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": []
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Pro branding",
+      "GT branding",
+      "Ultra branding"
+    ],
+    "description": "Poco uses a letter-based naming strategy for its smartphone series. The 'F' series represents flagship performance, 'X' series focuses on upper mid-range with camera capabilities, 'M' series offers budget-friendly options, and 'C' series targets the entry-level segment. Variants within each series include 'Pro', 'GT', and 'Ultra' suffixes to denote enhanced specifications or gaming-focused features."
+  },
+  "summary": {
+    "total_series": 4,
+    "active_series": 4,
+    "discontinued_series": 0,
+    "oldest_series": "Poco F Series",
+    "newest_series": "Poco C Series",
+    "longest_running_series": "Poco F Series",
+    "most_popular_series": "Poco F Series",
+    "best_selling_series": "Poco X Series",
+    "most_premium_series": "Poco F Series",
+    "best_budget_series": "Poco C Series",
+    "most_influential_series": "Poco F Series",
+    "fastest_growing_series": "Poco X Series",
+    "future_expected_direction": "Poco is expected to continue expanding its existing series with new models, potentially exploring foldable or AI-focused devices as the market evolves. The brand may also introduce new series to target emerging trends."
+  },
+  "missing_series": []
+}

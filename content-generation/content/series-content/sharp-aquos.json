@@ -1,0 +1,1197 @@
+{
+  "brand": "Sharp (Aquos)",
+  "total_series": 20,
+  "series": [
+    {
+      "name": "R Series",
+      "slug": "r-series",
+      "alternative_names": [
+        "AQUOS R",
+        "AQUOS R series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Gamers",
+        "Mobile photographers",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "High-performance SoC",
+        "Pro IGZO OLED display",
+        "High refresh rate (up to 240Hz)",
+        "Leica co-developed camera",
+        "High-capacity battery",
+        "IP68 water/dust resistance",
+        "MIL-STD-810H durability"
+      ],
+      "popular_models": [
+        "AQUOS R",
+        "AQUOS R2",
+        "AQUOS R3",
+        "AQUOS R5G",
+        "AQUOS R6",
+        "AQUOS R8",
+        "AQUOS R9",
+        "AQUOS R10"
+      ],
+      "primary_markets": [
+        "Japan",
+        "Taiwan",
+        "Indonesia",
+        "Singapore"
+      ],
+      "historical_notes": [
+        "Flagship series representing 'Reality, Response, Robotics, Reliability'",
+        "R Pro models positioned as top-tier flagships",
+        "R9 introduced Leica co-developed camera system",
+        "R10 features advanced AI camera functions"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sense Series",
+      "slug": "sense-series",
+      "alternative_names": [
+        "AQUOS sense",
+        "AQUOS sense series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Balanced price-performance",
+        "Pro IGZO OLED display",
+        "Long battery life (5000mAh)",
+        "MIL-STD-810H durability",
+        "Lightweight design (~166g)",
+        "AI camera features",
+        "Water and dust resistance"
+      ],
+      "popular_models": [
+        "AQUOS sense",
+        "AQUOS sense2",
+        "AQUOS sense3",
+        "AQUOS sense4",
+        "AQUOS sense5G",
+        "AQUOS sense6",
+        "AQUOS sense7",
+        "AQUOS sense8",
+        "AQUOS sense9",
+        "AQUOS sense10"
+      ],
+      "primary_markets": [
+        "Japan",
+        "Taiwan",
+        "Indonesia",
+        "Singapore"
+      ],
+      "historical_notes": [
+        "Positioned as 'standard model' with balanced price and performance",
+        "'Necessary and sufficient' philosophy since 2017",
+        "Sense 7 introduced large 1/1.55-inch image sensor",
+        "Sense 10 features Snapdragon 7s Gen 3 and enhanced AI",
+        "Sense lite and Sense plus variants exist in some generations"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Wish Series",
+      "slug": "wish-series",
+      "alternative_names": [
+        "AQUOS wish",
+        "AQUOS wish series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "Seniors",
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Children"
+      ],
+      "characteristics": [
+        "Large display (6.6-inch)",
+        "Eco-friendly recycled materials",
+        "Security alarm function",
+        "AI-powered phone assistant",
+        "Long battery life (5000mAh)",
+        "Water resistance (IPX5/IPX8/IPX9)",
+        "Simple and easy-to-use interface"
+      ],
+      "popular_models": [
+        "AQUOS wish",
+        "AQUOS wish2",
+        "AQUOS wish3",
+        "AQUOS wish4",
+        "AQUOS wish5",
+        "AQUOS wish6"
+      ],
+      "primary_markets": [
+        "Japan",
+        "Taiwan",
+        "Singapore"
+      ],
+      "historical_notes": [
+        "Basic model positioned for simplicity and affordability",
+        "Wish5 introduced vibration-activated security alert",
+        "Wish6 features improved 1000 nits brightness",
+        "~60% of casing made from recycled plastic",
+        "IPX9 waterproof on Wish5 and Wish6"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Zero Series",
+      "slug": "zero-series",
+      "alternative_names": [
+        "AQUOS zero",
+        "AQUOS Zero",
+        "AQUOS zero series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "OLED display",
+        "Ultra-lightweight design",
+        "High-end Snapdragon processors",
+        "High refresh rate",
+        "Premium build materials"
+      ],
+      "popular_models": [
+        "AQUOS zero",
+        "AQUOS zero2",
+        "AQUOS zero6"
+      ],
+      "primary_markets": [
+        "Japan",
+        "Taiwan"
+      ],
+      "historical_notes": [
+        "Sharp's first OLED smartphone (2018)",
+        "Zero was world's lightest 6-inch+ phone at 146g",
+        "Zero2 featured 240Hz refresh rate",
+        "Zero6 continued the lightweight flagship approach",
+        "Discontinued after limited releases"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Crystal Series",
+      "slug": "crystal-series",
+      "alternative_names": [
+        "AQUOS Crystal",
+        "AQUOS Crystal series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 240,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Young consumers"
+      ],
+      "characteristics": [
+        "Frameless edge-to-edge display",
+        "Crystal Sound audio technology",
+        "Compact design",
+        "IGZO LCD display"
+      ],
+      "popular_models": [
+        "AQUOS Crystal",
+        "AQUOS Crystal X",
+        "AQUOS Crystal 2"
+      ],
+      "primary_markets": [
+        "Japan",
+        "USA"
+      ],
+      "historical_notes": [
+        "Introduced near-frameless 'Crystal Display'",
+        "First Sharp smartphone sold in US market (Sprint)",
+        "Crystal X was Japan-only with larger 5.5-inch FHD display",
+        "Carrier-exclusive: SoftBank (Japan) and Sprint (US)"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "AQUOS S",
+        "AQUOS S series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 412,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "High screen-to-body ratio",
+        "Full HD+ display",
+        "Dual rear cameras",
+        "Smile UX interface"
+      ],
+      "popular_models": [
+        "AQUOS S2",
+        "AQUOS S3",
+        "AQUOS S3 mini"
+      ],
+      "primary_markets": [
+        "Taiwan",
+        "Vietnam",
+        "China"
+      ],
+      "historical_notes": [
+        "S2 introduced Smile UX and high screen-to-body ratio",
+        "S3 achieved 91% screen-to-body ratio",
+        "S3 mini was a budget variant",
+        "Part of Sharp's return to international markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [
+        "AQUOS V",
+        "AQUOS V series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 230,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "IPS LCD display",
+        "Dual rear cameras",
+        "OIS support",
+        "Expandable storage",
+        "3.5mm headphone jack"
+      ],
+      "popular_models": [
+        "AQUOS V",
+        "AQUOS V6",
+        "AQUOS V6 Plus",
+        "AQUOS V7 Plus"
+      ],
+      "primary_markets": [
+        "Taiwan"
+      ],
+      "historical_notes": [
+        "V used older flagship Snapdragon 835 chipset",
+        "Positioned as value mid-ranger",
+        "V6 and V6 Plus released in 2022",
+        "V7 Plus released in 2023",
+        "Taiwan-exclusive series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "C Series",
+      "slug": "c-series",
+      "alternative_names": [
+        "AQUOS C",
+        "AQUOS C series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "European market entrants"
+      ],
+      "characteristics": [
+        "Full HD+ display",
+        "Dual cameras",
+        "TFT/IPS display",
+        "Compact design"
+      ],
+      "popular_models": [
+        "AQUOS C10"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Germany"
+      ],
+      "historical_notes": [
+        "Released alongside D10 and B10 for European market",
+        "87.5% screen-to-body ratio",
+        "Short-lived European market entry attempt",
+        "Priced at €299"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "D Series",
+      "slug": "d-series",
+      "alternative_names": [
+        "AQUOS D",
+        "AQUOS D series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 470,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "General consumers",
+        "European market entrants"
+      ],
+      "characteristics": [
+        "Full HD+ display",
+        "91% screen-to-body ratio",
+        "Dual cameras",
+        "Notch display"
+      ],
+      "popular_models": [
+        "AQUOS D10"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Germany"
+      ],
+      "historical_notes": [
+        "Released alongside C10 and B10 for European market",
+        "Higher-end of the European trio",
+        "Priced at €399",
+        "Short-lived European market entry"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "B Series",
+      "slug": "b-series",
+      "alternative_names": [
+        "AQUOS B",
+        "AQUOS B series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": null,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "European market entrants"
+      ],
+      "characteristics": [
+        "Basic smartphone features",
+        "Entry-level specifications"
+      ],
+      "popular_models": [
+        "AQUOS B10"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Germany"
+      ],
+      "historical_notes": [
+        "Released alongside C10 and D10 for European market",
+        "Priced at €299",
+        "Sold primarily in bundles with Sharp TVs",
+        "Short-lived European market entry"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Mini Series",
+      "slug": "mini-series",
+      "alternative_names": [
+        "AQUOS mini",
+        "AQUOS Mini",
+        "AQUOS mini series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Compact Flagship"
+      ],
+      "target_audience": [
+        "Users preferring compact phones",
+        "Power users",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Compact size (4.5-4.7 inch)",
+        "High-resolution display",
+        "Premium processor",
+        "Narrow bezel design",
+        "Water resistance"
+      ],
+      "popular_models": [
+        "AQUOS mini SHL24",
+        "AQUOS mini SH-M03"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Mini SHL24 featured 4.5-inch 1080p IGZO display",
+        "Mini SH-M03 featured 4.7-inch display with Snapdragon 808",
+        "Japan-exclusive series",
+        "Carrier-exclusive: KDDI (SHL24)"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ever Series",
+      "slug": "ever-series",
+      "alternative_names": [
+        "AQUOS EVER",
+        "AQUOS Ever",
+        "AQUOS EVER series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Feature phone upgraders"
+      ],
+      "characteristics": [
+        "IGZO display",
+        "Fingerprint sensor",
+        "LED notification light",
+        "Water resistance",
+        "Mid-range Snapdragon processor"
+      ],
+      "popular_models": [
+        "AQUOS EVER SH-04G",
+        "AQUOS EVER SH-02J"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Created for 'necessary and sufficient' user segment",
+        "Name derived from Sharp's first mechanical pencil",
+        "Strategy model for first-time smartphone users",
+        "Carrier-exclusive: NTT DoCoMo"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Zeta Series",
+      "slug": "zeta-series",
+      "alternative_names": [
+        "AQUOS ZETA",
+        "AQUOS Zeta",
+        "AQUOS ZETA series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "High-end processor",
+        "Premium display",
+        "Advanced camera features",
+        "Water resistance"
+      ],
+      "popular_models": [
+        "AQUOS ZETA SH-03G"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Flagship model for NTT DoCoMo",
+        "Released alongside Ever as the premium offering",
+        "Carrier-exclusive: NTT DoCoMo",
+        "Short-lived series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "R Compact Series",
+      "slug": "r-compact-series",
+      "alternative_names": [
+        "AQUOS R compact",
+        "AQUOS R Compact",
+        "AQUOS R compact series"
+      ],
+      "sub_brand": "R Series",
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Compact Flagship"
+      ],
+      "target_audience": [
+        "Users preferring compact phones",
+        "Power users"
+      ],
+      "characteristics": [
+        "4.9-inch display",
+        "High refresh rate (120Hz)",
+        "Snapdragon 660",
+        "Compact and lightweight",
+        "EDGEST fit design"
+      ],
+      "popular_models": [
+        "AQUOS R compact SH-M06"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Compact variant of flagship R series",
+        "Featured 120Hz display",
+        "SIM-free model available",
+        "Free-form display with EDGEST fit design"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sense Lite Series",
+      "slug": "sense-lite-series",
+      "alternative_names": [
+        "AQUOS sense lite",
+        "AQUOS Sense Lite",
+        "AQUOS sense lite series"
+      ],
+      "sub_brand": "Sense Series",
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Full HD IGZO display",
+        "Lightweight design",
+        "Adequate performance",
+        "Standard features"
+      ],
+      "popular_models": [
+        "AQUOS sense lite SH-M05",
+        "AQUOS sense3 lite"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Lite variant of Sense series",
+        "Positioned as more affordable option",
+        "Sense3 lite featured Snapdragon 630"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Sense Plus Series",
+      "slug": "sense-plus-series",
+      "alternative_names": [
+        "AQUOS sense plus",
+        "AQUOS Sense Plus",
+        "AQUOS sense plus series"
+      ],
+      "sub_brand": "Sense Series",
+      "first_release_year": 2019,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Users wanting larger Sense devices",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Larger display",
+        "Enhanced features",
+        "Good battery life",
+        "IGZO display"
+      ],
+      "popular_models": [
+        "AQUOS sense3 plus",
+        "AQUOS sense4 plus",
+        "AQUOS sense7 plus"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Plus variant of Sense series with larger screens",
+        "Sense3 plus featured 4,000mAh battery",
+        "Discontinued as Sense series evolved"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "M Series",
+      "slug": "m-series",
+      "alternative_names": [
+        "AQUOS M",
+        "AQUOS M series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Taiwan market consumers",
+        "General users"
+      ],
+      "characteristics": [
+        "Mid-range specifications",
+        "Taiwan-specific design",
+        "Standard features"
+      ],
+      "popular_models": [
+        "AQUOS M1"
+      ],
+      "primary_markets": [
+        "Taiwan"
+      ],
+      "historical_notes": [
+        "Specifically developed for Taiwan market",
+        "Not based on existing Japanese models",
+        "Short-lived series",
+        "Taiwan-exclusive"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "AQUOS P",
+        "AQUOS P series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Japanese market"
+      ],
+      "characteristics": [
+        "High-end specifications",
+        "Premium build",
+        "Advanced features"
+      ],
+      "popular_models": [
+        "AQUOS P1"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Released as a premium model for the Japanese market",
+        "Limited information available about this series",
+        "Short-lived series"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "K Series",
+      "slug": "k-series",
+      "alternative_names": [
+        "AQUOS K",
+        "AQUOS K series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Feature Phone",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Feature phone users",
+        "Basic phone users"
+      ],
+      "characteristics": [
+        "Clamshell design",
+        "Android-based",
+        "4G LTE support",
+        "Compact size"
+      ],
+      "popular_models": [
+        "AQUOS K SHF31"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Japan's first 4G LTE compatible feature phone",
+        "Android-based but not compatible with Google Play",
+        "Carrier-exclusive: KDDI",
+        "Clamshell form factor"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "SH Series",
+      "slug": "sh-series",
+      "alternative_names": [
+        "AQUOS SH",
+        "AQUOS SH series",
+        "AQUOS Phone SH"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2006,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "General consumers",
+        "Japanese market"
+      ],
+      "characteristics": [
+        "AQUOS TV technology integration",
+        "Various form factors",
+        "IGZO display adoption",
+        "Water resistance",
+        "Camera focus"
+      ],
+      "popular_models": [
+        "905SH",
+        "911SH",
+        "912SH",
+        "920SH",
+        "923SH",
+        "SH-06D",
+        "507SH",
+        "007SH",
+        "SH-02J"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "First AQUOS Phone: W64SH for KDDI (2008)",
+        "AQUOS TV phone series with TV tuner",
+        "507SH was Japan's first Android One phone",
+        "SH-02J was an Ever series variant",
+        "Early models featured 3D displays",
+        "Carrier-exclusive: NTT DoCoMo, SoftBank, KDDI"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2006,
+      "series": "SH Series"
+    },
+    {
+      "year": 2014,
+      "series": "Crystal Series"
+    },
+    {
+      "year": 2014,
+      "series": "Mini Series"
+    },
+    {
+      "year": 2015,
+      "series": "Ever Series"
+    },
+    {
+      "year": 2015,
+      "series": "Zeta Series"
+    },
+    {
+      "year": 2015,
+      "series": "K Series"
+    },
+    {
+      "year": 2016,
+      "series": "M Series"
+    },
+    {
+      "year": 2016,
+      "series": "P Series"
+    },
+    {
+      "year": 2017,
+      "series": "R Series"
+    },
+    {
+      "year": 2017,
+      "series": "Sense Series"
+    },
+    {
+      "year": 2017,
+      "series": "S Series"
+    },
+    {
+      "year": 2017,
+      "series": "R Compact Series"
+    },
+    {
+      "year": 2017,
+      "series": "Sense Lite Series"
+    },
+    {
+      "year": 2018,
+      "series": "Zero Series"
+    },
+    {
+      "year": 2018,
+      "series": "C Series"
+    },
+    {
+      "year": 2018,
+      "series": "D Series"
+    },
+    {
+      "year": 2018,
+      "series": "B Series"
+    },
+    {
+      "year": 2019,
+      "series": "Sense Plus Series"
+    },
+    {
+      "year": 2019,
+      "series": "V Series"
+    },
+    {
+      "year": 2021,
+      "series": "Wish Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "R Series",
+      "Zero Series",
+      "Zeta Series",
+      "P Series",
+      "SH Series"
+    ],
+    "premium": [
+      "R Series",
+      "Zero Series",
+      "Zeta Series",
+      "P Series",
+      "R Compact Series",
+      "SH Series"
+    ],
+    "mid_range": [
+      "Sense Series",
+      "Crystal Series",
+      "S Series",
+      "V Series",
+      "C Series",
+      "D Series",
+      "Sense Plus Series",
+      "M Series",
+      "SH Series"
+    ],
+    "budget": [
+      "Wish Series",
+      "V Series",
+      "B Series",
+      "Ever Series",
+      "Sense Lite Series",
+      "SH Series"
+    ],
+    "entry_level": [
+      "Wish Series",
+      "B Series",
+      "Ever Series",
+      "Sense Lite Series",
+      "K Series",
+      "SH Series"
+    ],
+    "foldable": [],
+    "flip": [
+      "K Series"
+    ],
+    "gaming": [
+      "R Series"
+    ],
+    "camera_focused": [
+      "R Series",
+      "Zero Series",
+      "Sense Series"
+    ],
+    "business": [
+      "R Series",
+      "SH Series"
+    ],
+    "rugged": [
+      "Wish Series",
+      "Sense Series"
+    ],
+    "lifestyle": [
+      "Crystal Series",
+      "Sense Series",
+      "Wish Series"
+    ],
+    "ai_focused": [
+      "R Series",
+      "Sense Series",
+      "Wish Series"
+    ],
+    "regional_exclusive": [
+      "V Series",
+      "M Series",
+      "C Series",
+      "D Series",
+      "B Series",
+      "S Series"
+    ],
+    "carrier_exclusive": [
+      "Crystal Series",
+      "Ever Series",
+      "Zeta Series",
+      "K Series",
+      "SH Series",
+      "Mini Series"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "Zero Series",
+      "Crystal Series",
+      "S Series",
+      "V Series",
+      "C Series",
+      "D Series",
+      "B Series",
+      "Mini Series",
+      "Ever Series",
+      "Zeta Series",
+      "R Compact Series",
+      "Sense Lite Series",
+      "Sense Plus Series",
+      "M Series",
+      "P Series",
+      "K Series",
+      "SH Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series",
+      "Pro branding",
+      "Plus branding",
+      "Lite branding",
+      "Compact branding",
+      "Mini branding"
+    ],
+    "description": "Sharp Aquos uses a letter-based naming system with R (flagship), Sense (mid-range), Wish (entry-level), and various single-letter series (S, V, C, D, B, M, P, K). Numbering indicates generation (e.g., R9, sense10). Pro denotes premium variants, Plus indicates larger screen sizes, Lite offers budget-friendly options, Compact/Mini signifies smaller form factors. The SH prefix identifies carrier-specific models in Japan."
+  },
+  "summary": {
+    "total_series": 20,
+    "active_series": 3,
+    "discontinued_series": 17,
+    "oldest_series": "SH Series (2006)",
+    "newest_series": "Wish Series (2021)",
+    "longest_running_series": "SH Series (2006-2016, 10 years)",
+    "most_popular_series": "Sense Series",
+    "best_selling_series": "Sense Series",
+    "most_premium_series": "R Series",
+    "best_budget_series": "Wish Series",
+    "most_influential_series": "Crystal Series (pioneered frameless design)",
+    "fastest_growing_series": "Wish Series",
+    "future_expected_direction": "Continued focus on AI integration in R and Sense series, expansion of Wish series as global entry-level offering, potential foldable development, increased international market presence, and sustainability initiatives with recycled materials"
+  },
+  "missing_series": []
+}

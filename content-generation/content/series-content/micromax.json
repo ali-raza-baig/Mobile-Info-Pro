@@ -1,0 +1,1258 @@
+{
+  "brand": "Micromax",
+  "total_series": 24,
+  "series": [
+    {
+      "name": "Canvas",
+      "slug": "canvas",
+      "alternative_names": [
+        "Micromax Canvas"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Dual SIM support",
+        "Basic to mid-range specs"
+      ],
+      "popular_models": [
+        "Canvas A100",
+        "Canvas HD",
+        "Canvas 2",
+        "Canvas 2 Plus"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Flagship smartphone lineup of Micromax",
+        "Introduced the Canvas brand which became synonymous with Micromax smartphones",
+        "Later fragmented into specialized sub-series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Unite",
+      "slug": "canvas-unite",
+      "alternative_names": [
+        "Micromax Canvas Unite"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic Android experience",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Canvas Unite 2",
+        "Canvas Unite 3",
+        "Canvas Unite 4",
+        "Canvas Unite 4 Pro"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Focused on ultra-budget segment",
+        "Later models featured Indus OS"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Spark",
+      "slug": "canvas-spark",
+      "alternative_names": [
+        "Micromax Canvas Spark"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Lightweight",
+        "Basic camera",
+        "Entry-level pricing"
+      ],
+      "popular_models": [
+        "Canvas Spark",
+        "Canvas Spark 2 Plus",
+        "Canvas Spark 3",
+        "Canvas Spark 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Replaced some Bolt models in the smartphone segment",
+        "Focused on 4G connectivity in later models"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Fire",
+      "slug": "canvas-fire",
+      "alternative_names": [
+        "Micromax Canvas Fire"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Value for money",
+        "Decent battery life",
+        "Basic multimedia"
+      ],
+      "popular_models": [
+        "Canvas Fire 2",
+        "Canvas Fire 3",
+        "Canvas Fire 4G",
+        "Canvas Fire 6"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Positioned as a step up from Canvas Unite",
+        "Transitioned to 4G with Canvas Fire 4G"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Mega",
+      "slug": "canvas-mega",
+      "alternative_names": [
+        "Micromax Canvas Mega"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "High battery capacity",
+        "Multimedia focus"
+      ],
+      "popular_models": [
+        "Canvas Mega 2",
+        "Canvas Mega 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Focused on large screen experience at budget prices",
+        "Short-lived series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Doodle",
+      "slug": "canvas-doodle",
+      "alternative_names": [
+        "Micromax Canvas Doodle"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 110,
+        "highest_usd": 140,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Users preferring large screens"
+      ],
+      "characteristics": [
+        "Large display",
+        "Phablet form factor",
+        "Multimedia capabilities"
+      ],
+      "popular_models": [
+        "Canvas Doodle 2",
+        "Canvas Doodle 3",
+        "Canvas Doodle 4"
+      ],
+      "primary_markets": [
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "One of the earliest large-screen smartphone series in India",
+        "Pioneered the budget phablet segment for Micromax"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Knight",
+      "slug": "canvas-knight",
+      "alternative_names": [
+        "Micromax Canvas Knight"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile enthusiasts"
+      ],
+      "characteristics": [
+        "Octa-core processors",
+        "Full HD displays",
+        "Premium build quality",
+        "High-end cameras"
+      ],
+      "popular_models": [
+        "Canvas Knight",
+        "Canvas Knight Cameo",
+        "Canvas Knight 2"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Micromax's first true flagship/premium smartphone series",
+        "Featured MediaTek Octa-core processors when they were novel"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Nitro",
+      "slug": "canvas-nitro",
+      "alternative_names": [
+        "Micromax Canvas Nitro"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Performance seekers",
+        "Gamers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Octa-core processors",
+        "Enhanced RAM",
+        "Performance optimization"
+      ],
+      "popular_models": [
+        "Canvas Nitro",
+        "Canvas Nitro 2",
+        "Canvas Nitro 3"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Focused on performance and speed",
+        "Bridged the gap between budget Canvas and premium Knight series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Pulse",
+      "slug": "canvas-pulse",
+      "alternative_names": [
+        "Micromax Canvas Pulse"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Everyday users",
+        "Students"
+      ],
+      "characteristics": [
+        "Balanced specs",
+        "4G connectivity",
+        "Decent camera"
+      ],
+      "popular_models": [
+        "Canvas Pulse 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Short-lived mid-range series",
+        "Focused on 4G adoption"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Juice",
+      "slug": "canvas-juice",
+      "alternative_names": [
+        "Micromax Canvas Juice"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Heavy users",
+        "Travelers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large battery capacity",
+        "Long battery life",
+        "Power saving features"
+      ],
+      "popular_models": [
+        "Canvas Juice A177",
+        "Canvas Juice 2",
+        "Canvas Juice 3",
+        "Canvas Juice 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Longest-running specialized Canvas sub-series",
+        "Pioneered the battery-focused budget segment in India"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Amaze",
+      "slug": "canvas-amaze",
+      "alternative_names": [
+        "Micromax Canvas Amaze"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 140,
+        "highest_usd": 170,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Design-conscious users"
+      ],
+      "characteristics": [
+        "Improved camera sensors",
+        "Slim design",
+        "Metallic finish options"
+      ],
+      "popular_models": [
+        "Canvas Amaze",
+        "Canvas Amaze 2",
+        "Canvas Amaze 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Focused on design and camera improvements",
+        "Short-lived series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas XP",
+      "slug": "canvas-xp",
+      "alternative_names": [
+        "Micromax Canvas XP"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 110,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Everyday users",
+        "Students"
+      ],
+      "characteristics": [
+        "Balanced performance",
+        "4G LTE support",
+        "Value pricing"
+      ],
+      "popular_models": [
+        "Canvas XP 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Short-lived series",
+        "Aimed at the transitional 3G to 4G market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Evok",
+      "slug": "canvas-evok",
+      "alternative_names": [
+        "Micromax Canvas Evok"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile enthusiasts"
+      ],
+      "characteristics": [
+        "Premium design",
+        "Good cameras",
+        "Solid performance"
+      ],
+      "popular_models": [
+        "Canvas Evok",
+        "Canvas Evok Note",
+        "Canvas Evok Power",
+        "Evok Dual Note"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Replaced the Canvas Nitro and Pulse positioning",
+        "Later merged into the Dual series branding"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Selfie",
+      "slug": "canvas-selfie",
+      "alternative_names": [
+        "Micromax Canvas Selfie"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Youth"
+      ],
+      "characteristics": [
+        "High-resolution front cameras",
+        "Front flash",
+        "Selfie optimization features"
+      ],
+      "popular_models": [
+        "Canvas Selfie",
+        "Canvas Selfie 2",
+        "Canvas Selfie 3",
+        "Selfie 2 Note"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Capitalized on the selfie trend",
+        "Featured dedicated front flash and beauty modes"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Canvas Infinity",
+      "slug": "canvas-infinity",
+      "alternative_names": [
+        "Micromax Canvas Infinity"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Everyday users"
+      ],
+      "characteristics": [
+        "18:9 aspect ratio display",
+        "Bezel-less design",
+        "Compact form factor"
+      ],
+      "popular_models": [
+        "Canvas Infinity",
+        "Canvas Infinity Pro",
+        "Canvas Infinity Life"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Micromax's first bezel-less smartphone series",
+        "Marked the transition to modern display ratios"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bharat",
+      "slug": "bharat",
+      "alternative_names": [
+        "Micromax Bharat"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 90,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Rural users",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "4G VoLTE support",
+        "Ultra-low price",
+        "Regional language support",
+        "Durable build"
+      ],
+      "popular_models": [
+        "Bharat 2",
+        "Bharat 3",
+        "Bharat 4",
+        "Bharat 5",
+        "Bharat 5 Pro",
+        "Bharat Go"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Launched to capture feature-phone to smartphone upgraders in rural India",
+        "Heavily subsidized and promoted as India's own 4G smartphone"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "IN",
+      "slug": "in",
+      "alternative_names": [
+        "Micromax IN"
+      ],
+      "sub_brand": "IN",
+      "first_release_year": 2020,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Stock Android experience",
+        "Clean UI",
+        "Competitive pricing",
+        "4G connectivity"
+      ],
+      "popular_models": [
+        "IN 1",
+        "IN 1b",
+        "IN Note 1",
+        "IN 2b",
+        "IN Note 2",
+        "IN 2c"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Launched as a new sub-brand to revive Micromax",
+        "Focused on clean, bloat-free stock Android",
+        "Marked Micromax's comeback attempt against Chinese brands"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Infinity",
+      "slug": "infinity",
+      "alternative_names": [
+        "Micromax Infinity"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Basic specs",
+        "Affordable pricing",
+        "4G support"
+      ],
+      "popular_models": [
+        "Infinity N11",
+        "Infinity N12"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Standalone budget series after Canvas Infinity",
+        "One of the last smartphone series released before Micromax's hiatus"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Dual",
+      "slug": "dual",
+      "alternative_names": [
+        "Micromax Dual"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 180,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Dual rear cameras",
+        "Premium build",
+        "High-end processors"
+      ],
+      "popular_models": [
+        "Dual 4",
+        "Dual 5"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Micromax's first dedicated dual-camera smartphone series",
+        "Attempted to compete with premium mid-range devices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Vdeo",
+      "slug": "vdeo",
+      "alternative_names": [
+        "Micromax Vdeo"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 110,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Video playback optimization",
+        "Large speakers",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Vdeo 1",
+        "Vdeo 2",
+        "Vdeo 3",
+        "Vdeo 4",
+        "Vdeo 5"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Focused on multimedia and video consumption",
+        "Short-lived series targeting the entry-level market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bolt",
+      "slug": "bolt",
+      "alternative_names": [
+        "Micromax Bolt"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 90,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Ultra-budget pricing",
+        "Basic Android features",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Bolt S300",
+        "Bolt D320",
+        "Bolt Q335",
+        "Bolt Supreme"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Primarily a feature phone series, but included a few entry-level Android smartphones",
+        "Eventually replaced by Canvas Spark and Bharat series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Ninja",
+      "slug": "ninja",
+      "alternative_names": [
+        "Micromax Ninja"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic Android experience",
+        "Dual SIM",
+        "Compact form factor"
+      ],
+      "popular_models": [
+        "Ninja A89",
+        "Ninja A91",
+        "Ninja 3 A57"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "One of Micromax's earliest entry-level Android smartphone series",
+        "Short-lived, eventually absorbed into the Canvas branding"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "iOne",
+      "slug": "ione",
+      "alternative_names": [
+        "Micromax iOne"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 90,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Notched display",
+        "19:9 aspect ratio",
+        "Android Pie",
+        "Ultra-budget pricing"
+      ],
+      "popular_models": [
+        "iOne",
+        "iOne Note"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Marketed as India Ka Apna Phone",
+        "One of the cheapest phones with a notched display at the time",
+        "Among the last smartphones released before Micromax's hiatus"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "YU",
+      "slug": "yu",
+      "alternative_names": [
+        "YU Televentures",
+        "Micromax YU"
+      ],
+      "sub_brand": "YU Televentures",
+      "first_release_year": 2014,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Online shoppers",
+        "Power users"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "CyanogenMod",
+        "Online-exclusive sales",
+        "Community-driven development",
+        "Competitive specs"
+      ],
+      "popular_models": [
+        "Yureka",
+        "Yureka Plus",
+        "Yunique",
+        "Yureka S",
+        "Yunicorn",
+        "Yureka Note",
+        "Ace"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Joint venture between Micromax and Cyanogen Inc",
+        "Pioneered online-exclusive flash sales in India",
+        "Discontinued after Cyanogen's shutdown and shift in market dynamics"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Canvas"
+    },
+    {
+      "year": 2013,
+      "series": "Canvas Doodle"
+    },
+    {
+      "year": 2013,
+      "series": "Canvas Juice"
+    },
+    {
+      "year": 2013,
+      "series": "Ninja"
+    },
+    {
+      "year": 2014,
+      "series": "Canvas Unite"
+    },
+    {
+      "year": 2014,
+      "series": "Canvas Fire"
+    },
+    {
+      "year": 2014,
+      "series": "Canvas Knight"
+    },
+    {
+      "year": 2014,
+      "series": "Canvas Nitro"
+    },
+    {
+      "year": 2014,
+      "series": "YU"
+    },
+    {
+      "year": 2015,
+      "series": "Canvas Spark"
+    },
+    {
+      "year": 2015,
+      "series": "Canvas Mega"
+    },
+    {
+      "year": 2015,
+      "series": "Canvas Pulse"
+    },
+    {
+      "year": 2015,
+      "series": "Canvas Amaze"
+    },
+    {
+      "year": 2016,
+      "series": "Canvas XP"
+    },
+    {
+      "year": 2016,
+      "series": "Canvas Evok"
+    },
+    {
+      "year": 2016,
+      "series": "Canvas Selfie"
+    },
+    {
+      "year": 2016,
+      "series": "Vdeo"
+    },
+    {
+      "year": 2017,
+      "series": "Canvas Infinity"
+    },
+    {
+      "year": 2017,
+      "series": "Bharat"
+    },
+    {
+      "year": 2017,
+      "series": "Dual"
+    },
+    {
+      "year": 2018,
+      "series": "Infinity"
+    },
+    {
+      "year": 2019,
+      "series": "iOne"
+    },
+    {
+      "year": 2020,
+      "series": "IN"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Canvas Knight",
+      "Dual"
+    ],
+    "premium": [
+      "Canvas Knight",
+      "Canvas Evok",
+      "Dual"
+    ],
+    "mid_range": [
+      "Canvas",
+      "Canvas Nitro",
+      "Canvas Pulse",
+      "Canvas Amaze",
+      "Canvas XP",
+      "Canvas Evok",
+      "Canvas Selfie",
+      "Canvas Infinity",
+      "YU"
+    ],
+    "budget": [
+      "Canvas",
+      "Canvas Unite",
+      "Canvas Fire",
+      "Canvas Mega",
+      "Canvas Doodle",
+      "Canvas Juice",
+      "Bharat",
+      "IN",
+      "Infinity",
+      "Vdeo",
+      "YU"
+    ],
+    "entry_level": [
+      "Canvas Unite",
+      "Canvas Spark",
+      "Canvas Fire",
+      "Bharat",
+      "Infinity",
+      "Vdeo",
+      "Bolt",
+      "Ninja",
+      "iOne"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "Canvas Selfie",
+      "Canvas Amaze"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Canvas Juice"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Bharat",
+      "IN",
+      "iOne"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "YU"
+    ],
+    "discontinued": [
+      "Canvas",
+      "Canvas Unite",
+      "Canvas Spark",
+      "Canvas Fire",
+      "Canvas Mega",
+      "Canvas Doodle",
+      "Canvas Knight",
+      "Canvas Nitro",
+      "Canvas Pulse",
+      "Canvas Juice",
+      "Canvas Amaze",
+      "Canvas XP",
+      "Canvas Evok",
+      "Canvas Selfie",
+      "Canvas Infinity",
+      "Bharat",
+      "IN",
+      "Infinity",
+      "Dual",
+      "Vdeo",
+      "Bolt",
+      "Ninja",
+      "iOne",
+      "YU"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "4G branding",
+      "Lite branding",
+      "Note branding"
+    ],
+    "description": "Micromax primarily used descriptive suffixes and alphanumeric combinations. The Canvas umbrella utilized descriptive names (Knight, Juice, Spark, Unite) to denote specific use cases, while later series adopted simple numeric progressions (Bharat 2, Vdeo 3, IN 1b) or suffixes like Pro, Plus, Note, and 4G to indicate variants."
+  },
+  "summary": {
+    "total_series": 24,
+    "active_series": 0,
+    "discontinued_series": 24,
+    "oldest_series": "Canvas",
+    "newest_series": "IN",
+    "longest_running_series": "Canvas",
+    "most_popular_series": "Canvas",
+    "best_selling_series": "Canvas",
+    "most_premium_series": "Canvas Knight",
+    "best_budget_series": "Bharat",
+    "most_influential_series": "Canvas",
+    "fastest_growing_series": "IN",
+    "future_expected_direction": "Unknown"
+  },
+  "missing_series": []
+}

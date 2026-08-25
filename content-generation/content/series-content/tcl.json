@@ -1,0 +1,1087 @@
+{
+  "brand": "TCL",
+  "total_series": 21,
+  "series": [
+    {
+      "name": "TCL 10 Series",
+      "slug": "tcl-10-series",
+      "alternative_names": [
+        "10-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 249,
+        "highest_usd": 449,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "NXTVISION display technology",
+        "Quad camera setups",
+        "Curved AMOLED display on Pro model",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "TCL 10 Pro",
+        "TCL 10L",
+        "TCL 10 5G",
+        "TCL 10 SE",
+        "TCL 10 Plus",
+        "TCL 10 5G UW"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America",
+        "Australia"
+      ],
+      "historical_notes": [
+        "First official series of TCL-branded smartphones",
+        "Introduced TCL's first curved AMOLED display",
+        "Marked TCL's entry into the 5G smartphone market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 20 Series",
+      "slug": "tcl-20-series",
+      "alternative_names": [
+        "20-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 189,
+        "highest_usd": 499,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "5G adopters"
+      ],
+      "characteristics": [
+        "NXTVISION 2.0 display technology",
+        "5G connectivity",
+        "AMOLED displays",
+        "Wireless charging on Pro model"
+      ],
+      "popular_models": [
+        "TCL 20 Pro 5G",
+        "TCL 20 5G",
+        "TCL 20S",
+        "TCL 20 SE",
+        "TCL 20L",
+        "TCL 20L+",
+        "TCL 20 R 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "United States",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Expanded 5G portfolio",
+        "Introduced NXTVISION 2.0",
+        "US launch with carrier partnerships"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 30 Series",
+      "slug": "tcl-30-series",
+      "alternative_names": [
+        "30-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 270,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "50MP main cameras",
+        "Large batteries (5010mAh)",
+        "AMOLED displays on select models",
+        "5G options"
+      ],
+      "popular_models": [
+        "TCL 30 5G",
+        "TCL 30+",
+        "TCL 30",
+        "TCL 30 SE",
+        "TCL 30 E",
+        "TCL 30 XE 5G",
+        "TCL 30 V 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "United States",
+        "Europe"
+      ],
+      "historical_notes": [
+        "US carrier-exclusive variants (30 V 5G, 30 XE 5G)",
+        "Launched at MWC 2022",
+        "Focused on battery life and camera capabilities"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 40 Series",
+      "slug": "tcl-40-series",
+      "alternative_names": [
+        "40-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 129,
+        "highest_usd": 219,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Affordable 5G",
+        "Large batteries",
+        "Dual speakers",
+        "NXTVISION display enhancement"
+      ],
+      "popular_models": [
+        "TCL 40 SE",
+        "TCL 408",
+        "TCL 403",
+        "TCL 40 XE 5G",
+        "TCL 40 X 5G",
+        "TCL 40 XL",
+        "TCL 40 R 5G",
+        "TCL 40 NxtPaper"
+      ],
+      "primary_markets": [
+        "Global",
+        "United States",
+        "Europe",
+        "Asia"
+      ],
+      "historical_notes": [
+        "Focused on making 5G accessible",
+        "Introduced NxtPaper variant within the series",
+        "Launched at CES 2023 and MWC 2023"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 50 Series",
+      "slug": "tcl-50-series",
+      "alternative_names": [
+        "50-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 325,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "E-reader enthusiasts"
+      ],
+      "characteristics": [
+        "NXTPAPER display technology",
+        "AI features",
+        "Microsoft AI partnership",
+        "E-reader mode",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "TCL 50 NxtPaper",
+        "TCL 50 Pro NxtPaper",
+        "TCL 50 SE",
+        "TCL 50 5G",
+        "TCL 50 XL",
+        "TCL 50 XE NxtPaper"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Latin America",
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced NXTPAPER technology with dedicated e-reader button",
+        "AI partnership with Microsoft announced",
+        "Focused on eye comfort"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 60 Series",
+      "slug": "tcl-60-series",
+      "alternative_names": [
+        "60-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 210,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "E-reader enthusiasts"
+      ],
+      "characteristics": [
+        "NXTPAPER 4.0 display",
+        "120Hz refresh rate",
+        "5G connectivity",
+        "E-reader mode",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "TCL 60 SE NXTPAPER",
+        "TCL 60 NXTPAPER",
+        "TCL 60R 5G",
+        "TCL 60 5G",
+        "TCL 60 SE",
+        "TCL 605",
+        "TCL 60 XE NXTPAPER"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "North America"
+      ],
+      "historical_notes": [
+        "Introduced NXTPAPER 4.0",
+        "Launched at MWC 2025",
+        "Expanded NXTPAPER lineup with multiple models"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 70 Series",
+      "slug": "tcl-70-series",
+      "alternative_names": [
+        "70-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Eye-care conscious users",
+        "Premium feature seekers"
+      ],
+      "characteristics": [
+        "NXTPAPER AMOLED display",
+        "Eye-care technology",
+        "Premium design"
+      ],
+      "popular_models": [
+        "TCL 70 NXTPAPER Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "First TCL series to combine NXTPAPER with AMOLED technology",
+        "Announced in January 2026",
+        "Focus on visual comfort"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "TCL P Series",
+      "slug": "tcl-p-series",
+      "alternative_names": [
+        "P-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 325,
+        "highest_usd": 380,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Performance seekers",
+        "Design-conscious users"
+      ],
+      "characteristics": [
+        "OLED NXTPAPER display",
+        "Ultra-thin bezels",
+        "Powerful MediaTek chipsets",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "TCL P80",
+        "TCL P80 Pro"
+      ],
+      "primary_markets": [
+        "Europe"
+      ],
+      "historical_notes": [
+        "Leaked in August 2026",
+        "Expected to launch with NXTPAPER OLED display",
+        "Focus on design and performance"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "TCL K Series",
+      "slug": "tcl-k-series",
+      "alternative_names": [
+        "K-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 110,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large LCD displays (6.8-inch)",
+        "120Hz refresh rate",
+        "Large batteries (up to 6500mAh)",
+        "Entry-level processors"
+      ],
+      "popular_models": [
+        "TCL K70",
+        "TCL K70 Power",
+        "TCL K70 5G",
+        "TCL K70 4G",
+        "TCL K70 SE"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Latin America",
+        "Italy"
+      ],
+      "historical_notes": [
+        "Launched in 2026 as an entry-level series",
+        "Focus on battery life and display size",
+        "Competitive pricing in European markets"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL L Series",
+      "slug": "tcl-l-series",
+      "alternative_names": [
+        "L-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Small displays",
+        "Basic specifications",
+        "Entry-level processors",
+        "Compact design"
+      ],
+      "popular_models": [
+        "TCL L7",
+        "TCL L10 Pro"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level series with basic features",
+        "Limited information available"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "TCL X Series",
+      "slug": "tcl-x-series",
+      "alternative_names": [
+        "X-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Unknown"
+      ],
+      "popular_models": [
+        "TCL X20 SE"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Limited information available",
+        "Appears to be a budget-oriented series"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "TCL ION Series",
+      "slug": "tcl-ion-series",
+      "alternative_names": [
+        "ION-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "HD+ displays",
+        "Large batteries",
+        "Entry-level specifications"
+      ],
+      "popular_models": [
+        "TCL ION V",
+        "TCL ION X"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Entry-level series with focus on affordability",
+        "Limited information available"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "TCL PLEX",
+      "slug": "tcl-plex",
+      "alternative_names": [
+        "PLEX"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 360,
+        "highest_usd": 360,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Display enthusiasts",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "NXTVISION display technology",
+        "Independent display engine",
+        "Dotch display",
+        "Triple camera"
+      ],
+      "popular_models": [
+        "TCL PLEX"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Australia"
+      ],
+      "historical_notes": [
+        "First TCL-branded smartphone",
+        "Introduced NXTVISION technology",
+        "Launched at IFA 2019",
+        "Precursor to the 10 Series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL Fold N Roll",
+      "slug": "tcl-fold-n-roll",
+      "alternative_names": [
+        "Fold N' Roll"
+      ],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Experimental"
+      ],
+      "target_audience": [
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Foldable and rollable display",
+        "Combines folding and rolling mechanisms",
+        "Large screen expansion"
+      ],
+      "popular_models": [
+        "TCL Fold N Roll"
+      ],
+      "primary_markets": [],
+      "historical_notes": [
+        "Concept device that never reached mass production",
+        "Demonstrated at MWC",
+        "Combined foldable and rollable display technologies"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "TCL Stylus Series",
+      "slug": "tcl-stylus-series",
+      "alternative_names": [
+        "Stylus-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Stylus users",
+        "Productivity-focused users"
+      ],
+      "characteristics": [
+        "Stylus support",
+        "Large displays"
+      ],
+      "popular_models": [
+        "TCL Stylus 5G"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Series focused on stylus functionality",
+        "Limited information available"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "TCL Play Series",
+      "slug": "tcl-play-series",
+      "alternative_names": [
+        "Play-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic specifications",
+        "Entry-level processors"
+      ],
+      "popular_models": [
+        "TCL Play 2",
+        "TCL Play 2C"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Older entry-level series",
+        "Limited information available"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "TCL Pride Series",
+      "slug": "tcl-pride-series",
+      "alternative_names": [
+        "Pride-Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Indian market"
+      ],
+      "characteristics": [
+        "4G connectivity",
+        "Octa-core processor",
+        "13MP rear camera",
+        "8MP front camera"
+      ],
+      "popular_models": [
+        "TCL Pride T500L"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "TCL's first 4G smartphone in India",
+        "Exclusively launched on Snapdeal",
+        "Focused on the Indian market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL idol Series",
+      "slug": "tcl-idol-series",
+      "alternative_names": [
+        "idol-Series",
+        "Idol Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 370,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Young consumers"
+      ],
+      "characteristics": [
+        "Symmetrical design",
+        "Eye-recognition technology",
+        "Hi-Fi audio",
+        "Innovative features"
+      ],
+      "popular_models": [
+        "TCL idol X",
+        "TCL idol X+",
+        "TCL idol 3",
+        "TCL idol 4"
+      ],
+      "primary_markets": [
+        "China",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Flagship series in its time",
+        "Known for design innovation",
+        "idol 3 featured reversible design",
+        "Later models included eye-recognition"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 么么哒 Series",
+      "slug": "tcl-memeda-series",
+      "alternative_names": [
+        "Memeda Series",
+        "TCL Memeda"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 110,
+        "highest_usd": 110,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Chinese market"
+      ],
+      "characteristics": [
+        "Large batteries (up to 3300mAh)",
+        "Octa-core processors",
+        "Large displays"
+      ],
+      "popular_models": [
+        "TCL 么么哒 (S720T)",
+        "TCL 么么哒3N"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Budget series targeted at the Chinese market",
+        "Known for large batteries and value-for-money",
+        "Name translates to 'Memeda' in English"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 乐玩 Series",
+      "slug": "tcl-lewan-series",
+      "alternative_names": [
+        "Le Wan Series",
+        "Happy Play Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 85,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Young users",
+        "Budget-conscious users",
+        "Chinese market"
+      ],
+      "characteristics": [
+        "Fingerprint scanner",
+        "Selfie-focused cameras",
+        "Carrier-exclusive"
+      ],
+      "popular_models": [
+        "TCL 乐玩",
+        "TCL 乐玩2",
+        "TCL 乐玩2C"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Carrier-exclusive series with China Telecom",
+        "Targeted at young consumers",
+        "Focused on selfie camera and fingerprint security"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TCL 宝石 Series",
+      "slug": "tcl-gem-series",
+      "alternative_names": [
+        "Gem Series",
+        "Baoshi Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": null,
+      "latest_release_year": null,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": null,
+        "highest_usd": null,
+        "estimated": false
+      },
+      "market_position": [
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Women",
+        "Fashion-conscious users"
+      ],
+      "characteristics": [
+        "Gemstone镶嵌",
+        "Design-focused",
+        "女性向设计"
+      ],
+      "popular_models": [
+        "TCL 999D",
+        "TCL i718M"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Early TCL series focused on design and fashion",
+        "Featured gemstone镶嵌 on devices",
+        "Targeted at女性 consumers"
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "TCL idol Series"
+    },
+    {
+      "year": 2014,
+      "series": "TCL 么么哒 Series"
+    },
+    {
+      "year": 2015,
+      "series": "TCL Pride Series"
+    },
+    {
+      "year": 2015,
+      "series": "TCL 乐玩 Series"
+    },
+    {
+      "year": 2016,
+      "series": "TCL Play Series"
+    },
+    {
+      "year": 2019,
+      "series": "TCL PLEX"
+    },
+    {
+      "year": 2020,
+      "series": "TCL 10 Series"
+    },
+    {
+      "year": 2021,
+      "series": "TCL 20 Series"
+    },
+    {
+      "year": 2022,
+      "series": "TCL 30 Series"
+    },
+    {
+      "year": 2023,
+      "series": "TCL 40 Series"
+    },
+    {
+      "year": 2024,
+      "series": "TCL 50 Series"
+    },
+    {
+      "year": 2025,
+      "series": "TCL 60 Series"
+    },
+    {
+      "year": 2026,
+      "series": "TCL 70 Series"
+    },
+    {
+      "year": 2026,
+      "series": "TCL P Series"
+    },
+    {
+      "year": 2026,
+      "series": "TCL K Series"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [],
+    "mid_range": [
+      "TCL 10 Series",
+      "TCL 20 Series",
+      "TCL 30 Series",
+      "TCL 50 Series",
+      "TCL 60 Series",
+      "TCL 70 Series",
+      "TCL P Series",
+      "TCL Stylus Series",
+      "TCL idol Series"
+    ],
+    "budget": [
+      "TCL 30 Series",
+      "TCL 40 Series",
+      "TCL 60 Series",
+      "TCL K Series",
+      "TCL X Series"
+    ],
+    "entry_level": [
+      "TCL K Series",
+      "TCL L Series",
+      "TCL ION Series",
+      "TCL Play Series",
+      "TCL Pride Series",
+      "TCL 么么哒 Series",
+      "TCL 乐玩 Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "TCL 宝石 Series"
+    ],
+    "ai_focused": [
+      "TCL 50 Series"
+    ],
+    "regional_exclusive": [
+      "TCL Pride Series",
+      "TCL 么么哒 Series",
+      "TCL 乐玩 Series",
+      "TCL 宝石 Series"
+    ],
+    "carrier_exclusive": [
+      "TCL 乐玩 Series"
+    ],
+    "online_exclusive": [
+      "TCL Pride Series"
+    ],
+    "discontinued": [
+      "TCL 10 Series",
+      "TCL 20 Series",
+      "TCL 30 Series",
+      "TCL 40 Series",
+      "TCL L Series",
+      "TCL X Series",
+      "TCL PLEX",
+      "TCL Fold N Roll",
+      "TCL Play Series",
+      "TCL Pride Series",
+      "TCL idol Series",
+      "TCL 么么哒 Series",
+      "TCL 乐玩 Series",
+      "TCL 宝石 Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Lite branding",
+      "Pro branding",
+      "Plus branding",
+      "SE branding",
+      "5G branding",
+      "NXTPAPER branding"
+    ],
+    "description": "TCL primarily uses a number-based naming strategy (10, 20, 30, 40, 50, 60, 70) to indicate generational progression. Within each number series, suffixes like Pro, SE, Lite, Plus, and 5G denote different tiers and features. The company also employs letter-based series (P, K, L, X) for specific market segments. NXTPAPER branding is used for devices featuring the company's eye-care display technology. Regional and carrier-exclusive series (Pride, 乐玩, 么么哒) have been used in specific markets like China and India."
+  },
+  "summary": {
+    "total_series": 21,
+    "active_series": 7,
+    "discontinued_series": 14,
+    "oldest_series": "TCL idol Series (2013)",
+    "newest_series": "TCL 70 Series (2026)",
+    "longest_running_series": "TCL idol Series (2013-2015, 2 years)",
+    "most_popular_series": "TCL 10 Series",
+    "best_selling_series": "Unknown",
+    "most_premium_series": "TCL 70 Series",
+    "best_budget_series": "TCL K Series",
+    "most_influential_series": "TCL 10 Series",
+    "fastest_growing_series": "TCL 60 Series",
+    "future_expected_direction": "TCL is expected to continue expanding its NXTPAPER technology across more series, with a focus on eye-care displays. The company may also introduce more premium offerings and explore foldable or rollable devices in the future. AI integration and 5G adoption will likely remain key focuses across all series."
+  },
+  "missing_series": []
+}

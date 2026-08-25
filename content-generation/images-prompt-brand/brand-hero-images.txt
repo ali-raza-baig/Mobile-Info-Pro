@@ -1,0 +1,200 @@
+1. Brand Name:Apple
+                
+ image File Name:brand-hero-Apple
+                
+2. Brand Name:Samsung
+                
+ image File Name:brand-hero-Samsung
+                
+3. Brand Name:Xiaomi
+                
+ image File Name:brand-hero-Xiaomi
+                
+4. Brand Name:OPPO
+                
+ image File Name:brand-hero-OPPO
+                
+5. Brand Name:Vivo
+                
+ image File Name:brand-hero-Vivo
+                
+6. Brand Name:Redmi
+                
+ image File Name:brand-hero-Redmi
+                
+7. Brand Name:Realme
+                
+ image File Name:brand-hero-Realme
+                
+8. Brand Name:Motorola
+                
+ image File Name:brand-hero-Motorola
+                
+9. Brand Name:Huawei
+                
+ image File Name:brand-hero-Huawei
+                
+10. Brand Name:Honor
+                
+ image File Name:brand-hero-Honor
+                
+11. Brand Name:Tecno
+                
+ image File Name:brand-hero-Tecno
+                
+12. Brand Name:Infinix
+                
+ image File Name:brand-hero-Infinix
+                
+13. Brand Name:Google (Pixel)
+                
+ image File Name:brand-hero-Google (Pixel)
+                
+14. Brand Name:OnePlus
+                
+ image File Name:brand-hero-OnePlus
+                
+15. Brand Name:Poco
+                
+ image File Name:brand-hero-Poco
+                
+16. Brand Name:iQOO
+                
+ image File Name:brand-hero-iQOO
+                
+17. Brand Name:itel
+                
+ image File Name:brand-hero-itel
+                
+18. Brand Name:Sony (Xperia)
+                
+ image File Name:brand-hero-Sony (Xperia)
+                
+19. Brand Name:Asus (ROG/Zenfone)
+                
+ image File Name:brand-hero-Asus (ROG/Zenfone)
+                
+20. Brand Name:Nothing
+                
+ image File Name:brand-hero-Nothing
+                
+21. Brand Name:ZTE
+                
+ image File Name:brand-hero-ZTE
+                
+22. Brand Name:Nubia / RedMagic
+                
+ image File Name:brand-hero-Nubia / RedMagic
+                
+23. Brand Name:HMD
+                
+ image File Name:brand-hero-HMD
+                
+24. Brand Name:Nokia
+                
+ image File Name:brand-hero-Nokia
+                
+25. Brand Name:Lava
+                
+ image File Name:brand-hero-Lava
+                
+26. Brand Name:Sharp (Aquos)
+                
+ image File Name:brand-hero-Sharp (Aquos)
+                
+27. Brand Name:TCL
+                
+ image File Name:brand-hero-TCL
+                
+28. Brand Name:Blackview
+                
+ image File Name:brand-hero-Blackview
+                
+29. Brand Name:Meizu
+                
+ image File Name:brand-hero-Meizu
+                
+30. Brand Name:Micromax
+                
+ image File Name:brand-hero-Micromax
+                
+31. Brand Name:Ulefone
+                
+ image File Name:brand-hero-Ulefone
+                
+32. Brand Name:Doogee
+                
+ image File Name:brand-hero-Doogee
+                
+33. Brand Name:Oukitel
+                
+ image File Name:brand-hero-Oukitel
+                
+34. Brand Name:Fairphone
+                
+ image File Name:brand-hero-Fairphone
+                
+35. Brand Name:HTC
+                
+ image File Name:brand-hero-HTC
+                
+36. Brand Name:BLU Products
+                
+ image File Name:brand-hero-BLU Products
+                
+37. Brand Name:Kyocera
+                
+ image File Name:brand-hero-Kyocera
+                
+38. Brand Name:Hisense
+                
+ image File Name:brand-hero-Hisense
+                
+39. Brand Name:Umidigi
+                
+ image File Name:brand-hero-Umidigi
+                
+40. Brand Name:Cubot
+                
+ image File Name:brand-hero-Cubot
+                
+41. Brand Name:Wiko
+                
+ image File Name:brand-hero-Wiko
+                
+42. Brand Name:General Mobile
+                
+ image File Name:brand-hero-General Mobile
+                
+43. Brand Name:Lanix
+                
+ image File Name:brand-hero-Lanix
+                
+44. Brand Name:Positivo
+                
+ image File Name:brand-hero-Positivo
+                
+45. Brand Name:Walton
+                
+ image File Name:brand-hero-Walton
+                
+46. Brand Name:Mobicel
+                
+ image File Name:brand-hero-Mobicel
+                
+47. Brand Name:Symphony
+                
+ image File Name:brand-hero-Symphony
+                
+48. Brand Name:Cherry Mobile
+                
+ image File Name:brand-hero-Cherry Mobile
+                
+49. Brand Name:Bphone
+                
+ image File Name:brand-hero-Bphone
+                
+50. Brand Name:Librem (Purism)
+                
+ image File Name:brand-hero-Librem (Purism)
+                

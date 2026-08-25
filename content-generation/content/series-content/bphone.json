@@ -1,0 +1,320 @@
+{
+  "brand": "Bphone",
+  "total_series": 5,
+  "series": [
+    {
+      "name": "Bphone",
+      "slug": "bphone",
+      "alternative_names": [
+        "Bphone 2015",
+        "Bphone 1"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 460,
+        "highest_usd": 925,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters",
+        "National pride supporters"
+      ],
+      "characteristics": [
+        "BOS (Android-based)",
+        "TransferJet technology",
+        "Self-claimed IP68+",
+        "AI camera claims"
+      ],
+      "popular_models": [
+        "Bphone 16GB",
+        "Bphone 64GB",
+        "Bphone Gold"
+      ],
+      "primary_markets": [
+        "Vietnam"
+      ],
+      "historical_notes": [
+        "First Vietnamese smartphone",
+        "Faced controversy over marketing and software issues",
+        "Online-exclusive distribution"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bphone 2017",
+      "slug": "bphone-2017",
+      "alternative_names": [
+        "Bphone 2"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 431,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Mid-to-high end users",
+        "Vietnamese market consumers"
+      ],
+      "characteristics": [
+        "Snapdragon 625/835",
+        "Dual cameras (Gold edition)",
+        "AI camera technology",
+        "BOS"
+      ],
+      "popular_models": [
+        "Bphone 2017",
+        "Bphone 2017 Gold"
+      ],
+      "primary_markets": [
+        "Vietnam"
+      ],
+      "historical_notes": [
+        "Improved hardware over 2015 model",
+        "Continued online-exclusive sales model"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bphone 3",
+      "slug": "bphone-3",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 320,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Budget-conscious premium seekers",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Edge-to-edge display (no notch)",
+        "AI camera noise filter",
+        "BOS 3.0",
+        "120fps slow-motion video"
+      ],
+      "popular_models": [
+        "Bphone 3",
+        "Bphone 3 Pro"
+      ],
+      "primary_markets": [
+        "Vietnam",
+        "Myanmar"
+      ],
+      "historical_notes": [
+        "Shifted to edge-to-edge display design",
+        "Exported to Myanmar in 2019",
+        "Received better reception than predecessors"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bphone B Series",
+      "slug": "bphone-b-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 240,
+        "highest_usd": 390,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Mainstream users",
+        "Online shoppers"
+      ],
+      "characteristics": [
+        "Single main camera with multi-lens equivalent features",
+        "Self-claimed IP68+",
+        "BOS",
+        "Online-exclusive availability"
+      ],
+      "popular_models": [
+        "Bphone B40",
+        "Bphone B60",
+        "Bphone B86",
+        "Bphone B86s"
+      ],
+      "primary_markets": [
+        "Vietnam"
+      ],
+      "historical_notes": [
+        "B40 and B60 were quietly discontinued due to Google Play Protect certification delays",
+        "Lacked official Google Play Protect certification"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bphone A Series",
+      "slug": "bphone-a-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 195,
+        "highest_usd": 402,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "ODM manufacturing",
+        "MediaTek Helio/Dimensity chips",
+        "Large batteries",
+        "Waterdrop notch design",
+        "5G support (A85)"
+      ],
+      "popular_models": [
+        "Bphone A40",
+        "Bphone A50",
+        "Bphone A60",
+        "Bphone A85 5G"
+      ],
+      "primary_markets": [
+        "Vietnam"
+      ],
+      "historical_notes": [
+        "Shifted to ODM model to reduce costs",
+        "A40/A60 initially delayed due to Google Play Protect certification issues",
+        "No new phone product lines launched by Bkav since 2022"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2015,
+      "series": "Bphone"
+    },
+    {
+      "year": 2017,
+      "series": "Bphone 2017"
+    },
+    {
+      "year": 2018,
+      "series": "Bphone 3"
+    },
+    {
+      "year": 2020,
+      "series": "Bphone B Series"
+    },
+    {
+      "year": 2021,
+      "series": "Bphone A Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Bphone"
+    ],
+    "premium": [
+      "Bphone 2017",
+      "Bphone 3"
+    ],
+    "mid_range": [
+      "Bphone B Series",
+      "Bphone A Series"
+    ],
+    "budget": [
+      "Bphone A Series"
+    ],
+    "entry_level": [],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Bphone",
+      "Bphone 2017",
+      "Bphone 3",
+      "Bphone B Series",
+      "Bphone A Series"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "Bphone",
+      "Bphone 2017",
+      "Bphone 3",
+      "Bphone B Series",
+      "Bphone A Series"
+    ],
+    "discontinued": [
+      "Bphone",
+      "Bphone 2017",
+      "Bphone 3",
+      "Bphone B Series",
+      "Bphone A Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Year-based naming",
+      "Letter Series",
+      "Pro branding",
+      "s branding",
+      "5G branding"
+    ],
+    "description": "Bkav initially used year-based naming (Bphone 2017) and sequential numbers (Bphone 3). Later, they transitioned to a letter-based series naming convention (A Series for budget/mid-range, B Series for mid-range/upper mid-range), supplemented by 'Pro', 's', and '5G' suffixes to denote variant tiers and connectivity."
+  },
+  "summary": {
+    "total_series": 5,
+    "active_series": 0,
+    "discontinued_series": 5,
+    "oldest_series": "Bphone",
+    "newest_series": "Bphone A Series",
+    "longest_running_series": "Bphone A Series",
+    "most_popular_series": "Bphone 3",
+    "best_selling_series": "Bphone 3",
+    "most_premium_series": "Bphone",
+    "best_budget_series": "Bphone A Series",
+    "most_influential_series": "Bphone",
+    "fastest_growing_series": "Unknown",
+    "future_expected_direction": "Uncertain, as Bkav has not released new smartphone models since 2022 and appears to have shifted focus to cybersecurity and enterprise software."
+  },
+  "missing_series": []
+}

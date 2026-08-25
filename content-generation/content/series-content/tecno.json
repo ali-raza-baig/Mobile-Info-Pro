@@ -1,0 +1,944 @@
+{
+  "brand": "Tecno",
+  "total_series": 17,
+  "series": [
+    {
+      "name": "Phantom",
+      "slug": "phantom",
+      "alternative_names": [
+        "Phantom X",
+        "Phantom V"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 1200,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Foldable",
+        "Flip"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Premium cameras",
+        "Foldable displays",
+        "High-end chipsets",
+        "AI features"
+      ],
+      "popular_models": [
+        "Phantom 6",
+        "Phantom 8",
+        "Phantom X",
+        "Phantom X2",
+        "Phantom V Fold",
+        "Phantom V Flip"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "Middle East",
+        "Southeast Asia",
+        "India"
+      ],
+      "historical_notes": [
+        "Reintroduced in 2020 after a hiatus",
+        "Introduced Tecno's first foldable (V Fold) and flip (V Flip) smartphones"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Camon",
+      "slug": "camon",
+      "alternative_names": [
+        "Camon X",
+        "Camon CX",
+        "Camon C9"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 450,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Youth"
+      ],
+      "characteristics": [
+        "High-resolution cameras",
+        "AMOLED displays",
+        "AI imaging",
+        "IP68/IP69 durability"
+      ],
+      "popular_models": [
+        "Camon 12",
+        "Camon 15",
+        "Camon 17",
+        "Camon 20",
+        "Camon 30",
+        "Camon 40",
+        "Camon 50"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Evolved from the S series (S5 Camon)",
+        "Consistently Tecno's most popular and best-selling series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pova",
+      "slug": "pova",
+      "alternative_names": [
+        "Pova Neo",
+        "Pova Curve",
+        "Pova Slim"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Gaming",
+        "Performance"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Students",
+        "Heavy media consumers"
+      ],
+      "characteristics": [
+        "Large batteries (6000mAh+)",
+        "High refresh rate displays",
+        "Gaming-centric design",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "Pova 2",
+        "Pova 3",
+        "Pova 4",
+        "Pova 5",
+        "Pova 6",
+        "Pova Neo",
+        "Pova Curve"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Introduced as a gaming/performance-focused budget line",
+        "Rapidly grew to become one of Tecno's core pillars"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Spark",
+      "slug": "spark",
+      "alternative_names": [
+        "Spark Go",
+        "Spark Air",
+        "Spark Pro"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 200,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Colorful designs",
+        "Decent cameras",
+        "Long battery life",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Spark 4",
+        "Spark 7",
+        "Spark 10",
+        "Spark 20",
+        "Spark 30",
+        "Spark 40",
+        "Spark 50"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Replaced the Y and L series as the primary youth-oriented budget lineup"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pop",
+      "slug": "pop",
+      "alternative_names": [
+        "Pop 1 (F3)"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 120,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Emerging markets"
+      ],
+      "characteristics": [
+        "Basic but reliable performance",
+        "Large batteries",
+        "Water-drop notches",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Pop 3",
+        "Pop 5",
+        "Pop 7",
+        "Pop 8",
+        "Pop 9",
+        "Pop X"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Evolved from the F series (Pop 1 was F3)",
+        "Serves as the absolute entry-level tier"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Boom",
+      "slug": "boom",
+      "alternative_names": [
+        "Boom J"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Music lovers",
+        "Youth"
+      ],
+      "characteristics": [
+        "Enhanced audio hardware",
+        "Custom sound software",
+        "Stylish design"
+      ],
+      "popular_models": [
+        "Boom J7",
+        "Boom J8"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "First HiOS-based phone was Boom J8",
+        "Discontinued as audio features were integrated into other series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "F Series",
+      "slug": "f-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Emerging markets"
+      ],
+      "characteristics": [
+        "Android Go Edition",
+        "Full-screen displays",
+        "Basic cameras"
+      ],
+      "popular_models": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "First Tecno series to run Android Go",
+        "Eventually merged into the Pop series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Y Series",
+      "slug": "y-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time buyers"
+      ],
+      "characteristics": [
+        "Basic Android experience",
+        "Removable batteries",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "Y1",
+        "Y2",
+        "Y3",
+        "Y3s"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Replaced by the Spark series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "L Series",
+      "slug": "l-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 140,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Basic cameras",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "L3",
+        "L3 Plus",
+        "L5",
+        "L7",
+        "L9",
+        "L9 Plus"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Popular for large batteries (e.g., L5 with 5000mAh)",
+        "Replaced by Spark and Pova"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "WX Series",
+      "slug": "wx-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Slim design",
+        "Basic cameras",
+        "Miravision display enhancement"
+      ],
+      "popular_models": [
+        "WX2",
+        "WX3",
+        "WX4",
+        "WX4 Pro"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Known for slim profiles and basic multimedia features",
+        "Discontinued in favor of Spark"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "i Series",
+      "slug": "i-series",
+      "alternative_names": [
+        "iF"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 110,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic specs",
+        "Dual cameras (later models)",
+        "Affordable"
+      ],
+      "popular_models": [
+        "i5",
+        "i7",
+        "iF",
+        "iF Pro"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Served as an ultra-budget alternative before the Pop series fully took over"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Early smartphone adopters",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic Android",
+        "Dual SIM",
+        "Removable batteries"
+      ],
+      "popular_models": [
+        "P1",
+        "P3",
+        "P5",
+        "P7",
+        "P9"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "One of Tecno's earliest smartphone lines",
+        "Paved the way for the N and M series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "N Series",
+      "slug": "n-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Early smartphone adopters",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic Android",
+        "Small displays",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "N3",
+        "N5",
+        "N7"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Early budget lineup",
+        "Eventually replaced by the P and Y series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "M Series",
+      "slug": "m-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic Android",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "M3",
+        "M9"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Parallel to the N series",
+        "Focused on compact and affordable smartphones"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "S5 Camon"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Improved cameras for the price",
+        "Basic Android"
+      ],
+      "popular_models": [
+        "S5",
+        "S5 Camon"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Direct predecessor to the Camon series",
+        "The 'Camon' branding was later spun off into its own massive series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "T Series",
+      "slug": "t-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Early smartphone adopters"
+      ],
+      "characteristics": [
+        "First Tecno Android smartphone",
+        "Dual SIM",
+        "Basic specs"
+      ],
+      "popular_models": [
+        "T1"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Tecno's very first smartphone",
+        "Marked the brand's entry into the Android market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Q Series",
+      "slug": "q-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Messaging-focused users",
+        "Early smartphone adopters"
+      ],
+      "characteristics": [
+        "QWERTY physical keyboard",
+        "Small touchscreen",
+        "Android OS"
+      ],
+      "popular_models": [
+        "Q1"
+      ],
+      "primary_markets": [
+        "Africa",
+        "South Asia"
+      ],
+      "historical_notes": [
+        "Targeted at users transitioning from BlackBerry-style devices to Android"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "T Series"
+    },
+    {
+      "year": 2012,
+      "series": "N Series"
+    },
+    {
+      "year": 2013,
+      "series": "Q Series"
+    },
+    {
+      "year": 2013,
+      "series": "P Series"
+    },
+    {
+      "year": 2013,
+      "series": "M Series"
+    },
+    {
+      "year": 2014,
+      "series": "S Series"
+    },
+    {
+      "year": 2014,
+      "series": "Camon"
+    },
+    {
+      "year": 2015,
+      "series": "Y Series"
+    },
+    {
+      "year": 2015,
+      "series": "L Series"
+    },
+    {
+      "year": 2016,
+      "series": "WX Series"
+    },
+    {
+      "year": 2016,
+      "series": "Boom"
+    },
+    {
+      "year": 2016,
+      "series": "Phantom"
+    },
+    {
+      "year": 2017,
+      "series": "i Series"
+    },
+    {
+      "year": 2018,
+      "series": "F Series"
+    },
+    {
+      "year": 2018,
+      "series": "Pop"
+    },
+    {
+      "year": 2018,
+      "series": "Spark"
+    },
+    {
+      "year": 2020,
+      "series": "Pova"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Phantom"
+    ],
+    "premium": [
+      "Phantom"
+    ],
+    "mid_range": [
+      "Camon",
+      "Pova"
+    ],
+    "budget": [
+      "Spark",
+      "Pop",
+      "Boom",
+      "F Series",
+      "Y Series",
+      "L Series",
+      "WX Series",
+      "i Series",
+      "P Series",
+      "N Series",
+      "M Series",
+      "S Series",
+      "T Series",
+      "Q Series"
+    ],
+    "entry_level": [
+      "Pop",
+      "F Series",
+      "Y Series",
+      "i Series",
+      "N Series",
+      "M Series",
+      "T Series",
+      "Q Series"
+    ],
+    "foldable": [
+      "Phantom"
+    ],
+    "flip": [
+      "Phantom"
+    ],
+    "gaming": [
+      "Pova"
+    ],
+    "camera_focused": [
+      "Camon",
+      "S Series"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Boom"
+    ],
+    "ai_focused": [
+      "Camon",
+      "Phantom",
+      "Pova"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Boom",
+      "F Series",
+      "Y Series",
+      "L Series",
+      "WX Series",
+      "i Series",
+      "P Series",
+      "N Series",
+      "M Series",
+      "S Series",
+      "T Series",
+      "Q Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Neo branding",
+      "Go branding",
+      "Air branding",
+      "Ultra branding",
+      "AI branding"
+    ],
+    "description": "Tecno primarily uses evocative names (Phantom, Camon, Spark, Pova, Pop) paired with generational numbers (e.g., Camon 30, Spark 50). It heavily utilizes suffixes like 'Pro', 'Plus', 'Ultra', 'Neo', 'Go', and 'Air' to denote variant tiers within a series. Recent branding heavily emphasizes 'AI' to highlight on-device artificial intelligence features."
+  },
+  "summary": {
+    "total_series": 17,
+    "active_series": 5,
+    "discontinued_series": 12,
+    "oldest_series": "T Series",
+    "newest_series": "Pova",
+    "longest_running_series": "Camon",
+    "most_popular_series": "Camon",
+    "best_selling_series": "Camon",
+    "most_premium_series": "Phantom",
+    "best_budget_series": "Spark",
+    "most_influential_series": "Camon",
+    "fastest_growing_series": "Pova",
+    "future_expected_direction": "Continued expansion into upper-mid-range and premium segments with a strong focus on AI integration, foldable form factors, and enhanced durability (IP68/IP69), while maintaining dominance in emerging markets."
+  },
+  "missing_series": []
+}

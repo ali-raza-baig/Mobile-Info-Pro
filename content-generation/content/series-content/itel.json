@@ -1,0 +1,632 @@
+{
+  "brand": "itel",
+  "total_series": 11,
+  "series": [
+    {
+      "name": "A-Series",
+      "slug": "a-series",
+      "alternative_names": [
+        "A"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Long battery life",
+        "Affordable pricing",
+        "Essential features",
+        "Durable build"
+      ],
+      "popular_models": [
+        "itel A60",
+        "itel A70",
+        "itel A80",
+        "itel A100",
+        "itel A50"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Core entry-level lineup for itel",
+        "Consistently updated to provide the most affordable Android experience",
+        "Some recent models like A100 feature MIL-STD-810H durability"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P-Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "Power Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Heavy mobile users",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Massive batteries (5000-7000 mAh)",
+        "Power-saving features",
+        "Durable build"
+      ],
+      "popular_models": [
+        "itel P40",
+        "itel P55",
+        "itel Power 70",
+        "itel Power 80",
+        "itel P38 Pro"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Originally branded as P-Series",
+        "Recent models explicitly use 'Power' in the name to emphasize battery endurance",
+        "Defined itel's reputation for exceptional battery life in the budget segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S-Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "Style Series",
+        "Selfie Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young adults",
+        "Social media users",
+        "Budget-conscious photography enthusiasts"
+      ],
+      "characteristics": [
+        "Sleek design",
+        "Improved camera systems",
+        "Vibrant displays",
+        "Occasional color-changing backs"
+      ],
+      "popular_models": [
+        "itel S23",
+        "itel S25",
+        "itel S18",
+        "itel S24",
+        "itel S16"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Positioned as the 'Style' series",
+        "Serves as itel's upper-budget to mid-range offering",
+        "Early models were explicitly marketed as the 'Selfie Series' focusing on front-facing cameras before being fully integrated into the main S-Series branding"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Vision-Series",
+      "slug": "vision-series",
+      "alternative_names": [
+        "Vision"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Students",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large HD+ displays",
+        "Big batteries",
+        "Immersive viewing experience"
+      ],
+      "popular_models": [
+        "itel Vision 1",
+        "itel Vision 2S",
+        "itel Vision 3",
+        "itel Vision 5"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced to cater to users prioritizing screen size and media consumption on a budget",
+        "Often features 90Hz or higher refresh rates in newer iterations"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ZENO",
+      "slug": "zeno",
+      "alternative_names": [
+        "Zeno"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Gen Z",
+        "Young professionals",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Premium design language",
+        "5G connectivity",
+        "Slim profiles"
+      ],
+      "popular_models": [
+        "itel Zeno 10",
+        "itel Zeno 20",
+        "itel Zeno 100",
+        "itel Zeno 5G"
+      ],
+      "primary_markets": [
+        "India",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced as a premium-styled youth-centric lineup",
+        "Often serves as itel's first to receive 5G connectivity in the budget segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "City",
+      "slug": "city",
+      "alternative_names": [
+        "City Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Urban dwellers",
+        "Young professionals",
+        "Students"
+      ],
+      "characteristics": [
+        "Sleek urban design",
+        "Balanced performance",
+        "Modern aesthetics"
+      ],
+      "popular_models": [
+        "itel City 100",
+        "itel City 200",
+        "itel City 200s"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "A newer series debuting in 2024",
+        "Aimed at bridging the gap between ultra-budget and mid-range with a focus on urban lifestyle aesthetics"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "RS",
+      "slug": "rs",
+      "alternative_names": [
+        "RS Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Mobile gamers",
+        "Esports enthusiasts",
+        "Students"
+      ],
+      "characteristics": [
+        "High refresh rate displays",
+        "Gaming-optimized chipsets",
+        "Enhanced cooling",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "itel RS4",
+        "itel RS24"
+      ],
+      "primary_markets": [
+        "India",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "itel's first dedicated gaming smartphone series",
+        "Marks a strategic push into the budget gaming segment with features like 120Hz displays and high RAM configurations"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Wish",
+      "slug": "wish",
+      "alternative_names": [
+        "Wish Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic smartphone features",
+        "4G VoLTE support",
+        "Compact design"
+      ],
+      "popular_models": [
+        "itel Wish A21",
+        "itel Wish A41",
+        "itel Wish A41+"
+      ],
+      "primary_markets": [
+        "India",
+        "Africa"
+      ],
+      "historical_notes": [
+        "An early smartphone series from itel",
+        "Helped establish its presence in the 4G VoLTE budget market",
+        "Replaced by the A-Series and Vision-Series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Super",
+      "slug": "super",
+      "alternative_names": [
+        "Super Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users on a budget",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "High refresh rate (up to 144Hz)",
+        "Large batteries",
+        "Premium features at budget prices"
+      ],
+      "popular_models": [
+        "itel Super 26 Ultra"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced to push the boundaries of itel's typical specifications",
+        "Offers features like 144Hz displays previously unseen in this price bracket for the brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Color",
+      "slug": "color",
+      "alternative_names": [
+        "Color Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Style-conscious youth",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Color-changing photochromic backs",
+        "Stylish design",
+        "Decent camera setups"
+      ],
+      "popular_models": [
+        "itel Color Pro 5G"
+      ],
+      "primary_markets": [
+        "India",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Focuses on aesthetic innovation",
+        "Features photochromic glass that changes color in sunlight, bringing premium design cues to the budget segment"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Alpha",
+      "slug": "alpha",
+      "alternative_names": [
+        "Alpha Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 90,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic Android Go experience",
+        "Compact displays",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "itel Alpha",
+        "itel Alpha Lite A52 Lite"
+      ],
+      "primary_markets": [
+        "India",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Originally a budget smartphone series",
+        "The 'Alpha' name has since been repurposed by itel for its smartwatch lineup (e.g., Alpha Style, Alpha Edge)"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2014,
+      "series": "A-Series"
+    },
+    {
+      "year": 2016,
+      "series": "Wish"
+    },
+    {
+      "year": 2017,
+      "series": "P-Series"
+    },
+    {
+      "year": 2018,
+      "series": "S-Series"
+    },
+    {
+      "year": 2019,
+      "series": "Alpha"
+    },
+    {
+      "year": 2020,
+      "series": "Vision-Series"
+    },
+    {
+      "year": 2023,
+      "series": "ZENO"
+    },
+    {
+      "year": 2023,
+      "series": "Color"
+    },
+    {
+      "year": 2024,
+      "series": "RS"
+    },
+    {
+      "year": 2024,
+      "series": "Super"
+    },
+    {
+      "year": 2024,
+      "series": "City"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "Super"
+    ],
+    "mid_range": [
+      "S-Series",
+      "ZENO",
+      "City",
+      "RS"
+    ],
+    "budget": [
+      "A-Series",
+      "P-Series",
+      "Vision-Series",
+      "Color"
+    ],
+    "entry_level": [
+      "A-Series",
+      "Wish",
+      "Alpha"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "RS"
+    ],
+    "camera_focused": [
+      "S-Series"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Color",
+      "City"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Wish"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Wish",
+      "Alpha"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "Lite branding",
+      "Max branding",
+      "Turbo branding"
+    ],
+    "description": "itel primarily uses a Letter + Number naming convention (e.g., A60, S23, P40). It supplements this with descriptive suffixes like 'Pro', 'Plus', 'Ultra', 'Lite', 'Max', and 'Turbo' to denote variant tiers. Recently, it has adopted standalone descriptive series names like 'Power', 'City', 'Zeno', and 'RS' to clearly communicate the device's primary use case (e.g., gaming, battery life, urban lifestyle)."
+  },
+  "summary": {
+    "total_series": 11,
+    "active_series": 9,
+    "discontinued_series": 2,
+    "oldest_series": "A-Series",
+    "newest_series": "City",
+    "longest_running_series": "A-Series",
+    "most_popular_series": "A-Series",
+    "best_selling_series": "A-Series",
+    "most_premium_series": "Super",
+    "best_budget_series": "A-Series",
+    "most_influential_series": "P-Series",
+    "fastest_growing_series": "RS",
+    "future_expected_direction": "Continued expansion in the budget 5G segment, deeper integration of AI features for camera and battery optimization, and further segmentation into lifestyle and gaming niches (like RS and City) while maintaining ultra-affordable entry-level options."
+  },
+  "missing_series": []
+}

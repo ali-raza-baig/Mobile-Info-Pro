@@ -1,0 +1,842 @@
+{
+  "brand": "Huawei",
+  "total_series": 15,
+  "series": [
+    {
+      "name": "IDEOS",
+      "slug": "ideos",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable",
+        "Android 2.2",
+        "Compact design"
+      ],
+      "popular_models": [
+        "IDEOS U8150",
+        "IDEOS X5",
+        "IDEOS X6"
+      ],
+      "primary_markets": [
+        "Global",
+        "India"
+      ],
+      "historical_notes": [
+        "Huawei's early Android smartphone series",
+        "First phone with Android 2.2"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic Android smartphones",
+        "Carrier variants"
+      ],
+      "popular_models": [
+        "U8500",
+        "U8650",
+        "U8800"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Early Huawei Android smartphones",
+        "Often carrier-branded"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "T Series",
+      "slug": "t-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic feature phones and early smartphones"
+      ],
+      "popular_models": [
+        "T120",
+        "T161L",
+        "T156",
+        "T158",
+        "T201",
+        "T208",
+        "T211",
+        "T261L",
+        "T330",
+        "T552"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "Discontinued entry-level series",
+        "Primarily carrier-exclusive"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "D Series",
+      "slug": "d-series",
+      "alternative_names": [
+        "Ascend D"
+      ],
+      "sub_brand": "Ascend",
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Quad-core processors",
+        "HD displays",
+        "Premium build"
+      ],
+      "popular_models": [
+        "Ascend D1",
+        "Ascend D quad",
+        "Ascend D quad XL"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Early flagship series under Ascend brand",
+        "First Huawei phones with quad-core K3V2 chipset"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [
+        "Ascend P"
+      ],
+      "sub_brand": "Ascend",
+      "first_release_year": 2012,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 1200,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Stylish design",
+        "Advanced camera systems",
+        "Leica partnership (P9-P50)"
+      ],
+      "popular_models": [
+        "Ascend P1",
+        "P9",
+        "P20 Pro",
+        "P30 Pro",
+        "P40 Pro",
+        "P50 Pro",
+        "P60 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Originally part of Ascend brand",
+        "Rebranded to Pura in 2024",
+        "Known for camera innovation and Leica collaboration"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [
+        "Ascend G"
+      ],
+      "sub_brand": "Ascend",
+      "first_release_year": 2012,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Mid-range specifications",
+        "Good value"
+      ],
+      "popular_models": [
+        "Ascend G300",
+        "Ascend G6",
+        "Ascend G7",
+        "G8",
+        "G9"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Originally part of Ascend brand",
+        "Discontinued as Nova and Enjoy series expanded"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Y Series",
+      "slug": "y-series",
+      "alternative_names": [
+        "Ascend Y"
+      ],
+      "sub_brand": "Ascend",
+      "first_release_year": 2012,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Basic specifications",
+        "Low price"
+      ],
+      "popular_models": [
+        "Ascend Y100",
+        "Ascend Y300",
+        "Y5",
+        "Y6",
+        "Y7",
+        "Y9"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Originally part of Ascend brand",
+        "Discontinued as Enjoy series took over budget segment"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "W Series",
+      "slug": "w-series",
+      "alternative_names": [
+        "Ascend W"
+      ],
+      "sub_brand": "Ascend",
+      "first_release_year": 2013,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Windows Phone enthusiasts"
+      ],
+      "characteristics": [
+        "Windows Phone 8",
+        "Mid-range hardware"
+      ],
+      "popular_models": [
+        "Ascend W1",
+        "Ascend W2"
+      ],
+      "primary_markets": [
+        "Global"
+      ],
+      "historical_notes": [
+        "Only Windows Phone series from Huawei",
+        "Discontinued due to poor market performance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Mate",
+      "slug": "mate",
+      "alternative_names": [
+        "Ascend Mate"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 2000,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Premium cameras",
+        "Long battery life",
+        "Kirin chipsets"
+      ],
+      "popular_models": [
+        "Ascend Mate",
+        "Mate 7",
+        "Mate 20 Pro",
+        "Mate 30 Pro",
+        "Mate 40 Pro",
+        "Mate 50 Pro",
+        "Mate 60 Pro",
+        "Mate 70 Pro",
+        "Mate 80"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Originally Ascend Mate",
+        "Became flagship productivity series",
+        "Includes foldable Mate X variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Honor",
+      "slug": "honor",
+      "alternative_names": [],
+      "sub_brand": "Honor",
+      "first_release_year": 2013,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget",
+        "Online-exclusive"
+      ],
+      "target_audience": [
+        "Young consumers",
+        "Online shoppers",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Good value",
+        "Online-exclusive",
+        "Youth-oriented design"
+      ],
+      "popular_models": [
+        "Honor 6",
+        "Honor 8",
+        "Honor 9",
+        "Honor 10",
+        "Honor 20"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "Huawei's sub-brand",
+        "Became independent in 2020",
+        "Focused on online sales and value"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Enjoy",
+      "slug": "enjoy",
+      "alternative_names": [
+        "畅享"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Basic specs",
+        "Low price"
+      ],
+      "popular_models": [
+        "Enjoy 5",
+        "Enjoy 7",
+        "Enjoy 9",
+        "Enjoy 60",
+        "Enjoy 70",
+        "Enjoy 80",
+        "Enjoy 90"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive budget series",
+        "Replaced Y and G series in China"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Nova",
+      "slug": "nova",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Young consumers",
+        "Fashion-conscious users",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "Stylish design",
+        "Good cameras",
+        "Mid-range pricing",
+        "Youth-oriented"
+      ],
+      "popular_models": [
+        "Nova",
+        "Nova 3",
+        "Nova 5T",
+        "Nova 7",
+        "Nova 9",
+        "Nova 11",
+        "Nova 12",
+        "Nova 14",
+        "Nova 15"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Positioned as a youth and lifestyle series",
+        "Includes Nova Flip foldable variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Maimang",
+      "slug": "maimang",
+      "alternative_names": [
+        "麦芒"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 450,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Young consumers in China"
+      ],
+      "characteristics": [
+        "Good cameras",
+        "Mid-range specs",
+        "China-exclusive"
+      ],
+      "popular_models": [
+        "Maimang 5",
+        "Maimang 6",
+        "Maimang 7",
+        "Maimang 8",
+        "Maimang 9"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "China-exclusive series",
+        "Often rebranded as Mate Lite globally"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pocket",
+      "slug": "pocket",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 800,
+        "highest_usd": 1200,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flip"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Compact phone enthusiasts"
+      ],
+      "characteristics": [
+        "Flip foldable design",
+        "Compact",
+        "Premium materials"
+      ],
+      "popular_models": [
+        "P50 Pocket",
+        "Pocket S",
+        "Pocket 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Huawei's flip foldable series",
+        "Targets style-conscious consumers"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pura",
+      "slug": "pura",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 800,
+        "highest_usd": 1500,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Content creators",
+        "Style-conscious users"
+      ],
+      "characteristics": [
+        "Advanced cameras",
+        "Stylish design",
+        "High refresh rate displays"
+      ],
+      "popular_models": [
+        "Pura 70",
+        "Pura 70 Pro",
+        "Pura 70 Ultra",
+        "Pura 80",
+        "Pura 80 Pro",
+        "Pura 80 Ultra",
+        "Pura X"
+      ],
+      "primary_markets": [
+        "Global",
+        "China"
+      ],
+      "historical_notes": [
+        "Rebranded from P series in 2024",
+        "Continues camera-focused flagship positioning"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "IDEOS"
+    },
+    {
+      "year": 2010,
+      "series": "U Series"
+    },
+    {
+      "year": 2010,
+      "series": "T Series"
+    },
+    {
+      "year": 2012,
+      "series": "D Series"
+    },
+    {
+      "year": 2012,
+      "series": "P Series"
+    },
+    {
+      "year": 2012,
+      "series": "G Series"
+    },
+    {
+      "year": 2012,
+      "series": "Y Series"
+    },
+    {
+      "year": 2013,
+      "series": "W Series"
+    },
+    {
+      "year": 2013,
+      "series": "Mate"
+    },
+    {
+      "year": 2013,
+      "series": "Honor"
+    },
+    {
+      "year": 2015,
+      "series": "Enjoy"
+    },
+    {
+      "year": 2016,
+      "series": "Nova"
+    },
+    {
+      "year": 2016,
+      "series": "Maimang"
+    },
+    {
+      "year": 2021,
+      "series": "Pocket"
+    },
+    {
+      "year": 2024,
+      "series": "Pura"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "D Series",
+      "P Series",
+      "Mate",
+      "Pura"
+    ],
+    "premium": [
+      "D Series",
+      "P Series",
+      "Mate",
+      "Pocket",
+      "Pura"
+    ],
+    "mid_range": [
+      "G Series",
+      "Honor",
+      "Nova",
+      "Maimang",
+      "W Series"
+    ],
+    "budget": [
+      "IDEOS",
+      "U Series",
+      "T Series",
+      "Y Series",
+      "Enjoy"
+    ],
+    "entry_level": [
+      "IDEOS",
+      "U Series",
+      "T Series",
+      "Y Series",
+      "Enjoy"
+    ],
+    "foldable": [],
+    "flip": [
+      "Pocket"
+    ],
+    "gaming": [],
+    "camera_focused": [
+      "P Series",
+      "Pura"
+    ],
+    "business": [
+      "Mate"
+    ],
+    "rugged": [],
+    "lifestyle": [
+      "Nova"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Enjoy",
+      "Maimang"
+    ],
+    "carrier_exclusive": [
+      "T Series",
+      "U Series"
+    ],
+    "online_exclusive": [
+      "Honor"
+    ],
+    "discontinued": [
+      "IDEOS",
+      "U Series",
+      "T Series",
+      "D Series",
+      "P Series",
+      "G Series",
+      "Y Series",
+      "W Series",
+      "Honor",
+      "Maimang"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "SE branding",
+      "Lite branding",
+      "Fold branding",
+      "Flip branding"
+    ],
+    "description": "Huawei uses a multi-tiered naming strategy. Flagship series use letter-based names (Mate, P/Pura) with number generations. Mid-range and budget series use letter-based (Nova, Enjoy, Y, G) or number-based (Honor) names with generational numbers. Pro, Plus, Ultra, Lite, SE, and other suffixes denote variants within series. Foldable devices carry 'Fold' or 'Flip' branding. The Ascend brand was retired in 2015."
+  },
+  "summary": {
+    "total_series": 15,
+    "active_series": 5,
+    "discontinued_series": 10,
+    "oldest_series": "IDEOS",
+    "newest_series": "Pura",
+    "longest_running_series": "Mate",
+    "most_popular_series": "Mate",
+    "best_selling_series": "Mate",
+    "most_premium_series": "Mate",
+    "best_budget_series": "Enjoy",
+    "most_influential_series": "P Series",
+    "fastest_growing_series": "Pura",
+    "future_expected_direction": "Continued focus on flagship Mate and Pura series, expansion of foldable devices (Pocket, Mate X), and AI integration with HarmonyOS."
+  },
+  "missing_series": []
+}

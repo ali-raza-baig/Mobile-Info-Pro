@@ -1,0 +1,704 @@
+{
+  "brand": "Symphony",
+  "total_series": 13,
+  "series": [
+    {
+      "name": "Xplorer",
+      "slug": "xplorer",
+      "alternative_names": [
+        "Explorer"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic Android experience",
+        "Dual SIM",
+        "Removable battery"
+      ],
+      "popular_models": [
+        "Symphony Xplorer ZV",
+        "Symphony Xplorer V55",
+        "Symphony Xplorer W20",
+        "Symphony Xplorer W68",
+        "Symphony Xplorer i10"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "One of the earliest smartphone series by Symphony Mobile in Bangladesh.",
+        "Paved the way for affordable Android devices in the local market."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "E Series",
+      "slug": "e-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 40,
+        "highest_usd": 80,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Small form factor",
+        "Basic Android OS",
+        "Dual SIM"
+      ],
+      "popular_models": [
+        "Symphony E5",
+        "Symphony E10",
+        "Symphony E15",
+        "Symphony E30"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Served as an ultra-budget entry point into smartphones for feature phone upgraders.",
+        "Replaced by the V Series and I Series for budget segments."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Roar",
+      "slug": "roar",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Stock Android enthusiasts"
+      ],
+      "characteristics": [
+        "Stock Android (Android One)",
+        "Clean UI",
+        "Timely updates"
+      ],
+      "popular_models": [
+        "Symphony Roar A50",
+        "Symphony Roar V20",
+        "Symphony Roar V150"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Nepal",
+        "Sri Lanka"
+      ],
+      "historical_notes": [
+        "Symphony Roar A50 was the first Android One phone released outside of India.",
+        "Marked a significant milestone for local smartphone manufacturing in Bangladesh."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Z Series",
+      "slug": "z-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High-capacity batteries",
+        "Multiple rear cameras",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Symphony Z15",
+        "Symphony Z30",
+        "Symphony Z40",
+        "Symphony Z50",
+        "Symphony Z60",
+        "Symphony Z60 Plus",
+        "Symphony Z70"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Nepal"
+      ],
+      "historical_notes": [
+        "One of the most popular and longest-running smartphone series by Symphony.",
+        "Consistently updated with modern features like high-refresh-rate displays and larger batteries."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P Series",
+      "slug": "p-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Sandstone back covers",
+        "Decent camera setups",
+        "Slim design"
+      ],
+      "popular_models": [
+        "Symphony P6",
+        "Symphony P6 Pro",
+        "Symphony P9+"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Known for introducing premium design elements like sandstone back covers at budget prices.",
+        "Eventually merged into the Z Series and Helio Series lineup."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "H Series",
+      "slug": "h-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 90,
+        "highest_usd": 140,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Anodized aluminum frames",
+        "HD displays",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Symphony H250",
+        "Symphony H300"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Focused on providing a premium metal build quality at an affordable price point.",
+        "Discontinued as the Z Series absorbed its market position."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "I Series",
+      "slug": "i-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2022,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 110,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Compact design",
+        "Basic reliable features",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Symphony I32",
+        "Symphony I90",
+        "Symphony I99"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Served as the primary entry-level smartphone lineup before the V Series and Atom Series took over.",
+        "Offered fingerprint sensors and 4G connectivity at very low price points."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Ultra-affordable",
+        "Appealing designs",
+        "Basic smartphone features"
+      ],
+      "popular_models": [
+        "Symphony V50",
+        "Symphony V75",
+        "Symphony V90",
+        "Symphony V120"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Designed for first-time users or those looking for simple, easy-to-use smartphones.",
+        "Remains one of the most accessible smartphone series in the Bangladeshi market."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "G Series",
+      "slug": "g-series",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 110,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Affordable everyday performance",
+        "Reliable battery life",
+        "Basic camera setups"
+      ],
+      "popular_models": [
+        "Symphony G20",
+        "Symphony G22",
+        "Symphony G27"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Positioned as an affordable everyday phone series.",
+        "Often overlaps with the V Series but sometimes offers slightly better specifications."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Helio",
+      "slug": "helio",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile gamers",
+        "Students"
+      ],
+      "characteristics": [
+        "MediaTek Helio processors",
+        "High RAM configurations",
+        "Gaming-oriented features",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Symphony Helio 30",
+        "Symphony Helio 40",
+        "Symphony Helio 50",
+        "Symphony Helio 80",
+        "Symphony Helio 90",
+        "Symphony Helio 100"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Nepal"
+      ],
+      "historical_notes": [
+        "Named after the MediaTek Helio chipset family.",
+        "Represents Symphony's push into the performance-oriented budget and mid-range segments."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Atom",
+      "slug": "atom",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 130,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Modern notch or waterdrop displays",
+        "Android Go or full Android",
+        "Compact and stylish design"
+      ],
+      "popular_models": [
+        "Symphony Atom",
+        "Symphony Atom 2",
+        "Symphony Atom 3",
+        "Symphony Atom 5"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Launched as a locally produced smartphone series to boost domestic manufacturing.",
+        "Focuses on blending performance, style, and affordability."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Innova",
+      "slug": "innova",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "High-resolution cameras",
+        "Large RAM and storage",
+        "Modern Android versions",
+        "Fast charging support"
+      ],
+      "popular_models": [
+        "Symphony Innova 10",
+        "Symphony Innova 30",
+        "Symphony Innova 40"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Represents a step up in Symphony's lineup, offering more advanced features at mid-range prices.",
+        "Targets users seeking better performance and innovation."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Max",
+      "slug": "max",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 140,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Heavy media consumers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Massive batteries",
+        "Large HD+ displays",
+        "Reliable everyday performance"
+      ],
+      "popular_models": [
+        "Symphony Max 10",
+        "Symphony Max 30",
+        "Symphony Max 60"
+      ],
+      "primary_markets": [
+        "Bangladesh"
+      ],
+      "historical_notes": [
+        "Specifically designed for users who prioritize battery life and large screens.",
+        "Fills the niche for long-lasting, heavy-usage budget devices."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Xplorer"
+    },
+    {
+      "year": 2014,
+      "series": "E Series"
+    },
+    {
+      "year": 2014,
+      "series": "Roar"
+    },
+    {
+      "year": 2015,
+      "series": "Z Series"
+    },
+    {
+      "year": 2016,
+      "series": "P Series"
+    },
+    {
+      "year": 2016,
+      "series": "I Series"
+    },
+    {
+      "year": 2017,
+      "series": "H Series"
+    },
+    {
+      "year": 2017,
+      "series": "V Series"
+    },
+    {
+      "year": 2018,
+      "series": "G Series"
+    },
+    {
+      "year": 2019,
+      "series": "Helio"
+    },
+    {
+      "year": 2020,
+      "series": "Atom"
+    },
+    {
+      "year": 2023,
+      "series": "Innova"
+    },
+    {
+      "year": 2023,
+      "series": "Max"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [],
+    "mid_range": [
+      "Z Series",
+      "P Series",
+      "H Series",
+      "Helio",
+      "Atom",
+      "Innova",
+      "Max"
+    ],
+    "budget": [
+      "Z Series",
+      "P Series",
+      "H Series",
+      "I Series",
+      "V Series",
+      "G Series",
+      "Atom",
+      "Max"
+    ],
+    "entry_level": [
+      "Xplorer",
+      "E Series",
+      "I Series",
+      "V Series",
+      "G Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [
+      "Helio"
+    ],
+    "camera_focused": [
+      "Innova",
+      "P Series"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "Atom",
+      "Max"
+    ],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Xplorer",
+      "E Series",
+      "Roar",
+      "Z Series",
+      "P Series",
+      "H Series",
+      "I Series",
+      "V Series",
+      "G Series",
+      "Helio",
+      "Atom",
+      "Innova",
+      "Max"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Xplorer",
+      "E Series",
+      "Roar",
+      "P Series",
+      "H Series",
+      "I Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding"
+    ],
+    "description": "Symphony primarily uses a combination of letter-based series names (e.g., Z, V, G, P) and descriptive names (e.g., Helio, Atom, Innova, Max). Models within these series typically append numbers to denote generations or tiers (e.g., Z60, Helio 90), with occasional use of 'Plus' or 'Pro' suffixes for enhanced variants."
+  },
+  "summary": {
+    "total_series": 13,
+    "active_series": 7,
+    "discontinued_series": 6,
+    "oldest_series": "Xplorer",
+    "newest_series": "Innova",
+    "longest_running_series": "Z Series",
+    "most_popular_series": "Z Series",
+    "best_selling_series": "Z Series",
+    "most_premium_series": "Innova",
+    "best_budget_series": "V Series",
+    "most_influential_series": "Roar",
+    "fastest_growing_series": "Helio",
+    "future_expected_direction": "Continued focus on locally manufactured, high-value mid-range devices with larger batteries, higher refresh rate displays, and improved camera systems, while expanding export presence in neighboring South Asian markets."
+  },
+  "missing_series": []
+}

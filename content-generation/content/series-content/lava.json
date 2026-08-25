@@ -1,0 +1,1089 @@
+{
+  "brand": "Lava",
+  "total_series": 22,
+  "series": [
+    {
+      "name": "Agni",
+      "slug": "agni",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "Premium cameras",
+        "5G connectivity",
+        "Dual-screen (Agni 3)"
+      ],
+      "popular_models": [
+        "Agni 5G",
+        "Agni 2 5G",
+        "Agni 3 5G",
+        "Agni 4 5G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "First India-made 5G smartphone (Agni 5G)",
+        "Launched to revamp Lava's product line in 2021",
+        "Agni 3 introduced dual AMOLED screens"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Blaze",
+      "slug": "blaze",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 220,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "5G connectivity",
+        "Stock Android experience"
+      ],
+      "popular_models": [
+        "Blaze 5G",
+        "Blaze Pro 5G",
+        "Blaze Curve 5G",
+        "Blaze X 5G",
+        "Blaze 3 5G",
+        "Blaze AMOLED 2"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Launched on July 7, 2022",
+        "One of Lava's most extensive lineups with multiple variants"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Yuva",
+      "slug": "yuva",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 70,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Entry-level processors",
+        "Basic cameras",
+        "Affordable pricing"
+      ],
+      "popular_models": [
+        "Yuva Pro",
+        "Yuva 2",
+        "Yuva 3",
+        "Yuva 5G",
+        "Yuva Smart",
+        "Yuva 4"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Officially launched on October 11, 2022",
+        "Focuses on entry-level and budget segments"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Storm",
+      "slug": "storm",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 95,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Young consumers"
+      ],
+      "characteristics": [
+        "120Hz displays",
+        "5G connectivity",
+        "Large batteries",
+        "Stock Android"
+      ],
+      "popular_models": [
+        "Storm 5G",
+        "Storm Play",
+        "Storm Lite"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Officially launched on December 28, 2023",
+        "Storm Lite was the first sub-₹8,000 phone with Dimensity 6400"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "O",
+      "slug": "o",
+      "alternative_names": [
+        "Yuva O"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 65,
+        "highest_usd": 90,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Entry-level specifications",
+        "Affordable pricing",
+        "Basic features"
+      ],
+      "popular_models": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Officially released on October 4, 2023",
+        "Sometimes marketed as 'Yuva O' series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Iris",
+      "slug": "iris",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 55,
+        "highest_usd": 80,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Budget Android smartphones",
+        "Variety of models"
+      ],
+      "popular_models": [
+        "Iris 400s",
+        "Iris 250",
+        "Iris 404 Flair",
+        "Iris 410",
+        "Iris 550Q"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "One of Lava's early smartphone series",
+        "Launched multiple budget models in 2014"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Z",
+      "slug": "z",
+      "alternative_names": [
+        "MyZ"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 75,
+        "highest_usd": 240,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Customization enthusiasts"
+      ],
+      "characteristics": [
+        "Customizable specifications (MyZ series)",
+        "In-house designed",
+        "Fingerprint sensors"
+      ],
+      "popular_models": [
+        "Z10",
+        "Z25",
+        "Z60",
+        "Z70",
+        "Z80",
+        "Z90",
+        "Z1",
+        "Z2",
+        "Z4",
+        "Z6"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Launched in two phases: Z10/Z25 in 2017 and Z60-Z90 in 2017",
+        "MyZ series in 2021 offered customizable specs",
+        "Discontinued after 2021"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Bold",
+      "slug": "bold",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 95,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Big batteries (up to 6000mAh)",
+        "5G connectivity",
+        "Rugged build (military-grade)"
+      ],
+      "popular_models": [
+        "Bold N1 5G",
+        "Bold N2 5G",
+        "Bold 2 5G",
+        "Bold N2 Lite"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Relatively new series focused on durability and battery life",
+        "Bold N2 5G features a 6000mAh battery"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Shark",
+      "slug": "shark",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 140,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "120Hz displays",
+        "Large batteries",
+        "Budget processors"
+      ],
+      "popular_models": [
+        "Shark 5G",
+        "Shark 2 5G",
+        "Shark 2 4G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Launched in 2025 targeting first-time users",
+        "Shark 2 5G features a 6000mAh battery"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Virat",
+      "slug": "virat",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 105,
+        "highest_usd": 140,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "HD+ displays",
+        "5G connectivity",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Virat V1",
+        "Virat V1 5G",
+        "Virat V1 Pro 5G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "First Virat series handset launched in 2026",
+        "Named after cricketer Virat Kohli"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Smart",
+      "slug": "smart",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Young users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "qHD/HD+ displays",
+        "Entry-level processors",
+        "MIL-STD-810H certification (Smart 4)"
+      ],
+      "popular_models": [
+        "Smart 4",
+        "Smart 4 Plus"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "New series launched in 2026",
+        "Smart 4 Plus is the first phone in the series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Play",
+      "slug": "play",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 180,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Content consumers",
+        "Budget gamers"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "120Hz refresh rate",
+        "5G connectivity",
+        "MediaTek Dimensity chips"
+      ],
+      "popular_models": [
+        "Play Ultra",
+        "Play Max"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "New Play series launched in 2025",
+        "Focus on entertainment and performance"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A",
+      "slug": "a",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 20,
+        "highest_usd": 50,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic smartphones",
+        "Small displays",
+        "Low-end specifications"
+      ],
+      "popular_models": [
+        "A16",
+        "A1 Buzz",
+        "A3 Torch",
+        "A5",
+        "A7",
+        "A72",
+        "A97"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "One of Lava's earliest smartphone series",
+        "A16 was launched under license from MTV India in 2011",
+        "Discontinued around 2020"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "P",
+      "slug": "p",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 60,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Basic specifications",
+        "Small displays"
+      ],
+      "popular_models": [
+        "P7"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Limited series with few models",
+        "Discontinued after 2016"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Varied specifications",
+        "Mid-range features"
+      ],
+      "popular_models": [
+        "X1 Selfie",
+        "X1 Mini",
+        "X1 Grand",
+        "X8"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Part of the Iris series family in some markets",
+        "Discontinued after 2015"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Curve",
+      "slug": "curve",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2024,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 215,
+        "highest_usd": 215,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Content consumers"
+      ],
+      "characteristics": [
+        "Curved AMOLED display",
+        "120Hz refresh rate",
+        "5G connectivity"
+      ],
+      "popular_models": [
+        "Blaze Curve 5G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "A single model within the Blaze series, sometimes considered a separate sub-series",
+        "Featured a 3D curved AMOLED screen"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Dragon",
+      "slug": "dragon",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2025,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "HD+ display",
+        "120Hz refresh rate",
+        "Snapdragon 4 Gen 2"
+      ],
+      "popular_models": [
+        "Blaze Dragon 5G"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "A single model within the Blaze series",
+        "Launched as a budget 5G option"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Prime",
+      "slug": "prime",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 25,
+        "highest_usd": 25,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Very basic specifications",
+        "Small displays",
+        "Low-end features"
+      ],
+      "popular_models": [
+        "Prime",
+        "Prime X",
+        "Prime Z"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Prime X was the first phone designed in India (2018)",
+        "Discontinued after 2018"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Spark",
+      "slug": "spark",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 20,
+        "highest_usd": 20,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Basic feature phone-like smartphones",
+        "Small displays"
+      ],
+      "popular_models": [
+        "Spark i7",
+        "Spark i8"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "Limited series with basic smartphones",
+        "Discontinued after 2017"
+      ],
+      "confidence": "Low"
+    },
+    {
+      "name": "Benco",
+      "slug": "benco",
+      "alternative_names": [],
+      "sub_brand": "Benco",
+      "first_release_year": 2019,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Young consumers",
+        "Southeast Asian market"
+      ],
+      "characteristics": [
+        "Cost-effective smartphones",
+        "Youth-oriented design"
+      ],
+      "popular_models": [
+        "Benco V8",
+        "Benco V60",
+        "Benco S1s",
+        "Benco V91 Plus"
+      ],
+      "primary_markets": [
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Benco is a sub-brand of Lava launched in 2019",
+        "Focuses on Southeast Asian markets",
+        "Offers S series (flagship) and V series (budget)"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Xolo",
+      "slug": "xolo",
+      "alternative_names": [],
+      "sub_brand": "Xolo",
+      "first_release_year": 2012,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Performance seekers"
+      ],
+      "characteristics": [
+        "Intel-powered smartphones",
+        "4G connectivity",
+        "Varied specifications"
+      ],
+      "popular_models": [
+        "Xolo X900",
+        "Xolo Q700",
+        "Xolo Black",
+        "Xolo Era 3X",
+        "Xolo Play 8X-1100"
+      ],
+      "primary_markets": [
+        "India",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Xolo was Lava's premium sub-brand",
+        "First Intel-powered smartphone in India (Xolo X900)",
+        "Discontinued around 2017"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Fuel",
+      "slug": "fuel",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 65,
+        "highest_usd": 65,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Battery-conscious users"
+      ],
+      "characteristics": [
+        "Large batteries",
+        "Budget specifications"
+      ],
+      "popular_models": [
+        "Iris Fuel 20",
+        "Iris Fuel 60"
+      ],
+      "primary_markets": [
+        "India"
+      ],
+      "historical_notes": [
+        "A sub-series within Iris focused on battery life",
+        "Discontinued after 2014"
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2011,
+      "series": "A"
+    },
+    {
+      "year": 2012,
+      "series": "Xolo"
+    },
+    {
+      "year": 2014,
+      "series": "Iris"
+    },
+    {
+      "year": 2014,
+      "series": "Fuel"
+    },
+    {
+      "year": 2014,
+      "series": "X"
+    },
+    {
+      "year": 2016,
+      "series": "P"
+    },
+    {
+      "year": 2017,
+      "series": "Z"
+    },
+    {
+      "year": 2017,
+      "series": "Prime"
+    },
+    {
+      "year": 2017,
+      "series": "Spark"
+    },
+    {
+      "year": 2019,
+      "series": "Benco"
+    },
+    {
+      "year": 2021,
+      "series": "Agni"
+    },
+    {
+      "year": 2022,
+      "series": "Blaze"
+    },
+    {
+      "year": 2022,
+      "series": "Yuva"
+    },
+    {
+      "year": 2023,
+      "series": "Storm"
+    },
+    {
+      "year": 2023,
+      "series": "O"
+    },
+    {
+      "year": 2024,
+      "series": "Curve"
+    },
+    {
+      "year": 2025,
+      "series": "Bold"
+    },
+    {
+      "year": 2025,
+      "series": "Shark"
+    },
+    {
+      "year": 2025,
+      "series": "Play"
+    },
+    {
+      "year": 2025,
+      "series": "Dragon"
+    },
+    {
+      "year": 2026,
+      "series": "Virat"
+    },
+    {
+      "year": 2026,
+      "series": "Smart"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Agni"
+    ],
+    "premium": [
+      "Agni"
+    ],
+    "mid_range": [
+      "Blaze",
+      "Z",
+      "Bold",
+      "Play",
+      "X",
+      "Curve",
+      "Benco",
+      "Xolo"
+    ],
+    "budget": [
+      "Blaze",
+      "Yuva",
+      "Storm",
+      "Iris",
+      "Z",
+      "Bold",
+      "Shark",
+      "Virat",
+      "Smart",
+      "X",
+      "Dragon",
+      "Benco",
+      "Xolo",
+      "Fuel"
+    ],
+    "entry_level": [
+      "Yuva",
+      "O",
+      "Smart",
+      "A",
+      "P",
+      "Prime",
+      "Spark"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [],
+    "rugged": [
+      "Bold",
+      "Smart"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "Benco"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Iris",
+      "Z",
+      "A",
+      "P",
+      "X",
+      "Curve",
+      "Dragon",
+      "Prime",
+      "Spark",
+      "Xolo",
+      "Fuel"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Lite branding",
+      "Max branding",
+      "Ultra branding"
+    ],
+    "description": "Lava uses a mix of alphabetic series names (A, P, X, Z, O) and thematic names (Agni, Blaze, Yuva, Storm, Bold, Shark, Virat, Smart, Play). Sub-brands include Xolo and Benco. Model variants often carry suffixes like Pro, Plus, Lite, Max, and Ultra to denote different tiers within a series."
+  },
+  "summary": {
+    "total_series": 22,
+    "active_series": 11,
+    "discontinued_series": 11,
+    "oldest_series": "A",
+    "newest_series": "Smart",
+    "longest_running_series": "Z",
+    "most_popular_series": "Blaze",
+    "best_selling_series": "Blaze",
+    "most_premium_series": "Agni",
+    "best_budget_series": "Yuva",
+    "most_influential_series": "Xolo",
+    "fastest_growing_series": "Blaze",
+    "future_expected_direction": "Lava is expected to continue expanding its 5G portfolio across all price segments, with a focus on the Blaze, Yuva, and Agni series. The company may also introduce more rugged and battery-focused devices like the Bold series, and potentially enter new categories like foldables or gaming phones."
+  },
+  "missing_series": [
+    "Flair - May be a sub-series within Iris, but not confirmed as a standalone series.",
+    "Pixel - Mentioned in some listings, but may be a model variant rather than a series.",
+    "One - Appears in some price lists, but could be a model rather than a series.",
+    "Gem - Appears in some listings, but not confirmed as a series.",
+    "KKT - Feature phones, not smartphones."
+  ]
+}

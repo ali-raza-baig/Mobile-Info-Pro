@@ -100,7 +100,6 @@ export const createSeries = async ({ name, brandId }) => {
 export const brandsFileForSeries = async () => {
     try {
         const activeBrands = await fetchPendingBrands({
-            isActive: false,
             isSeriesCreated: false,
         });
 
@@ -160,7 +159,7 @@ export const brandsFileForSeries = async () => {
 
 export const fileRawToSeries = async () => {
     try {
-        const brands = await fetchPendingBrands({ isActive: true, isSeriesCreated: false })
+        const brands = await fetchPendingBrands({ isSeriesCreated: false })
         if (!Array.isArray(brands) || brands.length === 0) {
             console.log(`No Pending brand for series`)
             return;
@@ -219,10 +218,10 @@ export const fileRawToSeries = async () => {
                     const updateNewSeries = await updateSeries(slug, { ...seriesContent })
 
                     if (!updateNewSeries.success) {
-                        console.log(`Series not created for ${item.name}`)
+                        console.log(`❌ Series not created for ${item.name}`)
                         continue
                     }
-                    console.log(`Series created for ${item.name}`)
+                    console.log(`✅ Series created for ${item.name}`)
                 }
 
                 await updateBrands(selected.slug, { isSeriesCreated: true })

@@ -1,0 +1,1316 @@
+{
+  "brand": "Meizu",
+  "total_series": 24,
+  "series": [
+    {
+      "name": "M Series",
+      "slug": "m-series",
+      "alternative_names": [
+        "Meizu M",
+        "M-Series"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2014,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Large batteries",
+        "Decent performance",
+        "Plastic or metal build"
+      ],
+      "popular_models": [
+        "Meizu M1",
+        "Meizu M2",
+        "Meizu M3",
+        "Meizu M5",
+        "Meizu M6",
+        "Meizu M10",
+        "Meizu M20"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia",
+        "Russia"
+      ],
+      "historical_notes": [
+        "Launched in December 2014 with the Meizu M1 Note.",
+        "Positioned as an affordable and functional smartphone series.",
+        "Many models were also sold under the 'mblu' name in some markets.",
+        "The M series was part of the Blue Charm sub-brand."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Note Series",
+      "slug": "note-series",
+      "alternative_names": [
+        "Meizu Note"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Performance seekers",
+        "Power users",
+        "Content consumers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "High refresh rate screens",
+        "Strong performance",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Meizu M1 Note",
+        "Meizu M3 Note",
+        "Meizu M5 Note",
+        "Meizu M6 Note",
+        "Meizu Note 8",
+        "Meizu Note 9",
+        "Meizu 21 Note",
+        "Meizu Note 22"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia",
+        "Russia",
+        "Global"
+      ],
+      "historical_notes": [
+        "The Note series started as part of the M series but later became a standalone lineup.",
+        "Initially focused on large screens and battery life, later evolved into a performance-oriented series.",
+        "The Meizu 21 Note marked a return to the series with flagship-level specs."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "MX Series",
+      "slug": "mx-series",
+      "alternative_names": [
+        "Meizu MX"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Power users",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "High-end specs",
+        "Samsung Exynos processors",
+        "Flyme OS",
+        "Premium design"
+      ],
+      "popular_models": [
+        "Meizu MX",
+        "Meizu MX2",
+        "Meizu MX3",
+        "Meizu MX4",
+        "Meizu MX4 Pro",
+        "Meizu MX5",
+        "Meizu MX6"
+      ],
+      "primary_markets": [
+        "China",
+        "Hong Kong",
+        "Russia",
+        "Europe"
+      ],
+      "historical_notes": [
+        "The MX series was Meizu's first Android smartphone lineup, succeeding the M8 and M9.",
+        "Positioned between mid-range and flagship devices.",
+        "The MX4 Pro was the first Meizu phone with a QHD display and a fingerprint sensor.",
+        "The series was discontinued after the MX6, replaced by the PRO series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "PRO Series",
+      "slug": "pro-series",
+      "alternative_names": [
+        "Meizu Pro",
+        "PRO"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Top-tier performance",
+        "Premium materials",
+        "High-resolution displays",
+        "Advanced cameras"
+      ],
+      "popular_models": [
+        "Meizu PRO 5",
+        "Meizu PRO 6",
+        "Meizu PRO 6s",
+        "Meizu PRO 6 Plus",
+        "Meizu PRO 7",
+        "Meizu PRO 7 Plus"
+      ],
+      "primary_markets": [
+        "China",
+        "Europe",
+        "Russia"
+      ],
+      "historical_notes": [
+        "Introduced as a successor to the MX4 Pro, the PRO series was Meizu's flagship lineup.",
+        "The PRO 5 was the first device in the series, featuring an Exynos 7420 chipset.",
+        "The PRO 7 and PRO 7 Plus introduced a secondary rear display.",
+        "The series was discontinued after the PRO 7, replaced by the Number series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Number Series",
+      "slug": "number-series",
+      "alternative_names": [
+        "Meizu 15",
+        "Meizu 16",
+        "Meizu 17",
+        "Meizu 18",
+        "Meizu 20",
+        "Meizu 21",
+        "Meizu 22"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 1000,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Business professionals",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Cutting-edge processors",
+        "AMOLED displays",
+        "High refresh rates",
+        "Advanced camera systems",
+        "Premium design"
+      ],
+      "popular_models": [
+        "Meizu 15",
+        "Meizu 16th",
+        "Meizu 17",
+        "Meizu 18",
+        "Meizu 20",
+        "Meizu 21",
+        "Meizu 22"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "The Number series replaced the PRO series as Meizu's flagship lineup.",
+        "The 15 series celebrated Meizu's 15th anniversary.",
+        "The 17 series was Meizu's first 5G lineup.",
+        "The 20 series skipped the 19 to celebrate Meizu's 20th anniversary.",
+        "The series is currently active with the Meizu 22."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "E Series",
+      "slug": "e-series",
+      "alternative_names": [
+        "Meizu E",
+        "Meizu M3E"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Young users",
+        "Style-conscious buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Metal body",
+        "Good build quality",
+        "Decent performance",
+        "Fingerprint sensor"
+      ],
+      "popular_models": [
+        "Meizu E",
+        "Meizu M3E",
+        "Meizu E2",
+        "Meizu E3"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The E series was part of the Blue Charm sub-brand.",
+        "Focused on offering a premium design at a mid-range price.",
+        "The Meizu E3 was the last device in the series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "U Series",
+      "slug": "u-series",
+      "alternative_names": [
+        "Meizu U"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Style-conscious buyers"
+      ],
+      "characteristics": [
+        "Glass back design",
+        "Fingerprint sensor",
+        "YunOS with Flyme UI"
+      ],
+      "popular_models": [
+        "Meizu U10",
+        "Meizu U20"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The U series was part of the Blue Charm sub-brand.",
+        "Introduced a glass-back design, a departure from Meizu's typical metal builds.",
+        "Only two models were released: the U10 and U20."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [
+        "Meizu V"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "HD+ displays",
+        "Entry-level processors",
+        "Dual cameras",
+        "AI features"
+      ],
+      "popular_models": [
+        "Meizu V8",
+        "Meizu V8 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "Russia"
+      ],
+      "historical_notes": [
+        "The V series was positioned as an entry-level lineup.",
+        "Only two models were released: the V8 and V8 Pro."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S Series",
+      "slug": "s-series",
+      "alternative_names": [
+        "Meizu S"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Young users",
+        "Style-conscious buyers"
+      ],
+      "characteristics": [
+        "Full-screen display",
+        "Samsung Exynos processors",
+        "Metal body",
+        "Side-mounted fingerprint sensor"
+      ],
+      "popular_models": [
+        "Meizu S6"
+      ],
+      "primary_markets": [
+        "China",
+        "Vietnam"
+      ],
+      "historical_notes": [
+        "The S series was part of the Blue Charm sub-brand.",
+        "Only one model, the Meizu S6, was released.",
+        "The S6 was also sold as the Meizu M6s in some markets."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [
+        "Meizu X",
+        "Meizu M3X"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2016,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 260,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Performance seekers",
+        "Style-conscious buyers"
+      ],
+      "characteristics": [
+        "Glass design",
+        "MediaTek Helio P20 processor",
+        "Sony IMX386 camera",
+        "USB Type-C"
+      ],
+      "popular_models": [
+        "Meizu X",
+        "Meizu X8"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The X series was part of the Blue Charm sub-brand.",
+        "Featured a glass back design and a focus on camera performance.",
+        "The Meizu X8 was the last device in the series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "C Series",
+      "slug": "c-series",
+      "alternative_names": [
+        "Meizu C"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Entry-level specs",
+        "HD+ displays",
+        "Basic cameras",
+        "Large batteries"
+      ],
+      "popular_models": [
+        "Meizu C9",
+        "Meizu C9 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "The C series was Meizu's entry-level lineup.",
+        "Only two models were released: the C9 and C9 Pro."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Lucky Series",
+      "slug": "lucky-series",
+      "alternative_names": [
+        "Meizu Lucky"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 220,
+        "highest_usd": 290,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "AI-focused"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "AI adopters",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "AI features",
+        "Large batteries",
+        "High-resolution displays",
+        "AI button"
+      ],
+      "popular_models": [
+        "Meizu Lucky 08"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The Lucky series was introduced in 2024 as Meizu's AI-focused lineup.",
+        "The Lucky 08 is the first device in the series, featuring Flyme AIOS.",
+        "Positioned as a 'beauty and practicality' series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Zero Series",
+      "slug": "zero-series",
+      "alternative_names": [
+        "Meizu Zero"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 1299,
+        "highest_usd": 1299,
+        "estimated": true
+      },
+      "market_position": [
+        "Ultra Premium",
+        "Experimental"
+      ],
+      "target_audience": [
+        "Tech enthusiasts",
+        "Early adopters",
+        "Luxury buyers"
+      ],
+      "characteristics": [
+        "Portless design",
+        "No buttons",
+        "Ceramic unibody",
+        "In-display fingerprint sensor",
+        "Wireless charging"
+      ],
+      "popular_models": [
+        "Meizu Zero"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The Zero was an experimental concept phone with no ports or buttons.",
+        "It was crowdfunded but never mass-produced.",
+        "Featured an IP68 rating and wireless charging."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "mblu Series",
+      "slug": "mblu-series",
+      "alternative_names": [
+        "Meizu mblu",
+        "Mblu"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Large displays",
+        "Decent battery life",
+        "Entry-level processors"
+      ],
+      "popular_models": [
+        "Meizu mblu 6T",
+        "Meizu mblu 21",
+        "Meizu mblu 22",
+        "Meizu mblu 22 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "Russia",
+        "Global"
+      ],
+      "historical_notes": [
+        "The mblu series is Meizu's entry-level and budget lineup.",
+        "Many M series models were also sold under the mblu name.",
+        "The mblu 22 series was launched in 2025 with AI features."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pre-MX Series",
+      "slug": "pre-mx-series",
+      "alternative_names": [
+        "Meizu M8",
+        "Meizu M9"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2007,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship"
+      ],
+      "target_audience": [
+        "Early adopters",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "iPhone-like design",
+        "Custom OS",
+        "High-quality audio"
+      ],
+      "popular_models": [
+        "Meizu M8",
+        "Meizu M9"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The M8 was Meizu's first smartphone, released in 2007.",
+        "The M9 was Meizu's first Android smartphone, released in 2011.",
+        "These devices laid the foundation for Meizu's smartphone business."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "15 Series",
+      "slug": "15-series",
+      "alternative_names": [
+        "Meizu 15"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Meizu fans",
+        "Tech enthusiasts",
+        "Power users"
+      ],
+      "characteristics": [
+        "Dual cameras",
+        "Premium design",
+        "High-quality displays",
+        "Flyme OS"
+      ],
+      "popular_models": [
+        "Meizu 15",
+        "Meizu 15 Plus",
+        "Meizu M15"
+      ],
+      "primary_markets": [
+        "China",
+        "UAE"
+      ],
+      "historical_notes": [
+        "The 15 series was released to celebrate Meizu's 15th anniversary.",
+        "Featured a design with minimal bezels and no notch."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "16 Series",
+      "slug": "16-series",
+      "alternative_names": [
+        "Meizu 16"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Gamers"
+      ],
+      "characteristics": [
+        "Snapdragon 845",
+        "In-display fingerprint sensor",
+        "AMOLED displays",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Meizu 16th",
+        "Meizu 16th Plus",
+        "Meizu 16X",
+        "Meizu 16s",
+        "Meizu 16s Pro",
+        "Meizu 16T"
+      ],
+      "primary_markets": [
+        "China",
+        "India"
+      ],
+      "historical_notes": [
+        "The 16 series was Meizu's flagship lineup for 2018-2019.",
+        "Introduced in-display fingerprint sensors and symmetrical bezel-less design."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "17 Series",
+      "slug": "17-series",
+      "alternative_names": [
+        "Meizu 17"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 520,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "5G adopters"
+      ],
+      "characteristics": [
+        "5G support",
+        "Snapdragon 865",
+        "Quad-camera setup",
+        "High refresh rate displays"
+      ],
+      "popular_models": [
+        "Meizu 17",
+        "Meizu 17 Pro"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The 17 series was Meizu's first 5G lineup.",
+        "Featured a horizontal rear camera layout."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "18 Series",
+      "slug": "18-series",
+      "alternative_names": [
+        "Meizu 18"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2021,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 600,
+        "highest_usd": 900,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Snapdragon 888",
+        "Curved AMOLED displays",
+        "High refresh rates",
+        "Advanced cameras"
+      ],
+      "popular_models": [
+        "Meizu 18",
+        "Meizu 18 Pro",
+        "Meizu 18s",
+        "Meizu 18s Pro",
+        "Meizu 18X"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The 18 series was Meizu's flagship lineup for 2021.",
+        "Introduced a 'zero advertising, zero push, zero pre-installation' policy."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "20 Series",
+      "slug": "20-series",
+      "alternative_names": [
+        "Meizu 20"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 450,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Snapdragon 8 Gen 2",
+        "50MP cameras",
+        "High refresh rate OLED displays",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "Meizu 20",
+        "Meizu 20 Pro",
+        "Meizu 20 Infinity"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The 20 series skipped the 19 to celebrate Meizu's 20th anniversary.",
+        "Introduced the 'Infinity' model with a unique design."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "21 Series",
+      "slug": "21-series",
+      "alternative_names": [
+        "Meizu 21"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2024,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 478,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Mobile photographers"
+      ],
+      "characteristics": [
+        "Snapdragon 8 Gen 3",
+        "200MP main camera",
+        "AMOLED display",
+        "AI features"
+      ],
+      "popular_models": [
+        "Meizu 21",
+        "Meizu 21 Pro",
+        "Meizu 21 Note"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "The 21 series introduced a 200MP main camera.",
+        "The 21 Note brought the Note series back with flagship specs."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "22 Series",
+      "slug": "22-series",
+      "alternative_names": [
+        "Meizu 22"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 420,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts",
+        "Compact phone lovers"
+      ],
+      "characteristics": [
+        "Snapdragon 8s Gen 4",
+        "Compact design",
+        "High refresh rate OLED",
+        "Fast charging",
+        "IP68 rating"
+      ],
+      "popular_models": [
+        "Meizu 22"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "The 22 series is Meizu's latest flagship lineup.",
+        "Focuses on a compact design with flagship specs."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A Series",
+      "slug": "a-series",
+      "alternative_names": [
+        "Meizu A5"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Entry-level specs",
+        "Compact design"
+      ],
+      "popular_models": [
+        "Meizu A5"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The A series was a short-lived budget lineup under the Blue Charm sub-brand.",
+        "Only one model, the Meizu A5, was released."
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Max Series",
+      "slug": "max-series",
+      "alternative_names": [
+        "Meizu Max",
+        "Meizu M3 Max"
+      ],
+      "sub_brand": "Blue Charm (魅蓝)",
+      "first_release_year": 2016,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Media consumers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large display",
+        "Long battery life",
+        "Decent performance"
+      ],
+      "popular_models": [
+        "Meizu M3 Max"
+      ],
+      "primary_markets": [
+        "China"
+      ],
+      "historical_notes": [
+        "The Max series was a short-lived lineup focused on large screens.",
+        "Only one model, the Meizu M3 Max, was released."
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2007,
+      "series": "Pre-MX Series"
+    },
+    {
+      "year": 2011,
+      "series": "Pre-MX Series"
+    },
+    {
+      "year": 2012,
+      "series": "MX Series"
+    },
+    {
+      "year": 2014,
+      "series": "M Series"
+    },
+    {
+      "year": 2014,
+      "series": "Note Series"
+    },
+    {
+      "year": 2015,
+      "series": "PRO Series"
+    },
+    {
+      "year": 2016,
+      "series": "E Series"
+    },
+    {
+      "year": 2016,
+      "series": "U Series"
+    },
+    {
+      "year": 2016,
+      "series": "X Series"
+    },
+    {
+      "year": 2016,
+      "series": "Max Series"
+    },
+    {
+      "year": 2017,
+      "series": "A Series"
+    },
+    {
+      "year": 2018,
+      "series": "V Series"
+    },
+    {
+      "year": 2018,
+      "series": "S Series"
+    },
+    {
+      "year": 2018,
+      "series": "C Series"
+    },
+    {
+      "year": 2018,
+      "series": "15 Series"
+    },
+    {
+      "year": 2018,
+      "series": "16 Series"
+    },
+    {
+      "year": 2018,
+      "series": "mblu Series"
+    },
+    {
+      "year": 2019,
+      "series": "Zero Series"
+    },
+    {
+      "year": 2020,
+      "series": "17 Series"
+    },
+    {
+      "year": 2021,
+      "series": "18 Series"
+    },
+    {
+      "year": 2023,
+      "series": "20 Series"
+    },
+    {
+      "year": 2023,
+      "series": "21 Series"
+    },
+    {
+      "year": 2024,
+      "series": "Lucky Series"
+    },
+    {
+      "year": 2025,
+      "series": "22 Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "MX Series",
+      "PRO Series",
+      "Number Series",
+      "15 Series",
+      "16 Series",
+      "17 Series",
+      "18 Series",
+      "20 Series",
+      "21 Series",
+      "22 Series"
+    ],
+    "premium": [
+      "MX Series",
+      "PRO Series",
+      "Number Series",
+      "15 Series",
+      "16 Series",
+      "17 Series",
+      "18 Series",
+      "20 Series",
+      "21 Series",
+      "22 Series"
+    ],
+    "mid_range": [
+      "Note Series",
+      "E Series",
+      "U Series",
+      "S Series",
+      "X Series",
+      "Lucky Series",
+      "Max Series"
+    ],
+    "budget": [
+      "M Series",
+      "V Series",
+      "mblu Series",
+      "A Series"
+    ],
+    "entry_level": [
+      "M Series",
+      "C Series",
+      "mblu Series"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "X Series"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [
+      "Lucky Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "MX Series",
+      "PRO Series",
+      "E Series",
+      "U Series",
+      "V Series",
+      "S Series",
+      "X Series",
+      "C Series",
+      "Zero Series",
+      "15 Series",
+      "16 Series",
+      "17 Series",
+      "18 Series",
+      "20 Series",
+      "21 Series",
+      "A Series",
+      "Max Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Note branding",
+      "Lite branding",
+      "SE branding",
+      "Max branding",
+      "Ultra branding",
+      "AI branding"
+    ],
+    "description": "Meizu uses a combination of letter-based and number-based naming strategies. Early series used letters (M, MX, PRO, E, U, V, S, X, C) to denote different market segments. Later, the company transitioned to a number-based system (15, 16, 17, 18, 20, 21, 22) for its flagship devices, often skipping numbers for special anniversaries. Sub-branding like 'Blue Charm' (魅蓝) was used for budget and mid-range devices. Suffixes like 'Pro', 'Plus', 'Note', 'Lite', and 'Max' indicate variant tiers within a series."
+  },
+  "summary": {
+    "total_series": 24,
+    "active_series": 6,
+    "discontinued_series": 18,
+    "oldest_series": "Pre-MX Series",
+    "newest_series": "22 Series",
+    "longest_running_series": "M Series",
+    "most_popular_series": "MX Series",
+    "best_selling_series": "M Series",
+    "most_premium_series": "PRO Series",
+    "best_budget_series": "M Series",
+    "most_influential_series": "MX Series",
+    "fastest_growing_series": "Lucky Series",
+    "future_expected_direction": "Meizu is likely to continue focusing on AI-integrated smartphones, as seen with the Lucky series and Flyme AIOS. The company may also expand its global presence with affordable 5G devices like the mblu and Note series. The Number series will remain the flagship lineup, with a potential focus on compact designs and camera innovations."
+  },
+  "missing_series": []
+}

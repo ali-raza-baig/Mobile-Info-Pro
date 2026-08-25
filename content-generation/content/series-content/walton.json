@@ -1,0 +1,360 @@
+{
+  "brand": "Walton",
+  "total_series": 5,
+  "series": [
+    {
+      "name": "Primo",
+      "slug": "primo",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Mid Range",
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Students",
+        "General consumers"
+      ],
+      "characteristics": [
+        "Long battery life",
+        "Dual SIM support",
+        "Affordable pricing",
+        "Localized features",
+        "Made in Bangladesh"
+      ],
+      "popular_models": [
+        "Primo N1",
+        "Primo X5",
+        "Primo S6 Pro",
+        "Primo R6 Max",
+        "Primo HM7",
+        "Primo EF10",
+        "Primo R10"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Middle East",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Longest-running and most popular Walton smartphone series",
+        "Early models were sometimes rebranded from other manufacturers",
+        "Proudly carries the 'Made in Bangladesh' tag",
+        "Covers all market segments from entry-level to premium"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "NEXG",
+      "slug": "nexg",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2022,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Young adults",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Modern design",
+        "Punch-hole displays",
+        "Large batteries",
+        "AI camera features",
+        "Smooth performance"
+      ],
+      "popular_models": [
+        "NEXG N6 Lite",
+        "NEXG N28",
+        "NEXG N28 Pro",
+        "NEXG N71 Plus",
+        "NEXG N76",
+        "NEXG N77"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Middle East",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Introduced as a modern, youth-focused lineup",
+        "Designed to replace older budget Primo models with refreshed branding",
+        "Focuses on providing next-generation features at accessible prices"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "XANON",
+      "slug": "xanon",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 350,
+        "estimated": true
+      },
+      "market_position": [
+        "Upper Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "AMOLED displays",
+        "High refresh rate",
+        "5G connectivity",
+        "Premium cameras",
+        "Fast charging",
+        "Flagship-like specifications"
+      ],
+      "popular_models": [
+        "XANON X1 Ultra",
+        "XANON X20 5G",
+        "XANON X21",
+        "XANON X22 5G",
+        "XANON X50",
+        "XANON X91"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Walton's strategic push into the premium and 5G smartphone segment",
+        "Represents the highest-end devices in Walton's current lineup",
+        "Features advanced camera setups and modern design language"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "ZENX",
+      "slug": "zenx",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "First-time smartphone buyers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Balanced performance",
+        "Large displays",
+        "Long battery life",
+        "Affordable pricing",
+        "Clean software experience"
+      ],
+      "popular_models": [
+        "ZENX 1",
+        "ZENX 2",
+        "ZENX Z3"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Southeast Asia",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Positioned as a value-for-money series",
+        "Offers modern aesthetics and reliable performance at an aggressive price point",
+        "Bridges the gap between entry-level Orbit and mid-range NEXG"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Orbit",
+      "slug": "orbit",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Elderly users",
+        "Budget-conscious users",
+        "Secondary phone users"
+      ],
+      "characteristics": [
+        "Massive batteries (up to 6000mAh)",
+        "Basic but reliable cameras",
+        "Android Go edition (on newer models)",
+        "Durable build",
+        "Ultra-affordable pricing"
+      ],
+      "popular_models": [
+        "Orbit Y12",
+        "Orbit Y20",
+        "Orbit Y21",
+        "Orbit Y50",
+        "Orbit Y71",
+        "Orbit Y72"
+      ],
+      "primary_markets": [
+        "Bangladesh",
+        "Africa",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Designed to be an ultra-affordable smartphone lineup",
+        "Focuses heavily on battery life and essential smartphone functions",
+        "Often serves as an introduction to smartphones for feature phone upgraders"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2013,
+      "series": "Primo"
+    },
+    {
+      "year": 2021,
+      "series": "Orbit"
+    },
+    {
+      "year": 2022,
+      "series": "NEXG"
+    },
+    {
+      "year": 2023,
+      "series": "XANON"
+    },
+    {
+      "year": 2023,
+      "series": "ZENX"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Primo"
+    ],
+    "premium": [
+      "XANON",
+      "Primo"
+    ],
+    "mid_range": [
+      "Primo",
+      "NEXG",
+      "ZENX"
+    ],
+    "budget": [
+      "Primo",
+      "NEXG",
+      "ZENX",
+      "Orbit"
+    ],
+    "entry_level": [
+      "Primo",
+      "Orbit"
+    ],
+    "foldable": [],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "XANON"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "NEXG",
+      "ZENX"
+    ],
+    "ai_focused": [
+      "NEXG",
+      "XANON"
+    ],
+    "regional_exclusive": [
+      "Primo",
+      "NEXG",
+      "XANON",
+      "ZENX",
+      "Orbit"
+    ],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": []
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Plus branding",
+      "Max branding",
+      "Ultra branding",
+      "Lite branding",
+      "Turbo branding"
+    ],
+    "description": "Walton primarily uses a combination of letters and numbers to denote series and models (e.g., NEXG N77, XANON X22). The Primo series uses a letter to denote the sub-line (e.g., R, S, X, H, E) followed by a number. Suffixes like 'Pro', 'Plus', 'Max', 'Ultra', 'Lite', and 'Turbo' are frequently used to indicate enhanced specifications, larger batteries, or budget-friendly variants within the same series."
+  },
+  "summary": {
+    "total_series": 5,
+    "active_series": 5,
+    "discontinued_series": 0,
+    "oldest_series": "Primo",
+    "newest_series": "XANON",
+    "longest_running_series": "Primo",
+    "most_popular_series": "Primo",
+    "best_selling_series": "Primo",
+    "most_premium_series": "XANON",
+    "best_budget_series": "Orbit",
+    "most_influential_series": "Primo",
+    "fastest_growing_series": "NEXG",
+    "future_expected_direction": "Expansion of 5G capabilities across the XANON and NEXG series, integration of advanced AI features, and potential entry into the upper-premium segment to compete with global brands in emerging markets."
+  },
+  "missing_series": []
+}

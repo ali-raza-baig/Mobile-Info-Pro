@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node --watch index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -15,13 +15,17 @@
     "@imgly/background-removal-node": "^1.4.5",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
-    "expresss": "^0.0.0",
+    "express": "^5.2.1",
     "morgan": "^1.11.0",
     "multer": "^2.2.0",
     "sharp": "^0.35.3"
   },
   "allowScripts": {
-    "sharp@0.32.6": true,
-    "sharp@0.35.3": true
+    "@imgly/background-removal-node@1.4.5": true,
+    "onnxruntime-node@1.17.3": true,
+    "sharp@0.32.6": true
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }

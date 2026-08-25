@@ -1,0 +1,885 @@
+{
+  "brand": "Kyocera",
+  "total_series": 17,
+  "series": [
+    {
+      "name": "DIGNO",
+      "slug": "digno",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 600,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range",
+        "Business"
+      ],
+      "target_audience": [
+        "Business professionals",
+        "Enterprise users"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Waterproof",
+        "Business features",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "DIGNO S",
+        "DIGNO R",
+        "DIGNO U",
+        "DIGNO Rafre",
+        "DIGNO SX5"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "First Kyocera smartphone for the Japan market",
+        "Introduced in 2011"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "TORQUE",
+      "slug": "torque",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Premium"
+      ],
+      "target_audience": [
+        "Outdoor workers",
+        "First responders",
+        "Adventurers"
+      ],
+      "characteristics": [
+        "Military-grade rugged",
+        "Waterproof",
+        "Dustproof",
+        "Drop-proof",
+        "Push-to-talk"
+      ],
+      "popular_models": [
+        "Torque",
+        "TORQUE G01",
+        "TORQUE G02",
+        "TORQUE G03",
+        "TORQUE G04",
+        "TORQUE G06",
+        "TORQUE G07"
+      ],
+      "primary_markets": [
+        "USA",
+        "Japan"
+      ],
+      "historical_notes": [
+        "First ultra-rugged 4G LTE Android smartphone",
+        "MIL-STD-810G compliant"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "GRATINA",
+      "slug": "gratina",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2013,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Seniors",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Simple interface",
+        "Large buttons",
+        "Easy to use",
+        "Waterproof"
+      ],
+      "popular_models": [
+        "GRATINA KYV48",
+        "GRATINA KYF39",
+        "GRATINA KYF37"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Targeted at seniors and beginners",
+        "Simple smartphone design"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "BASIO",
+      "slug": "basio",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Seniors",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Simple design",
+        "Physical buttons",
+        "Easy-to-understand interface",
+        "Waterproof"
+      ],
+      "popular_models": [
+        "BASIO KYV32",
+        "BASIO3",
+        "BASIO Active3"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Simple smartphone for seniors",
+        "First released in 2015"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "URBANO",
+      "slug": "urbano",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Design-conscious users",
+        "Business professionals"
+      ],
+      "characteristics": [
+        "Stylish design",
+        "Durable",
+        "Metal body",
+        "Waterproof"
+      ],
+      "popular_models": [
+        "URBANO PROGRESSO",
+        "URBANO V01",
+        "URBANO V02",
+        "URBANO V03",
+        "URBANO V04"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Focus on design and durability",
+        "au original series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Qua",
+      "slug": "qua",
+      "alternative_names": [
+        "Qua phone"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Families"
+      ],
+      "characteristics": [
+        "Waterproof",
+        "Dustproof",
+        "Impact-resistant",
+        "Slim metallic body"
+      ],
+      "popular_models": [
+        "Qua phone",
+        "Qua phone QX",
+        "Qua phone QZ"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "au original series",
+        "First smartphone from au's Qua series"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Android One",
+      "slug": "android-one",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 400,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Google fans"
+      ],
+      "characteristics": [
+        "Stock Android",
+        "Guaranteed updates",
+        "Waterproof",
+        "Dustproof"
+      ],
+      "popular_models": [
+        "Android One S2",
+        "Android One S4",
+        "Android One S6",
+        "Android One X3"
+      ],
+      "primary_markets": [
+        "Japan"
+      ],
+      "historical_notes": [
+        "Part of Google's Android One program",
+        "Manufactured by Kyocera for the Japanese market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Hydro",
+      "slug": "hydro",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Waterproof",
+        "Budget-friendly",
+        "Compact"
+      ],
+      "popular_models": [
+        "Hydro",
+        "Hydro Edge",
+        "Hydro Icon",
+        "Hydro Life",
+        "Hydro Wave"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "One of the first waterproof smartphones",
+        "Available through prepaid carriers"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Rise",
+      "slug": "rise",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2012,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Messaging enthusiasts",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "QWERTY keyboard",
+        "Affordable",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Rise"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Affordable Android smartphone with slide-out QWERTY keyboard"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Event",
+      "slug": "event",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2013,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 80,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Compact",
+        "Affordable",
+        "Android 4.0"
+      ],
+      "popular_models": [
+        "Event"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Contract-free Android smartphone",
+        "Available through Virgin Mobile"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Brigadier",
+      "slug": "brigadier",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2014,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 50,
+        "highest_usd": 100,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Rugged users",
+        "Outdoor workers"
+      ],
+      "characteristics": [
+        "Sapphire display",
+        "MIL-STD-810G",
+        "IP68",
+        "Rugged"
+      ],
+      "popular_models": [
+        "Brigadier"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Featured a sapphire display",
+        "Verizon exclusive"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Echo",
+      "slug": "echo",
+      "alternative_names": [
+        "Sprint Echo"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2011,
+      "latest_release_year": 2011,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Experimental",
+        "Premium"
+      ],
+      "target_audience": [
+        "Early adopters",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Dual-screen",
+        "Android 2.2",
+        "Compact"
+      ],
+      "popular_models": [
+        "Echo"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "First dual-screen smartphone",
+        "Sprint exclusive"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Zio",
+      "slug": "zio",
+      "alternative_names": [
+        "Sanyo Zio",
+        "Kyocera Zio M6000"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2010,
+      "latest_release_year": 2010,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 250,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Android 1.6",
+        "Touchscreen",
+        "3.5-inch display"
+      ],
+      "popular_models": [
+        "Zio M6000"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Kyocera's first Android smartphone",
+        "Also sold under the Sanyo brand"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "DuraForce",
+      "slug": "duraforce",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2024,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 800,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Premium"
+      ],
+      "target_audience": [
+        "First responders",
+        "Outdoor workers",
+        "Military"
+      ],
+      "characteristics": [
+        "Ultra-rugged",
+        "MIL-STD-810H",
+        "Replaceable battery",
+        "5G",
+        "Triple rear cameras"
+      ],
+      "popular_models": [
+        "DuraForce",
+        "DuraForce Pro",
+        "DuraForce Pro 2",
+        "DuraForce Pro 3",
+        "DuraForce Ultra"
+      ],
+      "primary_markets": [
+        "North America"
+      ],
+      "historical_notes": [
+        "Ultra-rugged series for first responders",
+        "Available through Verizon and other carriers"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "DuraSport",
+      "slug": "durasport",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2021,
+      "latest_release_year": 2023,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 579,
+        "highest_usd": 579,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Active lifestyle users",
+        "Outdoor enthusiasts"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Slim design",
+        "5G",
+        "MIL-STD-810H"
+      ],
+      "popular_models": [
+        "DuraSport 5G",
+        "DuraSport 5G UW"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Rugged smartphone with a slim profile",
+        "Available unlocked and through carriers"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "DuraXV",
+      "slug": "duraxv",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 200,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Rugged",
+        "Feature Phone"
+      ],
+      "target_audience": [
+        "Field workers",
+        "First responders"
+      ],
+      "characteristics": [
+        "Rugged",
+        "Flip design",
+        "Push-to-talk",
+        "Military-grade"
+      ],
+      "popular_models": [
+        "DuraXV",
+        "DuraXV LTE",
+        "DuraXV Extreme",
+        "DuraXV Extreme+"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Ultra-rugged flip phone",
+        "Available through Verizon"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Cadence",
+      "slug": "cadence",
+      "alternative_names": [
+        "Cadence LTE"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2017,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "Basic phone users"
+      ],
+      "characteristics": [
+        "Flip design",
+        "Basic features",
+        "Android"
+      ],
+      "popular_models": [
+        "Cadence LTE S2720"
+      ],
+      "primary_markets": [
+        "USA"
+      ],
+      "historical_notes": [
+        "Basic Android flip phone",
+        "Available through Verizon"
+      ],
+      "confidence": "Medium"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "Zio"
+    },
+    {
+      "year": 2011,
+      "series": "DIGNO"
+    },
+    {
+      "year": 2011,
+      "series": "Echo"
+    },
+    {
+      "year": 2012,
+      "series": "Hydro"
+    },
+    {
+      "year": 2012,
+      "series": "Rise"
+    },
+    {
+      "year": 2012,
+      "series": "Event"
+    },
+    {
+      "year": 2012,
+      "series": "URBANO"
+    },
+    {
+      "year": 2013,
+      "series": "TORQUE"
+    },
+    {
+      "year": 2013,
+      "series": "GRATINA"
+    },
+    {
+      "year": 2014,
+      "series": "Brigadier"
+    },
+    {
+      "year": 2014,
+      "series": "DuraForce"
+    },
+    {
+      "year": 2015,
+      "series": "BASIO"
+    },
+    {
+      "year": 2015,
+      "series": "Qua"
+    },
+    {
+      "year": 2015,
+      "series": "DuraXV"
+    },
+    {
+      "year": 2017,
+      "series": "Android One"
+    },
+    {
+      "year": 2017,
+      "series": "Cadence"
+    },
+    {
+      "year": 2021,
+      "series": "DuraSport"
+    }
+  ],
+  "categories": {
+    "flagship": [],
+    "premium": [
+      "TORQUE",
+      "DuraForce"
+    ],
+    "mid_range": [
+      "DIGNO",
+      "URBANO",
+      "Qua",
+      "Android One",
+      "Brigadier",
+      "DuraSport"
+    ],
+    "budget": [
+      "GRATINA",
+      "BASIO",
+      "Hydro",
+      "Rise",
+      "Event",
+      "Zio",
+      "Cadence"
+    ],
+    "entry_level": [
+      "GRATINA",
+      "BASIO",
+      "Hydro",
+      "Event",
+      "Cadence"
+    ],
+    "foldable": [],
+    "flip": [
+      "DuraXV",
+      "Cadence"
+    ],
+    "gaming": [],
+    "camera_focused": [],
+    "business": [
+      "DIGNO"
+    ],
+    "rugged": [
+      "TORQUE",
+      "Brigadier",
+      "DuraForce",
+      "DuraSport",
+      "DuraXV"
+    ],
+    "lifestyle": [],
+    "ai_focused": [],
+    "regional_exclusive": [
+      "DIGNO",
+      "GRATINA",
+      "BASIO",
+      "URBANO",
+      "Qua",
+      "Android One"
+    ],
+    "carrier_exclusive": [
+      "Echo",
+      "Brigadier",
+      "DuraXV",
+      "Cadence"
+    ],
+    "online_exclusive": [],
+    "discontinued": [
+      "GRATINA",
+      "URBANO",
+      "Qua",
+      "Android One",
+      "Hydro",
+      "Rise",
+      "Event",
+      "Brigadier",
+      "Echo",
+      "Zio",
+      "DuraXV",
+      "Cadence"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Letter Series",
+      "Number Series",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding"
+    ],
+    "description": "Kyocera uses a variety of naming strategies across its series. The DIGNO series uses letter suffixes (S, R, U, etc.) and model numbers. The TORQUE series uses 'G' followed by a number (G01, G02, etc.). The DuraForce series uses 'Pro' and 'Ultra' branding. The company also uses regional and carrier-specific branding for certain markets."
+  },
+  "summary": {
+    "total_series": 17,
+    "active_series": 5,
+    "discontinued_series": 12,
+    "oldest_series": "Zio (2010)",
+    "newest_series": "DuraSport (2021)",
+    "longest_running_series": "DIGNO (2011-present, 15+ years)",
+    "most_popular_series": "DuraForce",
+    "best_selling_series": "Unknown",
+    "most_premium_series": "DuraForce",
+    "best_budget_series": "BASIO",
+    "most_influential_series": "Echo (first dual-screen smartphone)",
+    "fastest_growing_series": "Unknown",
+    "future_expected_direction": "Kyocera is focusing on rugged and business-oriented smartphones, with continued emphasis on durability, 5G, and enterprise features. The company has shifted away from the consumer market in some regions to concentrate on rugged and professional devices."
+  },
+  "missing_series": [
+    "Kyocera Neo (possibly a feature phone, not confirmed as a smartphone series)",
+    "Kyocera 7135 (early Palm OS smartphone, not part of a named series)",
+    "Kyocera QCP series (feature phones, not smartphones)"
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "brand": "Nubia / RedMagic",
+  "total_series": 16,
+  "series": [
+    {
+      "name": "Z Series",
+      "slug": "z-series",
+      "alternative_names": [
+        "努比亚Z系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2012,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 900,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Power users",
+        "Mobile photographers",
+        "Content creators"
+      ],
+      "characteristics": [
+        "35mm main camera",
+        "Premium cameras",
+        "High refresh rate",
+        "AMOLED displays",
+        "AI features"
+      ],
+      "popular_models": [
+        "Nubia Z5",
+        "Nubia Z9",
+        "Nubia Z11",
+        "Nubia Z17",
+        "Nubia Z20",
+        "Nubia Z50",
+        "Nubia Z60 Ultra",
+        "Nubia Z70 Ultra"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Europe",
+        "Japan"
+      ],
+      "historical_notes": [
+        "First Nubia smartphone series, launched in 2012 with the Z5.",
+        "Introduced the world's first bezel-less smartphone with the Z9 in 2015.",
+        "Known for pioneering 35mm equivalent main camera lenses.",
+        "Expanded with Ultra and Pro variants in later generations."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "X Series",
+      "slug": "x-series",
+      "alternative_names": [
+        "努比亚X系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2018,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 700,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flagship",
+        "Experimental"
+      ],
+      "target_audience": [
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Large display",
+        "Dual-screen design",
+        "Premium build",
+        "Powerful hardware"
+      ],
+      "popular_models": [
+        "Nubia X6",
+        "Nubia X"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Positioned as a large-screen, cross-over tablet-phone series.",
+        "The Nubia X (2018) featured a dual-screen design with a main LCD and a secondary OLED display.",
+        "Discontinued after the X model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "My Series",
+      "slug": "my-series",
+      "alternative_names": [
+        "布拉格系列",
+        "Prague Series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 350,
+        "highest_usd": 430,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Lifestyle",
+        "Camera-focused"
+      ],
+      "target_audience": [
+        "Young adults",
+        "Style-conscious users",
+        "Selfie enthusiasts"
+      ],
+      "characteristics": [
+        "Slim design",
+        "2.5D curved glass",
+        "Selfie camera focus",
+        "Hi-Fi audio",
+        "Fast charging"
+      ],
+      "popular_models": [
+        "Nubia My Prague",
+        "Nubia Prague S"
+      ],
+      "primary_markets": [
+        "China",
+        "Europe",
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in July 2015 as a lifestyle-oriented series.",
+        "Positioned as 'artistic, international, light luxury, and fashionable'.",
+        "The 'Prague' name was used for its global debut in the Czech Republic.",
+        "Discontinued after the Prague S model in 2016."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "N Series",
+      "slug": "n-series",
+      "alternative_names": [
+        "努比亚N系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2023,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers"
+      ],
+      "characteristics": [
+        "Large battery",
+        "Long battery life",
+        "Budget pricing",
+        "Entry-level performance"
+      ],
+      "popular_models": [
+        "Nubia N1",
+        "Nubia N1 Lite",
+        "Nubia N2",
+        "Nubia N3",
+        "Nubia N5"
+      ],
+      "primary_markets": [
+        "China",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Focused on long battery life and affordability.",
+        "The N1 Lite was launched at MWC 2017 as a budget offering.",
+        "Discontinued after the N5 model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "M Series",
+      "slug": "m-series",
+      "alternative_names": [
+        "努比亚M系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 500,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused",
+        "AI-focused"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Style-conscious users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Dual cameras",
+        "AI features",
+        "Premium design",
+        "Beauty modes"
+      ],
+      "popular_models": [
+        "Nubia M2",
+        "Nubia M2 Lite",
+        "Nubia M153"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Indonesia"
+      ],
+      "historical_notes": [
+        "Launched in March 2017 with the M2 as the first Nubia dual-camera phone.",
+        "Positioned as 'beauty, luxury, and creativity'.",
+        "Revived in 2025 with the M153, an AI-native phone powered by ByteDance's Doubao assistant."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "V Series",
+      "slug": "v-series",
+      "alternative_names": [
+        "努比亚V系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 300,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Rugged"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Durability seekers"
+      ],
+      "characteristics": [
+        "Large displays",
+        "AI features",
+        "Durable design",
+        "Long battery life"
+      ],
+      "popular_models": [
+        "Nubia V18",
+        "Nubia V70 Design",
+        "Nubia V80 Design",
+        "Nubia V80 Max",
+        "Nubia V80 Pro"
+      ],
+      "primary_markets": [
+        "China",
+        "Global",
+        "Latin America",
+        "Pakistan",
+        "Mexico"
+      ],
+      "historical_notes": [
+        "Launched in 2018 with the V18.",
+        "Expanded to include rugged and entry-level models.",
+        "The V80 series introduced 'Design', 'Max', and 'Pro' variants."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "RedMagic Series",
+      "slug": "redmagic-series",
+      "alternative_names": [
+        "红魔系列",
+        "REDMAGIC"
+      ],
+      "sub_brand": "RedMagic",
+      "first_release_year": 2018,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 400,
+        "highest_usd": 1200,
+        "estimated": true
+      },
+      "market_position": [
+        "Gaming",
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Tech enthusiasts"
+      ],
+      "characteristics": [
+        "Gaming triggers",
+        "High refresh rate displays",
+        "Advanced cooling systems",
+        "RGB lighting",
+        "Powerful processors"
+      ],
+      "popular_models": [
+        "RedMagic Mars",
+        "RedMagic 3",
+        "RedMagic 5G",
+        "RedMagic 6 Pro",
+        "RedMagic 7 Pro",
+        "RedMagic 8 Pro",
+        "RedMagic 9 Pro",
+        "RedMagic 10 Pro",
+        "RedMagic 11 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "China",
+        "Europe",
+        "North America",
+        "Japan",
+        "India"
+      ],
+      "historical_notes": [
+        "Established as a gaming sub-brand in April 2018.",
+        "Introduced built-in cooling fans and high refresh rate displays.",
+        "The RedMagic 5G was the first 5G gaming phone from the brand.",
+        "Collaborated with Tencent for some models (e.g., Tencent RedMagic 6)."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Play Series",
+      "slug": "play-series",
+      "alternative_names": [
+        "努比亚Play系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2020,
+      "latest_release_year": 2020,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 340,
+        "highest_usd": 420,
+        "estimated": false
+      },
+      "market_position": [
+        "Gaming",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "144Hz display",
+        "Liquid cooling",
+        "Large battery",
+        "Gaming-centric design"
+      ],
+      "popular_models": [
+        "Nubia Play 5G"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in April 2020 as a mid-range 5G gaming phone.",
+        "Featured a 144Hz AMOLED display and liquid cooling.",
+        "Discontinued after a single model."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Neo Series",
+      "slug": "neo-series",
+      "alternative_names": [
+        "努比亚Neo系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 300,
+        "highest_usd": 450,
+        "estimated": false
+      },
+      "market_position": [
+        "Gaming",
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Built-in cooling fan",
+        "Gaming performance",
+        "Large displays",
+        "AI cameras"
+      ],
+      "popular_models": [
+        "Nubia Neo",
+        "Nubia Neo 2",
+        "Nubia Neo 3 GT",
+        "Nubia Neo 5 GT",
+        "Nubia Neo 5 Max"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Southeast Asia",
+        "Philippines"
+      ],
+      "historical_notes": [
+        "Launched in 2023 as a more affordable gaming alternative to RedMagic.",
+        "The Neo 5 series (2026) introduced a built-in fan in its class.",
+        "Positioned as an accessible gaming smartphone line."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Focus Series",
+      "slug": "focus-series",
+      "alternative_names": [
+        "努比亚Focus系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 199,
+        "highest_usd": 300,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Camera-focused",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "108MP main camera",
+        "AI photography",
+        "Large battery",
+        "In-sensor zoom"
+      ],
+      "popular_models": [
+        "Nubia Focus 5G",
+        "Nubia Focus Pro 5G",
+        "Nubia Focus 2 Ultra",
+        "Nubia Focus 2 5G"
+      ],
+      "primary_markets": [
+        "Global",
+        "Europe",
+        "Southeast Asia",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Launched at MWC 2024 as a camera-focused budget series.",
+        "Features a 108MP dual-camera system with AI photography.",
+        "Targets users who want premium camera features at an affordable price."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Music Series",
+      "slug": "music-series",
+      "alternative_names": [
+        "努比亚Music系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2025,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Music lovers",
+        "Budget-conscious users",
+        "Students"
+      ],
+      "characteristics": [
+        "Big speaker",
+        "Dual headphone jacks",
+        "AI volume algorithm",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Nubia Music",
+        "Nubia Music 2"
+      ],
+      "primary_markets": [
+        "Global",
+        "Malaysia",
+        "Philippines",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Launched at MWC 2024 as an audio-focused entry-level phone.",
+        "Features a large circular speaker and dual 3.5mm headphone jacks.",
+        "The Music 2 (2025) added a 2.1-channel speaker system."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Flip Series",
+      "slug": "flip-series",
+      "alternative_names": [
+        "努比亚Flip系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 399,
+        "highest_usd": 700,
+        "estimated": false
+      },
+      "market_position": [
+        "Flip",
+        "Mid Range",
+        "Premium"
+      ],
+      "target_audience": [
+        "Fashion-conscious users",
+        "Tech enthusiasts",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Clamshell foldable display",
+        "Cover display",
+        "Compact design",
+        "Mid-range performance"
+      ],
+      "popular_models": [
+        "Nubia Flip 5G",
+        "Nubia Flip 2",
+        "Nubia Flip 3"
+      ],
+      "primary_markets": [
+        "Global",
+        "Japan",
+        "Europe",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Launched as Nubia's first clamshell foldable in April 2024.",
+        "The Flip 3 (2025) featured a lighter design and larger cover display.",
+        "Positioned as an affordable alternative to the Galaxy Z Flip series."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Fold Series",
+      "slug": "fold-series",
+      "alternative_names": [
+        "努比亚Fold系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 1200,
+        "highest_usd": 1500,
+        "estimated": true
+      },
+      "market_position": [
+        "Foldable",
+        "Flagship",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Book-style foldable display",
+        "Dual OLED screens",
+        "Large battery",
+        "Flagship processor"
+      ],
+      "popular_models": [
+        "Nubia Fold"
+      ],
+      "primary_markets": [
+        "Global",
+        "Japan",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Launched in December 2025 as Nubia's first book-style foldable.",
+        "Features an 8-inch main OLED display and a 6.5-inch cover display.",
+        "Powered by the Snapdragon 8 Elite chipset."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Air Series",
+      "slug": "air-series",
+      "alternative_names": [
+        "努比亚Air系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 279,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Lifestyle",
+        "AI-focused"
+      ],
+      "target_audience": [
+        "Style-conscious users",
+        "Tech enthusiasts",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Ultra-slim design",
+        "AMOLED display",
+        "AI features",
+        "Water and dust resistance",
+        "Large battery"
+      ],
+      "popular_models": [
+        "Nubia Air"
+      ],
+      "primary_markets": [
+        "Europe",
+        "Southeast Asia",
+        "Latin America",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Launched in September 2025 with a 5.9mm ultra-slim body.",
+        "Features IP68, IP69, and IP69K ratings for durability.",
+        "Positioned as an 'Air-style' series combining design, durability, and AI."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "A Series",
+      "slug": "a-series",
+      "alternative_names": [
+        "努比亚A系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2025,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget",
+        "AI-focused"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "First-time smartphone buyers",
+        "Students"
+      ],
+      "characteristics": [
+        "AI features",
+        "Large display",
+        "Long battery life",
+        "Budget pricing"
+      ],
+      "popular_models": [
+        "Nubia A36",
+        "Nubia A56",
+        "Nubia A77 5G"
+      ],
+      "primary_markets": [
+        "Pakistan",
+        "Vietnam",
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched as a new budget-oriented series in 2025.",
+        "Focuses on AI features and affordability.",
+        "Aimed at emerging markets."
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "NaviX Series",
+      "slug": "navix-series",
+      "alternative_names": [
+        "努比亚NaviX系列"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2026,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 800,
+        "highest_usd": 1000,
+        "estimated": true
+      },
+      "market_position": [
+        "Flagship",
+        "AI-focused",
+        "Ultra Premium"
+      ],
+      "target_audience": [
+        "Power users",
+        "AI enthusiasts",
+        "Tech pioneers"
+      ],
+      "characteristics": [
+        "AI agent integration",
+        "Snapdragon 8 Elite Gen 5",
+        "High refresh rate display",
+        "Large battery",
+        "AI button"
+      ],
+      "popular_models": [
+        "Nubia NaviX Ultra"
+      ],
+      "primary_markets": [
+        "China",
+        "Global"
+      ],
+      "historical_notes": [
+        "Launched in July 2026 as the world's first AI agent smartphone.",
+        "Integrates ByteDance's Doubao AI assistant at the system level.",
+        "Features a dedicated AI button for direct access to the assistant."
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2012,
+      "series": "Z Series"
+    },
+    {
+      "year": 2014,
+      "series": "X Series"
+    },
+    {
+      "year": 2015,
+      "series": "My Series"
+    },
+    {
+      "year": 2016,
+      "series": "N Series"
+    },
+    {
+      "year": 2017,
+      "series": "M Series"
+    },
+    {
+      "year": 2018,
+      "series": "V Series"
+    },
+    {
+      "year": 2018,
+      "series": "RedMagic Series"
+    },
+    {
+      "year": 2020,
+      "series": "Play Series"
+    },
+    {
+      "year": 2023,
+      "series": "Neo Series"
+    },
+    {
+      "year": 2024,
+      "series": "Focus Series"
+    },
+    {
+      "year": 2024,
+      "series": "Music Series"
+    },
+    {
+      "year": 2024,
+      "series": "Flip Series"
+    },
+    {
+      "year": 2025,
+      "series": "Fold Series"
+    },
+    {
+      "year": 2025,
+      "series": "Air Series"
+    },
+    {
+      "year": 2025,
+      "series": "A Series"
+    },
+    {
+      "year": 2026,
+      "series": "NaviX Series"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Z Series",
+      "RedMagic Series",
+      "Fold Series",
+      "NaviX Series"
+    ],
+    "premium": [
+      "Z Series",
+      "X Series",
+      "RedMagic Series",
+      "Air Series",
+      "Flip Series",
+      "Fold Series",
+      "NaviX Series"
+    ],
+    "mid_range": [
+      "My Series",
+      "M Series",
+      "Play Series",
+      "Neo Series",
+      "Focus Series",
+      "Flip Series"
+    ],
+    "budget": [
+      "N Series",
+      "V Series",
+      "Neo Series",
+      "Focus Series",
+      "Music Series",
+      "A Series"
+    ],
+    "entry_level": [
+      "N Series",
+      "V Series",
+      "Music Series",
+      "A Series"
+    ],
+    "foldable": [
+      "Fold Series"
+    ],
+    "flip": [
+      "Flip Series"
+    ],
+    "gaming": [
+      "RedMagic Series",
+      "Play Series",
+      "Neo Series"
+    ],
+    "camera_focused": [
+      "Z Series",
+      "X Series",
+      "My Series",
+      "M Series",
+      "Focus Series"
+    ],
+    "business": [],
+    "rugged": [
+      "V Series"
+    ],
+    "lifestyle": [
+      "My Series",
+      "Music Series",
+      "Air Series"
+    ],
+    "ai_focused": [
+      "M Series",
+      "Air Series",
+      "A Series",
+      "NaviX Series"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "X Series",
+      "My Series",
+      "N Series",
+      "Play Series"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Pro branding",
+      "Ultra branding",
+      "Lite branding",
+      "Max branding",
+      "GT branding",
+      "Design branding",
+      "Plus branding",
+      "S branding"
+    ],
+    "description": "Nubia uses a combination of letter and number series. The Z series is the flagship line, while X, N, M, V, A, and other letters denote different market segments. RedMagic is the gaming sub-brand. Variants like Pro, Ultra, Lite, Max, GT, and Design are used to indicate different tiers within a series. The company also uses S branding for mid-cycle refreshes and Plus for larger or more premium variants."
+  },
+  "summary": {
+    "total_series": 16,
+    "active_series": 12,
+    "discontinued_series": 4,
+    "oldest_series": "Z Series",
+    "newest_series": "NaviX Series",
+    "longest_running_series": "Z Series",
+    "most_popular_series": "Z Series",
+    "best_selling_series": "Unknown",
+    "most_premium_series": "Fold Series",
+    "best_budget_series": "V Series",
+    "most_influential_series": "Z Series",
+    "fastest_growing_series": "Neo Series",
+    "future_expected_direction": "Nubia is expected to continue expanding its AI-focused series (NaviX, M, Air) and foldable lineup (Flip, Fold), while maintaining its flagship Z series and gaming-focused RedMagic and Neo series. The brand is likely to further integrate AI agents and explore new form factors and camera innovations."
+  },
+  "missing_series": []
+}

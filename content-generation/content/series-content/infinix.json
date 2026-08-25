@@ -1,0 +1,627 @@
+{
+  "brand": "Infinix",
+  "total_series": 11,
+  "series": [
+    {
+      "name": "Zero",
+      "slug": "zero",
+      "alternative_names": [
+        "Zero 5G",
+        "Zero Ultra"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 600,
+        "estimated": false
+      },
+      "market_position": [
+        "Premium",
+        "Upper Mid Range",
+        "Flagship"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Premium cameras",
+        "High refresh rate AMOLED",
+        "Fast charging",
+        "Innovative design"
+      ],
+      "popular_models": [
+        "Infinix Zero 5G",
+        "Infinix Zero Ultra",
+        "Infinix Zero 30",
+        "Infinix Zero 40"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Middle East"
+      ],
+      "historical_notes": [
+        "Top-tier series of Infinix",
+        "Introduced 200MP camera with Zero Ultra"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Zero Flip",
+      "slug": "zero-flip",
+      "alternative_names": [
+        "Zero Foldable"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2024,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 500,
+        "highest_usd": 650,
+        "estimated": true
+      },
+      "market_position": [
+        "Premium",
+        "Flip",
+        "Foldable"
+      ],
+      "target_audience": [
+        "Trend-conscious users",
+        "Content creators",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Foldable AMOLED display",
+        "Compact design",
+        "Premium hinge",
+        "Dual cameras"
+      ],
+      "popular_models": [
+        "Infinix Zero Flip"
+      ],
+      "primary_markets": [
+        "Global",
+        "Southeast Asia",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Infinix's first foldable flip smartphone",
+        "Marked brand's entry into the foldable market"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Note",
+      "slug": "note",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 350,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Budget-conscious users",
+        "Power users"
+      ],
+      "characteristics": [
+        "Large displays",
+        "Long battery life",
+        "Fast charging",
+        "Balanced performance"
+      ],
+      "popular_models": [
+        "Infinix Note 12",
+        "Infinix Note 30",
+        "Infinix Note 40",
+        "Infinix Note 60"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "One of the longest-running series",
+        "Introduced 'Racing Edition' variants in partnership with BMW Designworks"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Hot",
+      "slug": "hot",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 100,
+        "highest_usd": 250,
+        "estimated": false
+      },
+      "market_position": [
+        "Budget",
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Students",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Affordable pricing",
+        "Large displays",
+        "Decent battery life",
+        "Basic camera setups"
+      ],
+      "popular_models": [
+        "Infinix Hot 10",
+        "Infinix Hot 20",
+        "Infinix Hot 30",
+        "Infinix Hot 40",
+        "Infinix Hot 50"
+      ],
+      "primary_markets": [
+        "Global",
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Best-selling and most popular series",
+        "Originally included 'Hot Note' as a distinct variant before merging into main lines"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Smart",
+      "slug": "smart",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2017,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 60,
+        "highest_usd": 120,
+        "estimated": false
+      },
+      "market_position": [
+        "Entry Level"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Budget-conscious users",
+        "Emerging markets"
+      ],
+      "characteristics": [
+        "Ultra-affordable",
+        "Basic functionality",
+        "Large battery",
+        "Essential features"
+      ],
+      "popular_models": [
+        "Infinix Smart 5",
+        "Infinix Smart 7",
+        "Infinix Smart 8",
+        "Infinix Smart 10"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Latin America"
+      ],
+      "historical_notes": [
+        "Designed specifically for emerging markets to provide accessible smartphone experiences"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "GT",
+      "slug": "gt",
+      "alternative_names": [
+        "Gaming Technology"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": "Present",
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 250,
+        "highest_usd": 400,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Gaming"
+      ],
+      "target_audience": [
+        "Gamers",
+        "Power users",
+        "Esports enthusiasts"
+      ],
+      "characteristics": [
+        "High-performance chipsets",
+        "Gaming-centric design",
+        "High refresh rate displays",
+        "Advanced cooling"
+      ],
+      "popular_models": [
+        "Infinix GT 10 Pro",
+        "Infinix GT 20 Pro",
+        "Infinix GT 30 Pro"
+      ],
+      "primary_markets": [
+        "Global",
+        "India",
+        "Southeast Asia",
+        "Middle East",
+        "Africa"
+      ],
+      "historical_notes": [
+        "Introduced to capture the mobile gaming market",
+        "Features distinctive 'Mecha' design language"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "S",
+      "slug": "s",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2019,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 250,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Camera-focused",
+        "Lifestyle"
+      ],
+      "target_audience": [
+        "Young adults",
+        "Selfie enthusiasts",
+        "Lifestyle-focused users"
+      ],
+      "characteristics": [
+        "Stylish design",
+        "Focus on front and rear cameras",
+        "Pop-up selfie cameras"
+      ],
+      "popular_models": [
+        "Infinix Hot S",
+        "Infinix S2",
+        "Infinix Hot S3",
+        "Infinix S5 Pro"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Discontinued and effectively merged into the Hot and Note series",
+        "Pioneered pop-up cameras for Infinix"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Alpha",
+      "slug": "alpha",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 150,
+        "highest_usd": 200,
+        "estimated": true
+      },
+      "market_position": [
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Early smartphone adopters",
+        "Budget-conscious users"
+      ],
+      "characteristics": [
+        "Large displays for the time",
+        "Basic quad-core/octa-core processors"
+      ],
+      "popular_models": [
+        "Infinix Alpha Marvel",
+        "Infinix Alpha X570",
+        "Infinix Alpha 8"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India"
+      ],
+      "historical_notes": [
+        "One of the earliest smartphone series by Infinix",
+        "Discontinued as the brand streamlined into Zero, Note, and Hot"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Race",
+      "slug": "race",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2015,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 120,
+        "highest_usd": 150,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Early 4G adopters"
+      ],
+      "characteristics": [
+        "4G LTE support",
+        "Affordable pricing",
+        "Basic specs"
+      ],
+      "popular_models": [
+        "Infinix Race Jet 4G"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India"
+      ],
+      "historical_notes": [
+        "Short-lived series aimed at introducing 4G connectivity at a budget price point"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Surf",
+      "slug": "surf",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 80,
+        "highest_usd": 120,
+        "estimated": true
+      },
+      "market_position": [
+        "Entry Level",
+        "Budget"
+      ],
+      "target_audience": [
+        "First-time smartphone buyers",
+        "Emerging markets"
+      ],
+      "characteristics": [
+        "Ultra-budget",
+        "Small displays",
+        "Basic Android experience"
+      ],
+      "popular_models": [
+        "Infinix Surf Smart",
+        "Infinix Surf Bravo",
+        "Infinix Surf Spice"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India"
+      ],
+      "historical_notes": [
+        "Early entry-level lineup",
+        "Eventually replaced by the Smart series"
+      ],
+      "confidence": "Medium"
+    },
+    {
+      "name": "Hot Note",
+      "slug": "hot-note",
+      "alternative_names": [],
+      "sub_brand": null,
+      "first_release_year": 2014,
+      "latest_release_year": 2015,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 130,
+        "highest_usd": 160,
+        "estimated": true
+      },
+      "market_position": [
+        "Budget",
+        "Mid Range"
+      ],
+      "target_audience": [
+        "Students",
+        "Media consumers"
+      ],
+      "characteristics": [
+        "Large 5.5-inch displays",
+        "Large batteries",
+        "Affordable"
+      ],
+      "popular_models": [
+        "Infinix Hot Note X551"
+      ],
+      "primary_markets": [
+        "Africa",
+        "India",
+        "Southeast Asia"
+      ],
+      "historical_notes": [
+        "Marketed as a distinct phablet-style series",
+        "Eventually absorbed into the main Hot and Note series"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2014,
+      "series": "Alpha"
+    },
+    {
+      "year": 2014,
+      "series": "Surf"
+    },
+    {
+      "year": 2014,
+      "series": "Hot Note"
+    },
+    {
+      "year": 2014,
+      "series": "Hot"
+    },
+    {
+      "year": 2015,
+      "series": "Race"
+    },
+    {
+      "year": 2015,
+      "series": "Zero"
+    },
+    {
+      "year": 2015,
+      "series": "Note"
+    },
+    {
+      "year": 2016,
+      "series": "S"
+    },
+    {
+      "year": 2017,
+      "series": "Smart"
+    },
+    {
+      "year": 2023,
+      "series": "GT"
+    },
+    {
+      "year": 2024,
+      "series": "Zero Flip"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Zero"
+    ],
+    "premium": [
+      "Zero",
+      "Zero Flip"
+    ],
+    "mid_range": [
+      "Note",
+      "GT",
+      "S"
+    ],
+    "budget": [
+      "Hot"
+    ],
+    "entry_level": [
+      "Smart",
+      "Surf"
+    ],
+    "foldable": [
+      "Zero Flip"
+    ],
+    "flip": [
+      "Zero Flip"
+    ],
+    "gaming": [
+      "GT"
+    ],
+    "camera_focused": [
+      "Zero",
+      "S"
+    ],
+    "business": [],
+    "rugged": [],
+    "lifestyle": [
+      "S"
+    ],
+    "ai_focused": [
+      "Note",
+      "Zero"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [
+      "GT"
+    ],
+    "discontinued": [
+      "Alpha",
+      "Surf",
+      "Hot Note",
+      "Race",
+      "S"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Lite branding",
+      "Pro branding",
+      "Plus branding",
+      "Ultra branding",
+      "Neo branding",
+      "VIP branding",
+      "Flip branding",
+      "AI branding"
+    ],
+    "description": "Infinix primarily uses a Number Series for its main lines (Hot, Note, Smart, Zero) indicating generational iterations. Letter Series are used for specialized lines (GT, S). Suffixes like Pro, Ultra, Neo, Lite, and Plus denote variant tiers within a series. Recent branding incorporates 'AI' and 'Racing Edition' to highlight specific feature sets."
+  },
+  "summary": {
+    "total_series": 11,
+    "active_series": 6,
+    "discontinued_series": 5,
+    "oldest_series": "Alpha, Surf, Hot Note, Hot",
+    "newest_series": "Zero Flip",
+    "longest_running_series": "Hot",
+    "most_popular_series": "Hot",
+    "best_selling_series": "Hot",
+    "most_premium_series": "Zero",
+    "best_budget_series": "Smart",
+    "most_influential_series": "Zero",
+    "fastest_growing_series": "GT",
+    "future_expected_direction": "Continued expansion of AI-integrated features across mid-range devices, broader availability of foldable form factors, and higher refresh rate displays with premium design elements in budget segments."
+  },
+  "missing_series": []
+}

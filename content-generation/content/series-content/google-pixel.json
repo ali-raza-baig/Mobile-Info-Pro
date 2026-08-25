@@ -1,0 +1,308 @@
+{
+  "brand": "Google",
+  "total_series": 4,
+  "series": [
+    {
+      "name": "Nexus",
+      "slug": "nexus",
+      "alternative_names": [
+        "Google Nexus"
+      ],
+      "sub_brand": "Nexus",
+      "first_release_year": 2010,
+      "latest_release_year": 2016,
+      "status": "Discontinued",
+      "launch_price": {
+        "entry_usd": 349,
+        "highest_usd": 649,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium"
+      ],
+      "target_audience": [
+        "Developers",
+        "Power users",
+        "Android enthusiasts",
+        "Early adopters"
+      ],
+      "characteristics": [
+        "Stock Android experience",
+        "First to receive OS updates",
+        "Developer-friendly",
+        "Unlocked bootloaders"
+      ],
+      "popular_models": [
+        "Nexus One",
+        "Nexus 4",
+        "Nexus 5",
+        "Nexus 6P"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe"
+      ],
+      "historical_notes": [
+        "Replaced by the Pixel lineup in 2016",
+        "Co-developed with various OEMs including HTC, Samsung, LG, Huawei, and Motorola",
+        "Served as the reference implementation for Android OS"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pixel",
+      "slug": "pixel",
+      "alternative_names": [
+        "Google Pixel",
+        "Pixel number series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2016,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 599,
+        "highest_usd": 1099,
+        "estimated": false
+      },
+      "market_position": [
+        "Flagship",
+        "Premium",
+        "Upper Mid Range"
+      ],
+      "target_audience": [
+        "Mobile photographers",
+        "Power users",
+        "Android enthusiasts",
+        "AI-focused users",
+        "Content creators"
+      ],
+      "characteristics": [
+        "Premium computational photography",
+        "Google Tensor chips",
+        "Clean Android experience",
+        "AI features",
+        "Long software support",
+        "Call Screen",
+        "Magic Eraser"
+      ],
+      "popular_models": [
+        "Pixel 6",
+        "Pixel 7",
+        "Pixel 8",
+        "Pixel 9",
+        "Pixel 10",
+        "Pixel 11"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe",
+        "Japan",
+        "Australia",
+        "Canada"
+      ],
+      "historical_notes": [
+        "Replaced the Nexus lineup in 2016",
+        "Introduced Google Tensor chipset starting with Pixel 6 in 2021",
+        "Expanded to include Pro and Pro XL variants",
+        "First smartphone line to heavily integrate on-device AI features"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pixel A",
+      "slug": "pixel-a",
+      "alternative_names": [
+        "Pixel a-series",
+        "Pixel A-series"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2019,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 399,
+        "highest_usd": 499,
+        "estimated": false
+      },
+      "market_position": [
+        "Mid Range",
+        "Budget"
+      ],
+      "target_audience": [
+        "Budget-conscious users",
+        "Students",
+        "First-time smartphone buyers",
+        "Value seekers"
+      ],
+      "characteristics": [
+        "Affordable price point",
+        "Core Pixel camera features",
+        "Clean Android experience",
+        "Lower-cost build materials",
+        "Long software support"
+      ],
+      "popular_models": [
+        "Pixel 3a",
+        "Pixel 4a",
+        "Pixel 6a",
+        "Pixel 7a",
+        "Pixel 8a",
+        "Pixel 9a"
+      ],
+      "primary_markets": [
+        "Global",
+        "North America",
+        "Europe",
+        "Japan",
+        "India"
+      ],
+      "historical_notes": [
+        "Introduced in 2019 as a more affordable alternative to the mainline Pixel",
+        "Replaced the need for older flagship hand-me-downs",
+        "Maintains core computational photography features of flagship models"
+      ],
+      "confidence": "High"
+    },
+    {
+      "name": "Pixel Fold",
+      "slug": "pixel-fold",
+      "alternative_names": [
+        "Google Pixel Fold"
+      ],
+      "sub_brand": null,
+      "first_release_year": 2023,
+      "latest_release_year": 2026,
+      "status": "Active",
+      "launch_price": {
+        "entry_usd": 1799,
+        "highest_usd": 1999,
+        "estimated": false
+      },
+      "market_position": [
+        "Ultra Premium",
+        "Foldable"
+      ],
+      "target_audience": [
+        "Power users",
+        "Business professionals",
+        "Early adopters",
+        "Mobile productivity enthusiasts"
+      ],
+      "characteristics": [
+        "Foldable display",
+        "Multitasking capabilities",
+        "Premium build",
+        "Advanced camera system",
+        "Google Tensor chip",
+        "Tablet-like inner screen"
+      ],
+      "popular_models": [
+        "Pixel Fold",
+        "Pixel 9 Pro Fold",
+        "Pixel 10 Pro Fold",
+        "Pixel 11 Pro Fold"
+      ],
+      "primary_markets": [
+        "North America",
+        "Europe",
+        "Japan",
+        "Australia",
+        "Canada"
+      ],
+      "historical_notes": [
+        "Google's first official foldable smartphone, released in 2023",
+        "Introduced a new premium form factor to the Pixel lineup",
+        "Features unique multitasking software optimizations for the foldable format"
+      ],
+      "confidence": "High"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2010,
+      "series": "Nexus"
+    },
+    {
+      "year": 2016,
+      "series": "Pixel"
+    },
+    {
+      "year": 2019,
+      "series": "Pixel A"
+    },
+    {
+      "year": 2023,
+      "series": "Pixel Fold"
+    }
+  ],
+  "categories": {
+    "flagship": [
+      "Nexus",
+      "Pixel"
+    ],
+    "premium": [
+      "Nexus",
+      "Pixel"
+    ],
+    "mid_range": [
+      "Pixel A"
+    ],
+    "budget": [
+      "Pixel A"
+    ],
+    "entry_level": [],
+    "foldable": [
+      "Pixel Fold"
+    ],
+    "flip": [],
+    "gaming": [],
+    "camera_focused": [
+      "Pixel"
+    ],
+    "business": [
+      "Pixel Fold"
+    ],
+    "rugged": [],
+    "lifestyle": [],
+    "ai_focused": [
+      "Pixel"
+    ],
+    "regional_exclusive": [],
+    "carrier_exclusive": [],
+    "online_exclusive": [],
+    "discontinued": [
+      "Nexus"
+    ]
+  },
+  "naming_strategy": {
+    "uses": [
+      "Number Series",
+      "Letter Series",
+      "Fold Series",
+      "Pro branding",
+      "XL branding",
+      "AI branding"
+    ],
+    "description": "Google uses a straightforward numerical progression for its mainline flagship devices (e.g., Pixel 9, Pixel 10), supplemented by 'Pro' and 'XL' suffixes for premium variants. The 'a' suffix denotes the budget-friendly mid-range series. The 'Fold' designation is used for its premium foldable lineup. Recent generations heavily emphasize 'AI' branding, particularly around Gemini integration."
+  },
+  "summary": {
+    "total_series": 4,
+    "active_series": 3,
+    "discontinued_series": 1,
+    "oldest_series": "Nexus",
+    "newest_series": "Pixel Fold",
+    "longest_running_series": "Pixel",
+    "most_popular_series": "Pixel",
+    "best_selling_series": "Pixel",
+    "most_premium_series": "Pixel Fold",
+    "best_budget_series": "Pixel A",
+    "most_influential_series": "Nexus",
+    "fastest_growing_series": "Pixel",
+    "future_expected_direction": "Continued integration of advanced on-device and cloud-based AI features, refinement of foldable form factors, and expansion into emerging global markets while maintaining the core focus on computational photography and seamless software experience."
+  },
+  "missing_series": []
+}
